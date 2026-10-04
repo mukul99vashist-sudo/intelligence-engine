@@ -1,60 +1,59 @@
 {
+  "schema": 2,
   "region": "India",
-  "source": "BBC News",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-04T21:08:29.534Z",
+  "updatedAt": "2026-10-04T21:19:11.628Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
         {
-          "id": "s1uprbyh",
-          "headline": "G7 to release millions of barrels of oil and diesel after Trump threat",
-          "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
-          "date": "2026-10-03T04:38:31.000Z",
-          "relevance": "high",
-          "why": "India imports most of its crude oil and diesel, so a G7 stock release and fears of US diesel export curbs affect global supply and prices.",
-          "implications": [
-            "A coordinated release may ease global crude and diesel prices, which could reduce India's import bill.",
-            "A US diesel export ban, if it happened, could tighten supply and raise fuel costs in India.",
-            "Lower or stable fuel prices could help contain transport costs and inflation."
-          ]
-        },
-        {
-          "id": "s3hzzjm",
-          "headline": "Watch: Why has UK diesel price hit an all time high?",
-          "url": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o",
-          "date": "2026-10-02T16:58:30.000Z",
-          "relevance": "medium",
-          "why": "Record UK diesel prices reflect a global oil price rise that also raises India's crude import costs.",
-          "implications": [
-            "Higher global oil prices may widen India's import bill and put pressure on the rupee.",
-            "Diesel costs could rise for Indian transport and farming, adding to inflation risks."
-          ]
-        },
-        {
-          "id": "s1vkfv27",
-          "headline": "UK diesel prices top £2 a litre for first time, RAC says",
-          "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo",
-          "date": "2026-10-02T15:50:05.000Z",
-          "relevance": "medium",
-          "why": "The rise in global oil prices driving UK pump prices also feeds into the cost of India's crude imports.",
-          "implications": [
-            "Costlier crude may raise India's import bill and could strain the trade deficit.",
-            "Pressure on domestic petrol and diesel prices may build if the global rise persists."
-          ]
-        },
-        {
           "id": "si8i521",
           "headline": "US pressures Europe to release diesel reserves as Trump threatens export ban",
           "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
+          "source": "bbc",
           "date": "2026-10-02T08:54:00.000Z",
-          "relevance": "medium",
-          "why": "A possible US diesel export ban and calls to release European reserves could tighten global diesel supply that India's fuel market depends on.",
+          "relevance": "high",
+          "why": "A possible US diesel export ban and calls to release European reserves could tighten global diesel supply and lift prices.",
           "implications": [
-            "Global diesel prices could rise, which may raise import costs and pressure domestic fuel prices.",
-            "Indian refiners may see stronger export demand for diesel, which could reduce supply available at home."
+            "Global diesel prices may rise, which could raise India's fuel import costs and freight costs.",
+            "Indian refiners' export margins and trade flows for diesel may shift if US supply is cut."
+          ],
+          "reports": [
+            {
+              "source": "bbc",
+              "headline": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+              "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
+              "date": "2026-10-02T08:54:00.000Z"
+            },
+            {
+              "source": "bbc",
+              "headline": "G7 to release millions of barrels of oil and diesel after Trump threat",
+              "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
+              "date": "2026-10-03T04:38:31.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sxz44hx",
+          "headline": "UK diesel price hits record high of £2 a litre",
+          "url": "https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil",
+          "source": "guardian",
+          "date": "2026-10-02T13:41:04.000Z",
+          "relevance": "medium",
+          "why": "A proposed EU and IEA release of oil and diesel reserves, amid an Iran war pushing up prices worldwide, bears on global fuel costs that India imports.",
+          "implications": [
+            "Higher global diesel and crude prices could raise India's import bill and fuel costs.",
+            "A coordinated reserve release may ease global supply pressure and temper price rises for India."
+          ],
+          "reports": [
+            {
+              "source": "guardian",
+              "headline": "UK diesel price hits record high of £2 a litre",
+              "url": "https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil",
+              "date": "2026-10-02T13:41:04.000Z"
+            }
           ]
         }
       ]
@@ -64,40 +63,54 @@
       "name": "Logistics & Shipping",
       "items": [
         {
-          "id": "s1j2msqq",
-          "headline": "Yemen's government announces all-out war to reclaim land from Houthis",
-          "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o",
-          "date": "2026-10-04T16:51:30.000Z",
+          "id": "s15jkuck",
+          "headline": "Friday briefing: How we covered the flydubai incident as it unfolded",
+          "url": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded",
+          "source": "guardian",
+          "date": "2026-10-02T05:45:23.000Z",
           "relevance": "medium",
-          "why": "Escalating strikes between the Houthis and the Saudi-led coalition raise risks for Red Sea shipping lanes that India's trade with Europe depends on.",
+          "why": "A violent cockpit incident on a flydubai flight raises aviation security concerns for the many Indians who fly Gulf carriers.",
           "implications": [
-            "Shipping insurance and freight rates on India-Europe routes may rise if Red Sea transit becomes riskier.",
-            "Wider Gulf instability could push up crude oil prices, raising India's import costs.",
-            "Indian nationals in Yemen and the nearby Gulf region may face greater security risks."
-          ]
-        },
-        {
-          "id": "s96yubg",
-          "headline": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-          "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o",
-          "date": "2026-10-02T09:08:06.000Z",
-          "relevance": "medium",
-          "why": "An Indian pilot's account of a cockpit attack on a Flydubai flight touches aviation security on a route widely used by Indian travellers.",
-          "implications": [
-            "Indian passengers on Gulf carriers may have fresh safety worries, which could affect travel plans.",
-            "Aviation regulators and airlines may review cockpit security and crew protocols."
-          ]
-        },
-        {
-          "id": "s1832s52",
-          "headline": "Watch: Emotional pilot recounts moment of Flydubai attack",
-          "url": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o",
-          "date": "2026-10-02T08:46:37.000Z",
-          "relevance": "medium",
-          "why": "The attack on a Flydubai flight, with an Indian pilot hailed as a hero, concerns air safety on a major route for Indian travellers.",
-          "implications": [
-            "Indian travellers on Gulf routes may worry about in-flight security, which could influence bookings.",
-            "Authorities and airlines may look again at cockpit access and crew-safety rules."
+            "Indian travellers on Gulf and Israel-linked routes may face tighter security checks or more caution.",
+            "Indian authorities could seek more information on crew safety and passenger welfare on such flights."
+          ],
+          "reports": [
+            {
+              "source": "guardian",
+              "headline": "Friday briefing: How we covered the flydubai incident as it unfolded",
+              "url": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded",
+              "date": "2026-10-02T05:45:23.000Z"
+            },
+            {
+              "source": "guardian",
+              "headline": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
+              "url": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
+              "date": "2026-10-02T08:39:40.000Z"
+            },
+            {
+              "source": "bbc",
+              "headline": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+              "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o",
+              "date": "2026-10-02T09:08:06.000Z"
+            },
+            {
+              "source": "guardian",
+              "headline": "Suicide by plane or terrorism? Speculation over motive in flight 1073 attack",
+              "url": "https://www.theguardian.com/world/2026/oct/02/aviation-security-flydubai-flight-israel",
+              "date": "2026-10-02T15:40:05.000Z"
+            },
+            {
+              "source": "guardian",
+              "headline": "Flydubai co-pilot used crash axe to attack captain, says UAE",
+              "url": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
+              "date": "2026-10-03T11:56:46.000Z"
+            },
+            {
+              "source": "bbc",
+              "headline": "Australia investigating Flydubai co-pilot's links to country",
+              "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o",
+              "date": "2026-10-04T06:19:17.000Z"
+            }
           ]
         }
       ]
@@ -105,20 +118,7 @@
     {
       "id": "economy",
       "name": "Economy & Trade",
-      "items": [
-        {
-          "id": "sqzvs6u",
-          "headline": "US jobs market sees sharp slowdown ahead of midterm elections",
-          "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo",
-          "date": "2026-10-02T14:30:48.000Z",
-          "relevance": "medium",
-          "why": "A slowing US jobs market could weaken American demand and affect India's exports and services earnings.",
-          "implications": [
-            "Softer US demand may reduce orders for Indian exporters, especially in IT and services.",
-            "Hiring pauses in the US could affect job prospects for Indian workers and students seeking work there."
-          ]
-        }
-      ]
+      "items": []
     },
     {
       "id": "technology",
@@ -145,36 +145,50 @@
       "name": "Policy & Governance",
       "items": [
         {
-          "id": "safoyq8",
-          "headline": "Indian police accused of sexually harassing journalists at protest",
-          "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o",
-          "date": "2026-10-04T17:01:19.000Z",
-          "relevance": "medium",
-          "why": "The story is about Indian police conduct and a dispute over election roll changes, which directly concerns Indian democratic institutions.",
-          "implications": [
-            "Allegations against police may increase pressure for an inquiry and renew debate over press freedom in India.",
-            "Protests demanding the election chief's resignation could deepen political friction over the Election Commission and voter roll revisions.",
-            "Continued disputes over voter rolls may erode public trust in electoral processes."
-          ]
-        },
-        {
           "id": "sqjwff2",
           "headline": "India's 'cockroach' protesters are back - this time asking poll chief to resign",
           "url": "https://www.bbc.co.uk/news/articles/ck62mped4rz9o",
+          "source": "bbc",
           "date": "2026-10-02T04:25:54.000Z",
           "relevance": "medium",
-          "why": "Large protests in Mumbai demanding the poll chief's resignation point to public pressure on India's election oversight.",
+          "why": "Thousands protesting in Mumbai against the poll chief puts pressure on India's election authority and domestic political climate.",
           "implications": [
-            "Pressure on the election authority could grow, which may shape debate on electoral institutions.",
-            "Large gatherings in Mumbai could cause local disruption and keep political tensions high."
+            "Pressure on the election commissioner could intensify scrutiny of how India's elections are run.",
+            "Large street protests may prompt policy or political responses and affect public order in Mumbai."
+          ],
+          "reports": [
+            {
+              "source": "bbc",
+              "headline": "India's 'cockroach' protesters are back - this time asking poll chief to resign",
+              "url": "https://www.bbc.co.uk/news/articles/ck62mped4rz9o",
+              "date": "2026-10-02T04:25:54.000Z"
+            },
+            {
+              "source": "guardian",
+              "headline": "India’s Cockroach movement launches new protests over changes to voter roll",
+              "url": "https://www.theguardian.com/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll",
+              "date": "2026-10-02T14:42:16.000Z"
+            }
           ]
         }
       ]
     }
   ],
+  "sources": [
+    {
+      "id": "bbc",
+      "name": "BBC News"
+    },
+    {
+      "id": "guardian",
+      "name": "The Guardian"
+    }
+  ],
+  "source": "BBC News & The Guardian",
   "lastRun": {
-    "analysed": 50,
-    "added": 10,
+    "analysed": 80,
+    "added": 4,
+    "merged": 7,
     "failedBatches": 0
   }
 }
