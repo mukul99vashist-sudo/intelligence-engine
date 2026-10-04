@@ -6,7 +6,7 @@ import fs from "node:fs/promises";
 import { pathToFileURL } from "node:url";
 
 const REGION = "India";
-const SCHEMA = 2;                              // bump to re-analyse everything under new rules
+const SCHEMA = 3;                              // bump to re-analyse everything under new rules
 const OUTLETS = { bbc: "BBC News", guardian: "The Guardian" };
 const SINCE = "2026-10-02";                    // ignore stories published before this date
 const FEEDS = [
@@ -60,6 +60,10 @@ function plain(s) { return decode(String(s || "").replace(/<[^>]+>/g, " ")).repl
 function skip(title, link) {
   if (/^(watch|listen|video)\s*:/i.test(title)) return true;
   if (/– as it happened$|- as it happened$/i.test(title)) return true;
+  // newsletters, briefings, podcasts and round-ups summarise other reports rather than reporting news
+  if (/^((monday|tuesday|wednesday|thursday|friday|saturday|sunday|morning|evening|weekend|first edition|business today)\b[^:]{0,20})?\s*briefing\s*:/i.test(title)) return true;
+  if (/^(first edition|the long read|today in focus|business live|newsletter)\b|\b(podcast|quiz|in pictures|week in pictures)\b|[–-] live$/i.test(title)) return true;
+  if (/\/series\/|\/info\/|\/newsletters?\//.test(link)) return true;
   return /\/sport\/|\/live\/|\/videos?\/|\/commentisfree\/|\/audio\/|\/football\/|\/lifeandstyle\/|\/culture\/|\/tv-and-radio\/|\/music\/|\/film\/|\/books\//.test(link);
 }
 function cleanUrl(u) { try { const x = new URL(u); x.search = ""; x.hash = ""; return x.toString(); } catch { return u; } }
@@ -106,9 +110,9 @@ Rules:
 2. Implications are near-term effects on ${REGION}: prices, supply, trade, jobs, travel, citizens abroad, policy or security. One plain sentence each, under 25 words.
 3. Describe effects on the economy and society, never on securities: no stocks, no companies that benefit, no investment actions.
 4. Use cautious wording ("may", "could", "likely") for anything uncertain.
-5. Be strict. Mark relevant=false unless the item itself describes something with a clear path to ${REGION}: a global price, supply or trade shift, a policy by a major economy, a regional conflict on India's trade or energy routes, or events in or about ${REGION}. Domestic prices, politics, services or crime inside another country are NOT relevant, even when a global trend is behind them. When unsure, choose false.
+5. Be strict. Mark relevant=false unless the item itself describes something with a clear path to ${REGION}: a global price, supply or trade shift, a policy by a major economy, a regional conflict on India's trade or energy routes, or events in or about ${REGION}. Judge by what the HEADLINE is about. A story framed around another country's domestic prices, politics, services or crime is NOT relevant, even if its summary mentions a global cause (for example "UK diesel price hits record high" is false); the global cause gets its own story. When unsure, choose false.
 6. relevance: "high" = direct, material effect within weeks; "medium" = clear but modest or indirect.
-7. Same event: if an item reports the same specific event or development as one of the KNOWN EVENTS below, set "sameAs" to that event's key. If it reports the same event as an EARLIER item in this list, set "sameAs" to "item:<id>" of that earlier item. Otherwise "sameAs" is null. Same topic or country is not enough; it must be the same incident, decision or announcement.
+7. Same event: if an item reports the same specific event or development as one of the KNOWN EVENTS below, set "sameAs" to that event's key. If it reports the same event as an EARLIER item in this list, set "sameAs" to "item:<id>" of that earlier item. Otherwise "sameAs" is null. Same topic or country is not enough; it must be the same incident, decision or announcement. A follow-up, a reaction, or the pressure that led to a decision is a SEPARATE event from the decision itself (for example "US pressures Europe to release reserves" and "G7 agrees to release reserves" are two events).
 
 KNOWN EVENTS:
 ${JSON.stringify(known)}
@@ -172,8 +176,9 @@ export async function main() {
   const fresh = (await fetchFeeds())
     .filter(it => !it.date || Date.parse(it.date) >= sinceMs)
     .filter(it => !seen.has(it.url))
-    .sort((a, b) => (a.date || "").localeCompare(b.date || ""))   // oldest first, so the first report of an event leads
-    .slice(0, MAX_NEW_PER_RUN);
+    .sort((a, b) => (b.date || "").localeCompare(a.date || ""))   // take the newest headlines first...
+    .slice(0, MAX_NEW_PER_RUN)
+    .reverse();                                                    // ...then process them in time order so the first report leads
   console.log(`${fresh.length} new headlines to analyse (${fresh.filter(f => f.src === "bbc").length} BBC, ${fresh.filter(f => f.src === "guardian").length} Guardian)`);
 
   let added = 0, merged = 0, failures = 0;
