@@ -1,0 +1,42 @@
+name: Update India desk
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 minutes
+  workflow_dispatch:          # adds a "Run workflow" button for manual runs
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-desk
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch BBC headlines and analyse for India
+        run: node scripts/update.mjs
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Save results
+        run: |
+          if [ -n "$(git status --porcelain data)" ]; then
+            git config user.name "desk-bot"
+            git config user.email "desk-bot@users.noreply.github.com"
+            git add data
+            git commit -m "Update India desk"
+            git pull --rebase
+            git push
+          else
+            echo "No changes"
+          fi
