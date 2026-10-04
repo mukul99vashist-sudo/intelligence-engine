@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>India Impact Desk | The Intelligence Engine</title>
-<meta name="description" content="Global headlines from BBC News, sorted by sector, and what each one could mean for India.">
+<meta name="description" content="Global headlines from BBC News and The Guardian, sorted by sector, and what each one could mean for India.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet">
@@ -80,6 +80,10 @@ body{margin:0;background:var(--ground);color:var(--ink);font:400 15px/1.5 var(--
 .more{width:100%;background:none;border:0;border-top:1px solid var(--rule);padding:10px 18px;font:500 13.5px var(--sans);color:var(--teal);cursor:pointer;text-align:left}
 .live{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--teal);margin-right:6px;vertical-align:1px}
 .live.stale{background:var(--ink-3)}
+.by{display:block;font:400 12.5px/1.4 var(--sans);color:var(--ink-3);margin-top:3px}
+.corr{display:inline-block;font:500 11.5px/1 var(--sans);color:var(--teal);border:1px solid currentColor;border-radius:999px;padding:2px 7px;margin-left:6px;vertical-align:1px}
+.reads{display:flex;flex-direction:column;gap:6px;align-items:flex-start}
+.reads .rh{font-size:12.5px;color:var(--ink-3);margin:0}
 
 .state{padding:28px 20px;background:var(--panel);border:1px dashed var(--rule);border-radius:12px;color:var(--ink-2)}
 .legend{display:flex;gap:18px;flex-wrap:wrap;font-size:12.5px;color:var(--ink-3);margin:0 0 14px}
@@ -102,6 +106,7 @@ footer{margin-top:34px;padding-top:14px;border-top:1px solid var(--rule);font-si
   <div class="legend" aria-hidden="true">
     <span><i class="dot high"></i>High relevance to India</span>
     <span><i class="dot"></i>Medium relevance</span>
+    <span><span class="corr" style="margin-left:0">Corroborated</span> Reported by both outlets</span>
     <span>Select a headline to see its implications</span>
   </div>
 
@@ -110,7 +115,7 @@ footer{margin-top:34px;padding-top:14px;border-top:1px solid var(--rule);font-si
   </main>
 
   <footer>
-    For intelligence purposes only. Nothing here is financial or investment advice. Headlines are reproduced as published by BBC News and link to the full story. Implications are AI-generated analysis, not reported fact, and may be wrong. The desk checks BBC News every 15 minutes.
+    For intelligence purposes only. Nothing here is financial or investment advice. Headlines are reproduced as published by BBC News or The Guardian and link to the full story. Implications are AI-generated analysis, not reported fact, and may be wrong. The desk checks both outlets every 15 minutes.
   </footer>
 </div>
 <script>
@@ -127,6 +132,9 @@ function el(tag,cls,text){var n=document.createElement(tag);if(cls)n.className=c
 var MON=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
 function day(iso){ if(!iso) return "Undated"; var d=new Date(iso); if(isNaN(d)) return "Undated"; return d.getDate()+" "+MON[d.getMonth()]; }
 function ago(iso){ var d=Date.parse(iso); if(isNaN(d)) return "not yet"; var m=Math.round((Date.now()-d)/6e4); if(m<1) return "just now"; if(m<60) return m+" min ago"; var h=Math.round(m/60); if(h<24) return h+" hr ago"; return Math.round(h/24)+" d ago"; }
+var OUTLET={bbc:"BBC News",guardian:"The Guardian"};
+function reportsOf(it){ return (it.reports&&it.reports.length)?it.reports:[{source:it.source||"bbc",headline:it.headline,url:it.url,date:it.date}]; }
+function outletsOf(it){ var o=[]; reportsOf(it).forEach(function(r){ if(o.indexOf(r.source)<0) o.push(r.source); }); return o; }
 function state(msg){ var m=$("sectors"); m.textContent=""; m.appendChild(el("div","state",msg)); }
 
 var seenBefore={}, firstVisit=true, open={}, expanded={}, current=null;
@@ -141,7 +149,7 @@ function renderFacts(doc){
   var total=(doc.sectors||[]).reduce(function(n,s){return n+(s.items||[]).length;},0);
   var fresh=Date.now()-Date.parse(doc.updatedAt) < 40*60*1000;
   var u=el("div"); u.appendChild(el("span","live"+(fresh?"":" stale"))); u.appendChild(document.createTextNode("Updated ")); u.appendChild(el("b",null,ago(doc.updatedAt))); f.appendChild(u);
-  [["Source",doc.source||""],["Headlines since",day(doc.since)+" "+String(doc.since||"").slice(0,4)],["Stories reaching India",String(total)]].forEach(function(r){
+  [["Sources",(doc.sources||[]).map(function(x){return x.name;}).join(", ")||doc.source||""],["Headlines since",day(doc.since)+" "+String(doc.since||"").slice(0,4)],["Stories reaching India",String(total)]].forEach(function(r){
     var d=el("div"); d.appendChild(document.createTextNode(r[0]+": ")); d.appendChild(el("b",null,r[1])); f.appendChild(d);
   });
 }
@@ -158,20 +166,26 @@ function render(doc){
     var items=s.items||[];
     var sec=el("section","sector"+(items.length?"":" empty")); sec.setAttribute("aria-label",s.name);
     var h=el("header"); h.appendChild(el("h2",null,s.name)); h.appendChild(el("span","count",items.length?items.length+(items.length===1?" headline":" headlines"):"No headlines")); sec.appendChild(h);
-    if(!items.length){ sec.appendChild(el("p","none","Nothing from "+(doc.source||"the source")+" in this sector reaches India yet.")); main.appendChild(sec); return; }
+    if(!items.length){ sec.appendChild(el("p","none","Nothing from these outlets in this sector reaches India yet.")); main.appendChild(sec); return; }
     var ul=el("ul","items"), limit=expanded[s.id]?items.length:SHOW;
     items.slice(0,limit).forEach(function(it){
       var li=el("li"), id="d-"+it.id, isOpen=!!open[it.id];
       var b=el("button","hl"); b.type="button"; b.setAttribute("aria-expanded",isOpen?"true":"false"); b.setAttribute("aria-controls",id);
       b.appendChild(el("i","dot"+(it.relevance==="high"?" high":"")));
-      var t=el("span","t"); if(!firstVisit && !seenBefore[it.id]) t.appendChild(el("span","new","New")); t.appendChild(document.createTextNode(it.headline)); b.appendChild(t);
+      var t=el("span","t"); if(!firstVisit && !seenBefore[it.id]) t.appendChild(el("span","new","New")); t.appendChild(document.createTextNode(it.headline));
+      var outs=outletsOf(it), by=el("span","by",outs.map(function(o){return OUTLET[o]||o;}).join(" · "));
+      if(outs.length>1) by.appendChild(el("span","corr","Corroborated by "+outs.length+" outlets"));
+      t.appendChild(by); b.appendChild(t);
       var d=el("span","d"); d.appendChild(document.createTextNode(day(it.date))); d.appendChild(el("span","chev","▶")); b.appendChild(d);
       var det=el("div","detail"); det.id=id; det.hidden=!isOpen;
       det.appendChild(el("span","rel"+(it.relevance==="high"?"":" medium"),(it.relevance==="high"?"High":"Medium")+" relevance to "+(doc.region||"India")));
       if(it.why){ var w=el("p","why"); w.appendChild(el("b",null,"Why it reaches "+(doc.region||"India")+": ")); w.appendChild(document.createTextNode(it.why)); det.appendChild(w); }
       det.appendChild(el("p","lbl","Likely implications (analysis)"));
       var l=el("ul"); (it.implications||[]).forEach(function(x){l.appendChild(el("li",null,x));}); det.appendChild(l);
-      var a=el("a","read","Read the full story on "+(doc.source||"the source")+" →"); a.href=it.url; a.target="_blank"; a.rel="noopener"; det.appendChild(a);
+      var rd=el("div","reads"), reps=reportsOf(it);
+      if(reps.length>1) rd.appendChild(el("p","rh","Read each outlet's report:"));
+      reps.forEach(function(r){ var a=el("a","read",(reps.length>1?(OUTLET[r.source]||r.source)+": "+r.headline:"Read the full story on "+(OUTLET[r.source]||r.source))+" →"); a.href=r.url; a.target="_blank"; a.rel="noopener"; rd.appendChild(a); });
+      det.appendChild(rd);
       b.addEventListener("click",function(){ var o=b.getAttribute("aria-expanded")==="true"; b.setAttribute("aria-expanded",o?"false":"true"); det.hidden=o; open[it.id]=!o; });
       li.appendChild(b); li.appendChild(det); ul.appendChild(li);
     });
