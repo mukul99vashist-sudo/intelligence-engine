@@ -1,115 +1,37 @@
 {
-  "schema": 2,
+  "schema": 3,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-04T21:19:11.628Z",
+  "updatedAt": "2026-10-04T21:23:52.024Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
-      "items": [
-        {
-          "id": "si8i521",
-          "headline": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-          "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
-          "source": "bbc",
-          "date": "2026-10-02T08:54:00.000Z",
-          "relevance": "high",
-          "why": "A possible US diesel export ban and calls to release European reserves could tighten global diesel supply and lift prices.",
-          "implications": [
-            "Global diesel prices may rise, which could raise India's fuel import costs and freight costs.",
-            "Indian refiners' export margins and trade flows for diesel may shift if US supply is cut."
-          ],
-          "reports": [
-            {
-              "source": "bbc",
-              "headline": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-              "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
-              "date": "2026-10-02T08:54:00.000Z"
-            },
-            {
-              "source": "bbc",
-              "headline": "G7 to release millions of barrels of oil and diesel after Trump threat",
-              "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
-              "date": "2026-10-03T04:38:31.000Z"
-            }
-          ]
-        },
-        {
-          "id": "sxz44hx",
-          "headline": "UK diesel price hits record high of £2 a litre",
-          "url": "https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil",
-          "source": "guardian",
-          "date": "2026-10-02T13:41:04.000Z",
-          "relevance": "medium",
-          "why": "A proposed EU and IEA release of oil and diesel reserves, amid an Iran war pushing up prices worldwide, bears on global fuel costs that India imports.",
-          "implications": [
-            "Higher global diesel and crude prices could raise India's import bill and fuel costs.",
-            "A coordinated reserve release may ease global supply pressure and temper price rises for India."
-          ],
-          "reports": [
-            {
-              "source": "guardian",
-              "headline": "UK diesel price hits record high of £2 a litre",
-              "url": "https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil",
-              "date": "2026-10-02T13:41:04.000Z"
-            }
-          ]
-        }
-      ]
+      "items": []
     },
     {
       "id": "logistics",
       "name": "Logistics & Shipping",
       "items": [
         {
-          "id": "s15jkuck",
-          "headline": "Friday briefing: How we covered the flydubai incident as it unfolded",
-          "url": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded",
-          "source": "guardian",
-          "date": "2026-10-02T05:45:23.000Z",
+          "id": "s1j2msqq",
+          "headline": "Yemen's government announces all-out war to reclaim land from Houthis",
+          "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o",
+          "source": "bbc",
+          "date": "2026-10-04T16:51:30.000Z",
           "relevance": "medium",
-          "why": "A violent cockpit incident on a flydubai flight raises aviation security concerns for the many Indians who fly Gulf carriers.",
+          "why": "Renewed fighting in Yemen between the Houthis and the Saudi-led coalition could raise risk on Red Sea and Gulf of Aden shipping routes used by Indian trade.",
           "implications": [
-            "Indian travellers on Gulf and Israel-linked routes may face tighter security checks or more caution.",
-            "Indian authorities could seek more information on crew safety and passenger welfare on such flights."
+            "Shipping through the Red Sea and Gulf of Aden may face higher insurance and security risks.",
+            "Indian exporters to Europe could see longer transit times and higher freight costs.",
+            "Escalation could also unsettle Gulf energy supply routes India relies on."
           ],
           "reports": [
             {
-              "source": "guardian",
-              "headline": "Friday briefing: How we covered the flydubai incident as it unfolded",
-              "url": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded",
-              "date": "2026-10-02T05:45:23.000Z"
-            },
-            {
-              "source": "guardian",
-              "headline": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
-              "url": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
-              "date": "2026-10-02T08:39:40.000Z"
-            },
-            {
               "source": "bbc",
-              "headline": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-              "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o",
-              "date": "2026-10-02T09:08:06.000Z"
-            },
-            {
-              "source": "guardian",
-              "headline": "Suicide by plane or terrorism? Speculation over motive in flight 1073 attack",
-              "url": "https://www.theguardian.com/world/2026/oct/02/aviation-security-flydubai-flight-israel",
-              "date": "2026-10-02T15:40:05.000Z"
-            },
-            {
-              "source": "guardian",
-              "headline": "Flydubai co-pilot used crash axe to attack captain, says UAE",
-              "url": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
-              "date": "2026-10-03T11:56:46.000Z"
-            },
-            {
-              "source": "bbc",
-              "headline": "Australia investigating Flydubai co-pilot's links to country",
-              "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o",
-              "date": "2026-10-04T06:19:17.000Z"
+              "headline": "Yemen's government announces all-out war to reclaim land from Houthis",
+              "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o",
+              "date": "2026-10-04T16:51:30.000Z"
             }
           ]
         }
@@ -123,7 +45,29 @@
     {
       "id": "technology",
       "name": "Technology",
-      "items": []
+      "items": [
+        {
+          "id": "s10jaw1z",
+          "headline": "Trump names intelligence chief Jay Clayton as new White House AI czar",
+          "url": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
+          "source": "guardian",
+          "date": "2026-10-04T17:45:28.000Z",
+          "relevance": "medium",
+          "why": "A new US White House AI lead signals possible AI policy direction in a major economy that India's tech sector and partners track.",
+          "implications": [
+            "US AI policy shifts could affect rules on technology exports, standards and cooperation that Indian firms and government depend on.",
+            "Indian IT services and AI-linked jobs may face changed US regulatory expectations over time."
+          ],
+          "reports": [
+            {
+              "source": "guardian",
+              "headline": "Trump names intelligence chief Jay Clayton as new White House AI czar",
+              "url": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
+              "date": "2026-10-04T17:45:28.000Z"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "manufacturing",
@@ -145,29 +89,24 @@
       "name": "Policy & Governance",
       "items": [
         {
-          "id": "sqjwff2",
-          "headline": "India's 'cockroach' protesters are back - this time asking poll chief to resign",
-          "url": "https://www.bbc.co.uk/news/articles/ck62mped4rz9o",
+          "id": "safoyq8",
+          "headline": "Indian police accused of sexually harassing journalists at protest",
+          "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o",
           "source": "bbc",
-          "date": "2026-10-02T04:25:54.000Z",
+          "date": "2026-10-04T17:01:19.000Z",
           "relevance": "medium",
-          "why": "Thousands protesting in Mumbai against the poll chief puts pressure on India's election authority and domestic political climate.",
+          "why": "The story is about Indian police conduct toward journalists and protests over the election chief and changes to voter rolls.",
           "implications": [
-            "Pressure on the election commissioner could intensify scrutiny of how India's elections are run.",
-            "Large street protests may prompt policy or political responses and affect public order in Mumbai."
+            "Allegations of police misconduct may increase scrutiny of press freedom and protest policing in India.",
+            "Disputes over voter roll changes could add pressure on the election authority to justify its process.",
+            "Continued protests may keep electoral integrity at the centre of political debate."
           ],
           "reports": [
             {
               "source": "bbc",
-              "headline": "India's 'cockroach' protesters are back - this time asking poll chief to resign",
-              "url": "https://www.bbc.co.uk/news/articles/ck62mped4rz9o",
-              "date": "2026-10-02T04:25:54.000Z"
-            },
-            {
-              "source": "guardian",
-              "headline": "India’s Cockroach movement launches new protests over changes to voter roll",
-              "url": "https://www.theguardian.com/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll",
-              "date": "2026-10-02T14:42:16.000Z"
+              "headline": "Indian police accused of sexually harassing journalists at protest",
+              "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o",
+              "date": "2026-10-04T17:01:19.000Z"
             }
           ]
         }
@@ -187,8 +126,8 @@
   "source": "BBC News & The Guardian",
   "lastRun": {
     "analysed": 80,
-    "added": 4,
-    "merged": 7,
+    "added": 3,
+    "merged": 0,
     "failedBatches": 0
   }
 }
