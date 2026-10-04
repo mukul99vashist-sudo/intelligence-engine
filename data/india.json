@@ -2,12 +2,57 @@
   "schema": 3,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-04T21:23:52.024Z",
+  "updatedAt": "2026-10-04T21:48:42.537Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
-      "items": []
+      "items": [
+        {
+          "id": "s1uprbyh",
+          "headline": "G7 to release millions of barrels of oil and diesel after Trump threat",
+          "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
+          "source": "bbc",
+          "date": "2026-10-03T04:38:31.000Z",
+          "relevance": "high",
+          "why": "A coordinated G7 release of oil and diesel could ease global fuel prices and avert a US diesel export ban, both of which affect India's import costs.",
+          "implications": [
+            "Global oil and diesel price spikes may ease, which could lower India's fuel import bill in the coming weeks.",
+            "Avoiding a US diesel export ban could help keep global diesel supply stable for import-dependent economies like India.",
+            "Steadier fuel prices may reduce cost pressure on Indian transport and freight."
+          ],
+          "reports": [
+            {
+              "source": "bbc",
+              "headline": "G7 to release millions of barrels of oil and diesel after Trump threat",
+              "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
+              "date": "2026-10-03T04:38:31.000Z"
+            }
+          ]
+        },
+        {
+          "id": "si8i521",
+          "headline": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+          "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
+          "source": "bbc",
+          "date": "2026-10-02T08:54:00.000Z",
+          "relevance": "high",
+          "why": "A possible US diesel export ban and calls for European reserve releases could tighten global diesel supply and lift prices that India's fuel costs follow.",
+          "implications": [
+            "Global diesel prices may rise, which could raise import-linked fuel costs for Indian transport and farming.",
+            "Higher diesel costs could add to freight rates and food price pressure within weeks.",
+            "Government may face pressure to manage fuel pricing or taxes if the supply squeeze persists."
+          ],
+          "reports": [
+            {
+              "source": "bbc",
+              "headline": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+              "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
+              "date": "2026-10-02T08:54:00.000Z"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "logistics",
@@ -32,6 +77,33 @@
               "headline": "Yemen's government announces all-out war to reclaim land from Houthis",
               "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o",
               "date": "2026-10-04T16:51:30.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1yu8mst",
+          "headline": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
+          "url": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
+          "source": "guardian",
+          "date": "2026-10-02T08:39:40.000Z",
+          "relevance": "medium",
+          "why": "An Indian pilot foiled an apparent attempt to crash a Gulf-based airline flight, which concerns Indian crew and air travel safety on busy Gulf routes.",
+          "implications": [
+            "Airlines and regulators may review cockpit security and crew screening, which could affect flights used by Indian travellers.",
+            "Indian passengers and aviation workers in the Gulf could feel greater safety concerns, and government attention to Indian citizens abroad may rise."
+          ],
+          "reports": [
+            {
+              "source": "guardian",
+              "headline": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
+              "url": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
+              "date": "2026-10-02T08:39:40.000Z"
+            },
+            {
+              "source": "bbc",
+              "headline": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+              "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o",
+              "date": "2026-10-02T09:08:06.000Z"
             }
           ]
         }
@@ -109,6 +181,33 @@
               "date": "2026-10-04T17:01:19.000Z"
             }
           ]
+        },
+        {
+          "id": "sqjwff2",
+          "headline": "India's 'cockroach' protesters are back - this time asking poll chief to resign",
+          "url": "https://www.bbc.co.uk/news/articles/ck62mped4rz9o",
+          "source": "bbc",
+          "date": "2026-10-02T04:25:54.000Z",
+          "relevance": "medium",
+          "why": "The story is about a large protest in Mumbai demanding the resignation of India's election commissioner, which bears on electoral governance.",
+          "implications": [
+            "Public pressure on the election commission could become a wider political issue as polls approach.",
+            "Continued mass protests may prompt official responses on electoral transparency and institutional credibility."
+          ],
+          "reports": [
+            {
+              "source": "bbc",
+              "headline": "India's 'cockroach' protesters are back - this time asking poll chief to resign",
+              "url": "https://www.bbc.co.uk/news/articles/ck62mped4rz9o",
+              "date": "2026-10-02T04:25:54.000Z"
+            },
+            {
+              "source": "guardian",
+              "headline": "India’s Cockroach movement launches new protests over changes to voter roll",
+              "url": "https://www.theguardian.com/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll",
+              "date": "2026-10-02T14:42:16.000Z"
+            }
+          ]
         }
       ]
     }
@@ -125,9 +224,9 @@
   ],
   "source": "BBC News & The Guardian",
   "lastRun": {
-    "analysed": 80,
-    "added": 3,
-    "merged": 0,
+    "analysed": 36,
+    "added": 4,
+    "merged": 2,
     "failedBatches": 0
   }
 }
