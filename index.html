@@ -1,10 +1,212 @@
-Region
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>India Impact Desk | The Intelligence Engine</title>
+<meta name="description" content="Global headlines from BBC News, sorted by sector, and what each one could mean for India.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🛰️</text></svg>">
+<style>
+:root{
+  --ground:#E9EDF2; --panel:#F7F9FB; --ink:#1E2836; --ink-2:#4A5668; --ink-3:#6F7B8D;
+  --rule:#D3DAE3; --hit:#D9952B; --hit-soft:#F6E6C9; --hit-ink:#6B4709; --teal:#2C7A7F;
+  --serif:"Newsreader",Georgia,"Times New Roman",serif;
+  --sans:"Instrument Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  box-sizing:border-box; padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px); color-scheme:light;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --ground:#141A23; --panel:#1C2430; --ink:#E6EBF1; --ink-2:#B3BDCA; --ink-3:#8E9AAB;
+    --rule:#2D3846; --hit:#E3A84A; --hit-soft:#3A2D16; --hit-ink:#F2D29C; --teal:#6FB8BC; color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#141A23; --panel:#1C2430; --ink:#E6EBF1; --ink-2:#B3BDCA; --ink-3:#8E9AAB;
+  --rule:#2D3846; --hit:#E3A84A; --hit-soft:#3A2D16; --hit-ink:#F2D29C; --teal:#6FB8BC; color-scheme:dark;
+}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*,*::before,*::after{box-sizing:inherit}
+body{margin:0;background:var(--ground);color:var(--ink);font:400 15px/1.5 var(--sans)}
+:focus-visible{outline:2px solid var(--teal);outline-offset:2px;border-radius:4px}
+.wrap{max-width:1120px;margin:0 auto;padding:28px 20px 48px}
 
-India
-Global headlines, sorted by sector, and what each one could mean here.
+/* Region header — the anchor of the page */
+.region{border-bottom:1px solid var(--rule);padding-bottom:22px;margin-bottom:26px;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px 32px;align-items:end}
+@media (max-width:720px){.region{grid-template-columns:minmax(0,1fr)}}
+.kicker{font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3);font-weight:600;margin:0 0 4px}
+.region h1{font:500 clamp(56px,10vw,104px)/.92 var(--serif);margin:0;letter-spacing:-.02em}
+.region h1 .bar{display:inline-block;width:.16em;height:.7em;background:var(--hit);margin-right:.18em;vertical-align:.02em;border-radius:2px}
+.tagline{margin:10px 0 0;font:400 19px/1.35 var(--serif);color:var(--ink-2);max-width:40ch}
+.facts{font-size:13px;color:var(--ink-3);display:grid;gap:3px;text-align:right}
+@media (max-width:720px){.facts{text-align:left}}
+.facts b{color:var(--ink-2);font-weight:500}
 
-High relevance to India
-Medium relevance
-Select a headline to see its implications
-The desk hasn't published any data yet. The first update runs within 15 minutes of setup; this page will fill in automatically.
-For intelligence purposes only. Nothing here is financial or investment advice. Headlines are reproduced as published by BBC News and link to the full story. Implications are AI-generated analysis, not reported fact, and may be wrong. The desk checks BBC News every 15 minutes.
+/* Sectors */
+.sectors{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+@media (max-width:820px){.sectors{grid-template-columns:minmax(0,1fr)}}
+.sector{background:var(--panel);border:1px solid var(--rule);border-radius:12px;overflow:hidden;align-self:start}
+.sector header{display:flex;justify-content:space-between;align-items:baseline;gap:12px;padding:14px 18px 10px;border-bottom:1px solid var(--rule)}
+.sector h2{font:500 21px/1.2 var(--serif);margin:0}
+.count{font-size:12.5px;color:var(--ink-3)}
+.sector.empty h2{color:var(--ink-3)}
+.none{padding:14px 18px 16px;margin:0;font-size:13.5px;color:var(--ink-3)}
+.items{list-style:none;margin:0;padding:0}
+.items li+li{border-top:1px solid var(--rule)}
+.hl{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:4px 12px;align-items:start;width:100%;text-align:left;background:none;border:0;padding:13px 18px;font:inherit;color:inherit;cursor:pointer}
+.hl:hover{background:color-mix(in srgb,var(--ink) 4%,transparent)}
+.dot{width:8px;height:8px;border-radius:50%;margin-top:8px;background:var(--ink-3)}
+.dot.high{background:var(--hit)}
+.hl .t{font:500 16.5px/1.35 var(--serif)}
+.hl .d{font-size:12.5px;color:var(--ink-3);white-space:nowrap;margin-top:3px;display:flex;align-items:center;gap:8px}
+.chev{display:inline-block;transition:transform .2s;font-size:11px}
+.hl[aria-expanded="true"] .chev{transform:rotate(90deg)}
+@media (prefers-reduced-motion:reduce){.chev{transition:none}}
+
+.detail{padding:2px 18px 16px 38px}
+.detail[hidden]{display:none}
+.rel{display:inline-block;font-size:12px;font-weight:500;padding:1px 8px;border-radius:999px;background:var(--hit-soft);color:var(--hit-ink);margin-bottom:8px}
+.rel.medium{background:transparent;border:1px solid var(--rule);color:var(--ink-2)}
+.why{margin:0 0 10px;color:var(--ink-2);font-size:14.5px}
+.why b{color:var(--ink);font-weight:600}
+.lbl{font-size:12.5px;color:var(--ink-3);margin:0 0 4px}
+.detail ul{margin:0 0 12px;padding-left:18px}
+.detail li{margin:3px 0;font-size:14.5px}
+.read{display:inline-block;font-weight:500;font-size:14px;color:var(--teal);text-decoration:none;border-bottom:1px solid currentColor}
+.read:hover{opacity:.85}
+.new{display:inline-block;font:600 10.5px/1 var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--hit-ink);background:var(--hit-soft);border-radius:4px;padding:3px 5px;margin-right:6px;vertical-align:2px}
+.more{width:100%;background:none;border:0;border-top:1px solid var(--rule);padding:10px 18px;font:500 13.5px var(--sans);color:var(--teal);cursor:pointer;text-align:left}
+.live{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--teal);margin-right:6px;vertical-align:1px}
+.live.stale{background:var(--ink-3)}
+
+.state{padding:28px 20px;background:var(--panel);border:1px dashed var(--rule);border-radius:12px;color:var(--ink-2)}
+.legend{display:flex;gap:18px;flex-wrap:wrap;font-size:12.5px;color:var(--ink-3);margin:0 0 14px}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.legend .dot{margin:0}
+footer{margin-top:34px;padding-top:14px;border-top:1px solid var(--rule);font-size:12.5px;color:var(--ink-3);max-width:80ch}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <section class="region" aria-labelledby="regionName">
+    <div>
+      <p class="kicker">Region</p>
+      <h1 id="regionName"><span class="bar" aria-hidden="true"></span><span id="regionText">India</span></h1>
+      <p class="tagline">Global headlines, sorted by sector, and what each one could mean here.</p>
+    </div>
+    <div class="facts" id="facts"></div>
+  </section>
+
+  <div class="legend" aria-hidden="true">
+    <span><i class="dot high"></i>High relevance to India</span>
+    <span><i class="dot"></i>Medium relevance</span>
+    <span>Select a headline to see its implications</span>
+  </div>
+
+  <main id="sectors" class="sectors" aria-live="polite">
+    <div class="state">Loading the desk…</div>
+  </main>
+
+  <footer>
+    For intelligence purposes only. Nothing here is financial or investment advice. Headlines are reproduced as published by BBC News and link to the full story. Implications are AI-generated analysis, not reported fact, and may be wrong. The desk checks BBC News every 15 minutes.
+  </footer>
+</div>
+<script>
+(function(){
+"use strict";
+var OWNER="mukul99vashist-sudo", REPO="intelligence-engine";
+var SOURCES=[
+  "https://raw.githubusercontent.com/"+OWNER+"/"+REPO+"/main/data/india.json",
+  "data/india.json"
+];
+var REFRESH_MS=2*60*1000, SHOW=8, SEEN_KEY="ie.seen.v1";
+var $=function(id){return document.getElementById(id);};
+function el(tag,cls,text){var n=document.createElement(tag);if(cls)n.className=cls;if(text!=null)n.textContent=text;return n;}
+var MON=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+function day(iso){ if(!iso) return "Undated"; var d=new Date(iso); if(isNaN(d)) return "Undated"; return d.getDate()+" "+MON[d.getMonth()]; }
+function ago(iso){ var d=Date.parse(iso); if(isNaN(d)) return "not yet"; var m=Math.round((Date.now()-d)/6e4); if(m<1) return "just now"; if(m<60) return m+" min ago"; var h=Math.round(m/60); if(h<24) return h+" hr ago"; return Math.round(h/24)+" d ago"; }
+function state(msg){ var m=$("sectors"); m.textContent=""; m.appendChild(el("div","state",msg)); }
+
+var seenBefore={}, firstVisit=true, open={}, expanded={}, current=null;
+try{ var raw=localStorage.getItem(SEEN_KEY); if(raw){ seenBefore=JSON.parse(raw)||{}; firstVisit=false; } }catch(e){}
+function remember(doc){
+  var ids={}; (doc.sectors||[]).forEach(function(s){(s.items||[]).forEach(function(i){ids[i.id]=1;});});
+  try{ localStorage.setItem(SEEN_KEY, JSON.stringify(ids)); }catch(e){}
+}
+
+function renderFacts(doc){
+  var f=$("facts"); f.textContent="";
+  var total=(doc.sectors||[]).reduce(function(n,s){return n+(s.items||[]).length;},0);
+  var fresh=Date.now()-Date.parse(doc.updatedAt) < 40*60*1000;
+  var u=el("div"); u.appendChild(el("span","live"+(fresh?"":" stale"))); u.appendChild(document.createTextNode("Updated ")); u.appendChild(el("b",null,ago(doc.updatedAt))); f.appendChild(u);
+  [["Source",doc.source||""],["Headlines since",day(doc.since)+" "+String(doc.since||"").slice(0,4)],["Stories reaching India",String(total)]].forEach(function(r){
+    var d=el("div"); d.appendChild(document.createTextNode(r[0]+": ")); d.appendChild(el("b",null,r[1])); f.appendChild(d);
+  });
+}
+
+function render(doc){
+  current=doc;
+  $("regionText").textContent=doc.region||"India";
+  renderFacts(doc);
+  var main=$("sectors"); main.textContent="";
+  var sectors=(doc.sectors||[]).slice().sort(function(a,b){return ((b.items||[]).length?1:0)-((a.items||[]).length?1:0);});
+  var any=sectors.some(function(s){return (s.items||[]).length;});
+  if(!any){ state("No India-relevant stories yet. The desk checks BBC News every 15 minutes, so new headlines will appear here automatically."); return; }
+  sectors.forEach(function(s){
+    var items=s.items||[];
+    var sec=el("section","sector"+(items.length?"":" empty")); sec.setAttribute("aria-label",s.name);
+    var h=el("header"); h.appendChild(el("h2",null,s.name)); h.appendChild(el("span","count",items.length?items.length+(items.length===1?" headline":" headlines"):"No headlines")); sec.appendChild(h);
+    if(!items.length){ sec.appendChild(el("p","none","Nothing from "+(doc.source||"the source")+" in this sector reaches India yet.")); main.appendChild(sec); return; }
+    var ul=el("ul","items"), limit=expanded[s.id]?items.length:SHOW;
+    items.slice(0,limit).forEach(function(it){
+      var li=el("li"), id="d-"+it.id, isOpen=!!open[it.id];
+      var b=el("button","hl"); b.type="button"; b.setAttribute("aria-expanded",isOpen?"true":"false"); b.setAttribute("aria-controls",id);
+      b.appendChild(el("i","dot"+(it.relevance==="high"?" high":"")));
+      var t=el("span","t"); if(!firstVisit && !seenBefore[it.id]) t.appendChild(el("span","new","New")); t.appendChild(document.createTextNode(it.headline)); b.appendChild(t);
+      var d=el("span","d"); d.appendChild(document.createTextNode(day(it.date))); d.appendChild(el("span","chev","▶")); b.appendChild(d);
+      var det=el("div","detail"); det.id=id; det.hidden=!isOpen;
+      det.appendChild(el("span","rel"+(it.relevance==="high"?"":" medium"),(it.relevance==="high"?"High":"Medium")+" relevance to "+(doc.region||"India")));
+      if(it.why){ var w=el("p","why"); w.appendChild(el("b",null,"Why it reaches "+(doc.region||"India")+": ")); w.appendChild(document.createTextNode(it.why)); det.appendChild(w); }
+      det.appendChild(el("p","lbl","Likely implications (analysis)"));
+      var l=el("ul"); (it.implications||[]).forEach(function(x){l.appendChild(el("li",null,x));}); det.appendChild(l);
+      var a=el("a","read","Read the full story on "+(doc.source||"the source")+" →"); a.href=it.url; a.target="_blank"; a.rel="noopener"; det.appendChild(a);
+      b.addEventListener("click",function(){ var o=b.getAttribute("aria-expanded")==="true"; b.setAttribute("aria-expanded",o?"false":"true"); det.hidden=o; open[it.id]=!o; });
+      li.appendChild(b); li.appendChild(det); ul.appendChild(li);
+    });
+    sec.appendChild(ul);
+    if(items.length>SHOW){
+      var m=el("button","more",expanded[s.id]?"Show fewer":"Show all "+items.length+" headlines"); m.type="button";
+      m.addEventListener("click",function(){ expanded[s.id]=!expanded[s.id]; render(current); });
+      sec.appendChild(m);
+    }
+    main.appendChild(sec);
+  });
+}
+
+function load(i){
+  i=i||0;
+  if(i>=SOURCES.length) return Promise.reject(new Error("unavailable"));
+  return fetch(SOURCES[i]+"?t="+Date.now(),{cache:"no-store"}).then(function(r){
+    if(!r.ok) throw new Error(String(r.status));
+    return r.json();
+  }).catch(function(){ return load(i+1); });
+}
+var lastUpdated=null;
+function refresh(){
+  load().then(function(doc){
+    if(doc.updatedAt!==lastUpdated){ lastUpdated=doc.updatedAt; render(doc); remember(doc); }
+    else renderFacts(doc);
+  }).catch(function(){
+    if(!current) state("The desk hasn't published any data yet. The first update runs within 15 minutes of setup; this page will fill in automatically.");
+  });
+}
+refresh();
+setInterval(function(){ if(!document.hidden) refresh(); }, REFRESH_MS);
+document.addEventListener("visibilitychange",function(){ if(!document.hidden) refresh(); });
+setInterval(function(){ if(current) renderFacts(current); }, 60*1000);
+})();
+</script>
+</body>
+</html>
