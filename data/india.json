@@ -2,7 +2,7 @@
   "schema": 3,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-05T10:09:28.643Z",
+  "updatedAt": "2026-10-05T10:12:09.905Z",
   "sectors": [
     {
       "id": "energy",
@@ -287,10 +287,9 @@
   ],
   "source": "BBC News & The Guardian",
   "lastRun": {
-    "analysed": 3,
+    "analysed": 0,
     "added": 0,
     "merged": 0,
-    "rejected": 3,
     "failedBatches": 0
   }
 }
