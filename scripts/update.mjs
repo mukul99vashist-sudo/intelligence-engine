@@ -1,5 +1,5 @@
 // Intelligence Engine: India desk updater.
-// Runs every 15 minutes on GitHub Actions. Reads BBC News and Guardian RSS feeds,
+// Runs on a schedule on GitHub Actions. Reads RSS feeds from six outlets on five continents,
 // sends new headlines to Claude for sector tagging, India implications and
 // cross-outlet matching, and saves the results to data/india.json for the website.
 import fs from "node:fs/promises";
@@ -7,7 +7,15 @@ import { pathToFileURL } from "node:url";
 
 const REGION = "India";
 const SCHEMA = 3;                              // bump to re-analyse everything under new rules
-const OUTLETS = { bbc: "BBC News", guardian: "The Guardian" };
+const OUTLET_INFO = {
+  bbc:        { name: "BBC News",     region: "Europe" },
+  guardian:   { name: "The Guardian", region: "Europe" },
+  npr:        { name: "NPR",          region: "North America" },
+  aljazeera:  { name: "Al Jazeera",   region: "Asia" },
+  mercopress: { name: "MercoPress",   region: "South America" },
+  abc:        { name: "ABC News",     region: "Australia" }
+};
+const OUTLETS = Object.fromEntries(Object.entries(OUTLET_INFO).map(([id, o]) => [id, o.name]));
 const SINCE = "2026-10-02";                    // ignore stories published before this date
 const FEEDS = [
   { src: "bbc", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
@@ -22,7 +30,18 @@ const FEEDS = [
   { src: "guardian", url: "https://www.theguardian.com/uk/technology/rss" },
   { src: "guardian", url: "https://www.theguardian.com/environment/rss" },
   { src: "guardian", url: "https://www.theguardian.com/world/middleeast/rss" },
-  { src: "guardian", url: "https://www.theguardian.com/global-development/rss" }
+  { src: "guardian", url: "https://www.theguardian.com/global-development/rss" },
+  { src: "npr", url: "https://feeds.npr.org/1004/rss.xml" },
+  { src: "npr", url: "https://feeds.npr.org/1006/rss.xml" },
+  { src: "npr", url: "https://feeds.npr.org/1017/rss.xml" },
+  { src: "npr", url: "https://feeds.npr.org/1019/rss.xml" },
+  { src: "aljazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" },
+  { src: "mercopress", url: "https://en.mercopress.com/rss" },
+  { src: "mercopress", url: "https://en.mercopress.com/rss/energy" },
+  { src: "mercopress", url: "https://en.mercopress.com/rss/agriculture" },
+  { src: "abc", url: "https://www.abc.net.au/news/feed/10719986/rss.xml" },
+  { src: "abc", url: "https://www.abc.net.au/news/feed/104217382/rss.xml" },
+  { src: "abc", url: "https://www.abc.net.au/news/feed/104217374/rss.xml" }
 ];
 const MODELS = [process.env.CLAUDE_MODEL || "claude-sonnet-5-5", "claude-haiku-4-5-20251001"];
 const SECTORS = [
@@ -40,7 +59,7 @@ const SEEN_FILE = "data/seen.json";
 const REJECTED_FILE = "data/rejected.json";   // audit trail of what the filter discarded
 const MAX_REJECTED = 150;
 const BATCH = 10;              // headlines per Claude request
-const MAX_NEW_PER_RUN = 80;    // the rest wait for the next run
+const MAX_NEW_PER_RUN = 120;   // the rest wait for the next run
 const MATCH_WINDOW_DAYS = 4;   // how far back to look for the same event
 const MAX_PER_SECTOR = 40;
 const MAX_SEEN = 3000;
@@ -69,7 +88,7 @@ function skip(title, link) {
   if (/^((monday|tuesday|wednesday|thursday|friday|saturday|sunday|morning|evening|weekend|first edition|business today)\b[^:]{0,20})?\s*briefing\s*:/i.test(title)) return true;
   if (/^(first edition|the long read|today in focus|business live|newsletter)\b|\b(podcast|quiz|in (\d+ )?(photos|pictures))\b|[–-] live$/i.test(title)) return true;
   if (/\/series\/|\/info\/|\/newsletters?\//.test(link)) return true;
-  return /\/sport\/|\/live\/|\/videos?\/|\/commentisfree\/|\/audio\/|\/football\/|\/lifeandstyle\/|\/culture\/|\/tv-and-radio\/|\/music\/|\/film\/|\/books\//.test(link);
+  return /\/sport\/|\/sports\/|\/live\/|\/liveblog\/|\/videos?\/|\/program\/|\/gallery\/|\/podcasts?\/|\/opinions?\/|\/commentisfree\/|\/audio\/|\/football\/|\/lifeandstyle\/|\/culture\/|\/tv-and-radio\/|\/music\/|\/film\/|\/books\//.test(link);
 }
 function cleanUrl(u) { try { const x = new URL(u); x.search = ""; x.hash = ""; return x.toString(); } catch { return u; } }
 function idFor(url) { let h = 0; for (const c of url) h = (h * 31 + c.charCodeAt(0)) >>> 0; return "s" + h.toString(36); }
@@ -86,14 +105,18 @@ export function parseRss(xml, src) {
   return items;
 }
 
+const feedHealth = {};   // outlet -> { feedsOk, feedsFailed, items }
 async function fetchFeeds() {
   const all = new Map();
   for (const { src, url } of FEEDS) {
     try {
       const res = await fetch(url, { headers: { "user-agent": "intelligence-engine/1.0 (+github actions)" } });
-      if (!res.ok) { console.warn(`Feed ${url} returned ${res.status}`); continue; }
-      for (const it of parseRss(await res.text(), src)) if (!all.has(it.url)) all.set(it.url, it);
-    } catch (e) { console.warn(`Feed ${url} failed: ${e.message}`); }
+      const h = feedHealth[src] ||= { feedsOk: 0, feedsFailed: 0, items: 0 };
+      if (!res.ok) { console.warn(`Feed ${url} returned ${res.status}`); h.feedsFailed++; continue; }
+      const items = parseRss(await res.text(), src);
+      h.feedsOk++; h.items += items.length;
+      for (const it of items) if (!all.has(it.url)) all.set(it.url, it);
+    } catch (e) { console.warn(`Feed ${url} failed: ${e.message}`); (feedHealth[src] ||= { feedsOk: 0, feedsFailed: 0, items: 0 }).feedsFailed++; }
   }
   return [...all.values()];
 }
@@ -170,7 +193,7 @@ export async function main() {
   }
   data = data || { schema: SCHEMA, region: REGION, since: SINCE, updatedAt: null, sectors: [] };
   data.schema = SCHEMA;
-  data.sources = Object.entries(OUTLETS).map(([id, name]) => ({ id, name }));
+  data.sources = Object.entries(OUTLET_INFO).map(([id, o]) => ({ id, name: o.name, region: o.region }));
   data.source = Object.values(OUTLETS).join(" & ");
   const byId = Object.fromEntries((data.sectors || []).map(s => [s.id, s]));
   data.sectors = SECTORS.map(s => ({ ...s, items: byId[s.id]?.items || [] }));
@@ -184,7 +207,8 @@ export async function main() {
     .sort((a, b) => (b.date || "").localeCompare(a.date || ""))   // take the newest headlines first...
     .slice(0, MAX_NEW_PER_RUN)
     .reverse();                                                    // ...then process them in time order so the first report leads
-  console.log(`${fresh.length} new headlines to analyse (${fresh.filter(f => f.src === "bbc").length} BBC, ${fresh.filter(f => f.src === "guardian").length} Guardian)`);
+  console.log(`${fresh.length} new headlines to analyse: ` + Object.keys(OUTLETS).map(k => `${OUTLETS[k]} ${fresh.filter(f => f.src === k).length}`).join(", "));
+  console.log("Feed health: " + JSON.stringify(feedHealth));
 
   const rejected = await readJson(REJECTED_FILE, []);
   let added = 0, merged = 0, failures = 0;
@@ -233,7 +257,7 @@ export async function main() {
     s.items = [...uniq.values()].sort((a, b) => latest(b).localeCompare(latest(a))).slice(0, MAX_PER_SECTOR);
   }
   data.updatedAt = new Date().toISOString();
-  data.lastRun = { analysed: fresh.length, added, merged, rejected: fresh.length && !failures ? fresh.length - added - merged : undefined, failedBatches: failures };
+  data.lastRun = { analysed: fresh.length, added, merged, rejected: fresh.length && !failures ? fresh.length - added - merged : undefined, failedBatches: failures, feeds: feedHealth };
 
   await fs.writeFile(DATA_FILE, JSON.stringify(data, null, 2) + "\n");
   await fs.writeFile(SEEN_FILE, JSON.stringify([...seen].slice(-MAX_SEEN)) + "\n");
