@@ -1,0 +1,488 @@
+{
+  "schema": 4,
+  "region": "India",
+  "since": "2026-10-02",
+  "updatedAt": "2026-10-05T10:53:29.838Z",
+  "sectors": [
+    {
+      "id": "energy",
+      "name": "Energy",
+      "items": [
+        {
+          "id": "serr6er",
+          "headline": "GEC III: Bridging geographic and temporal mismatch",
+          "url": "https://www.thehindu.com/business/Industry/gec-iii-bridging-geographic-and-temporal-mismatch/article71546014.ece",
+          "source": "thehindu",
+          "date": "2026-10-05T06:20:27.000Z",
+          "relevance": "medium",
+          "why": "The third phase of the Green Energy Corridor targets the gap between installed renewable capacity and the electricity actually generated and delivered, which affects how well India uses its clean power build-out.",
+          "implications": [
+            "Better transmission and grid integration could let more installed renewable capacity reach consumers over time.",
+            "Closing the generation gap may ease reliance on costlier fossil power and help stabilise supply.",
+            "Grid upgrade work may take years, so near-term supply gains are likely to be gradual."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "GEC III: Bridging geographic and temporal mismatch",
+              "url": "https://www.thehindu.com/business/Industry/gec-iii-bridging-geographic-and-temporal-mismatch/article71546014.ece",
+              "date": "2026-10-05T06:20:27.000Z"
+            }
+          ]
+        },
+        {
+          "id": "slvj25g",
+          "headline": "Petrol and diesel prices today, October 5: Check fuel cost in Delhi, Mumbai, Bengaluru",
+          "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-5-check-fuel-cost-in-delhi-mumbai-bengaluru-11791162475833.html",
+          "source": "mint",
+          "date": "2026-10-05T01:35:57.000Z",
+          "relevance": "medium",
+          "why": "Steady pump prices despite global crude disruption shape household fuel costs and inflation, and signal pressure on oil marketing companies.",
+          "implications": [
+            "Petrol and diesel prices in major cities have stayed unchanged, sparing households and transporters an immediate cost increase.",
+            "Continued global disruption could eventually force price revisions, which may raise transport and goods costs.",
+            "Refiners absorbing higher costs may face margin pressure if crude stays elevated."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Petrol and diesel prices today, October 5: Check fuel cost in Delhi, Mumbai, Bengaluru",
+              "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-5-check-fuel-cost-in-delhi-mumbai-bengaluru-11791162475833.html",
+              "date": "2026-10-05T01:35:57.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "logistics",
+      "name": "Logistics & Shipping",
+      "items": [
+        {
+          "id": "s1io1kv0",
+          "headline": "Govt scrambles to resolve Mumbai airport Terminal-1 shift",
+          "url": "https://www.livemint.com/industry/govt-scrambles-to-resolve-mumbai-airport-terminal-1-shift-11791110756932.html",
+          "source": "mint",
+          "date": "2026-10-05T00:31:02.000Z",
+          "relevance": "high",
+          "why": "Shifting international flights from Mumbai's main airport to Navi Mumbai affects a major aviation gateway and airline operations.",
+          "implications": [
+            "Some international departures from Mumbai may be temporarily moved, which could disrupt schedules for travellers.",
+            "Airlines may face rescheduling costs, which could eventually be reflected in fares.",
+            "Air cargo and connecting passengers could face delays if the shift is rushed."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Govt scrambles to resolve Mumbai airport Terminal-1 shift",
+              "url": "https://www.livemint.com/industry/govt-scrambles-to-resolve-mumbai-airport-terminal-1-shift-11791110756932.html",
+              "date": "2026-10-05T00:31:02.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Mint Explainer | Why Adani’s Mumbai airport redevelopment has triggered a row",
+              "url": "https://www.livemint.com/industry/infrastructure/adani-mumbai-airport-international-flight-slots-navi-mumbai-airport-11791173693718.html",
+              "date": "2026-10-05T05:31:12.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "Economy & Trade",
+      "items": [
+        {
+          "id": "s1jftzf",
+          "headline": "Trade talks need different templates for different partners, says FM Sitharaman",
+          "url": "https://www.livemint.com/news/india/trade-talks-need-different-templates-for-different-partners-says-fm-sitharaman-11791185501564.html",
+          "source": "mint",
+          "date": "2026-10-05T09:12:44.000Z",
+          "relevance": "medium",
+          "why": "The finance minister signalling partner-specific trade templates shows India will not copy its EU deal approach in tariff-heavy talks such as those with the US.",
+          "implications": [
+            "Terms for exporters and importers may differ by partner, so tariff outcomes could vary across sectors.",
+            "Supply-chain resilience and strategic aims may shape which goods get tariff relief in future deals."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Trade talks need different templates for different partners, says FM Sitharaman",
+              "url": "https://www.livemint.com/news/india/trade-talks-need-different-templates-for-different-partners-says-fm-sitharaman-11791185501564.html",
+              "date": "2026-10-05T09:12:44.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s935ivj",
+          "headline": "Rupee trades in narrow range against U.S. dollar in early trade",
+          "url": "https://www.thehindu.com/business/rupee-trades-in-narrow-range-against-us-dollar-in-early-trade/article71545911.ece",
+          "source": "thehindu",
+          "date": "2026-10-05T05:25:15.000Z",
+          "relevance": "high",
+          "why": "A rupee near 96 per dollar, pressured by crude prices and fund outflows, raises India's import bill and inflation risks ahead of the RBI decision.",
+          "implications": [
+            "Imported fuel, electronics and other goods may become costlier for households and businesses.",
+            "Firms with foreign-currency debt or imported inputs could face higher costs.",
+            "The RBI's rate decision may affect loan EMIs and borrowing costs."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Rupee trades in narrow range against U.S. dollar in early trade",
+              "url": "https://www.thehindu.com/business/rupee-trades-in-narrow-range-against-us-dollar-in-early-trade/article71545911.ece",
+              "date": "2026-10-05T05:25:15.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1mycfju",
+          "headline": "FM Sitharaman hails India-EU trade deal at Munich Leaders Meeting",
+          "url": "https://www.thehindu.com/business/Economy/fm-sitharaman-hails-india-eu-trade-deal-at-munich-leaders-meeting/article71545912.ece",
+          "source": "thehindu",
+          "date": "2026-10-05T05:09:52.000Z",
+          "relevance": "medium",
+          "why": "Trade agreements with major partners shape India's export access, import costs and investment flows across many sectors.",
+          "implications": [
+            "Exporters may gain better market access if the agreements are finalised and implemented.",
+            "Some imported goods could become cheaper for businesses and consumers over time.",
+            "Domestic industries facing new competition may need to adjust."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "FM Sitharaman hails India-EU trade deal at Munich Leaders Meeting",
+              "url": "https://www.thehindu.com/business/Economy/fm-sitharaman-hails-india-eu-trade-deal-at-munich-leaders-meeting/article71545912.ece",
+              "date": "2026-10-05T05:09:52.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sjush0y",
+          "headline": "RBI likely to raise repo rate in October 2026 as West Asia crisis fuels inflation risks",
+          "url": "https://www.livemint.com/economy/rbi-likely-to-raise-repo-rate-in-october-2026-as-west-asia-crisis-fuels-inflation-risks-11791121335600.html",
+          "source": "mint",
+          "date": "2026-10-04T13:53:48.000Z",
+          "relevance": "high",
+          "why": "A possible RBI repo rate hike would change borrowing costs nationwide, driven by inflation risks from the West Asia crisis.",
+          "implications": [
+            "Home, car and business loan EMIs could rise if the repo rate is increased by 0.25 percentage points.",
+            "Higher rates may add to the cost of borrowing for businesses and slow credit demand.",
+            "Fixed deposit rates could edge up for savers if the RBI tightens policy."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "RBI likely to raise repo rate in October 2026 as West Asia crisis fuels inflation risks",
+              "url": "https://www.livemint.com/economy/rbi-likely-to-raise-repo-rate-in-october-2026-as-west-asia-crisis-fuels-inflation-risks-11791121335600.html",
+              "date": "2026-10-04T13:53:48.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "RBI rate hikes back on the table as inflation risks mount",
+              "url": "https://www.livemint.com/economy/rbi-monetary-policy-repo-rate-indian-economy-11791107863686.html",
+              "date": "2026-10-05T00:00:22.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Rate hikes are coming, but don’t count credit growth out just yet",
+              "url": "https://www.livemint.com/economy/india-credit-growth-rate-hike-rbi-monetary-policy-bank-lending-bank-credit-fcnr-b-deposits-financial-deepening-11791139917638.html",
+              "date": "2026-10-05T03:30:45.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sxukokm",
+          "headline": "Next-Gen GST and India’s next phase of growth",
+          "url": "https://www.thehindu.com/business/Economy/next-gen-gst-and-indias-next-phase-of-growth/article71541678.ece",
+          "source": "thehindu",
+          "date": "2026-10-04T18:47:22.000Z",
+          "relevance": "medium",
+          "why": "Next-Gen GST aims to cut and simplify tax rates and ease compliance, shaping the national indirect tax system and growth.",
+          "implications": [
+            "Lower or rationalised rates may reduce prices of some goods and services for households.",
+            "Simpler compliance could cut paperwork and costs for small businesses.",
+            "Actual benefits will likely depend on how rates are set and passed on."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Next-Gen GST and India’s next phase of growth",
+              "url": "https://www.thehindu.com/business/Economy/next-gen-gst-and-indias-next-phase-of-growth/article71541678.ece",
+              "date": "2026-10-04T18:47:22.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "Technology",
+      "items": [
+        {
+          "id": "so2g6h9",
+          "headline": "Tata's Assam chip unit is almost ready, and a non-China supply chain is in place",
+          "url": "https://www.livemint.com/companies/news/tata-electronics-assam-semiconductor-chip-plant-11791089738819.html",
+          "source": "mint",
+          "date": "2026-10-05T00:30:22.000Z",
+          "relevance": "medium",
+          "why": "A non-China supply chain for the flagship Assam chip unit could strengthen India's semiconductor ambitions against trade and mineral-supply shocks.",
+          "implications": [
+            "Chip output may be less exposed to export curbs or blockades, supporting more reliable domestic supply over time.",
+            "New vendor networks could create local supplier and skilled-job opportunities in and around Assam.",
+            "Electronics makers may gain a more dependable domestic chip source as the unit nears readiness."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Tata's Assam chip unit is almost ready, and a non-China supply chain is in place",
+              "url": "https://www.livemint.com/companies/news/tata-electronics-assam-semiconductor-chip-plant-11791089738819.html",
+              "date": "2026-10-05T00:30:22.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "manufacturing",
+      "name": "Manufacturing",
+      "items": [
+        {
+          "id": "s139nthu",
+          "headline": "The oil shock hasn’t stopped the factory boom. It may be changing what factories make | Explained",
+          "url": "https://www.livemint.com/economy/the-oil-shock-hasn-t-stopped-the-factory-boom-it-may-be-changing-what-factories-make-11791124337610.html",
+          "source": "mint",
+          "date": "2026-10-04T18:02:22.000Z",
+          "relevance": "medium",
+          "why": "Rising energy costs are pushing up factory selling prices even as manufacturers keep expanding, which shapes industrial output, input costs and what is produced.",
+          "implications": [
+            "Higher factory selling prices may feed into consumer goods prices in coming months.",
+            "Manufacturers could shift product mix to absorb costs of transport, electricity and inputs.",
+            "Continued expansion may support factory hiring despite cost pressure."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "The oil shock hasn’t stopped the factory boom. It may be changing what factories make | Explained",
+              "url": "https://www.livemint.com/economy/the-oil-shock-hasn-t-stopped-the-factory-boom-it-may-be-changing-what-factories-make-11791124337610.html",
+              "date": "2026-10-04T18:02:22.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "Environment & Climate",
+      "items": [
+        {
+          "id": "s1pikzq4",
+          "headline": "Supreme Court allows Great Nicobar project challenge to proceed in Calcutta HC",
+          "url": "https://www.livemint.com/news/india/supreme-court-allows-great-nicobar-project-challenge-to-proceed-in-calcutta-hc-11791187657524.html",
+          "source": "mint",
+          "date": "2026-10-05T09:10:49.000Z",
+          "relevance": "medium",
+          "why": "The Supreme Court letting environmental and statutory challenges proceed keeps legal uncertainty over a ₹92,000 crore strategic infrastructure project in play.",
+          "implications": [
+            "Clearances and construction timelines for the Great Nicobar project could face delays if the High Court scrutiny goes against it.",
+            "Environmental conditions on large coastal and island projects may come under closer judicial examination."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Supreme Court allows Great Nicobar project challenge to proceed in Calcutta HC",
+              "url": "https://www.livemint.com/news/india/supreme-court-allows-great-nicobar-project-challenge-to-proceed-in-calcutta-hc-11791187657524.html",
+              "date": "2026-10-05T09:10:49.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Preservation of culture a fundamental right, says SC, refuses to stay Calcutta HC proceedings in Nicobar project case",
+              "url": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/supreme-court-refuses-to-stay-calcutta-hc-order-in-great-nicobar-island-project-terms-preservation-of-culture-a-fundamental-right/article71546355.ece",
+              "date": "2026-10-05T10:25:03.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "agriculture",
+      "name": "Agriculture & Food",
+      "items": [
+        {
+          "id": "s1etlc9i",
+          "headline": "FSSAI flags Everest cumin powder as unsafe, orders immediate market recall: What food analyst report found",
+          "url": "https://www.livemint.com/news/india/fssai-flags-everest-cumin-powder-as-unsafe-orders-immediate-market-recall-what-food-analyst-report-found-11791132343201.html",
+          "source": "mint",
+          "date": "2026-10-04T17:37:35.000Z",
+          "relevance": "medium",
+          "why": "A food safety regulator ordering a recall of a widely sold spice shows how enforcement of safety standards affects the packaged food supply chain.",
+          "implications": [
+            "Consumers may need to check and stop using the recalled cumin powder batches.",
+            "Retailers could pull affected packs from shelves, causing short-term supply gaps.",
+            "Spice makers may face tighter testing and quality checks on packaged products."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "FSSAI flags Everest cumin powder as unsafe, orders immediate market recall: What food analyst report found",
+              "url": "https://www.livemint.com/news/india/fssai-flags-everest-cumin-powder-as-unsafe-orders-immediate-market-recall-what-food-analyst-report-found-11791132343201.html",
+              "date": "2026-10-04T17:37:35.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "governance",
+      "name": "Policy & Governance",
+      "items": [
+        {
+          "id": "s1izayod",
+          "headline": "ECI Row: What happens when all three Election Commissioners disagree? Here's what the law says",
+          "url": "https://www.livemint.com/news/india/eci-row-what-happens-when-all-three-election-commissioners-disagree-heres-what-the-law-says-11791182525314.html",
+          "source": "mint",
+          "date": "2026-10-05T06:53:21.000Z",
+          "relevance": "medium",
+          "why": "Public disagreement inside the Election Commission raises questions about how India's poll body would function if its three members cannot agree, which bears on electoral credibility.",
+          "implications": [
+            "Clarity on the legal position may shape confidence in how upcoming electoral roll revisions and elections are run.",
+            "Prolonged internal splits could delay or complicate decisions on poll schedules and roll updates.",
+            "The row may prompt calls for rule changes on how the Election Commission decides contested matters."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "ECI Row: What happens when all three Election Commissioners disagree? Here's what the law says",
+              "url": "https://www.livemint.com/news/india/eci-row-what-happens-when-all-three-election-commissioners-disagree-heres-what-the-law-says-11791182525314.html",
+              "date": "2026-10-05T06:53:21.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "SIR row: Supreme Court refuses to pass interim order on suspending CEC Gyanesh Kumar, issues notices to EC, Centre",
+              "url": "https://www.livemint.com/news/india/plea-in-sc-to-suspend-cec-gyanesh-kumar-supreme-court-issues-notice-ec-centre-what-we-know-so-far-11791186670022.html",
+              "date": "2026-10-05T07:58:17.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Supreme Court notice to ECI, Centre on plea challenging decisions taken by CEC-led poll panel",
+              "url": "https://www.thehindu.com/news/national/supreme-court-notice-to-eci-centre-on-plea-challenging-decisions-taken-by-cec-led-poll-panel/article71546395.ece",
+              "date": "2026-10-05T09:14:57.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "SC declines to suspend CEC Gyanesh Kumar, seeks response on poll body decisions",
+              "url": "https://www.livemint.com/news/india/cec-gyanesh-kumar-sir-voter-list-india-supreme-court-order-on-cec-11791189277401.html",
+              "date": "2026-10-05T09:44:10.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Protest against CEC Gyanesh Kumar LIVE: Supreme Court says changes to Form 6 not made by court, issues notice to ECI, Centre",
+              "url": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-protest-live-updates-supreme-court-hearing-suspension-cjp-congress-delhi-mumbai-india/article71545740.ece",
+              "date": "2026-10-05T10:37:59.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s24g8zp",
+          "headline": "Mint Explainer | Why Karnataka’s gig worker law has put platforms and workers at odds",
+          "url": "https://www.livemint.com/industry/karnataka-gig-worker-law-social-security-platform-companies-11791175740941.html",
+          "source": "mint",
+          "date": "2026-10-05T07:45:55.000Z",
+          "relevance": "medium",
+          "why": "The dispute tests whether states can run their own gig worker social-security regimes alongside a national law, shaping the federal approach to platform labour.",
+          "implications": [
+            "Gig workers may face different social-security rules and contributions depending on the state they work in.",
+            "Platforms operating nationwide could face varying compliance costs and levies across states.",
+            "Clarity from courts or the Centre may be needed to settle which law prevails."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Mint Explainer | Why Karnataka’s gig worker law has put platforms and workers at odds",
+              "url": "https://www.livemint.com/industry/karnataka-gig-worker-law-social-security-platform-companies-11791175740941.html",
+              "date": "2026-10-05T07:45:55.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s12y27rh",
+          "headline": "IndiaTech seeks rethink of turnover-linked gig worker social security levy",
+          "url": "https://www.livemint.com/companies/indiatech-seeks-rethink-of-turnover-linked-gig-worker-social-security-levy-11791099731540.html",
+          "source": "mint",
+          "date": "2026-10-04T13:39:17.000Z",
+          "relevance": "medium",
+          "why": "The turnover-linked social security levy under the Code on Social Security will shape costs for platforms and protection for gig workers nationwide.",
+          "implications": [
+            "Platform aggregators may face higher compliance costs if the 1-2% turnover levy is applied as written.",
+            "Delivery and ride-hailing workers could gain social security cover once contributions are finalised.",
+            "Any rethink of the levy could change how quickly gig worker benefits arrive."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "IndiaTech seeks rethink of turnover-linked gig worker social security levy",
+              "url": "https://www.livemint.com/companies/indiatech-seeks-rethink-of-turnover-linked-gig-worker-social-security-levy-11791099731540.html",
+              "date": "2026-10-04T13:39:17.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1ccvcrv",
+          "headline": "GST arrest powers may be removed? Council to discuss decriminalisation on Wednesday; law change likely in Winter Session",
+          "url": "https://www.livemint.com/economy/gst-arrest-powers-may-be-removed-council-to-discuss-decriminalisation-on-wednesday-law-change-likely-in-winter-session-11791112867891.html",
+          "source": "mint",
+          "date": "2026-10-04T12:48:16.000Z",
+          "relevance": "medium",
+          "why": "Removing GST arrest powers would change how tax law is enforced against businesses across India and ease compliance fears.",
+          "implications": [
+            "Traders and small businesses may face less fear of arrest during GST investigations and disputes.",
+            "Any change would likely need a law amendment, possibly in the Winter Session.",
+            "Tax officials may have to rely more on penalties and recovery than arrests."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "GST arrest powers may be removed? Council to discuss decriminalisation on Wednesday; law change likely in Winter Session",
+              "url": "https://www.livemint.com/economy/gst-arrest-powers-may-be-removed-council-to-discuss-decriminalisation-on-wednesday-law-change-likely-in-winter-session-11791112867891.html",
+              "date": "2026-10-04T12:48:16.000Z"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "desk": "domestic",
+  "mode": "domestic",
+  "sources": [
+    {
+      "id": "thehindu",
+      "name": "The Hindu",
+      "region": "India"
+    },
+    {
+      "id": "mint",
+      "name": "Mint",
+      "region": "India"
+    }
+  ],
+  "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
+  "lastRun": {
+    "analysed": 150,
+    "added": 16,
+    "merged": 8,
+    "rejected": 126,
+    "failedBatches": 0,
+    "feeds": {
+      "thehindu": {
+        "feedsOk": 6,
+        "feedsFailed": 0,
+        "items": 343
+      },
+      "mint": {
+        "feedsOk": 6,
+        "feedsFailed": 0,
+        "items": 210
+      }
+    }
+  }
+}

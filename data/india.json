@@ -1,8 +1,8 @@
 {
-  "schema": 3,
+  "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-05T10:32:58.048Z",
+  "updatedAt": "2026-10-05T10:51:15.069Z",
   "sectors": [
     {
       "id": "energy",
@@ -15,11 +15,11 @@
           "source": "aljazeera",
           "date": "2026-10-05T05:20:57.000Z",
           "relevance": "high",
-          "why": "India imports much of its crude from the Gulf via Hormuz, so recovering Middle East exports bear directly on its oil supply and prices.",
+          "why": "Rising Gulf oil exports and the Hormuz route status bear directly on India's crude import supply and prices.",
           "implications": [
-            "Higher Gulf export volumes could ease supply worries and moderate crude prices for Indian importers.",
-            "The IRGC claim that flows through the US-supervised route are negligible suggests Hormuz shipments remain uncertain.",
-            "Any renewed disruption could raise freight and insurance costs and fuel import bills."
+            "Recovering Middle East exports may ease crude supply for India, which imports most of its oil.",
+            "Continued Hormuz tensions could still keep freight and insurance costs elevated for Indian importers.",
+            "Steadier flows may limit pressure on fuel prices and India's import bill."
           ],
           "reports": [
             {
@@ -31,74 +31,24 @@
           ]
         },
         {
-          "id": "s1uprbyh",
-          "headline": "G7 to release millions of barrels of oil and diesel after Trump threat",
-          "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
-          "source": "bbc",
-          "date": "2026-10-03T04:38:31.000Z",
-          "relevance": "high",
-          "why": "A coordinated G7 release of oil and diesel could ease global fuel prices and avert a US diesel export ban, both of which affect India's import costs.",
+          "id": "s1g99b56",
+          "headline": "G7 countries reluctantly agree to tap their fuel reserves to help the U.S.",
+          "url": "https://www.npr.org/2026/10/04/nx-s1-5989670/g7-countries-reluctantly-agree-to-tap-their-fuel-reserves-to-help-the-u-s",
+          "source": "npr",
+          "date": "2026-10-04T12:29:38.000Z",
+          "relevance": "medium",
+          "why": "A coordinated G7 release of diesel reserves signals tight global fuel supply and could shift international diesel prices that India trades at.",
           "implications": [
-            "Global oil and diesel price spikes may ease, which could lower India's fuel import bill in the coming weeks.",
-            "Avoiding a US diesel export ban could help keep global diesel supply stable for import-dependent economies like India.",
-            "Steadier fuel prices may reduce cost pressure on Indian transport and freight."
+            "Global diesel prices may ease in the near term, which could reduce pressure on India's fuel import costs.",
+            "The need for emergency releases suggests supply tightness, so Indian fuel prices could stay volatile.",
+            "Higher Indian diesel export demand is possible if G7 supplies fall short, which could affect domestic availability."
           ],
           "reports": [
-            {
-              "source": "bbc",
-              "headline": "G7 to release millions of barrels of oil and diesel after Trump threat",
-              "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
-              "date": "2026-10-03T04:38:31.000Z"
-            },
             {
               "source": "npr",
               "headline": "G7 countries reluctantly agree to tap their fuel reserves to help the U.S.",
               "url": "https://www.npr.org/2026/10/04/nx-s1-5989670/g7-countries-reluctantly-agree-to-tap-their-fuel-reserves-to-help-the-u-s",
               "date": "2026-10-04T12:29:38.000Z"
-            }
-          ]
-        },
-        {
-          "id": "si8i521",
-          "headline": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-          "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
-          "source": "bbc",
-          "date": "2026-10-02T08:54:00.000Z",
-          "relevance": "high",
-          "why": "A possible US diesel export ban and calls for European reserve releases could tighten global diesel supply and lift prices that India's fuel costs follow.",
-          "implications": [
-            "Global diesel prices may rise, which could raise import-linked fuel costs for Indian transport and farming.",
-            "Higher diesel costs could add to freight rates and food price pressure within weeks.",
-            "Government may face pressure to manage fuel pricing or taxes if the supply squeeze persists."
-          ],
-          "reports": [
-            {
-              "source": "bbc",
-              "headline": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-              "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
-              "date": "2026-10-02T08:54:00.000Z"
-            }
-          ]
-        },
-        {
-          "id": "s1o9hx0z",
-          "headline": "US sends third aircraft carrier to Middle East amid stalemate in Iran war",
-          "url": "https://www.theguardian.com/world/2026/oct/02/us-third-aircraft-carrier-middle-east-iran",
-          "source": "guardian",
-          "date": "2026-10-02T01:17:37.000Z",
-          "relevance": "medium",
-          "why": "A widening US-Iran conflict in the Middle East sits on the routes that carry much of India's oil and gas imports.",
-          "implications": [
-            "Prolonged military buildup could keep crude oil and freight risk premiums elevated, which may raise India's import costs.",
-            "New US strikes on Iran could disrupt Gulf shipping and energy supplies reaching India.",
-            "Indian citizens and workers in the Gulf may face greater security risks if fighting escalates."
-          ],
-          "reports": [
-            {
-              "source": "guardian",
-              "headline": "US sends third aircraft carrier to Middle East amid stalemate in Iran war",
-              "url": "https://www.theguardian.com/world/2026/oct/02/us-third-aircraft-carrier-middle-east-iran",
-              "date": "2026-10-02T01:17:37.000Z"
             }
           ]
         }
@@ -109,45 +59,16 @@
       "name": "Logistics & Shipping",
       "items": [
         {
-          "id": "sobkdki",
-          "headline": "Yemen war: What’s the latest, as government forces claim advances?",
-          "url": "https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield",
-          "source": "aljazeera",
-          "date": "2026-10-05T09:38:26.000Z",
-          "relevance": "medium",
-          "why": "Fighting to retake Houthi-held areas near the Bab al-Mandeb strait bears on Red Sea shipping lanes that India's trade with Europe depends on.",
-          "implications": [
-            "Renewed fighting near the strait could raise shipping risk and insurance costs for India-bound and India-origin cargo.",
-            "Exporters sending goods to Europe and the Gulf may face delays or longer rerouting if disruption spreads.",
-            "Indian crews and ships transiting the Red Sea could face higher security risk."
-          ],
-          "reports": [
-            {
-              "source": "aljazeera",
-              "headline": "Yemen war: What’s the latest, as government forces claim advances?",
-              "url": "https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield",
-              "date": "2026-10-05T09:38:26.000Z"
-            },
-            {
-              "source": "aljazeera",
-              "headline": "Yemeni forces reclaim Dhubab, key positions near Bab al-Mandeb from Houthis",
-              "url": "https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis",
-              "date": "2026-10-05T09:40:37.000Z"
-            }
-          ]
-        },
-        {
           "id": "s1j2msqq",
           "headline": "Yemen's government announces all-out war to reclaim land from Houthis",
           "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o",
           "source": "bbc",
           "date": "2026-10-04T16:51:30.000Z",
-          "relevance": "medium",
-          "why": "Renewed fighting in Yemen between the Houthis and the Saudi-led coalition could raise risk on Red Sea and Gulf of Aden shipping routes used by Indian trade.",
+          "relevance": "high",
+          "why": "Escalating fighting in Yemen involving the Houthis raises risk around the Red Sea, a key route for India's trade with Europe.",
           "implications": [
-            "Shipping through the Red Sea and Gulf of Aden may face higher insurance and security risks.",
-            "Indian exporters to Europe could see longer transit times and higher freight costs.",
-            "Escalation could also unsettle Gulf energy supply routes India relies on."
+            "Shipping through the Red Sea and Gulf of Aden could face fresh disruption, raising freight and insurance costs for Indian exporters.",
+            "Longer diversions around Africa may delay Indian cargo and push up import prices."
           ],
           "reports": [
             {
@@ -167,61 +88,18 @@
               "headline": "Yemen's government declares major operation against Houthis",
               "url": "https://www.abc.net.au/news/2026-10-05/yemeni-government-launches-offensive-to-seize-all-areas-from-ira/107228550",
               "date": "2026-10-05T02:50:43.000Z"
-            }
-          ]
-        },
-        {
-          "id": "svyjomh",
-          "headline": "Flydubai co-pilot planned to crash plane into airport, Israeli media reports",
-          "url": "https://www.abc.net.au/news/2026-10-05/flydubai-pilot-planned-to-crash-plane-into-ben-gurion-airport/107228592",
-          "source": "abc",
-          "date": "2026-10-05T00:51:54.000Z",
-          "relevance": "medium",
-          "why": "Flydubai is a major Gulf-India carrier, and an Indian pilot was involved in the incident, so the inquiry touches Indian air travellers and crew.",
-          "implications": [
-            "Indian passengers on Gulf-India flights may see closer scrutiny of cockpit security and crew vetting.",
-            "Airline and regulatory reviews could cause some schedule disruption on routes between India and the Gulf.",
-            "Indian crew and pilots employed by Gulf carriers may face added attention and checks."
-          ],
-          "reports": [
-            {
-              "source": "abc",
-              "headline": "Flydubai co-pilot planned to crash plane into airport, Israeli media reports",
-              "url": "https://www.abc.net.au/news/2026-10-05/flydubai-pilot-planned-to-crash-plane-into-ben-gurion-airport/107228592",
-              "date": "2026-10-05T00:51:54.000Z"
-            }
-          ]
-        },
-        {
-          "id": "s1yu8mst",
-          "headline": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
-          "url": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
-          "source": "guardian",
-          "date": "2026-10-02T08:39:40.000Z",
-          "relevance": "medium",
-          "why": "An Indian pilot foiled an apparent attempt to crash a Gulf-based airline flight, which concerns Indian crew and air travel safety on busy Gulf routes.",
-          "implications": [
-            "Airlines and regulators may review cockpit security and crew screening, which could affect flights used by Indian travellers.",
-            "Indian passengers and aviation workers in the Gulf could feel greater safety concerns, and government attention to Indian citizens abroad may rise."
-          ],
-          "reports": [
-            {
-              "source": "guardian",
-              "headline": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
-              "url": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
-              "date": "2026-10-02T08:39:40.000Z"
             },
             {
-              "source": "bbc",
-              "headline": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-              "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o",
-              "date": "2026-10-02T09:08:06.000Z"
+              "source": "aljazeera",
+              "headline": "Yemen war: What’s the latest, as government forces claim advances?",
+              "url": "https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield",
+              "date": "2026-10-05T09:38:26.000Z"
             },
             {
-              "source": "bbc",
-              "headline": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-              "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo",
-              "date": "2026-10-02T11:52:04.000Z"
+              "source": "aljazeera",
+              "headline": "Yemeni forces reclaim Dhubab, key positions near Bab al-Mandeb from Houthis",
+              "url": "https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis",
+              "date": "2026-10-05T09:40:37.000Z"
             }
           ]
         }
@@ -238,11 +116,11 @@
           "source": "bbc",
           "date": "2026-10-05T01:42:11.000Z",
           "relevance": "medium",
-          "why": "The story is about India's heavy reliance on Chinese imports, which shapes its trade balance and supply chains.",
+          "why": "The story is about India's heavy reliance on Chinese imports, which shapes its trade balance and exposure to supply disruptions.",
           "implications": [
-            "India's trade deficit with China may stay large while dependence on Chinese goods persists.",
-            "Indian buyers and retailers could be exposed to supply or price shocks from China.",
-            "Pressure may grow for policy to build domestic production and diversify import sources."
+            "Heavy dependence on Chinese goods could leave Indian consumers and businesses exposed to supply or price shocks.",
+            "It may strengthen the policy push to build domestic manufacturing and diversify import sources.",
+            "India's trade deficit with China could remain a concern for trade policy."
           ],
           "reports": [
             {
@@ -252,41 +130,34 @@
               "date": "2026-10-05T01:42:11.000Z"
             }
           ]
+        },
+        {
+          "id": "sbvxmgm",
+          "headline": "Brazil's election could shift its ties with the U.S. and China",
+          "url": "https://www.npr.org/2026/10/04/nx-s1-5989593/brazils-election-could-shift-its-ties-with-the-u-s-and-china",
+          "source": "npr",
+          "date": "2026-10-04T21:53:15.000Z",
+          "relevance": "medium",
+          "why": "Brazil's election could change its trade ties with the US and China, with possible knock-on effects for commodities India imports.",
+          "implications": [
+            "Any shift in Brazil's oil, soybean or critical-mineral flows may affect prices and supply options for Indian buyers.",
+            "India could see changing trade openings with Brazil if Brazil realigns between the US and China."
+          ],
+          "reports": [
+            {
+              "source": "npr",
+              "headline": "Brazil's election could shift its ties with the U.S. and China",
+              "url": "https://www.npr.org/2026/10/04/nx-s1-5989593/brazils-election-could-shift-its-ties-with-the-u-s-and-china",
+              "date": "2026-10-04T21:53:15.000Z"
+            }
+          ]
         }
       ]
     },
     {
       "id": "technology",
       "name": "Technology",
-      "items": [
-        {
-          "id": "s10jaw1z",
-          "headline": "Trump names intelligence chief Jay Clayton as new White House AI czar",
-          "url": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
-          "source": "guardian",
-          "date": "2026-10-04T17:45:28.000Z",
-          "relevance": "medium",
-          "why": "A new US White House AI lead signals possible AI policy direction in a major economy that India's tech sector and partners track.",
-          "implications": [
-            "US AI policy shifts could affect rules on technology exports, standards and cooperation that Indian firms and government depend on.",
-            "Indian IT services and AI-linked jobs may face changed US regulatory expectations over time."
-          ],
-          "reports": [
-            {
-              "source": "guardian",
-              "headline": "Trump names intelligence chief Jay Clayton as new White House AI czar",
-              "url": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
-              "date": "2026-10-04T17:45:28.000Z"
-            },
-            {
-              "source": "bbc",
-              "headline": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-              "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo",
-              "date": "2026-10-05T02:09:44.000Z"
-            }
-          ]
-        }
-      ]
+      "items": []
     },
     {
       "id": "manufacturing",
@@ -308,39 +179,16 @@
       "name": "Policy & Governance",
       "items": [
         {
-          "id": "suy1v38",
-          "headline": "India's 'Cockroach' protests intensify as police probe harassment claims",
-          "url": "https://www.abc.net.au/news/2026-10-05/india-investigates-sexual-harassment-cockroach-protests/107227464",
-          "source": "abc",
-          "date": "2026-10-04T18:46:37.000Z",
-          "relevance": "medium",
-          "why": "Intensifying protests against India's electoral commission and a police probe of harassment claims concern domestic governance and institutional trust.",
-          "implications": [
-            "Continued protests could raise pressure on the electoral commission and the government over election-body credibility.",
-            "The police probe into harassment claims may draw scrutiny of policing and press freedom at protests.",
-            "Protests in Delhi could disrupt local traffic and public order."
-          ],
-          "reports": [
-            {
-              "source": "abc",
-              "headline": "India's 'Cockroach' protests intensify as police probe harassment claims",
-              "url": "https://www.abc.net.au/news/2026-10-05/india-investigates-sexual-harassment-cockroach-protests/107227464",
-              "date": "2026-10-04T18:46:37.000Z"
-            }
-          ]
-        },
-        {
           "id": "safoyq8",
           "headline": "Indian police accused of sexually harassing journalists at protest",
           "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o",
           "source": "bbc",
           "date": "2026-10-04T17:01:19.000Z",
           "relevance": "medium",
-          "why": "The story is about Indian police conduct toward journalists and protests over the election chief and changes to voter rolls.",
+          "why": "Allegations against police over treatment of journalists at a protest over voter-roll changes concern press freedom and electoral governance in India.",
           "implications": [
-            "Allegations of police misconduct may increase scrutiny of press freedom and protest policing in India.",
-            "Disputes over voter roll changes could add pressure on the election authority to justify its process.",
-            "Continued protests may keep electoral integrity at the centre of political debate."
+            "The allegations could draw scrutiny of police conduct and press freedom, and may prompt official inquiries or court action.",
+            "Protests over voter-roll changes may keep pressure on the election authority and fuel political debate."
           ],
           "reports": [
             {
@@ -348,39 +196,20 @@
               "headline": "Indian police accused of sexually harassing journalists at protest",
               "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o",
               "date": "2026-10-04T17:01:19.000Z"
-            }
-          ]
-        },
-        {
-          "id": "sqjwff2",
-          "headline": "India's 'cockroach' protesters are back - this time asking poll chief to resign",
-          "url": "https://www.bbc.co.uk/news/articles/ck62mped4rz9o",
-          "source": "bbc",
-          "date": "2026-10-02T04:25:54.000Z",
-          "relevance": "medium",
-          "why": "The story is about a large protest in Mumbai demanding the resignation of India's election commissioner, which bears on electoral governance.",
-          "implications": [
-            "Public pressure on the election commission could become a wider political issue as polls approach.",
-            "Continued mass protests may prompt official responses on electoral transparency and institutional credibility."
-          ],
-          "reports": [
-            {
-              "source": "bbc",
-              "headline": "India's 'cockroach' protesters are back - this time asking poll chief to resign",
-              "url": "https://www.bbc.co.uk/news/articles/ck62mped4rz9o",
-              "date": "2026-10-02T04:25:54.000Z"
             },
             {
-              "source": "guardian",
-              "headline": "India’s Cockroach movement launches new protests over changes to voter roll",
-              "url": "https://www.theguardian.com/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll",
-              "date": "2026-10-02T14:42:16.000Z"
+              "source": "abc",
+              "headline": "India's 'Cockroach' protests intensify as police probe harassment claims",
+              "url": "https://www.abc.net.au/news/2026-10-05/india-investigates-sexual-harassment-cockroach-protests/107227464",
+              "date": "2026-10-04T18:46:37.000Z"
             }
           ]
         }
       ]
     }
   ],
+  "desk": "global",
+  "mode": "global",
   "sources": [
     {
       "id": "bbc",
@@ -413,12 +242,12 @@
       "region": "Australia"
     }
   ],
-  "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News",
+  "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 81,
-    "added": 4,
-    "merged": 3,
-    "rejected": 74,
+    "analysed": 150,
+    "added": 6,
+    "merged": 5,
+    "rejected": 139,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
