@@ -6,18 +6,20 @@ import fs from "node:fs/promises";
 import { pathToFileURL } from "node:url";
 
 const REGION = "India";
-const SCHEMA = 3;                              // bump to re-analyse everything under new rules
+const SCHEMA = 4;                              // v4: follow-ups merge into one developing story                              // bump to re-analyse everything under new rules
 const OUTLET_INFO = {
   bbc:        { name: "BBC News",     region: "Europe" },
   guardian:   { name: "The Guardian", region: "Europe" },
   npr:        { name: "NPR",          region: "North America" },
   aljazeera:  { name: "Al Jazeera",   region: "Asia" },
   mercopress: { name: "MercoPress",   region: "South America" },
-  abc:        { name: "ABC News",     region: "Australia" }
+  abc:        { name: "ABC News",     region: "Australia" },
+  thehindu:   { name: "The Hindu",    region: "India" },
+  mint:       { name: "Mint",         region: "India" }
 };
 const OUTLETS = Object.fromEntries(Object.entries(OUTLET_INFO).map(([id, o]) => [id, o.name]));
 const SINCE = "2026-10-02";                    // ignore stories published before this date
-const FEEDS = [
+const GLOBAL_FEEDS = [
   { src: "bbc", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
   { src: "bbc", url: "https://feeds.bbci.co.uk/news/business/rss.xml" },
   { src: "bbc", url: "https://feeds.bbci.co.uk/news/technology/rss.xml" },
@@ -43,6 +45,24 @@ const FEEDS = [
   { src: "abc", url: "https://www.abc.net.au/news/feed/104217382/rss.xml" },
   { src: "abc", url: "https://www.abc.net.au/news/feed/104217374/rss.xml" }
 ];
+const INDIA_FEEDS = [
+  { src: "thehindu", url: "https://www.thehindu.com/news/national/feeder/default.rss" },
+  { src: "thehindu", url: "https://www.thehindu.com/business/feeder/default.rss" },
+  { src: "thehindu", url: "https://www.thehindu.com/business/Economy/feeder/default.rss" },
+  { src: "thehindu", url: "https://www.thehindu.com/business/Industry/feeder/default.rss" },
+  { src: "thehindu", url: "https://www.thehindu.com/business/agri-business/feeder/default.rss" },
+  { src: "thehindu", url: "https://www.thehindu.com/sci-tech/technology/feeder/default.rss" },
+  { src: "mint", url: "https://www.livemint.com/rss/news" },
+  { src: "mint", url: "https://www.livemint.com/rss/economy" },
+  { src: "mint", url: "https://www.livemint.com/rss/politics" },
+  { src: "mint", url: "https://www.livemint.com/rss/industry" },
+  { src: "mint", url: "https://www.livemint.com/rss/companies" },
+  { src: "mint", url: "https://www.livemint.com/rss/technology" }
+];
+const DESKS = [
+  { id: "global",   mode: "global",   feeds: GLOBAL_FEEDS, data: "data/india.json",          seen: "data/seen.json",          rejected: "data/rejected.json" },
+  { id: "domestic", mode: "domestic", feeds: INDIA_FEEDS,  data: "data/india-domestic.json", seen: "data/seen-domestic.json", rejected: "data/rejected-domestic.json" }
+];
 const MODELS = [process.env.CLAUDE_MODEL || "claude-sonnet-5-5", "claude-haiku-4-5-20251001"];
 const SECTORS = [
   { id: "energy",        name: "Energy" },
@@ -54,12 +74,9 @@ const SECTORS = [
   { id: "agriculture",   name: "Agriculture & Food" },
   { id: "governance",    name: "Policy & Governance" }
 ];
-const DATA_FILE = "data/india.json";
-const SEEN_FILE = "data/seen.json";
-const REJECTED_FILE = "data/rejected.json";   // audit trail of what the filter discarded
-const MAX_REJECTED = 150;
-const BATCH = 10;              // headlines per Claude request
-const MAX_NEW_PER_RUN = 120;   // the rest wait for the next run
+const MAX_REJECTED = 150;                      // audit trail of what the filter discarded, per desk
+const BATCH = 15;              // headlines per Claude request
+const MAX_NEW_PER_RUN = 150;   // the rest wait for the next run
 const MATCH_WINDOW_DAYS = 4;   // how far back to look for the same event
 const MAX_PER_SECTOR = 40;
 const MAX_SEEN = 3000;
@@ -88,6 +105,9 @@ function skip(title, link) {
   if (/^((monday|tuesday|wednesday|thursday|friday|saturday|sunday|morning|evening|weekend|first edition|business today)\b[^:]{0,20})?\s*briefing\s*:/i.test(title)) return true;
   if (/^(first edition|the long read|today in focus|business live|newsletter)\b|\b(podcast|quiz|in (\d+ )?(photos|pictures))\b|[–-] live$/i.test(title)) return true;
   if (/\/series\/|\/info\/|\/newsletters?\//.test(link)) return true;
+  // single-stock and market-ticker items (common on business sites) edge towards stock tips
+  if (/\b(share price|shares (jump|surge|fall|slump|rise|tank|rally)|stocks? to (buy|watch)|buy or sell|target price|sensex|nifty|stock market today|ipo (gmp|allotment|subscription)|q[1-4] results?:)\b/i.test(title)) return true;
+  if (/\/market\/stock-market-news\/|\/market\/live-blog\/|\/astrology\/|\/horoscope/.test(link)) return true;
   return /\/sport\/|\/sports\/|\/live\/|\/liveblog\/|\/videos?\/|\/program\/|\/gallery\/|\/podcasts?\/|\/opinions?\/|\/commentisfree\/|\/audio\/|\/football\/|\/lifeandstyle\/|\/culture\/|\/tv-and-radio\/|\/music\/|\/film\/|\/books\//.test(link);
 }
 function cleanUrl(u) { try { const x = new URL(u); x.search = ""; x.hash = ""; return x.toString(); } catch { return u; } }
@@ -105,8 +125,8 @@ export function parseRss(xml, src) {
   return items;
 }
 
-const feedHealth = {};   // outlet -> { feedsOk, feedsFailed, items }
-async function fetchFeeds() {
+let feedHealth = {};   // outlet -> { feedsOk, feedsFailed, items }
+async function fetchFeeds(FEEDS) {
   const all = new Map();
   for (const { src, url } of FEEDS) {
     try {
@@ -122,10 +142,39 @@ async function fetchFeeds() {
 }
 
 /* ---------- Claude analysis ---------- */
-function buildPrompt(batch, recent) {
+const SAME_EVENT_RULE = `Same story: if an item reports the same story as one of the KNOWN EVENTS below, set "sameAs" to that event's key. If it reports the same story as an EARLIER item in this list, set "sameAs" to "item:<id>". The same story includes follow-ups, updates, new details, reactions and investigations about the SAME incident, protest, conflict, crisis or announcement (for example three reports on the same protest movement, or a later update on the same war). It is a DIFFERENT story when a different actor takes a separate decision or action, even on the same topic (for example "US pressures Europe to release reserves" and "G7 agrees to release reserves" are two stories). Otherwise "sameAs" is null.`;
+
+function buildPrompt(batch, recent, mode) {
   const sectors = SECTORS.map(s => `- ${s.id}: ${s.name}`).join("\n");
   const items = batch.map((s, i) => ({ id: i, outlet: OUTLETS[s.src], headline: s.headline, summary: s.summary }));
   const known = recent.map(e => ({ key: e.id, headline: e.headline }));
+  const shape = `[{"id":0,"relevant":true,"sector":"energy","relevance":"high","why":"...","implications":["...","..."],"sameAs":null}]`;
+  if (mode === "domestic") return `You are the analysis desk of an intelligence product that explains what developments INSIDE ${REGION} mean for people and businesses in ${REGION}.
+
+Sectors:
+${sectors}
+
+For each news item below from an Indian outlet, decide whether it is a development of NATIONAL significance in one of these sectors. If it is, choose the ONE sector it fits best and explain what it means.
+
+Rules:
+1. Use only the headline and summary as facts. Do not invent numbers, names or events.
+2. "why" is one sentence on why this matters for ${REGION} as a whole. Implications are concrete near-term effects on households, workers, farmers, businesses, prices, jobs, loans, taxes, supply or public services. One plain sentence each, under 25 words.
+3. Never discuss securities: no stocks, share prices, market moves, companies that benefit, or investment actions.
+4. Use cautious wording ("may", "could", "likely") for anything uncertain.
+5. Be strict. Keep national policy, regulation, budgets and taxes, RBI and banking, inflation and jobs data, infrastructure, energy, industry and manufacturing, agriculture and food supply, technology and telecom policy, environment and climate events with wide impact, and major governance developments. Mark relevant=false for crime, accidents, court cases about individuals, celebrity, entertainment, sport, religion, city- or state-level stories without national impact, party political sparring, single-company results or deals that do not affect a whole sector, and stock-market commentary. When unsure, choose false.
+6. relevance: "high" = direct, material effect on many people or a whole sector within weeks; "medium" = clear but modest or narrower.
+7. ${SAME_EVENT_RULE}
+
+KNOWN EVENTS:
+${JSON.stringify(known)}
+
+Items:
+${JSON.stringify(items)}
+
+Return ONLY a JSON array, one object per item:
+${shape}
+For relevant=false return {"id":N,"relevant":false,"reason":"why it is not of national significance, under 15 words","sameAs":null}. Give 2 or 3 implications when relevant.`;
+
   return `You are the analysis desk of an intelligence product that explains how world news affects ${REGION}.
 
 Sectors:
@@ -138,9 +187,9 @@ Rules:
 2. Implications are near-term effects on ${REGION}: prices, supply, trade, jobs, travel, citizens abroad, policy or security. One plain sentence each, under 25 words.
 3. Describe effects on the economy and society, never on securities: no stocks, no companies that benefit, no investment actions.
 4. Use cautious wording ("may", "could", "likely") for anything uncertain.
-5. Be strict. Mark relevant=false unless the item itself describes something with a clear path to ${REGION}: a global price, supply or trade shift, a policy by a major economy, a regional conflict on India's trade or energy routes, or events in or about ${REGION}. Judge by what the HEADLINE is about. A story framed around another country's domestic prices, politics, services or crime is NOT relevant, even if its summary mentions a global cause (for example "UK diesel price hits record high" is false); the global cause gets its own story. When unsure, choose false.
+5. Be strict. Mark relevant=false unless the item itself describes something with a clear path to ${REGION}: a global price, supply or trade shift, a policy by a major economy, a regional conflict on India's trade or energy routes, or events in or about ${REGION}. Judge by what the HEADLINE is about. A story framed around another country's domestic prices, politics, services or crime is NOT relevant, even if its summary mentions a global cause (for example "UK diesel price hits record high" is false); the global cause gets its own story. Elections, leadership contests and changes of government in other countries are NOT relevant unless the item itself mentions a trade, tariff, energy, sanctions or foreign-policy shift. When unsure, choose false.
 6. relevance: "high" = direct, material effect within weeks; "medium" = clear but modest or indirect.
-7. Same event: if an item reports the same specific event or development as one of the KNOWN EVENTS below, set "sameAs" to that event's key. If it reports the same event as an EARLIER item in this list, set "sameAs" to "item:<id>" of that earlier item. Otherwise "sameAs" is null. Same topic or country is not enough; it must be the same incident, decision or announcement. A follow-up, a reaction, or the pressure that led to a decision is a SEPARATE event from the decision itself (for example "US pressures Europe to release reserves" and "G7 agrees to release reserves" are two events).
+7. ${SAME_EVENT_RULE}
 
 KNOWN EVENTS:
 ${JSON.stringify(known)}
@@ -149,7 +198,7 @@ Items:
 ${JSON.stringify(items)}
 
 Return ONLY a JSON array, one object per item:
-[{"id":0,"relevant":true,"sector":"energy","relevance":"high","why":"one sentence on how this reaches ${REGION}","implications":["...","..."],"sameAs":null}]
+${shape}
 For relevant=false return {"id":N,"relevant":false,"reason":"why it does not reach ${REGION}, under 15 words","sameAs":null}. Give 2 or 3 implications when relevant.`;
 }
 
@@ -184,16 +233,27 @@ async function callClaude(prompt) {
 export async function main() {
   if (!process.env.ANTHROPIC_API_KEY) { console.error("ANTHROPIC_API_KEY secret is missing."); process.exit(1); }
   await fs.mkdir("data", { recursive: true });
+  let deskFailed = false;
+  for (const desk of DESKS) {
+    console.log(`\n=== ${desk.id} desk ===`);
+    const r = await runDesk(desk);
+    if (r.failures && !r.added && !r.merged && r.analysed) deskFailed = true;
+  }
+  if (deskFailed) process.exit(1); // surface a desk whose analysis failed entirely in the Actions tab
+}
 
-  let data = await readJson(DATA_FILE, null);
-  let seen = new Set(await readJson(SEEN_FILE, []));
+async function runDesk(desk) {
+  feedHealth = {};
+  let data = await readJson(desk.data, null);
+  let seen = new Set(await readJson(desk.seen, []));
   if (!data || data.schema !== SCHEMA) {
     console.log("Starting fresh under the current rules (schema " + SCHEMA + ")");
     data = null; seen = new Set();
   }
   data = data || { schema: SCHEMA, region: REGION, since: SINCE, updatedAt: null, sectors: [] };
-  data.schema = SCHEMA;
-  data.sources = Object.entries(OUTLET_INFO).map(([id, o]) => ({ id, name: o.name, region: o.region }));
+  data.schema = SCHEMA; data.desk = desk.id; data.mode = desk.mode;
+  const deskOutlets = [...new Set(desk.feeds.map(f => f.src))];
+  data.sources = deskOutlets.map(id => ({ id, name: OUTLET_INFO[id].name, region: OUTLET_INFO[id].region }));
   data.source = Object.values(OUTLETS).join(" & ");
   const byId = Object.fromEntries((data.sectors || []).map(s => [s.id, s]));
   data.sectors = SECTORS.map(s => ({ ...s, items: byId[s.id]?.items || [] }));
@@ -201,23 +261,23 @@ export async function main() {
   const allEvents = () => data.sectors.flatMap(s => s.items);
   const findEvent = key => allEvents().find(e => e.id === key);
   const sinceMs = Date.parse(SINCE);
-  const fresh = (await fetchFeeds())
+  const fresh = (await fetchFeeds(desk.feeds))
     .filter(it => !it.date || Date.parse(it.date) >= sinceMs)
     .filter(it => !seen.has(it.url))
     .sort((a, b) => (b.date || "").localeCompare(a.date || ""))   // take the newest headlines first...
     .slice(0, MAX_NEW_PER_RUN)
     .reverse();                                                    // ...then process them in time order so the first report leads
-  console.log(`${fresh.length} new headlines to analyse: ` + Object.keys(OUTLETS).map(k => `${OUTLETS[k]} ${fresh.filter(f => f.src === k).length}`).join(", "));
+  console.log(`${fresh.length} new headlines to analyse: ` + deskOutlets.map(k => `${OUTLETS[k]} ${fresh.filter(f => f.src === k).length}`).join(", "));
   console.log("Feed health: " + JSON.stringify(feedHealth));
 
-  const rejected = await readJson(REJECTED_FILE, []);
+  const rejected = data.schema === SCHEMA && seen.size ? await readJson(desk.rejected, []) : [];
   let added = 0, merged = 0, failures = 0;
   for (let k = 0; k < fresh.length; k += BATCH) {
     const batch = fresh.slice(k, k + BATCH);
     const cutoff = Date.now() - MATCH_WINDOW_DAYS * 864e5;
     const recent = allEvents().filter(e => !e.date || Date.parse(e.date) >= cutoff).slice(0, 80);
     let results;
-    try { results = await callClaude(buildPrompt(batch, recent)); }
+    try { results = await callClaude(buildPrompt(batch, recent, desk.mode)); }
     catch (e) { console.error(`Batch failed: ${e.message}`); failures++; continue; } // not marked seen: retried next run
     const placed = {};                                      // batch index -> event it went into
     for (const r of [...results].sort((a, b) => (a?.id ?? 0) - (b?.id ?? 0))) {
@@ -259,11 +319,11 @@ export async function main() {
   data.updatedAt = new Date().toISOString();
   data.lastRun = { analysed: fresh.length, added, merged, rejected: fresh.length && !failures ? fresh.length - added - merged : undefined, failedBatches: failures, feeds: feedHealth };
 
-  await fs.writeFile(DATA_FILE, JSON.stringify(data, null, 2) + "\n");
-  await fs.writeFile(SEEN_FILE, JSON.stringify([...seen].slice(-MAX_SEEN)) + "\n");
-  await fs.writeFile(REJECTED_FILE, JSON.stringify(rejected.slice(0, MAX_REJECTED), null, 2) + "\n");
+  await fs.writeFile(desk.data, JSON.stringify(data, null, 2) + "\n");
+  await fs.writeFile(desk.seen, JSON.stringify([...seen].slice(-MAX_SEEN)) + "\n");
+  await fs.writeFile(desk.rejected, JSON.stringify(rejected.slice(0, MAX_REJECTED), null, 2) + "\n");
   console.log(`Added ${added} new events, merged ${merged} reports into existing events. Failed batches: ${failures}.`);
-  if (failures && !added && !merged && fresh.length) process.exit(1); // surface total failure in the Actions tab
+  return { added, merged, failures, analysed: fresh.length };
 }
 function latest(e) { return (e.reports || []).map(r => r.date || "").sort().pop() || e.date || ""; }
 
