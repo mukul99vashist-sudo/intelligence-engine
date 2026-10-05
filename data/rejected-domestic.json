@@ -1,6 +1,582 @@
 [
   {
     "source": "thehindu",
+    "headline": "BJP Keralam unit questions State govt’s anti-corruption inquiry against CEC Gyanesh Kumar",
+    "url": "https://www.thehindu.com/news/national/kerala/bjp-keralam-unit-questions-state-govts-anti-corruption-inquiry-against-cec-gyanesh-kumar/article71546759.ece",
+    "date": "2026-10-05T10:53:20.000Z",
+    "reason": "Party political sparring over a state inquiry into an individual.",
+    "checkedAt": "2026-10-05T10:59:56.005Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Lockheed Martin’s India expansion plan hinges on $10.5bn military aircraft bid: Which firms are competing for project?",
+    "url": "https://www.livemint.com/companies/news/lockheed-martin-s-india-expansion-plan-hinges-on-10-5bn-military-aircraft-bid-which-firms-are-competing-for-project-11791107461403.html",
+    "date": "2026-10-04T10:54:57.000Z",
+    "reason": "Single-company bid for a defence contract; it does not affect a whole sector.",
+    "checkedAt": "2026-10-05T10:59:56.005Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "OpenAI alerts more than 100 groups about rogue AI agent activity",
+    "url": "https://www.thehindu.com/sci-tech/technology/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity/article71539555.ece",
+    "date": "2026-10-04T10:43:29.000Z",
+    "reason": "Global AI company security incident with no stated India-specific policy impact.",
+    "checkedAt": "2026-10-05T10:59:56.005Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Bengaluru's office parks take the commute challenge into their own hands",
+    "url": "https://www.livemint.com/industry/bengaluru-traffic-office-parks-commute-11790914760345.html",
+    "date": "2026-10-04T10:32:47.000Z",
+    "reason": "City-level story about Bengaluru office park commuting, without national impact.",
+    "checkedAt": "2026-10-05T10:59:56.005Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Amazon v. Perplexity: who’s in control when an AI agent acts for you?",
+    "url": "https://www.thehindu.com/sci-tech/technology/amazon-v-perplexity-whos-in-control-when-an-ai-agent-acts-for-you/article71523202.ece",
+    "date": "2026-10-04T10:31:31.000Z",
+    "reason": "Foreign company legal dispute; Indian relevance is only speculative commentary.",
+    "checkedAt": "2026-10-05T10:59:56.005Z"
+  },
+  {
+    "source": "mint",
+    "headline": "India needs its own AI safety framework, not a copy of US pact: Industry experts",
+    "url": "https://www.livemint.com/technology/india-needs-its-own-ai-safety-framework-not-a-copy-of-us-pact-industry-experts-11791108098849.html",
+    "date": "2026-10-04T10:01:38.000Z",
+    "reason": "Industry opinion on AI safety; no government decision or regulation reported.",
+    "checkedAt": "2026-10-05T10:59:56.005Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Gold, silver lose lustre in September",
+    "url": "https://www.thehindu.com/business/Industry/gold-silver-lose-lustre-in-september/article71543320.ece",
+    "date": "2026-10-04T09:19:13.000Z",
+    "reason": "Monthly commentary on gold and silver price moves, which is market commentary.",
+    "checkedAt": "2026-10-05T10:59:56.005Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Finances for raising a child",
+    "url": "https://www.thehindu.com/business/Industry/finances-for-raising-a-child/article71543317.ece",
+    "date": "2026-10-04T09:12:48.000Z",
+    "reason": "Personal-finance explainer on household costs, not a national policy or sector development.",
+    "checkedAt": "2026-10-05T10:59:56.005Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Real estate exposure without buying a flat",
+    "url": "https://www.thehindu.com/business/Industry/real-estate-exposure-without-buying-a-flat/article71543304.ece",
+    "date": "2026-10-04T09:05:39.000Z",
+    "reason": "Personal-finance and investment advice on REITs, not a national development.",
+    "checkedAt": "2026-10-05T10:59:48.499Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "From lab to life: Why translating AI advances to the real world is a major challenge",
+    "url": "https://www.thehindu.com/sci-tech/health/from-lab-to-life-why-translating-ai-advances-to-the-real-world-is-a-major-challenge/article71543262.ece",
+    "date": "2026-10-04T08:54:27.000Z",
+    "reason": "General explainer on AI research, with no national development.",
+    "checkedAt": "2026-10-05T10:59:48.499Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Govt proposes safety limits for medicinal plant used for treating epilepsy",
+    "url": "https://www.livemint.com/industry/ayurveda-safety-norms-bis-medicinal-plant-epilepsy-11791088831116.html",
+    "date": "2026-10-04T08:09:35.000Z",
+    "reason": "Narrow draft standards for a single medicinal plant.",
+    "checkedAt": "2026-10-05T10:59:48.499Z"
+  },
+  {
+    "source": "mint",
+    "headline": "India’s food market: $600 bn estimate; 7% CAGR — from primary producer to high-value global processing powerhouse",
+    "url": "https://www.livemint.com/economy/indias-food-market-600-bn-estimate-7-cagr-from-primary-producer-to-high-value-global-processing-powerhouse-11791100739815.html",
+    "date": "2026-10-04T08:08:23.000Z",
+    "reason": "Expert commentary on long-term potential, with no new policy or data development.",
+    "checkedAt": "2026-10-05T10:59:48.499Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Merz Warns of Putin’s Threat to West in Surprise Kyiv Visit",
+    "url": "https://www.livemint.com/politics/merz-warns-of-putin-s-threat-to-west-in-surprise-kyiv-visit-11791098606271.html",
+    "date": "2026-10-04T07:23:25.000Z",
+    "reason": "European geopolitics with no direct India impact.",
+    "checkedAt": "2026-10-05T10:59:48.499Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "The ‘WarGames’ problem: Computer science has long understood what it takes to keep AI under control",
+    "url": "https://www.thehindu.com/sci-tech/science/the-wargames-problem-computer-science-has-long-understood-what-it-takes-to-keep-ai-under-control/article71539805.ece",
+    "date": "2026-10-04T07:20:05.000Z",
+    "reason": "General opinion piece on AI control, with no India-specific development.",
+    "checkedAt": "2026-10-05T10:59:48.499Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Microdramas, K-dramas, anime grow as local OTT originals see rationalization",
+    "url": "https://www.livemint.com/industry/media/microdramas-kdramas-anime-india-ott-growth-11791034393097.html",
+    "date": "2026-10-04T06:45:36.000Z",
+    "reason": "Entertainment content trends with no national policy significance.",
+    "checkedAt": "2026-10-05T10:59:48.499Z"
+  },
+  {
+    "source": "mint",
+    "headline": "South Korean president orders probe into data leaks across financial industry",
+    "url": "https://www.livemint.com/companies/south-korean-president-orders-probe-into-data-leaks-across-financial-industry-11791094811850.html",
+    "date": "2026-10-04T06:20:11.000Z",
+    "reason": "South Korean domestic data-leak probe, not about India.",
+    "checkedAt": "2026-10-05T10:59:48.499Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "How accurate is Bengaluru’s AI traffic enforcement? | Explained",
+    "url": "https://www.thehindu.com/sci-tech/technology/how-accurate-is-bengalurus-ai-traffic-enforcement-explained/article71532005.ece",
+    "date": "2026-10-04T05:46:35.000Z",
+    "reason": "City-level traffic enforcement story without national impact.",
+    "checkedAt": "2026-10-05T10:59:48.499Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Trump names intelligence chief Clayton as AI czar, to head task force, WSJ reports",
+    "url": "https://www.livemint.com/technology/trump-names-intelligence-chief-clayton-as-ai-czar-to-head-task-force-wsj-reports-11791079624946.html",
+    "date": "2026-10-04T02:07:04.000Z",
+    "reason": "US domestic appointment with no direct India policy or sector impact.",
+    "checkedAt": "2026-10-05T10:59:48.499Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Bank holidays next week: SBI, HDFC Bank, ICICI Bank branches to remain closed on these days from Oct 5-11",
+    "url": "https://www.livemint.com/industry/banking/bank-holidays-next-week-sbi-hdfc-bank-icici-bank-branches-to-remain-closed-on-these-days-from-oct-511-11791077492747.html",
+    "date": "2026-10-04T01:44:42.000Z",
+    "reason": "Routine bank holiday listing without national policy significance.",
+    "checkedAt": "2026-10-05T10:59:32.700Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Fleur to deploy $1 bn as Lemon Tree splits ownership, management businesses",
+    "url": "https://www.livemint.com/companies/news/fleur-to-deploy-1-bn-as-lemon-tree-splits-ownership-management-businesses-11790835711651.html",
+    "date": "2026-10-04T01:30:43.000Z",
+    "reason": "Single-company restructuring and investment, not sector-wide.",
+    "checkedAt": "2026-10-05T10:59:32.700Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Bitchat removed from Apple’s India App Store following govt's demand: Jack Dorsey",
+    "url": "https://www.thehindu.com/sci-tech/technology/bitchat-removed-from-apples-india-app-store-following-govts-demand-jack-dorsey/article71541755.ece",
+    "date": "2026-10-04T01:25:04.000Z",
+    "reason": "Same Bitchat removal story as an earlier item.",
+    "checkedAt": "2026-10-05T10:59:32.700Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Intesa Says Paschi Bid to Lapse If Holders Back Rival Deals",
+    "url": "https://www.livemint.com/companies/intesa-says-paschi-bid-to-lapse-if-holders-back-rival-deals-11791060153350.html",
+    "date": "2026-10-03T20:42:32.000Z",
+    "reason": "Italian banking takeover news with no India impact.",
+    "checkedAt": "2026-10-05T10:59:32.700Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Meta’s AI Data Center tax strategy that saves billions - Report",
+    "url": "https://www.livemint.com/companies/news/metas-ai-data-center-tax-strategy-that-saves-billions-report-11791052337598.html",
+    "date": "2026-10-03T20:19:44.000Z",
+    "reason": "Foreign company's tax strategy, not an India development.",
+    "checkedAt": "2026-10-05T10:59:32.700Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Not lack of talent, senior business leaders point to these key factors posing obstacles...",
+    "url": "https://www.livemint.com/companies/talent-shortage-not-skills-senior-business-leaders-point-key-factors-outdated-process-priority-strategy-obstacles-survey-11791050413102.html",
+    "date": "2026-10-03T18:27:15.000Z",
+    "reason": "Small private survey on business execution gaps, not a national development.",
+    "checkedAt": "2026-10-05T10:59:32.700Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Bitchat removed from India Apple store: Why Twitter co-founder Jack Dorsey's app has been taken down?",
+    "url": "https://www.livemint.com/technology/apps/bitchat-removed-from-india-apple-store-why-twitter-co-founder-jack-dorseys-app-has-been-taken-down-11791050095828.html",
+    "date": "2026-10-03T18:23:45.000Z",
+    "reason": "Same Bitchat removal story as an earlier item.",
+    "checkedAt": "2026-10-05T10:59:32.700Z"
+  },
+  {
+    "source": "mint",
+    "headline": "‘No place to grow artificial minds’: Why did David Robinson quit OpenAI? What did he write in his essay?",
+    "url": "https://www.livemint.com/companies/people/no-place-to-grow-artificial-minds-why-did-david-robinson-openai-quit-what-did-he-write-in-his-essay-11791041936745.html",
+    "date": "2026-10-03T17:07:10.000Z",
+    "reason": "Foreign AI company controversy with no direct India impact.",
+    "checkedAt": "2026-10-05T10:59:32.700Z"
+  },
+  {
+    "source": "mint",
+    "headline": "‘I do not invest. I don’t do that stuff’: Why this Apple co-founder opted for a mere $50 paycheck",
+    "url": "https://www.livemint.com/companies/people/i-do-not-invest-i-don-t-do-that-stuff-why-this-apple-co-founder-opted-for-a-mere-50-paycheck-11791044074706.html",
+    "date": "2026-10-03T16:47:26.000Z",
+    "reason": "Corporate trivia about Apple's founders, not India-related.",
+    "checkedAt": "2026-10-05T10:59:32.700Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Astra | The latest leap",
+    "url": "https://www.thehindu.com/sci-tech/technology/astra-the-latest-leap/article71541623.ece",
+    "date": "2026-10-03T16:47:03.000Z",
+    "reason": "Global AI debate about OpenAI, not an India-specific development.",
+    "checkedAt": "2026-10-05T10:59:32.700Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "MRFA deal likely by end of FY27, says IAF chief; annual requirement of 36-40 fighters",
+    "url": "https://www.thehindu.com/news/national/india-may-finalise-mrfa-deal-by-current-financial-year-iaf-chief/article71540116.ece",
+    "date": "2026-10-03T16:42:13.000Z",
+    "reason": "Defence procurement timeline, not within the listed sectors; unclear near-term national impact.",
+    "checkedAt": "2026-10-05T10:59:32.700Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Korea to explore business opportunities in Karnataka sectors",
+    "url": "https://www.thehindu.com/business/korea-to-explore-business-opportunities-in-karnataka-sectors/article71541371.ece",
+    "date": "2026-10-03T16:37:58.000Z",
+    "reason": "State-level business outreach in Karnataka without national impact.",
+    "checkedAt": "2026-10-05T10:59:32.700Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Titan Company deepens focus on mechanical horology as category grows almost 5-fold",
+    "url": "https://www.thehindu.com/business/titan-company-deepens-focus-on-mechanical-horology-as-category-grows-almost-5-fold/article71538026.ece",
+    "date": "2026-10-03T15:40:12.000Z",
+    "reason": "Single-company product focus with no sector-wide or national impact.",
+    "checkedAt": "2026-10-05T10:59:32.700Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Deepinder Goyal teases six Temple variants: Full list of colours, launch date, pre-order details and more",
+    "url": "https://www.livemint.com/technology/tech-news/deepinder-goyal-teases-six-temple-variants-colours-launch-date-pre-order-details-and-more-11791039096690.html",
+    "date": "2026-10-03T15:25:28.000Z",
+    "reason": "Consumer gadget launch details by a single company.",
+    "checkedAt": "2026-10-05T10:59:21.745Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Paramount-Warner Bros merger: Who is staying, who is exiting as Skydance takes shape?",
+    "url": "https://www.livemint.com/entertainment/paramountwarner-bros-merger-who-is-staying-who-is-exiting-as-skydance-takes-shape-11791038008329.html",
+    "date": "2026-10-03T14:57:20.000Z",
+    "reason": "Foreign media company merger leadership changes, not India-focused.",
+    "checkedAt": "2026-10-05T10:59:21.745Z"
+  },
+  {
+    "source": "mint",
+    "headline": "FM Sitharaman calls for open, predictable global economic ties amid rising uncertainty",
+    "url": "https://www.livemint.com/economy/fm-bats-for-keeping-global-economic-relations-open-and-rulesbased-11791037375411.html",
+    "date": "2026-10-03T14:45:06.000Z",
+    "reason": "General ministerial remarks on global economy without a concrete policy decision.",
+    "checkedAt": "2026-10-05T10:59:21.745Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Radhakishan Damani's firm leases luxury apartment in Mumbai’s Worli for ₹28.5 lakh a month, pays ₹1.71 crore deposit",
+    "url": "https://www.livemint.com/industry/real-estate/d-mart-radhakishan-damani-firm-leases-luxury-apartment-in-mumbai-worli-for-28-5-lakh-a-month-pays-1-71-crore-deposit-11791034198444.html",
+    "date": "2026-10-03T14:32:41.000Z",
+    "reason": "Private luxury property lease with no national significance.",
+    "checkedAt": "2026-10-05T10:59:21.745Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "CBI files charge sheet against RCom, others in ₹3,750 crore LIC fraud case",
+    "url": "https://www.thehindu.com/business/Industry/cbi-files-charge-sheet-against-rcom-others-in-3750-crore-lic-fraud-case/article71540573.ece",
+    "date": "2026-10-03T12:47:50.000Z",
+    "reason": "Criminal charge sheet in a fraud case against specific individuals and companies.",
+    "checkedAt": "2026-10-05T10:59:21.745Z"
+  },
+  {
+    "source": "mint",
+    "headline": "India weathered global shocks, retained policy space to respond: FM Nirmala Sitharaman",
+    "url": "https://www.livemint.com/economy/india-weathered-global-shocks-retained-policy-space-to-respond-fm-nirmala-sitharaman-11791025526263.html",
+    "date": "2026-10-03T11:23:06.000Z",
+    "reason": "Ministerial speech summarising past performance, with no new policy or decision.",
+    "checkedAt": "2026-10-05T10:59:21.745Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "SEBI examining position limits for non-agri contracts to boost liquidity",
+    "url": "https://www.thehindu.com/business/sebi-examining-position-limits-for-non-agri-contracts-to-boost-liquidity/article71540271.ece",
+    "date": "2026-10-03T10:24:23.000Z",
+    "reason": "Market regulator detail on commodity derivatives liquidity; market-structure story, not broad national impact.",
+    "checkedAt": "2026-10-05T10:59:21.745Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Noel Tata on ₹250 cr investment for IIM Bangalore and why need of the hour is primary education",
+    "url": "https://www.livemint.com/companies/people/noel-tata-on-rs-250-cr-investment-for-iim-bangalore-and-why-need-of-the-hour-is-primary-education-11791016772349.html",
+    "date": "2026-10-03T09:23:27.000Z",
+    "reason": "Private philanthropy announcement by a trust, not a national policy or sector development.",
+    "checkedAt": "2026-10-05T10:59:21.745Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "China launches anti-dumping probe into EU chemical imports ahead of trade talks",
+    "url": "https://www.thehindu.com/business/china-launches-anti-dumping-probe-into-eu-p-nitrotoluene-imports/article71539807.ece",
+    "date": "2026-10-03T09:04:35.000Z",
+    "reason": "China-EU trade dispute with no stated direct impact on India.",
+    "checkedAt": "2026-10-05T10:59:21.745Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Worried about who your teen is talking to on WhatsApp? Messaging platform rolls out parental controls: Details",
+    "url": "https://www.livemint.com/technology/tech-news/worried-about-who-your-teen-is-talking-to-on-whatsapp-messaging-platform-rolls-out-parental-controls-details-11791015190457.html",
+    "date": "2026-10-03T08:32:45.000Z",
+    "reason": "Single company product feature with no national policy significance.",
+    "checkedAt": "2026-10-05T10:59:21.745Z"
+  },
+  {
+    "source": "mint",
+    "headline": "World's top 5 airlines: Where does Smit Machhar's Flydubai rank | All about Emirati government-owned company",
+    "url": "https://www.livemint.com/companies/news/worlds-top-5-airlines-where-does-smit-machhars-flydubai-rank-all-about-emirati-government-owned-company-11791012241346.html",
+    "date": "2026-10-03T07:48:27.000Z",
+    "reason": "Foreign airline in-flight incident with no national policy or sector impact in India.",
+    "checkedAt": "2026-10-05T10:59:21.745Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows",
+    "url": "https://www.thehindu.com/sci-tech/technology/anthropic-warns-government-attitudes-may-hurt-customer-ties-ipo-prospectus-shows/article71539554.ece",
+    "date": "2026-10-03T04:27:47.000Z",
+    "reason": "US company's IPO risk disclosure; not a development inside India.",
+    "checkedAt": "2026-10-05T10:59:06.331Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Justice Department Urges Judge to Let Trump’s Media Ban Proceed",
+    "url": "https://www.livemint.com/politics/justice-department-urges-judge-to-let-trump-s-media-ban-proceed-11791000732524.html",
+    "date": "2026-10-03T04:12:12.000Z",
+    "reason": "US domestic legal dispute over White House press access; no Indian relevance.",
+    "checkedAt": "2026-10-05T10:59:06.331Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "OpenAI says three staffers fired for mishandling 'sensitive' info",
+    "url": "https://www.thehindu.com/sci-tech/technology/openai-says-three-staffers-fired-for-mishandling-sensitive-info/article71539550.ece",
+    "date": "2026-10-03T03:59:22.000Z",
+    "reason": "Internal personnel matter at a US company, not a national Indian development.",
+    "checkedAt": "2026-10-05T10:59:06.331Z"
+  },
+  {
+    "source": "mint",
+    "headline": "E-commerce platforms lean into affordability this festive season",
+    "url": "https://www.livemint.com/industry/retail/ecommerce-platforms-lean-into-affordability-this-festive-season-11790924119456.html",
+    "date": "2026-10-03T00:10:22.000Z",
+    "reason": "Festive-season competition among e-commerce platforms; company-level commercial strategy.",
+    "checkedAt": "2026-10-05T10:59:06.331Z"
+  },
+  {
+    "source": "mint",
+    "headline": "G7 unlocks 100 million barrels: Who holds world’s emergency oil and who decides when to release it? A deep dive",
+    "url": "https://www.livemint.com/economy/g7-unlocks-100-million-barrels-who-holds-world-s-emergency-oil-and-who-decides-when-to-release-it-a-deep-dive-11790962058054.html",
+    "date": "2026-10-02T18:19:19.000Z",
+    "reason": "G7 emergency oil release is a foreign decision, not a development inside India.",
+    "checkedAt": "2026-10-05T10:59:06.331Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Pay the Global South for climate damage, but only if it prices carbon, says economist Greenstone",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/pay-the-global-south-for-climate-damage-but-only-if-it-prices-carbon-says-economist-greenstone/article71537394.ece",
+    "date": "2026-10-02T17:53:53.000Z",
+    "reason": "An academic's opinion on climate finance, with no Indian policy development.",
+    "checkedAt": "2026-10-05T10:59:06.331Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "FPIs turn net sellers, pull out ₹35,860 crore in September",
+    "url": "https://www.thehindu.com/business/markets/fpis-turn-net-sellers-pull-out-35860-crore-in-september/article71538360.ece",
+    "date": "2026-10-02T17:25:22.000Z",
+    "reason": "Foreign portfolio investor flows are stock-market commentary.",
+    "checkedAt": "2026-10-05T10:59:06.331Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Amazon expands ultra-fast delivery service to more than 120 Indian cities",
+    "url": "https://www.thehindu.com/business/Industry/amazon-expands-ultra-fast-delivery-service-to-more-than-120-indian-cities/article71538347.ece",
+    "date": "2026-10-02T17:18:18.000Z",
+    "reason": "Single-company service expansion without sector-wide national impact.",
+    "checkedAt": "2026-10-05T10:59:06.331Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Diesel Diplomacy! Trump says Europe will release ‘massive amount’ of diesel as China cuts fuel exports",
+    "url": "https://www.livemint.com/economy/us-president-trump-says-europe-will-release-massive-amount-of-diesel-as-china-cuts-fuel-exports-amid-iran-war-11790952200117.html",
+    "date": "2026-10-02T15:39:51.000Z",
+    "reason": "Foreign leader's statement on European diesel reserves and Chinese export curbs; not a development inside India.",
+    "checkedAt": "2026-10-05T10:59:06.330Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Global Health expands Delhi-NCR footprint with upcoming Medanta hospital in Ghaziabad- details inside",
+    "url": "https://www.livemint.com/industry/infrastructure/global-health-expands-delhi-ncr-footprint-with-upcoming-medanta-hospital-in-ghaziabad-details-inside-11790948239738.html",
+    "date": "2026-10-02T14:38:08.000Z",
+    "reason": "Single hospital company's local expansion.",
+    "checkedAt": "2026-10-05T10:58:49.369Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Nothing Phone (4a), Phone (4a) Pro, Phone (4b) get Flipkart Big Billion Days offers: Prices, bank discounts and more",
+    "url": "https://www.livemint.com/technology/nothing-phone-4a-phone-4a-pro-phone-4b-get-flipkart-big-billion-days-offers-prices-bank-discounts-and-more-11790940872284.html",
+    "date": "2026-10-02T14:30:53.000Z",
+    "reason": "Consumer shopping offers on smartphones.",
+    "checkedAt": "2026-10-05T10:58:49.369Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Auto-component order wins: Decoding LTV and its implications for revenue visibility",
+    "url": "https://www.thehindu.com/business/Industry/auto-component-order-wins-decoding-ltv-and-its-implications-for-revenue-visibility/article71491434.ece",
+    "date": "2026-10-02T14:27:28.000Z",
+    "reason": "Company-level financial metric explainer, not a national sector development.",
+    "checkedAt": "2026-10-05T10:58:49.369Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Meet Sudhakar Malli, RBI's new Executive Director and banking supervision veteran",
+    "url": "https://www.livemint.com/industry/banking/meet-sudhakar-malli-rbis-new-executive-director-and-banking-supervision-veteran-11790943391731.html",
+    "date": "2026-10-02T12:28:46.000Z",
+    "reason": "Routine personnel appointment profile with no direct policy effect.",
+    "checkedAt": "2026-10-05T10:58:49.369Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Punjab Election 2027: AAP seeks repeat, Cong eyes comeback, SAD seeks consolidation - What is at stake?",
+    "url": "https://www.livemint.com/politics/punjab-election-2027-aap-seeks-repeat-congress-eyes-comeback-akalis-fight-for-revival-whats-at-stake-for-bjp-11790940971742.html",
+    "date": "2026-10-02T12:09:04.000Z",
+    "reason": "State election political analysis, not a national development.",
+    "checkedAt": "2026-10-05T10:58:49.369Z"
+  },
+  {
+    "source": "mint",
+    "headline": "ICICI Life Insurance appoints Sidharatha Mishra as MD, CEO from October 14 - Who is he?",
+    "url": "https://www.livemint.com/industry/banking/icici-life-insurance-appoints-sidharatha-mishra-as-md-ceo-from-october-14-who-is-he-11790941710813.html",
+    "date": "2026-10-02T11:55:42.000Z",
+    "reason": "Single-company executive appointment.",
+    "checkedAt": "2026-10-05T10:58:49.369Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Yogi vs Akhilesh: Why UP Rajya Sabha elections 2026 has become nail-biting contest between SP, BJP",
+    "url": "https://www.livemint.com/politics/yogi-vs-akhilesh-why-up-rajya-sabha-elections-2026-has-become-nail-biting-contest-between-sp-bjp-11790935350310.html",
+    "date": "2026-10-02T11:09:26.000Z",
+    "reason": "State-level party political contest over Rajya Sabha seats.",
+    "checkedAt": "2026-10-05T10:58:49.369Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "World shares mixed after global bond sell-off deepens, ahead of U.S. jobs data",
+    "url": "https://www.thehindu.com/business/markets/world-shares-mixed-after-global-bond-sell-off-deepens-ahead-of-us-jobs-data/article71536631.ece",
+    "date": "2026-10-02T10:58:27.000Z",
+    "reason": "Global stock-market commentary, which is excluded.",
+    "checkedAt": "2026-10-05T10:58:49.369Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Sebi penalises SMC Global Securities for compliance lapses",
+    "url": "https://www.thehindu.com/business/sebi-penalises-smc-global-securities-for-compliance-lapses/article71536636.ece",
+    "date": "2026-10-02T10:55:25.000Z",
+    "reason": "Regulatory penalty on a single brokerage firm, with no sector-wide impact.",
+    "checkedAt": "2026-10-05T10:58:49.369Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Samsung launches Galaxy A08 for mid segment buyers in India",
+    "url": "https://www.thehindu.com/sci-tech/technology/gadgets/samsung-launches-galaxy-a08-for-mid-segment-buyers-in-india/article71533002.ece",
+    "date": "2026-10-02T10:23:10.000Z",
+    "reason": "Consumer smartphone launch by a single company.",
+    "checkedAt": "2026-10-05T10:58:49.369Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Google Fitbit Air to be available in India from October 2",
+    "url": "https://www.thehindu.com/sci-tech/technology/gadgets/google-fitbit-air-to-be-available-in-india-from-october-2/article71532210.ece",
+    "date": "2026-10-02T10:22:54.000Z",
+    "reason": "Consumer gadget launch, not a national policy or sector development.",
+    "checkedAt": "2026-10-05T10:58:49.369Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Zoho launches Arattai for Business: How it compares with WhatsApp Business after Meta’s new charges",
+    "url": "https://www.livemint.com/technology/zoho-launches-arattai-for-business-how-it-compares-with-whatsapp-business-after-meta-s-new-charges-11790932153271.html",
+    "date": "2026-10-02T09:26:57.000Z",
+    "reason": "Single-company product launch without sector-wide national impact.",
+    "checkedAt": "2026-10-05T10:58:49.369Z"
+  },
+  {
+    "source": "mint",
+    "headline": "CJP News: 'I wear shoes worth ₹30,000' – What Abhijit Dipke told about funding",
+    "url": "https://www.livemint.com/politics/cjp-news-i-wear-shoes-worth-30-000-what-abhijit-dipke-told-about-funding-11790929927392.html",
+    "date": "2026-10-02T09:03:37.000Z",
+    "reason": "Political group funding controversy and protest; party-political sparring.",
+    "checkedAt": "2026-10-05T10:58:39.326Z"
+  },
+  {
+    "source": "mint",
+    "headline": "India’s retail leasing map shifts: Delhi NCR leads in Q3, Hyderabad gains on Mumbai",
+    "url": "https://www.livemint.com/industry/infrastructure/indias-retail-leasing-map-shifts-delhi-ncr-leads-in-q3-hyderabad-gains-on-mumbai-11790925465124.html",
+    "date": "2026-10-02T07:51:20.000Z",
+    "reason": "Quarterly retail real estate leasing update; narrow sector and city-level.",
+    "checkedAt": "2026-10-05T10:58:39.326Z"
+  },
+  {
+    "source": "mint",
+    "headline": "'ICICI is CEO-making factory' trends on internet as Anup Saha, Anup Bagchi named MD-CEO of Kotak Mahindra, HDFC Bank",
+    "url": "https://www.livemint.com/industry/banking/icici-is-ceo-making-factory-trends-on-internet-as-anup-saha-anup-bagchi-named-md-ceo-of-kotak-mahindra-hdfc-bank-11790919598868.html",
+    "date": "2026-10-02T06:44:54.000Z",
+    "reason": "Leadership appointments at individual banks; same story as item 5.",
+    "checkedAt": "2026-10-05T10:58:39.326Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "INOX Group scions file for ₹10,000 Crore IPOs each",
+    "url": "https://www.thehindu.com/business/Industry/inox-group-scions-file-for-10000-crore-ipos-each/article71533866.ece",
+    "date": "2026-10-02T06:16:31.000Z",
+    "reason": "Company IPO filings; capital-market and single-group news.",
+    "checkedAt": "2026-10-05T10:58:39.326Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "India’s $600 billion food market grows at 7% CAGR, food processing given importance: Official",
+    "url": "https://www.thehindu.com/business/Industry/indias-600-billion-food-market-grows-at-7-cagr-food-processing-given-importance-official/article71534242.ece",
+    "date": "2026-10-02T06:11:45.000Z",
+    "reason": "General official remarks on market size and growth; no specific policy or development.",
+    "checkedAt": "2026-10-05T10:58:39.326Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Bagchi’s appointment as HDFC Bank’s MD reflects RBI’s preference for external candidates",
+    "url": "https://www.livemint.com/industry/banking/anup-bagchi-hdfc-bank-rbi-private-banks-bank-ceos-banking-leadership-kaizad-bharucha-succession-plan-11790914216055.html",
+    "date": "2026-10-02T05:45:27.000Z",
+    "reason": "Senior appointments at individual private banks; single-company leadership news.",
+    "checkedAt": "2026-10-05T10:58:39.326Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Nitin Gadkari calls Ethanol blending a step towards diversification of agricultural sector",
+    "url": "https://www.thehindu.com/business/nitin-gadkari-calls-ethanol-blending-a-step-towards-diversification-of-agricultural-sector/article71533432.ece",
+    "date": "2026-10-02T05:22:02.000Z",
+    "reason": "Ministerial speech in Bihar restating ethanol policy, with no new national decision.",
+    "checkedAt": "2026-10-05T10:58:39.326Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Samsung Galaxy S27 Ultra design leak: 7.9mm body, heavier build and near-identical display tipped",
+    "url": "https://www.livemint.com/technology/samsung-galaxy-s27-ultra-design-leak-7-9mm-body-heavier-build-and-near-identical-display-tipped-11790914100370.html",
+    "date": "2026-10-02T04:39:11.000Z",
+    "reason": "Smartphone design leak; consumer gadget rumour with no national significance.",
+    "checkedAt": "2026-10-05T10:58:39.326Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "How wealth shapes our view of artificial intelligence",
+    "url": "https://www.thehindu.com/sci-tech/technology/how-wealth-shapes-our-view-of-artificial-intelligence/article71494766.ece",
+    "date": "2026-10-02T02:22:00.000Z",
+    "reason": "Opinion piece on public attitudes to AI, with no national policy or sector development.",
+    "checkedAt": "2026-10-05T10:58:39.326Z"
+  },
+  {
+    "source": "thehindu",
     "headline": "Not all minority voters deserted us in Assembly polls, says CPI(M) Kozhikode district secretary",
     "url": "https://www.thehindu.com/news/national/kerala/not-all-minority-voters-deserted-us-in-assembly-polls-says-cpim-kozhikode-district-secretary/article71546713.ece",
     "date": "2026-10-05T10:43:50.000Z",
@@ -622,389 +1198,5 @@
     "date": "2026-10-05T06:20:57.000Z",
     "reason": "Centres on an activist's personal claim about possible arrest; party-political sparring.",
     "checkedAt": "2026-10-05T10:52:29.491Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Adani outpaces India’s biggest business houses in data centre investments",
-    "url": "https://www.livemint.com/companies/adani-data-centre-investment-ai-airtel-reliance-tata-11791170418566.html",
-    "date": "2026-10-05T06:07:33.000Z",
-    "reason": "Mainly about one business group's investments, not a national sector-wide policy development.",
-    "checkedAt": "2026-10-05T10:52:29.491Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "OpenAI's Sam Altman says AI benefits warrant accepting some risks",
-    "url": "https://www.thehindu.com/sci-tech/technology/openais-sam-altman-says-ai-benefits-warrant-accepting-some-risks/article71545764.ece",
-    "date": "2026-10-05T06:03:26.000Z",
-    "reason": "US policy and company commentary; not a development inside India.",
-    "checkedAt": "2026-10-05T10:52:29.491Z"
-  },
-  {
-    "source": "mint",
-    "headline": "‘No VIP attitude’: Shreyas Iyer, Tilak Varma wait in regular dinner queue after Asian Games Gold in Japan | Viral video",
-    "url": "https://www.livemint.com/news/trends/no-vip-attitude-shreyas-iyer-tilak-varma-wait-in-regular-dinner-queue-after-asian-games-gold-in-japan-viral-video-11791176313096.html",
-    "date": "2026-10-05T05:50:26.000Z",
-    "reason": "Sports and viral social media story.",
-    "checkedAt": "2026-10-05T10:52:12.234Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Brazil election: Why Lula and Flavio Bolsonaro are headed for a high-stakes runoff",
-    "url": "https://www.livemint.com/news/world/brazil-election-why-lula-and-flavio-bolsonaro-are-headed-for-a-high-stakes-runoff-11791175790905.html",
-    "date": "2026-10-05T05:36:17.000Z",
-    "reason": "Foreign election; no direct India impact.",
-    "checkedAt": "2026-10-05T10:52:12.234Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Festival season: No local vendor or hawker should be ‘evicted or deprived of livelihoods,’ NHRC tells states",
-    "url": "https://www.livemint.com/news/india/festival-season-no-local-vendor-or-hawker-should-be-evicted-or-deprived-of-livelihoods-nhrc-tells-states-11791177294918.html",
-    "date": "2026-10-05T05:33:41.000Z",
-    "reason": "Advisory on street vendors; modest, local enforcement issue without clear national effect.",
-    "checkedAt": "2026-10-05T10:52:12.234Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Regional cinema takes aim at premium screens. Can audiences pay?",
-    "url": "https://www.livemint.com/industry/media/regional-cinema-premium-formats-imax-south-indian-cinema-mandaadi-toxic-jailer-2-varanasi-pvr-inox-cinepolis-11791101970986.html",
-    "date": "2026-10-05T05:30:09.000Z",
-    "reason": "Entertainment industry story.",
-    "checkedAt": "2026-10-05T10:52:12.234Z"
-  },
-  {
-    "source": "mint",
-    "headline": "‘He was openly radicalized’: Aviation veteran on Flydubai attack, security gaps and emergency landing | Exclusive",
-    "url": "https://www.livemint.com/news/world/he-was-openly-radicalized-aviation-veteran-on-flydubai-attack-security-gaps-and-emergency-landing-exclusive-11791170773271.html",
-    "date": "2026-10-05T05:25:22.000Z",
-    "reason": "Foreign aviation security incident commentary; no national policy impact.",
-    "checkedAt": "2026-10-05T10:52:12.234Z"
-  },
-  {
-    "source": "mint",
-    "headline": "BSNL pay scale freeze: why employees are threatening a strike",
-    "url": "https://www.livemint.com/companies/news/bsnl-pay-scale-freeze-bsnl-strike-trai-telecom-11791091313359.html",
-    "date": "2026-10-05T05:23:00.000Z",
-    "reason": "Pay dispute at a single public-sector company.",
-    "checkedAt": "2026-10-05T10:52:12.234Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Elon Musk to change company name following Trump’s AI-to-SI update",
-    "url": "https://www.thehindu.com/sci-tech/technology/elon-musk-to-change-company-name-following-trumps-ai-to-si-update/article71545857.ece",
-    "date": "2026-10-05T04:59:22.000Z",
-    "reason": "US executive order and a private company's renaming; no direct India impact.",
-    "checkedAt": "2026-10-05T10:52:12.234Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Mint explainer: how Brics’ new tax platforms could change cross-border taxation",
-    "url": "https://www.livemint.com/economy/brics-cross-border-taxation-international-taxation-transfer-pricing-tax-data-revenue-statistics-digital-taxation-11791169947810.html",
-    "date": "2026-10-05T04:54:44.000Z",
-    "reason": "Early-stage international platform with unclear near-term effect on Indian households or businesses.",
-    "checkedAt": "2026-10-05T10:52:12.234Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Why a Tamil Nadu widow wants CM Vijay’s free bus scheme declared ‘unconstitutional’: Plea in Madras HC today",
-    "url": "https://www.livemint.com/news/india/why-a-tamil-nadu-widow-wants-cm-vijay-s-free-bus-scheme-declared-unconstitutional-plea-in-madras-hc-today-11791175283927.html",
-    "date": "2026-10-05T04:53:26.000Z",
-    "reason": "State scheme challenged in a court petition by one individual.",
-    "checkedAt": "2026-10-05T10:52:12.234Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Congress' caste reset in Uttar Pradesh: Can Brahmin-Muslim leadership deliver in 2027 assembly polls?",
-    "url": "https://www.livemint.com/politics/news/congress-caste-reset-in-uttar-pradesh-can-brahmin-muslim-leadership-deliver-in-2027-assembly-polls-11791171097556.html",
-    "date": "2026-10-05T04:43:14.000Z",
-    "reason": "Party political strategy for a state election.",
-    "checkedAt": "2026-10-05T10:52:12.234Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Schneider Electric in advanced talks to buy US-based software firm PTC for roughly $20 billion: What we know",
-    "url": "https://www.livemint.com/companies/news/schneider-electric-in-advanced-talks-to-buy-us-based-software-firm-ptc-for-roughly-20-billion-what-we-know-11791174772132.html",
-    "date": "2026-10-05T04:42:57.000Z",
-    "reason": "Single foreign company acquisition; no whole-sector effect on India.",
-    "checkedAt": "2026-10-05T10:52:12.234Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Indian Bank manager death: Chennai tragedy sparks fresh debate on workplace pressure",
-    "url": "https://www.livemint.com/news/india/indian-bank-manager-death-chennai-tragedy-sparks-fresh-debate-on-workplace-pressure-11791169767835.html",
-    "date": "2026-10-05T04:07:01.000Z",
-    "reason": "Individual tragedy in one city; no national policy or sector impact.",
-    "checkedAt": "2026-10-05T10:52:12.234Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Former Anthropic researcher Coxon to testify at New York City AI hearing: Report",
-    "url": "https://www.thehindu.com/sci-tech/technology/former-anthropic-researcher-coxon-to-testify-at-new-york-city-ai-hearing-report/article71545788.ece",
-    "date": "2026-10-05T04:06:34.000Z",
-    "reason": "New York City council hearing, not relevant to India.",
-    "checkedAt": "2026-10-05T10:51:56.551Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Researcher dies of ‘unknown infection’ at Russia's plague lab, at least 200 quarantined: Here's what we know so far",
-    "url": "https://www.livemint.com/news/world/researcher-dies-of-unknown-infection-at-russias-plague-lab-at-least-200-quarantined-heres-what-we-know-so-far-11791171253311.html",
-    "date": "2026-10-05T03:46:00.000Z",
-    "reason": "Foreign laboratory incident with no India-specific national impact.",
-    "checkedAt": "2026-10-05T10:51:56.551Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "OpenAI safety employee quits, says 'time for trial and error is over'",
-    "url": "https://www.thehindu.com/sci-tech/technology/openai-safety-employee-quits-says-time-for-trial-and-error-is-over/article71545744.ece",
-    "date": "2026-10-05T03:39:01.000Z",
-    "reason": "Foreign AI company employee resignation, not an India development.",
-    "checkedAt": "2026-10-05T10:51:56.551Z"
-  },
-  {
-    "source": "mint",
-    "headline": "‘Got the law involved’: FBI Director Kash Patel gets engaged to longtime girlfriend | Who is Alexis Wilkins?",
-    "url": "https://www.livemint.com/news/us-news/got-the-law-involved-fbi-director-kash-patel-gets-engaged-to-longtime-girlfriend-who-is-alexis-wilkins-11791166843877.html",
-    "date": "2026-10-05T03:06:29.000Z",
-    "reason": "Celebrity-style personal news about a foreign official.",
-    "checkedAt": "2026-10-05T10:51:56.551Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Super Intelligence and Trump’s AI Accord with Big Tech leaders | Explained",
-    "url": "https://www.thehindu.com/sci-tech/technology/super-intelligence-and-trumps-ai-accord-with-big-tech-leaders-explained/article71531434.ece",
-    "date": "2026-10-05T02:57:03.000Z",
-    "reason": "US AI governance story, not a development inside India.",
-    "checkedAt": "2026-10-05T10:51:56.551Z"
-  },
-  {
-    "source": "mint",
-    "headline": "‘Planned it even before I was hired’: What Flydubai co-pilot told investigators days after tragedy averted",
-    "url": "https://www.livemint.com/news/world/planned-attack-before-i-was-hired-what-flydubai-co-pilot-told-investigators-days-after-tragedy-averted-11791167278085.html",
-    "date": "2026-10-05T02:40:26.000Z",
-    "reason": "Foreign airline incident and criminal investigation, not national policy or sector news.",
-    "checkedAt": "2026-10-05T10:51:56.551Z"
-  },
-  {
-    "source": "mint",
-    "headline": "US removes B-1 bombers from UK base over Iran ‘terror plot’, expert exposes ‘vulnerabilities’: What we know so far",
-    "url": "https://www.livemint.com/news/us-news/us-removes-b-1-bombers-from-uk-base-over-iran-terror-plot-expert-exposes-vulnerabilities-what-we-know-so-far-11791166905339.html",
-    "date": "2026-10-05T02:31:05.000Z",
-    "reason": "Foreign military and security story with no direct India sector impact.",
-    "checkedAt": "2026-10-05T10:51:56.551Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Iran war news LIVE Updates: Three killed in attack on military vehicles in southeastern Iran, rights group says",
-    "url": "https://www.livemint.com/news/us-news/iran-war-news-live-updates-araghchi-strait-of-hormuz-us-peace-proposal-renewed-military-action-yemen-houthis-operation-11791162582222.html",
-    "date": "2026-10-05T01:17:35.000Z",
-    "reason": "Live updates on a foreign conflict, not a development inside India.",
-    "checkedAt": "2026-10-05T10:51:56.551Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Accenture to return less to shareholders as acquisition spending rises",
-    "url": "https://www.livemint.com/companies/news/accenture-dividend-share-buyback-11791124709181.html",
-    "date": "2026-10-05T00:48:22.000Z",
-    "reason": "Foreign single-company capital allocation decision with no direct national policy effect.",
-    "checkedAt": "2026-10-05T10:51:56.551Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Greenko founders-backed AM Intelligence orders 20,000 Nvidia GPUs in $4 billion deal",
-    "url": "https://www.livemint.com/companies/greenko-founders-backed-am-intelligence-orders-20-000-nvidia-gpus-in-4-billion-deal-11791119927528.html",
-    "date": "2026-10-05T00:45:22.000Z",
-    "reason": "A single company's equipment purchase that does not alter a whole sector or policy.",
-    "checkedAt": "2026-10-05T10:51:56.551Z"
-  },
-  {
-    "source": "mint",
-    "headline": "38 years after Ahmedabad crash, Air India seeks fast hearing on compensation formula",
-    "url": "https://www.livemint.com/companies/news/air-india-indian-airlines-ahmedabad-plane-crash-1988-11791105382662.html",
-    "date": "2026-10-05T00:30:22.000Z",
-    "reason": "Court proceeding over compensation in a specific air-crash case, not a national policy development.",
-    "checkedAt": "2026-10-05T10:51:56.551Z"
-  },
-  {
-    "source": "mint",
-    "headline": "OpenAIs Altman says AI benefits warrant accepting some risks",
-    "url": "https://www.livemint.com/technology/openais-altman-says-ai-benefits-warrant-accepting-some-risks-11791153079526.html",
-    "date": "2026-10-04T22:31:19.000Z",
-    "reason": "Foreign executive's general comments on AI; no India-specific policy or development.",
-    "checkedAt": "2026-10-05T10:51:42.269Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Pentagon Redeploys Bombers From UK Base at Center of Terror Plot",
-    "url": "https://www.livemint.com/news/world/pentagon-redeploys-bombers-from-uk-base-at-center-of-terror-plot-11791151617575.html",
-    "date": "2026-10-04T22:06:57.000Z",
-    "reason": "UK and US military and security matter; no direct Indian national impact.",
-    "checkedAt": "2026-10-05T10:51:42.269Z"
-  },
-  {
-    "source": "mint",
-    "headline": "N. Korea’s Kim Oversaw Hypersonic Missile Drill, KCNA Says",
-    "url": "https://www.livemint.com/news/world/n-korea-s-kim-oversaw-hypersonic-missile-drill-kcna-says-11791151069964.html",
-    "date": "2026-10-04T21:57:49.000Z",
-    "reason": "North Korean missile drill; foreign security news without direct Indian sector impact.",
-    "checkedAt": "2026-10-05T10:51:42.269Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Steven Baker joins CBS News as consultant to help improve ‘CBS Mornings’ and ‘CBS Evening News’",
-    "url": "https://www.livemint.com/news/us-news/steven-baker-joins-cbs-news-as-consultant-to-help-improve-cbs-mornings-and-cbs-evening-news-11791148833953.html",
-    "date": "2026-10-04T21:31:08.000Z",
-    "reason": "US media company staffing news; not relevant to India.",
-    "checkedAt": "2026-10-05T10:51:42.269Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Intesa Says Its Paschi Bid Backed by Top Shareholder Delfin",
-    "url": "https://www.livemint.com/companies/intesa-says-its-paschi-bid-backed-by-top-shareholder-delfin-11791146849159.html",
-    "date": "2026-10-04T20:47:28.000Z",
-    "reason": "Foreign single-company bank takeover; not relevant to India nationally.",
-    "checkedAt": "2026-10-05T10:51:42.269Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Japan Wants the US Close. Just Not Too Close",
-    "url": "https://www.livemint.com/politics/japan-wants-the-us-close-just-not-too-close-11791142046643.html",
-    "date": "2026-10-04T19:27:26.000Z",
-    "reason": "Japan-US trade matter with no direct India impact stated.",
-    "checkedAt": "2026-10-05T10:51:42.269Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Meet Nishant Kerketta: 'Gaon ka ladka' from Jharkhand goes viral for turning his village backdrop into a fashion stage",
-    "url": "https://www.livemint.com/news/trends/meet-nishant-kerketta-gaon-ka-ladka-from-jharkhand-goes-viral-for-turning-his-village-backdrop-into-a-fashion-stage-11791136699930.html",
-    "date": "2026-10-04T18:52:16.000Z",
-    "reason": "Viral social media and fashion story; no national significance.",
-    "checkedAt": "2026-10-05T10:51:42.269Z"
-  },
-  {
-    "source": "mint",
-    "headline": "SIR voter list: Form 6, 7, 8 or 9? Which form to use for Aadhaar, address change, name deletion",
-    "url": "https://www.livemint.com/news/india/sir-voter-list-form-6-7-8-or-9-which-form-to-use-for-aadhaar-address-change-name-deletion-11791136733634.html",
-    "date": "2026-10-04T18:22:12.000Z",
-    "reason": "Explainer on voter-roll forms; procedural guidance without clear national sector impact.",
-    "checkedAt": "2026-10-05T10:51:42.269Z"
-  },
-  {
-    "source": "mint",
-    "headline": "UK family transforms 1980s home into mini power station and secures five years without energy bills",
-    "url": "https://www.livemint.com/news/trends/uk-family-transforms-1980s-home-into-mini-power-station-and-secures-five-years-without-energy-bills-11791128776223.html",
-    "date": "2026-10-04T17:58:07.000Z",
-    "reason": "UK household story with no direct Indian national impact.",
-    "checkedAt": "2026-10-05T10:51:42.269Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Who are 'Gen Next Mumbai'? Why did they protest against Abhijeet Dipke and CJP amid Shivaji Park protest?",
-    "url": "https://www.livemint.com/news/india/who-are-gen-next-mumbai-why-did-they-protest-against-abhijeet-dipke-and-cjp-amid-shivaji-park-protest-11791132018891.html",
-    "date": "2026-10-04T17:37:36.000Z",
-    "reason": "City-level youth protest and party-political sparring without national policy impact.",
-    "checkedAt": "2026-10-05T10:51:42.269Z"
-  },
-  {
-    "source": "mint",
-    "headline": "FlyDubai attack: Israel had crew list, so how did ‘barred’ pilot evade checks? What we know",
-    "url": "https://www.livemint.com/news/world/flydubai-attack-israel-had-crew-list-so-how-did-barred-pilot-evade-checks-what-we-know-11791132802555.html",
-    "date": "2026-10-04T17:28:53.000Z",
-    "reason": "Foreign security incident involving an airline attack; no direct national sector impact inside India.",
-    "checkedAt": "2026-10-05T10:51:42.269Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Rising global capital costs pose challenge for emerging economies: Anurada Thakur",
-    "url": "https://www.livemint.com/news/india/rising-global-capital-costs-pose-challenge-for-emerging-economies-anurada-thakur-11791130158160.html",
-    "date": "2026-10-04T17:17:12.000Z",
-    "reason": "General remarks on global capital costs by an official; no specific national policy or action.",
-    "checkedAt": "2026-10-05T10:51:32.259Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Retirement home at ₹11.5 crore! DLF sells out 172 units under ultra-luxury senior living project in Gurugram",
-    "url": "https://www.livemint.com/industry/real-estate/retirement-home-at-rs-11-5-crore-dlf-sells-out-172-units-under-ultra-luxury-senior-living-project-in-gurugram-11791128479903.html",
-    "date": "2026-10-04T16:38:45.000Z",
-    "reason": "Single-company luxury real estate sale, same as an earlier item.",
-    "checkedAt": "2026-10-05T10:51:32.259Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Cinepolis adds four more screens in Faridabad as its big-screen expansion continues across Delhi-NCR",
-    "url": "https://www.livemint.com/companies/news/cinepolis-adds-four-more-screens-in-faridabad-as-its-big-screen-expansion-continues-across-delhincr-11791122362351.html",
-    "date": "2026-10-04T15:45:46.000Z",
-    "reason": "Single-company multiplex opening; entertainment retail expansion without national impact.",
-    "checkedAt": "2026-10-05T10:51:32.259Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Airbus flags A330 jets for stray tools: Why airlines are being asked to inspect aircraft",
-    "url": "https://www.livemint.com/companies/news/airbus-flags-a330-jets-for-stray-tools-why-airlines-are-being-asked-to-inspect-aircraft-11791122440507.html",
-    "date": "2026-10-04T15:10:58.000Z",
-    "reason": "Aircraft maker inspection request; no stated India-wide impact in the summary.",
-    "checkedAt": "2026-10-05T10:51:32.259Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Trump names national intelligence director Jay Clayton to lead a new federal AI task force",
-    "url": "https://www.thehindu.com/news/international/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/article71544416.ece",
-    "date": "2026-10-04T15:10:19.000Z",
-    "reason": "US domestic AI policy action; not a development inside India.",
-    "checkedAt": "2026-10-05T10:51:32.259Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Haldia Petrochemicals-arm Adperma plans public listing, downstream expansion, says MD Navanit Narayan",
-    "url": "https://www.livemint.com/companies/haldia-petrochemicals-arm-adperma-plans-public-listing-downstream-expansion-says-md-navanit-narayan-11791107995535.html",
-    "date": "2026-10-04T14:48:29.000Z",
-    "reason": "Single subsidiary company's IPO and expansion plans; not a sector-wide development.",
-    "checkedAt": "2026-10-05T10:51:32.259Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Relief for Greater Noida traffic? 5-km Amritpuram-Makoda route to get 6 lanes- which other 4 stretches will be expanded?",
-    "url": "https://www.livemint.com/industry/infrastructure/relief-for-greater-noida-traffic-5-km-amritpuram-makoda-route-to-get-6-lanes-which-other-4-stretches-will-be-expanded-11791115557345.html",
-    "date": "2026-10-04T12:58:26.000Z",
-    "reason": "Local road widening in Greater Noida; city-level story without national impact.",
-    "checkedAt": "2026-10-05T10:51:32.259Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Easy money era is ending, interest rates to stay high: French economist Landau",
-    "url": "https://www.livemint.com/economy/era-of-easy-money-is-ending-world-is-in-for-a-structurally-high-rate-regime-french-economist-landau-11791100860203.html",
-    "date": "2026-10-04T12:16:39.000Z",
-    "reason": "Foreign economist's opinion on global rates; not an India-specific development.",
-    "checkedAt": "2026-10-05T10:51:32.259Z"
-  },
-  {
-    "source": "mint",
-    "headline": "DLF sells out maiden senior living project Aureva in Gurugram for ₹1,985 cr",
-    "url": "https://www.livemint.com/companies/dlf-sells-out-maiden-senior-living-project-aureva-in-gurugram-for-rs-1985-crore-11791098745562.html",
-    "date": "2026-10-04T12:12:42.000Z",
-    "reason": "Single-company luxury real estate project sale; no national sector impact.",
-    "checkedAt": "2026-10-05T10:51:32.259Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Mint Explainer: Are EVs with a small engine the way forward?",
-    "url": "https://www.livemint.com/industry/manufacturing/evs-cafe-3-norms-range-extended-electric-vehicles-small-ice-engine-reev-11791109545232.html",
-    "date": "2026-10-04T11:59:45.000Z",
-    "reason": "General explainer on a vehicle technology; no specific national policy or development.",
-    "checkedAt": "2026-10-05T10:51:32.259Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Does Temple 'stick to your skin'? Can you bathe with it, swim with it? Eternal's Deepinder Goyal answers",
-    "url": "https://www.livemint.com/technology/does-temple-stick-to-your-skin-can-you-bathe-with-it-swim-with-it-eternals-deepinder-goyal-answers-11791112167462.html",
-    "date": "2026-10-04T11:51:29.000Z",
-    "reason": "Consumer gadget product Q&A by a company founder; not national significance.",
-    "checkedAt": "2026-10-05T10:51:32.259Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Angel One is shrinking. But what is it building?",
-    "url": "https://www.livemint.com/companies/angel-one-super-app-business-transformation-11791107429829.html",
-    "date": "2026-10-04T11:41:37.000Z",
-    "reason": "Single-company business profile of a brokerage; no whole-sector national effect.",
-    "checkedAt": "2026-10-05T10:51:32.259Z"
   }
 ]

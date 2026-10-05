@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-05T10:53:29.838Z",
+  "updatedAt": "2026-10-05T10:59:56.005Z",
   "sectors": [
     {
       "id": "energy",
@@ -51,6 +51,155 @@
               "date": "2026-10-05T01:35:57.000Z"
             }
           ]
+        },
+        {
+          "id": "s138aue9",
+          "headline": "Government raises deepwater gas price ceiling to $9.89/MMBtu; APM gas cap at $7",
+          "url": "https://www.thehindu.com/business/government-raises-deepwater-gas-price-ceiling-to-989mmbtu-apm-gas-cap-at-7/article71543103.ece",
+          "source": "thehindu",
+          "date": "2026-10-04T07:00:31.000Z",
+          "relevance": "high",
+          "why": "A higher gas price ceiling for difficult fields changes domestic gas pricing and the economics of producing gas in India.",
+          "implications": [
+            "Higher ceiling prices could encourage more output from deepwater fields such as KG-D6, which may support domestic gas supply.",
+            "Users of that gas, such as fertiliser and power plants and city gas distributors, could face higher input costs.",
+            "The unchanged $7 cap on legacy ONGC and OIL fields limits cost pressure on gas from older fields."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Government raises deepwater gas price ceiling to $9.89/MMBtu; APM gas cap at $7",
+              "url": "https://www.thehindu.com/business/government-raises-deepwater-gas-price-ceiling-to-989mmbtu-apm-gas-cap-at-7/article71543103.ece",
+              "date": "2026-10-04T07:00:31.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1syvph9",
+          "headline": "US-Iran war impact: Nayara Energy hikes fuel prices in India with immediate effect; petrol up by ₹5, diesel by ₹3",
+          "url": "https://www.livemint.com/companies/news/usiran-war-impact-nayara-energy-raises-fuel-prices-in-india-with-immediate-effect-check-new-rates-here-11791015607025.html",
+          "source": "mint",
+          "date": "2026-10-03T08:26:34.000Z",
+          "relevance": "high",
+          "why": "A price hike by India's largest private fuel retailer reflects higher global energy costs passing through to Indian consumers.",
+          "implications": [
+            "Motorists buying petrol or diesel from Nayara pumps may pay noticeably more per litre.",
+            "Higher diesel prices could raise transport and freight costs and may feed into food and goods prices.",
+            "Pressure on other fuel retailers to follow could grow if global energy prices stay high."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "US-Iran war impact: Nayara Energy hikes fuel prices in India with immediate effect; petrol up by ₹5, diesel by ₹3",
+              "url": "https://www.livemint.com/companies/news/usiran-war-impact-nayara-energy-raises-fuel-prices-in-india-with-immediate-effect-check-new-rates-here-11791015607025.html",
+              "date": "2026-10-03T08:26:34.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Nayara Energy hikes petrol by ₹5, diesel by ₹3",
+              "url": "https://www.thehindu.com/business/Industry/nayara-energy-hikes-petrol-by-5-diesel-by-3/article71540153.ece",
+              "date": "2026-10-03T09:01:18.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s16766tt",
+          "headline": "Mint Explainer | How the GOBARdhan scheme helps in achieving energy security and transition",
+          "url": "https://www.livemint.com/industry/energy/gobardhan-scheme-cbg-biogas-production-india-energy-security-explained-11790917492548.html",
+          "source": "mint",
+          "date": "2026-10-02T06:12:27.000Z",
+          "relevance": "medium",
+          "why": "The ₹23,731 crore GOBARdhan scheme aims to raise compressed biogas output almost 10-fold by FY36, reducing import dependence and supporting rural incomes.",
+          "implications": [
+            "Farmers and rural communities may earn extra income by supplying agricultural and animal waste.",
+            "Greater biogas supply could gradually reduce reliance on imported natural gas and fuels.",
+            "Biogas plants may create local jobs in rural areas over the coming years."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Mint Explainer | How the GOBARdhan scheme helps in achieving energy security and transition",
+              "url": "https://www.livemint.com/industry/energy/gobardhan-scheme-cbg-biogas-production-india-energy-security-explained-11790917492548.html",
+              "date": "2026-10-02T06:12:27.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "GOBARdhan eyes 10-fold increase in CBG output: Hardeep Singh Puri",
+              "url": "https://www.thehindu.com/business/Industry/gobardhan-cbg-output-hardeep-singh-puri/article71538308.ece",
+              "date": "2026-10-02T17:01:45.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1hdnpeq",
+          "headline": "India to face tougher competition for gas this winter? Here's what expert said",
+          "url": "https://www.livemint.com/economy/india-to-face-tougher-competition-for-gas-this-winter-heres-what-expert-said-11790934521396.html",
+          "source": "mint",
+          "date": "2026-10-02T10:54:38.000Z",
+          "relevance": "medium",
+          "why": "Qatar supply disruptions and competition with Europe could raise India's LNG import costs this winter.",
+          "implications": [
+            "Higher LNG costs may push up prices for CNG, piped gas and gas-based industries.",
+            "Fertiliser and power producers using imported gas could face higher input costs.",
+            "Tighter supply could strain gas availability for some industrial users during peak winter demand."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "India to face tougher competition for gas this winter? Here's what expert said",
+              "url": "https://www.livemint.com/economy/india-to-face-tougher-competition-for-gas-this-winter-heres-what-expert-said-11790934521396.html",
+              "date": "2026-10-02T10:54:38.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s8m2cr7",
+          "headline": "PNG Drive 3.0 targets 50 lakh new connections, shifts focus to gas network utilisation",
+          "url": "https://www.thehindu.com/business/Industry/png-drive-30-targets-50-lakh-new-connections-shifts-focus-to-gas-network-utilisation/article71533572.ece",
+          "source": "thehindu",
+          "date": "2026-10-02T01:23:55.000Z",
+          "relevance": "medium",
+          "why": "A national push for 50 lakh new piped gas connections through FY2027 could widen household access to cleaner cooking fuel and improve use of existing gas networks.",
+          "implications": [
+            "More urban households may switch from LPG cylinders to piped gas over the next fiscal year.",
+            "Better use of existing gas pipelines could lower per-connection costs for distributors."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "PNG Drive 3.0 targets 50 lakh new connections, shifts focus to gas network utilisation",
+              "url": "https://www.thehindu.com/business/Industry/png-drive-30-targets-50-lakh-new-connections-shifts-focus-to-gas-network-utilisation/article71533572.ece",
+              "date": "2026-10-02T01:23:55.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "What are the objectives of the National PNG Drive 3.0? | Explained",
+              "url": "https://www.thehindu.com/business/Economy/what-are-the-objectives-of-the-national-png-drive-30-explained/article71536448.ece",
+              "date": "2026-10-02T10:33:35.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1mfr46p",
+          "headline": "Hormuz crude flows return to pre-war levels, yet oil may still stay at $90–$100 | Here's why",
+          "url": "https://www.livemint.com/economy/hormuz-crude-flows-return-to-pre-war-levels-yet-oil-may-still-stay-at-90-100-heres-why-11790915242219.html",
+          "source": "mint",
+          "date": "2026-10-02T05:36:53.000Z",
+          "relevance": "high",
+          "why": "India imports most of its crude, so oil that stays at $90–$100 despite restored Hormuz flows keeps import costs and inflation pressure high.",
+          "implications": [
+            "Fuel and transport costs may stay elevated, which could keep goods prices firm.",
+            "Low refined-fuel supplies could keep diesel and petrol margins and import bills under pressure.",
+            "A high oil import bill may weigh on the rupee and the current account."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Hormuz crude flows return to pre-war levels, yet oil may still stay at $90–$100 | Here's why",
+              "url": "https://www.livemint.com/economy/hormuz-crude-flows-return-to-pre-war-levels-yet-oil-may-still-stay-at-90-100-heres-why-11790915242219.html",
+              "date": "2026-10-02T05:36:53.000Z"
+            }
+          ]
         }
       ]
     },
@@ -83,6 +232,24 @@
               "headline": "Mint Explainer | Why Adani’s Mumbai airport redevelopment has triggered a row",
               "url": "https://www.livemint.com/industry/infrastructure/adani-mumbai-airport-international-flight-slots-navi-mumbai-airport-11791173693718.html",
               "date": "2026-10-05T05:31:12.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Mumbai airport changes from Oct 25: Over 200 weekly international flights to be cut, says report — what flyers must know",
+              "url": "https://www.livemint.com/industry/infrastructure/mumbai-airport-changes-from-oct-25-over-200-weekly-international-flights-to-be-cut-says-report-what-flyers-must-know-11790998781947.html",
+              "date": "2026-10-03T04:31:02.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Adani Airport to go ahead with Mumbai redevelopment; airlines reject proposal",
+              "url": "https://www.livemint.com/companies/news/adani-airport-navi-mumbai-mumbai-airport-redevelopment-india-airlines-11791045126155.html",
+              "date": "2026-10-04T01:57:20.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Mumbai airport T1 redevelopment - how passengers will be affected as 265 international flights move to Navi Mumbai",
+              "url": "https://www.livemint.com/industry/infrastructure/mumbai-airport-t1-redevelopment-how-passengers-will-be-affected-as-265-international-flights-move-to-navi-mumbai-11791098254862.html",
+              "date": "2026-10-04T07:44:00.000Z"
             }
           ]
         }
@@ -188,6 +355,12 @@
               "headline": "Rate hikes are coming, but don’t count credit growth out just yet",
               "url": "https://www.livemint.com/economy/india-credit-growth-rate-hike-rbi-monetary-policy-bank-lending-bank-credit-fcnr-b-deposits-financial-deepening-11791139917638.html",
               "date": "2026-10-05T03:30:45.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Experts’ poll: RBI may hike rates by 0.25% in October policy amid inflationary pressures",
+              "url": "https://www.thehindu.com/business/experts-poll-rbi-may-hike-rates-by-025-in-october-policy-amid-inflationary-pressures/article71543381.ece",
+              "date": "2026-10-04T10:35:22.000Z"
             }
           ]
         },
@@ -210,6 +383,178 @@
               "headline": "Next-Gen GST and India’s next phase of growth",
               "url": "https://www.thehindu.com/business/Economy/next-gen-gst-and-indias-next-phase-of-growth/article71541678.ece",
               "date": "2026-10-04T18:47:22.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1yug9lb",
+          "headline": "Industrial marketplace Pneucons disables UPI on orders from Oct 10, co-founder says ‘MDR ate 94% of our margins’",
+          "url": "https://www.livemint.com/companies/news/industrial-marketplace-pneucons-disables-upi-on-orders-from-oct-10-co-founder-says-mdr-ate-94-of-our-margins-11791079493499.html",
+          "source": "mint",
+          "date": "2026-10-04T03:26:33.000Z",
+          "relevance": "medium",
+          "why": "A 0.4% merchant discount rate on larger UPI orders signals a shift in the cost of India's free-to-merchant digital payments system.",
+          "implications": [
+            "Businesses facing the charge on orders over ₹2,000 may cut UPI acceptance or pass costs to buyers.",
+            "Thin-margin B2B sellers could see higher payment costs, which may raise prices or push customers to other payment modes."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Industrial marketplace Pneucons disables UPI on orders from Oct 10, co-founder says ‘MDR ate 94% of our margins’",
+              "url": "https://www.livemint.com/companies/news/industrial-marketplace-pneucons-disables-upi-on-orders-from-oct-10-co-founder-says-mdr-ate-94-of-our-margins-11791079493499.html",
+              "date": "2026-10-04T03:26:33.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sf6w83h",
+          "headline": "RBI chief lays down 5 key priorities to maintain financial stability amidst emerging risks",
+          "url": "https://www.thehindu.com/business/rbi-chief-lays-down-5-key-priorities-to-maintain-financial-stability-amidst-emerging-risks/article71540523.ece",
+          "source": "thehindu",
+          "date": "2026-10-03T15:43:33.000Z",
+          "relevance": "medium",
+          "why": "The RBI governor's stated priorities signal how India's regulator plans to protect banking and financial stability amid emerging risks.",
+          "implications": [
+            "Banks and lenders may face tighter supervision or risk-management expectations in the coming months.",
+            "Depositors and borrowers could see greater emphasis on stability over rapid credit expansion.",
+            "Policy direction may shape lending conditions for businesses and households."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "RBI chief lays down 5 key priorities to maintain financial stability amidst emerging risks",
+              "url": "https://www.thehindu.com/business/rbi-chief-lays-down-5-key-priorities-to-maintain-financial-stability-amidst-emerging-risks/article71540523.ece",
+              "date": "2026-10-03T15:43:33.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1h6wut9",
+          "headline": "RBI remains cautious on crypto, backs underlying technology: Governor Malhotra",
+          "url": "https://www.thehindu.com/business/rbi-remains-cautious-on-crypto-backs-underlying-technology-governor-malhotra/article71540258.ece",
+          "source": "thehindu",
+          "date": "2026-10-03T10:15:48.000Z",
+          "relevance": "medium",
+          "why": "The RBI's stance signals India will back blockchain-based innovation while keeping a restrictive approach to cryptocurrencies.",
+          "implications": [
+            "Crypto investors and exchanges may not expect easing of regulatory caution soon.",
+            "Banks and fintechs could get more room to pilot tokenisation and distributed ledger projects."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "RBI remains cautious on crypto, backs underlying technology: Governor Malhotra",
+              "url": "https://www.thehindu.com/business/rbi-remains-cautious-on-crypto-backs-underlying-technology-governor-malhotra/article71540258.ece",
+              "date": "2026-10-03T10:15:48.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sdvnmtt",
+          "headline": "White-collar hiring shifts towards specialised AI skills, experienced professionals in September: Report",
+          "url": "https://www.livemint.com/economy/whitecollar-hiring-shifts-towards-specialised-ai-skills-experienced-professionals-in-september-report-11790995506265.html",
+          "source": "mint",
+          "date": "2026-10-03T03:19:16.000Z",
+          "relevance": "medium",
+          "why": "Hiring is shifting toward specialised AI skills and experienced staff, indicating a more selective white-collar job market.",
+          "implications": [
+            "Freshers and generalist job seekers may face tougher competition for entry-level roles.",
+            "Workers with AI skills and experience could see stronger offers.",
+            "Upskilling may become more important for mid-career professionals."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "White-collar hiring shifts towards specialised AI skills, experienced professionals in September: Report",
+              "url": "https://www.livemint.com/economy/whitecollar-hiring-shifts-towards-specialised-ai-skills-experienced-professionals-in-september-report-11790995506265.html",
+              "date": "2026-10-03T03:19:16.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1ujyb86",
+          "headline": "Forex reserves plunge record $18.3 billion as RBI steps in to support rupee",
+          "url": "https://www.livemint.com/economy/forex-reserves-plunge-record-18-3-billion-as-rbi-steps-in-to-support-rupee-11790953518458.html",
+          "source": "mint",
+          "date": "2026-10-02T16:27:21.000Z",
+          "relevance": "high",
+          "why": "A record weekly fall in forex reserves as the RBI defends the rupee shows pressure on India's external buffers.",
+          "implications": [
+            "A weaker rupee could raise the cost of imported fuel, electronics and edible oils in coming weeks.",
+            "Continued RBI intervention may reduce the reserve cushion available against further external shocks.",
+            "Imported inflation could affect household budgets and the RBI's interest rate decisions."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Forex reserves plunge record $18.3 billion as RBI steps in to support rupee",
+              "url": "https://www.livemint.com/economy/forex-reserves-plunge-record-18-3-billion-as-rbi-steps-in-to-support-rupee-11790953518458.html",
+              "date": "2026-10-02T16:27:21.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s5ptggk",
+          "headline": "Commerce Minister Goyal defends India against U.S. forced labour and excess capacity investigations",
+          "url": "https://www.thehindu.com/business/Economy/commerce-minister-goyal-defends-india-against-us-forced-labour-and-excess-capacity-investigations/article71536326.ece",
+          "source": "thehindu",
+          "date": "2026-10-02T09:21:14.000Z",
+          "relevance": "high",
+          "why": "A 10% US forced-labour tariff and a pending excess-capacity probe could raise tariffs on Indian exports to its largest export market.",
+          "implications": [
+            "Exporters of goods to the US may face higher duties and weaker order books in the coming months.",
+            "Labour-intensive export sectors could see pressure on jobs and margins if further tariffs follow.",
+            "Outcomes of the probe may shape the terms of any India-US trade deal."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Commerce Minister Goyal defends India against U.S. forced labour and excess capacity investigations",
+              "url": "https://www.thehindu.com/business/Economy/commerce-minister-goyal-defends-india-against-us-forced-labour-and-excess-capacity-investigations/article71536326.ece",
+              "date": "2026-10-02T09:21:14.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sm2sfn4",
+          "headline": "Government procurement from MSEs hits ₹48,635 crore in H1 FY27, H2 seen stronger",
+          "url": "https://www.livemint.com/industry/government-procurement-from-mses-hits-48-635-crore-in-h1-fy27-h2-seen-stronger-11790918187467.html",
+          "source": "mint",
+          "date": "2026-10-02T08:34:24.000Z",
+          "relevance": "medium",
+          "why": "MSEs winning 53% of central government procurement, well above the 25% mandate, shows public buying is a significant demand source for small businesses.",
+          "implications": [
+            "Small manufacturers and service providers may see steadier orders and better cash flow.",
+            "Expected stronger second-half procurement could support small-firm hiring."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Government procurement from MSEs hits ₹48,635 crore in H1 FY27, H2 seen stronger",
+              "url": "https://www.livemint.com/industry/government-procurement-from-mses-hits-48-635-crore-in-h1-fy27-h2-seen-stronger-11790918187467.html",
+              "date": "2026-10-02T08:34:24.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1x03nlg",
+          "headline": "USTR Greer says he does not think “something is imminent” on trade deal with India",
+          "url": "https://www.thehindu.com/business/Economy/ustr-greer-says-he-does-not-think-something-is-imminent-on-trade-deal-with-india/article71535944.ece",
+          "source": "thehindu",
+          "date": "2026-10-02T06:10:51.000Z",
+          "relevance": "medium",
+          "why": "The US trade representative signalling that no India-US deal is imminent suggests tariff and market-access uncertainty for exporters may continue.",
+          "implications": [
+            "Exporters to the US may face continued tariff uncertainty in the coming weeks.",
+            "Sectors like textiles and farm products may see delayed relief from US duties."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "USTR Greer says he does not think “something is imminent” on trade deal with India",
+              "url": "https://www.thehindu.com/business/Economy/ustr-greer-says-he-does-not-think-something-is-imminent-on-trade-deal-with-india/article71535944.ece",
+              "date": "2026-10-02T06:10:51.000Z"
             }
           ]
         }
@@ -238,6 +583,119 @@
               "headline": "Tata's Assam chip unit is almost ready, and a non-China supply chain is in place",
               "url": "https://www.livemint.com/companies/news/tata-electronics-assam-semiconductor-chip-plant-11791089738819.html",
               "date": "2026-10-05T00:30:22.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s14kr73a",
+          "headline": "Apple removes Bitchat from app store in India; Twitter co-founder Jack Dorsey reacts",
+          "url": "https://www.livemint.com/technology/apple-removes-bitchat-from-app-store-in-india-twitter-co-founder-jack-dorsey-reacts-11791042262743.html",
+          "source": "mint",
+          "date": "2026-10-03T15:44:22.000Z",
+          "relevance": "medium",
+          "why": "A government-driven removal of an offline messaging app from the App Store shows how India is using its powers to regulate digital communication tools.",
+          "implications": [
+            "Users of offline or peer-to-peer messaging apps in India may lose access to them or to updates.",
+            "Global app developers may face more takedown demands and compliance scrutiny in India.",
+            "Debate over privacy and digital rules could intensify."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Apple removes Bitchat from app store in India; Twitter co-founder Jack Dorsey reacts",
+              "url": "https://www.livemint.com/technology/apple-removes-bitchat-from-app-store-in-india-twitter-co-founder-jack-dorsey-reacts-11791042262743.html",
+              "date": "2026-10-03T15:44:22.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "‘Unconstitutional’: Advocacy group condemns BitChat's removal from India App Store on govt order, lists four demands",
+              "url": "https://www.livemint.com/technology/unconstitutional-advocacy-group-condemns-bitchats-removal-from-india-app-store-on-govt-order-lists-four-demands-11791092700220.html",
+              "date": "2026-10-04T06:20:32.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s191nii8",
+          "headline": "Data centre pre-leasing doubles amid rising AI demand",
+          "url": "https://www.livemint.com/industry/infotech/data-centre-pre-leasing-doubles-amid-rising-ai-demand-11790836267049.html",
+          "source": "mint",
+          "date": "2026-10-03T00:00:42.000Z",
+          "relevance": "medium",
+          "why": "Doubling of data centre pre-leasing points to fast growth in the digital infrastructure that supports AI and online services.",
+          "implications": [
+            "More data centre capacity could improve availability of cloud and AI services for Indian businesses.",
+            "Construction and operations may create jobs but could also raise power and water demand."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Data centre pre-leasing doubles amid rising AI demand",
+              "url": "https://www.livemint.com/industry/infotech/data-centre-pre-leasing-doubles-amid-rising-ai-demand-11790836267049.html",
+              "date": "2026-10-03T00:00:42.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sxssrch",
+          "headline": "What is happening to the Indian IT bench? | Explained",
+          "url": "https://www.thehindu.com/business/Industry/what-is-happening-to-the-indian-it-bench-explained/article71536828.ece",
+          "source": "thehindu",
+          "date": "2026-10-02T21:47:55.000Z",
+          "relevance": "medium",
+          "why": "Tighter management of the IT bench signals a shift in how India's largest services sector hires and keeps staff.",
+          "implications": [
+            "Generalist IT workers may face fewer idle-time cushions and more pressure to reskill.",
+            "Demand could favour specialised skills, which may change fresher hiring and pay."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "What is happening to the Indian IT bench? | Explained",
+              "url": "https://www.thehindu.com/business/Industry/what-is-happening-to-the-indian-it-bench-explained/article71536828.ece",
+              "date": "2026-10-02T21:47:55.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s13qgq0e",
+          "headline": "UPI volume jumps 27% to touch 145 bn in first half",
+          "url": "https://www.thehindu.com/business/upi-volume-jumps-27-to-touch-145-bn-in-first-half/article71538372.ece",
+          "source": "thehindu",
+          "date": "2026-10-02T17:33:37.000Z",
+          "relevance": "medium",
+          "why": "A 27% rise in UPI volume shows digital payments are still deepening across India's economy.",
+          "implications": [
+            "More small merchants and households may shift from cash to digital payments.",
+            "Rising volumes could increase the load on payment infrastructure and banks' systems.",
+            "Wider digital transaction records may help more people and small businesses access formal credit."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "UPI volume jumps 27% to touch 145 bn in first half",
+              "url": "https://www.thehindu.com/business/upi-volume-jumps-27-to-touch-145-bn-in-first-half/article71538372.ece",
+              "date": "2026-10-02T17:33:37.000Z"
+            }
+          ]
+        },
+        {
+          "id": "so7v3df",
+          "headline": "Mint Explainer | Why state-owned BSNL is wary of Trai's proposed service quality rules",
+          "url": "https://www.livemint.com/industry/telecom/bsnl-trai-quality-of-service-rules-objections-explained-11790925221858.html",
+          "source": "mint",
+          "date": "2026-10-02T08:31:34.000Z",
+          "relevance": "medium",
+          "why": "Trai's proposed tighter service quality rules, and BSNL's concerns about them, could shape call and data quality standards and penalties across the telecom sector.",
+          "implications": [
+            "Stricter rules could improve call quality and data service for mobile users over time.",
+            "Higher penalties may strain state-owned BSNL's finances and slow its network expansion."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Mint Explainer | Why state-owned BSNL is wary of Trai's proposed service quality rules",
+              "url": "https://www.livemint.com/industry/telecom/bsnl-trai-quality-of-service-rules-objections-explained-11790925221858.html",
+              "date": "2026-10-02T08:31:34.000Z"
             }
           ]
         }
@@ -467,10 +925,10 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 150,
-    "added": 16,
+    "analysed": 99,
+    "added": 19,
     "merged": 8,
-    "rejected": 126,
+    "rejected": 72,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {

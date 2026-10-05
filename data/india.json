@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-05T10:51:15.069Z",
+  "updatedAt": "2026-10-05T10:58:20.148Z",
   "sectors": [
     {
       "id": "energy",
@@ -36,7 +36,7 @@
           "url": "https://www.npr.org/2026/10/04/nx-s1-5989670/g7-countries-reluctantly-agree-to-tap-their-fuel-reserves-to-help-the-u-s",
           "source": "npr",
           "date": "2026-10-04T12:29:38.000Z",
-          "relevance": "medium",
+          "relevance": "high",
           "why": "A coordinated G7 release of diesel reserves signals tight global fuel supply and could shift international diesel prices that India trades at.",
           "implications": [
             "Global diesel prices may ease in the near term, which could reduce pressure on India's fuel import costs.",
@@ -49,6 +49,54 @@
               "headline": "G7 countries reluctantly agree to tap their fuel reserves to help the U.S.",
               "url": "https://www.npr.org/2026/10/04/nx-s1-5989670/g7-countries-reluctantly-agree-to-tap-their-fuel-reserves-to-help-the-u-s",
               "date": "2026-10-04T12:29:38.000Z"
+            },
+            {
+              "source": "bbc",
+              "headline": "G7 to release millions of barrels of oil and diesel after Trump threat",
+              "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
+              "date": "2026-10-03T04:38:31.000Z"
+            }
+          ]
+        },
+        {
+          "id": "si8i521",
+          "headline": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+          "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
+          "source": "bbc",
+          "date": "2026-10-02T08:54:00.000Z",
+          "relevance": "high",
+          "why": "A threatened US diesel export ban and pressure on Europe to release reserves could tighten global diesel supply.",
+          "implications": [
+            "Global diesel prices may rise if US exports are curbed, raising India's fuel import costs.",
+            "Higher diesel costs could feed into freight rates and transport-driven inflation in India."
+          ],
+          "reports": [
+            {
+              "source": "bbc",
+              "headline": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+              "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
+              "date": "2026-10-02T08:54:00.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1o9hx0z",
+          "headline": "US sends third aircraft carrier to Middle East amid stalemate in Iran war",
+          "url": "https://www.theguardian.com/world/2026/oct/02/us-third-aircraft-carrier-middle-east-iran",
+          "source": "guardian",
+          "date": "2026-10-02T01:17:37.000Z",
+          "relevance": "high",
+          "why": "A larger US naval buildup in the Middle East during the Iran war raises risk to Gulf oil and shipping routes India depends on.",
+          "implications": [
+            "Crude and fuel import costs may rise if tensions threaten Gulf supply or shipping.",
+            "Indian-flagged ships and seafarers in the region could face higher security and insurance risks."
+          ],
+          "reports": [
+            {
+              "source": "guardian",
+              "headline": "US sends third aircraft carrier to Middle East amid stalemate in Iran war",
+              "url": "https://www.theguardian.com/world/2026/oct/02/us-third-aircraft-carrier-middle-east-iran",
+              "date": "2026-10-02T01:17:37.000Z"
             }
           ]
         }
@@ -100,6 +148,45 @@
               "headline": "Yemeni forces reclaim Dhubab, key positions near Bab al-Mandeb from Houthis",
               "url": "https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis",
               "date": "2026-10-05T09:40:37.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1yu8mst",
+          "headline": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
+          "url": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
+          "source": "guardian",
+          "date": "2026-10-02T08:39:40.000Z",
+          "relevance": "medium",
+          "why": "An Indian pilot was attacked on a flydubai flight and spoke with India's PM, raising air safety concerns on Gulf routes.",
+          "implications": [
+            "Air travellers from India on Gulf and Middle East routes may worry about aviation security.",
+            "Indian crew working for Gulf carriers could face greater scrutiny of cockpit security and safety."
+          ],
+          "reports": [
+            {
+              "source": "guardian",
+              "headline": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
+              "url": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
+              "date": "2026-10-02T08:39:40.000Z"
+            },
+            {
+              "source": "bbc",
+              "headline": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+              "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o",
+              "date": "2026-10-02T09:08:06.000Z"
+            },
+            {
+              "source": "bbc",
+              "headline": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+              "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo",
+              "date": "2026-10-02T11:52:04.000Z"
+            },
+            {
+              "source": "guardian",
+              "headline": "Suicide by plane or terrorism? Speculation over motive in flight 1073 attack",
+              "url": "https://www.theguardian.com/world/2026/oct/02/aviation-security-flydubai-flight-israel",
+              "date": "2026-10-02T15:40:05.000Z"
             }
           ]
         }
@@ -157,7 +244,29 @@
     {
       "id": "technology",
       "name": "Technology",
-      "items": []
+      "items": [
+        {
+          "id": "s1evd0ij",
+          "headline": "US arrests California man for allegedly smuggling $300m worth of computer servers to China",
+          "url": "https://www.theguardian.com/us-news/2026/oct/02/arrest-smuggled-computer-servers-china",
+          "source": "guardian",
+          "date": "2026-10-02T18:46:29.000Z",
+          "relevance": "medium",
+          "why": "US enforcement against smuggling of export-controlled servers via third countries signals tighter scrutiny of AI hardware transshipment routes that could include India.",
+          "implications": [
+            "Indian importers and data-centre builders may face closer US scrutiny of advanced server shipments and paperwork.",
+            "Tighter export-control enforcement could slow or complicate access to high-end computing hardware for Indian firms."
+          ],
+          "reports": [
+            {
+              "source": "guardian",
+              "headline": "US arrests California man for allegedly smuggling $300m worth of computer servers to China",
+              "url": "https://www.theguardian.com/us-news/2026/oct/02/arrest-smuggled-computer-servers-china",
+              "date": "2026-10-02T18:46:29.000Z"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "manufacturing",
@@ -204,6 +313,33 @@
               "date": "2026-10-04T18:46:37.000Z"
             }
           ]
+        },
+        {
+          "id": "sqjwff2",
+          "headline": "India's 'cockroach' protesters are back - this time asking poll chief to resign",
+          "url": "https://www.bbc.co.uk/news/articles/ck62mped4rz9o",
+          "source": "bbc",
+          "date": "2026-10-02T04:25:54.000Z",
+          "relevance": "medium",
+          "why": "Large Mumbai protest demanding the resignation of India's election commissioner puts pressure on an Indian electoral institution.",
+          "implications": [
+            "Public pressure on the poll body could fuel debate over electoral oversight and institutional credibility.",
+            "Continued large protests may affect public order and political activity in Mumbai."
+          ],
+          "reports": [
+            {
+              "source": "bbc",
+              "headline": "India's 'cockroach' protesters are back - this time asking poll chief to resign",
+              "url": "https://www.bbc.co.uk/news/articles/ck62mped4rz9o",
+              "date": "2026-10-02T04:25:54.000Z"
+            },
+            {
+              "source": "guardian",
+              "headline": "India’s Cockroach movement launches new protests over changes to voter roll",
+              "url": "https://www.theguardian.com/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll",
+              "date": "2026-10-02T14:42:16.000Z"
+            }
+          ]
         }
       ]
     }
@@ -244,10 +380,10 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 150,
-    "added": 6,
+    "analysed": 59,
+    "added": 5,
     "merged": 5,
-    "rejected": 139,
+    "rejected": 49,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
@@ -268,7 +404,7 @@
       "aljazeera": {
         "feedsOk": 1,
         "feedsFailed": 0,
-        "items": 14
+        "items": 13
       },
       "mercopress": {
         "feedsOk": 3,
