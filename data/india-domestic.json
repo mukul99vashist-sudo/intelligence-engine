@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-05T12:17:24.046Z",
+  "updatedAt": "2026-10-05T15:00:57.927Z",
   "sectors": [
     {
       "id": "energy",
@@ -230,6 +230,50 @@
       "name": "Logistics & Shipping",
       "items": [
         {
+          "id": "setgw22",
+          "headline": "IndiGo revises fuel surcharge for the third time",
+          "url": "https://www.thehindu.com/business/Industry/indigo-revises-fuel-surcharge-for-the-third-time/article71547656.ece",
+          "source": "thehindu",
+          "date": "2026-10-05T14:34:13.000Z",
+          "relevance": "medium",
+          "why": "A third fuel surcharge revision by India's largest airline shows rising fuel costs are passing into air travel and air cargo costs.",
+          "implications": [
+            "Domestic air fares may rise for travellers, especially on busy routes.",
+            "Further surcharge increases could follow if fuel costs stay high.",
+            "Businesses relying on air travel or air cargo may see higher costs."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "IndiGo revises fuel surcharge for the third time",
+              "url": "https://www.thehindu.com/business/Industry/indigo-revises-fuel-surcharge-for-the-third-time/article71547656.ece",
+              "date": "2026-10-05T14:34:13.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1jctn2o",
+          "headline": "Indians favour two-wheelers, but buses and trains dominate overnight travel: NSO survey",
+          "url": "https://www.livemint.com/news/india/twowheelers-dominate-work-commute-buses-and-rail-drive-overnight-travel-nso-survey-11791202775009.html",
+          "source": "mint",
+          "date": "2026-10-05T14:19:40.000Z",
+          "relevance": "medium",
+          "why": "The first national travel survey gives official data on how Indians commute and travel, which can guide transport planning and public investment.",
+          "implications": [
+            "Findings on buses and trains for overnight travel may shape public transport and rail capacity planning.",
+            "Dominance of two-wheelers could influence fuel demand, road and urban mobility policy over time.",
+            "Better travel data may help states and operators plan services for work and education journeys."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Indians favour two-wheelers, but buses and trains dominate overnight travel: NSO survey",
+              "url": "https://www.livemint.com/news/india/twowheelers-dominate-work-commute-buses-and-rail-drive-overnight-travel-nso-survey-11791202775009.html",
+              "date": "2026-10-05T14:19:40.000Z"
+            }
+          ]
+        },
+        {
           "id": "s1io1kv0",
           "headline": "Govt scrambles to resolve Mumbai airport Terminal-1 shift",
           "url": "https://www.livemint.com/industry/govt-scrambles-to-resolve-mumbai-airport-terminal-1-shift-11791110756932.html",
@@ -281,6 +325,77 @@
       "id": "economy",
       "name": "Economy & Trade",
       "items": [
+        {
+          "id": "s1yuvx84",
+          "headline": "India’s infrastructure challenge shifts from raising capital to making projects investable, says Deloitte",
+          "url": "https://www.livemint.com/industry/indias-infrastructure-challenge-shifts-from-raising-capital-to-making-projects-investable-says-deloitte-11791203958309.html",
+          "source": "mint",
+          "date": "2026-10-05T14:40:07.000Z",
+          "relevance": "medium",
+          "why": "If infrastructure growth now depends on making projects investable rather than raising capital, project pipelines and public service delivery across India may be affected.",
+          "implications": [
+            "Clearer regulation and risk-sharing could speed up roads, power and urban projects that households and businesses depend on.",
+            "Weak project preparation may delay private investment and keep more of the funding burden on government budgets.",
+            "Digital and AI tools could change how infrastructure projects are planned and financed."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "India’s infrastructure challenge shifts from raising capital to making projects investable, says Deloitte",
+              "url": "https://www.livemint.com/industry/indias-infrastructure-challenge-shifts-from-raising-capital-to-making-projects-investable-says-deloitte-11791203958309.html",
+              "date": "2026-10-05T14:40:07.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1x03nlg",
+          "headline": "USTR Greer says he does not think “something is imminent” on trade deal with India",
+          "url": "https://www.thehindu.com/business/Economy/ustr-greer-says-he-does-not-think-something-is-imminent-on-trade-deal-with-india/article71535944.ece",
+          "source": "thehindu",
+          "date": "2026-10-02T06:10:51.000Z",
+          "relevance": "high",
+          "why": "The US trade representative signalling that no India-US deal is imminent suggests tariff and market-access uncertainty for exporters may continue.",
+          "implications": [
+            "Exporters to the US may face continued tariff uncertainty in the coming weeks.",
+            "Sectors like textiles and farm products may see delayed relief from US duties."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "USTR Greer says he does not think “something is imminent” on trade deal with India",
+              "url": "https://www.thehindu.com/business/Economy/ustr-greer-says-he-does-not-think-something-is-imminent-on-trade-deal-with-india/article71535944.ece",
+              "date": "2026-10-02T06:10:51.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "India-U.S. trade deal talks have plateaued; further demands, concessions will be very difficult: FinMin",
+              "url": "https://www.thehindu.com/business/Economy/india-us-deal-has-reached-plateau-where-further-demands-concessions-will-be-very-difficult-sitharaman/article71547084.ece",
+              "date": "2026-10-05T14:32:55.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s7xz9ce",
+          "headline": "India’s growth momentum holds, but inflation and weak industrial activity weigh, says BCG report",
+          "url": "https://www.livemint.com/economy/india-growth-momentum-holds-but-inflation-and-industrial-activity-pose-risks-bcg-11791200956716.html",
+          "source": "mint",
+          "date": "2026-10-05T13:55:07.000Z",
+          "relevance": "medium",
+          "why": "A BCG monitor suggests growth is holding but unevenly, with inflation and weak industrial activity weighing on the economy.",
+          "implications": [
+            "Softer manufacturing may limit factory hiring and wage growth in the coming months.",
+            "Persistent inflation could keep household budgets stretched and weaken consumer sentiment.",
+            "Strong services and investment may continue to support overall growth."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "India’s growth momentum holds, but inflation and weak industrial activity weigh, says BCG report",
+              "url": "https://www.livemint.com/economy/india-growth-momentum-holds-but-inflation-and-industrial-activity-pose-risks-bcg-11791200956716.html",
+              "date": "2026-10-05T13:55:07.000Z"
+            }
+          ]
+        },
         {
           "id": "silfvmn",
           "headline": "State borrowing to rise 26% to ₹3.6 tn in Q3 under new issuance strategy: ICRA",
@@ -586,27 +701,6 @@
               "date": "2026-10-02T08:34:24.000Z"
             }
           ]
-        },
-        {
-          "id": "s1x03nlg",
-          "headline": "USTR Greer says he does not think “something is imminent” on trade deal with India",
-          "url": "https://www.thehindu.com/business/Economy/ustr-greer-says-he-does-not-think-something-is-imminent-on-trade-deal-with-india/article71535944.ece",
-          "source": "thehindu",
-          "date": "2026-10-02T06:10:51.000Z",
-          "relevance": "medium",
-          "why": "The US trade representative signalling that no India-US deal is imminent suggests tariff and market-access uncertainty for exporters may continue.",
-          "implications": [
-            "Exporters to the US may face continued tariff uncertainty in the coming weeks.",
-            "Sectors like textiles and farm products may see delayed relief from US duties."
-          ],
-          "reports": [
-            {
-              "source": "thehindu",
-              "headline": "USTR Greer says he does not think “something is imminent” on trade deal with India",
-              "url": "https://www.thehindu.com/business/Economy/ustr-greer-says-he-does-not-think-something-is-imminent-on-trade-deal-with-india/article71535944.ece",
-              "date": "2026-10-02T06:10:51.000Z"
-            }
-          ]
         }
       ]
     },
@@ -845,6 +939,49 @@
       "name": "Policy & Governance",
       "items": [
         {
+          "id": "s1oojmmp",
+          "headline": "Health groups seek regulation of private hospital charges, medicine margins",
+          "url": "https://www.thehindu.com/sci-tech/health/health-groups-seek-regulation-of-private-hospital-charges-medicine-margins/article71547153.ece",
+          "source": "thehindu",
+          "date": "2026-10-05T14:56:20.000Z",
+          "relevance": "medium",
+          "why": "Calls for uniform regulation of private hospital charges and medicine margins raise a national health-pricing policy question affecting patients across India.",
+          "implications": [
+            "Ceilings on hospital charges could lower out-of-pocket bills for patients if authorities act on the demand.",
+            "Capping trade margins on medicines may reduce drug prices for households.",
+            "Private hospitals may resist, so any change could take time to arrive."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Health groups seek regulation of private hospital charges, medicine margins",
+              "url": "https://www.thehindu.com/sci-tech/health/health-groups-seek-regulation-of-private-hospital-charges-medicine-margins/article71547153.ece",
+              "date": "2026-10-05T14:56:20.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1lwnfbc",
+          "headline": "Meet Justices Sunita Agarwal, DK Upadhyay, Aparesh Singh: Centre notifies appointment of 3 judges to Supreme Court",
+          "url": "https://www.livemint.com/news/india/meet-justices-sunita-agarwal-dk-upadhyay-aparesh-singh-centre-notifies-appointment-of-3-judges-to-supreme-court-11791201406043.html",
+          "source": "mint",
+          "date": "2026-10-05T13:12:12.000Z",
+          "relevance": "medium",
+          "why": "Elevating three High Court Chief Justices brings the Supreme Court to 37 of 38 judges, supporting the functioning of the country's apex judiciary.",
+          "implications": [
+            "Near-full strength may help the Supreme Court handle its large pending caseload more steadily.",
+            "Litigants and businesses awaiting apex court hearings could see modestly faster listing of cases."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Meet Justices Sunita Agarwal, DK Upadhyay, Aparesh Singh: Centre notifies appointment of 3 judges to Supreme Court",
+              "url": "https://www.livemint.com/news/india/meet-justices-sunita-agarwal-dk-upadhyay-aparesh-singh-centre-notifies-appointment-of-3-judges-to-supreme-court-11791201406043.html",
+              "date": "2026-10-05T13:12:12.000Z"
+            }
+          ]
+        },
+        {
           "id": "sped6ol",
           "headline": "Aadhaar name correction new rules 2026: Which document do you need for spelling mistake, marriage or major name change?",
           "url": "https://www.livemint.com/news/india/aadhaar-name-correction-new-rules-2026-which-document-do-you-need-for-spelling-mistake-marriage-or-major-name-change-11791199334968.html",
@@ -997,10 +1134,10 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 21,
-    "added": 3,
+    "analysed": 68,
+    "added": 6,
     "merged": 1,
-    "rejected": 17,
+    "rejected": 61,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {

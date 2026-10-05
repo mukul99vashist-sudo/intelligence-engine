@@ -2,12 +2,82 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-05T12:17:04.087Z",
+  "updatedAt": "2026-10-05T15:00:18.708Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "s1o9hx0z",
+          "headline": "US sends third aircraft carrier to Middle East amid stalemate in Iran war",
+          "url": "https://www.theguardian.com/world/2026/oct/02/us-third-aircraft-carrier-middle-east-iran",
+          "source": "guardian",
+          "date": "2026-10-02T01:17:37.000Z",
+          "relevance": "high",
+          "why": "A larger US naval buildup in the Middle East during the Iran war raises risk to Gulf oil and shipping routes India depends on.",
+          "implications": [
+            "Crude and fuel import costs may rise if tensions threaten Gulf supply or shipping.",
+            "Indian-flagged ships and seafarers in the region could face higher security and insurance risks."
+          ],
+          "reports": [
+            {
+              "source": "guardian",
+              "headline": "US sends third aircraft carrier to Middle East amid stalemate in Iran war",
+              "url": "https://www.theguardian.com/world/2026/oct/02/us-third-aircraft-carrier-middle-east-iran",
+              "date": "2026-10-02T01:17:37.000Z"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "US pulls bombers from UK base: Is Iran manoeuvring Trump’s war plans?",
+              "url": "https://www.aljazeera.com/news-analysis/2026/10/5/us-pulls-bombers-from-uk-base-is-iran-maneouvering-trumps-war-plans",
+              "date": "2026-10-05T14:19:44.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s13jo9jk",
+          "headline": "Iran’s oil minister resigns as country’s economic crisis worsens",
+          "url": "https://www.theguardian.com/world/2026/oct/05/iran-oil-minister-resigns-economic-crisis",
+          "source": "guardian",
+          "date": "2026-10-05T14:16:14.000Z",
+          "relevance": "medium",
+          "why": "Turmoil in Iran's oil ministry and falling export receipts could affect supply and pricing of crude in markets India buys from.",
+          "implications": [
+            "Uncertainty over Iranian oil exports may add to volatility in global crude prices that India pays.",
+            "Iran's economic strain could complicate Indian trade and payment links with Iran."
+          ],
+          "reports": [
+            {
+              "source": "guardian",
+              "headline": "Iran’s oil minister resigns as country’s economic crisis worsens",
+              "url": "https://www.theguardian.com/world/2026/oct/05/iran-oil-minister-resigns-economic-crisis",
+              "date": "2026-10-05T14:16:14.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sf440ic",
+          "headline": "Is Iran charging a toll to allow oil traffic through Hormuz?",
+          "url": "https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz",
+          "source": "aljazeera",
+          "date": "2026-10-05T13:11:42.000Z",
+          "relevance": "high",
+          "why": "Possible Iranian tolls on Hormuz oil traffic could explain why oil prices stay high even as crude exports bypassing the strait rise.",
+          "implications": [
+            "Crude prices may stay elevated, raising India's import bill, which is heavily dependent on Gulf oil.",
+            "Any hidden transit fees could push up shipping and insurance costs on Gulf cargoes into India.",
+            "Higher fuel costs may feed into domestic inflation and pressure the rupee."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Is Iran charging a toll to allow oil traffic through Hormuz?",
+              "url": "https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz",
+              "date": "2026-10-05T13:11:42.000Z"
+            }
+          ]
+        },
         {
           "id": "scj21pm",
           "headline": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
@@ -78,27 +148,6 @@
               "date": "2026-10-02T08:54:00.000Z"
             }
           ]
-        },
-        {
-          "id": "s1o9hx0z",
-          "headline": "US sends third aircraft carrier to Middle East amid stalemate in Iran war",
-          "url": "https://www.theguardian.com/world/2026/oct/02/us-third-aircraft-carrier-middle-east-iran",
-          "source": "guardian",
-          "date": "2026-10-02T01:17:37.000Z",
-          "relevance": "high",
-          "why": "A larger US naval buildup in the Middle East during the Iran war raises risk to Gulf oil and shipping routes India depends on.",
-          "implications": [
-            "Crude and fuel import costs may rise if tensions threaten Gulf supply or shipping.",
-            "Indian-flagged ships and seafarers in the region could face higher security and insurance risks."
-          ],
-          "reports": [
-            {
-              "source": "guardian",
-              "headline": "US sends third aircraft carrier to Middle East amid stalemate in Iran war",
-              "url": "https://www.theguardian.com/world/2026/oct/02/us-third-aircraft-carrier-middle-east-iran",
-              "date": "2026-10-02T01:17:37.000Z"
-            }
-          ]
         }
       ]
     },
@@ -148,6 +197,12 @@
               "headline": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
               "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o",
               "date": "2026-10-05T11:34:59.000Z"
+            },
+            {
+              "source": "npr",
+              "headline": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
+              "url": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
+              "date": "2026-10-05T10:53:46.000Z"
             }
           ]
         },
@@ -316,6 +371,39 @@
       "name": "Policy & Governance",
       "items": [
         {
+          "id": "sqjwff2",
+          "headline": "India's 'cockroach' protesters are back - this time asking poll chief to resign",
+          "url": "https://www.bbc.co.uk/news/articles/ck62mped4rz9o",
+          "source": "bbc",
+          "date": "2026-10-02T04:25:54.000Z",
+          "relevance": "high",
+          "why": "Large Mumbai protest demanding the resignation of India's election commissioner puts pressure on an Indian electoral institution.",
+          "implications": [
+            "Public pressure on the poll body could fuel debate over electoral oversight and institutional credibility.",
+            "Continued large protests may affect public order and political activity in Mumbai."
+          ],
+          "reports": [
+            {
+              "source": "bbc",
+              "headline": "India's 'cockroach' protesters are back - this time asking poll chief to resign",
+              "url": "https://www.bbc.co.uk/news/articles/ck62mped4rz9o",
+              "date": "2026-10-02T04:25:54.000Z"
+            },
+            {
+              "source": "guardian",
+              "headline": "India’s Cockroach movement launches new protests over changes to voter roll",
+              "url": "https://www.theguardian.com/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll",
+              "date": "2026-10-02T14:42:16.000Z"
+            },
+            {
+              "source": "guardian",
+              "headline": "India’s supreme court demands answers over changes to voter roll",
+              "url": "https://www.theguardian.com/world/2026/oct/05/india-protests-supreme-court-changes-voter-roll-modi-election-commission",
+              "date": "2026-10-05T14:22:16.000Z"
+            }
+          ]
+        },
+        {
           "id": "safoyq8",
           "headline": "Indian police accused of sexually harassing journalists at protest",
           "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o",
@@ -339,33 +427,6 @@
               "headline": "India's 'Cockroach' protests intensify as police probe harassment claims",
               "url": "https://www.abc.net.au/news/2026-10-05/india-investigates-sexual-harassment-cockroach-protests/107227464",
               "date": "2026-10-04T18:46:37.000Z"
-            }
-          ]
-        },
-        {
-          "id": "sqjwff2",
-          "headline": "India's 'cockroach' protesters are back - this time asking poll chief to resign",
-          "url": "https://www.bbc.co.uk/news/articles/ck62mped4rz9o",
-          "source": "bbc",
-          "date": "2026-10-02T04:25:54.000Z",
-          "relevance": "medium",
-          "why": "Large Mumbai protest demanding the resignation of India's election commissioner puts pressure on an Indian electoral institution.",
-          "implications": [
-            "Public pressure on the poll body could fuel debate over electoral oversight and institutional credibility.",
-            "Continued large protests may affect public order and political activity in Mumbai."
-          ],
-          "reports": [
-            {
-              "source": "bbc",
-              "headline": "India's 'cockroach' protesters are back - this time asking poll chief to resign",
-              "url": "https://www.bbc.co.uk/news/articles/ck62mped4rz9o",
-              "date": "2026-10-02T04:25:54.000Z"
-            },
-            {
-              "source": "guardian",
-              "headline": "India’s Cockroach movement launches new protests over changes to voter roll",
-              "url": "https://www.theguardian.com/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll",
-              "date": "2026-10-02T14:42:16.000Z"
             }
           ]
         }
@@ -408,21 +469,21 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 13,
-    "added": 1,
-    "merged": 1,
-    "rejected": 11,
+    "analysed": 35,
+    "added": 2,
+    "merged": 3,
+    "rejected": 30,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 154
+        "items": 155
       },
       "guardian": {
         "feedsOk": 7,
         "feedsFailed": 0,
-        "items": 195
+        "items": 200
       },
       "npr": {
         "feedsOk": 4,
@@ -435,9 +496,9 @@
         "items": 13
       },
       "mercopress": {
-        "feedsOk": 3,
-        "feedsFailed": 0,
-        "items": 30
+        "feedsOk": 2,
+        "feedsFailed": 1,
+        "items": 20
       },
       "abc": {
         "feedsOk": 3,
