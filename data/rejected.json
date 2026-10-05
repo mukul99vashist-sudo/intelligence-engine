@@ -1,5 +1,29 @@
 [
   {
+    "source": "guardian",
+    "headline": "Son of disgraced ex-president Jair Bolsonaro takes election lead in Brazil | First Thing",
+    "url": "https://www.theguardian.com/us-news/2026/oct/05/first-thing-son-disgraced-ex-president-jair-flavio-bolsonaro-election-lead-brazil",
+    "date": "2026-10-05T10:59:21.000Z",
+    "reason": "Foreign election result with no stated trade, tariff, energy or foreign-policy shift affecting India.",
+    "checkedAt": "2026-10-05T11:11:50.366Z"
+  },
+  {
+    "source": "npr",
+    "headline": "U.S. Marine suspected in woman's death arrested in Japan",
+    "url": "https://www.npr.org/2026/10/05/nx-s1-5990879/u-s-marine-suspected-in-womans-death-arrested-in-japan",
+    "date": "2026-10-05T10:53:37.000Z",
+    "reason": "Criminal case and Japanese domestic criticism of US troops; no clear India link.",
+    "checkedAt": "2026-10-05T11:11:50.366Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "Lab worker ‘possibly’ dies of plague in Siberia, prompting quarantine measures",
+    "url": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk",
+    "date": "2026-10-05T10:47:23.000Z",
+    "reason": "Localised health event in Siberia with no stated path to India's trade, travel or supply.",
+    "checkedAt": "2026-10-05T11:11:50.366Z"
+  },
+  {
     "source": "aljazeera",
     "headline": "Former Prince Andrew launches challenge to ‘quash’ police search warrants",
     "url": "https://www.aljazeera.com/news/2026/10/5/former-prince-andrew-launches-challenge-to-quash-police-search-warrants",
@@ -1173,30 +1197,6 @@
     "url": "https://www.abc.net.au/news/2026-10-05/is-artificial-intelligence-a-new-lifeform/107226762",
     "date": "2026-10-04T18:25:23.000Z",
     "reason": "Philosophical commentary on AI with no concrete India link.",
-    "checkedAt": "2026-10-05T10:50:00.771Z"
-  },
-  {
-    "source": "abc",
-    "headline": "Ketamine cold calls and 'free' cannabis: Veterans treated as 'cash cows'",
-    "url": "https://www.abc.net.au/news/2026-10-05/cannabis-ketamine-prescriptions-veteran-health-care-dva/107207132",
-    "date": "2026-10-04T18:22:12.000Z",
-    "reason": "US domestic veterans healthcare story.",
-    "checkedAt": "2026-10-05T10:50:00.771Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "Trump names intelligence chief Jay Clayton as new White House AI czar",
-    "url": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
-    "date": "2026-10-04T17:45:28.000Z",
-    "reason": "US personnel appointment with no stated trade or policy shift affecting India.",
-    "checkedAt": "2026-10-05T10:50:00.771Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "After a deadly paper mill explosion, a community in Washington state looks to a key House race",
-    "url": "https://www.theguardian.com/us-news/2026/oct/04/washington-state-marie-gluesenkamp-perez-democrat-congress",
-    "date": "2026-10-04T17:27:32.000Z",
-    "reason": "US local industrial accident and House race; no India link.",
     "checkedAt": "2026-10-05T10:50:00.771Z"
   }
 ]

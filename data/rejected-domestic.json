@@ -1,6 +1,30 @@
 [
   {
     "source": "thehindu",
+    "headline": "Start-ups, investors, industry to meet at IIT Palakkad innovation summit",
+    "url": "https://www.thehindu.com/news/national/kerala/start-ups-investors-industry-to-meet-at-iit-palakkad-innovation-summit/article71546535.ece",
+    "date": "2026-10-05T11:05:42.000Z",
+    "reason": "Regional institute innovation summit with a state chief minister; no national significance.",
+    "checkedAt": "2026-10-05T11:11:56.595Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Pune MPSC aspirants protest against paper leaks, demand chairman’s resignation",
+    "url": "https://www.thehindu.com/news/national/maharashtra/mpsc-exam-paper-leak-aspirants-protest-in-pune-ncp-sp-cong-leaders-back-agitation/article71438457.ece",
+    "date": "2026-10-05T11:05:39.000Z",
+    "reason": "City-level protest over a state recruitment exam; no clear national impact.",
+    "checkedAt": "2026-10-05T11:11:56.595Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Can Temple check if pilots are fit to fly? Deepinder Goyal suggests Air Force could use it too",
+    "url": "https://www.livemint.com/technology/can-temple-check-if-pilots-are-fit-to-fly-deepinder-goyal-suggests-air-force-could-use-it-too-11791194370436.html",
+    "date": "2026-10-05T11:04:01.000Z",
+    "reason": "Founder's product suggestion about a wearable device; no national policy or sector-wide effect.",
+    "checkedAt": "2026-10-05T11:11:56.595Z"
+  },
+  {
+    "source": "thehindu",
     "headline": "BJP Keralam unit questions State govt’s anti-corruption inquiry against CEC Gyanesh Kumar",
     "url": "https://www.thehindu.com/news/national/kerala/bjp-keralam-unit-questions-state-govts-anti-corruption-inquiry-against-cec-gyanesh-kumar/article71546759.ece",
     "date": "2026-10-05T10:53:20.000Z",
@@ -1173,30 +1197,6 @@
     "url": "https://www.livemint.com/companies/news/vedanta-aluminium-demand-odisha-mining-corp-orissa-high-court-bauxite-price-india-11791179324496.html",
     "date": "2026-10-05T06:50:47.000Z",
     "reason": "Single-company payment demand after a court setback; no sector-wide national impact.",
-    "checkedAt": "2026-10-05T10:52:29.491Z"
-  },
-  {
-    "source": "mint",
-    "headline": "‘No more AI’: Elon Musk to rebrand SpaceXAI as SpaceXSI — What is the Trump connection behind the move?",
-    "url": "https://www.livemint.com/companies/news/no-more-ai-elon-musk-to-rebrand-spacexai-as-spacexsi-what-is-the-trump-connection-behind-the-move-11791179606806.html",
-    "date": "2026-10-05T06:49:45.000Z",
-    "reason": "US company rebranding and US executive order; not about India.",
-    "checkedAt": "2026-10-05T10:52:29.491Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Vietnams Masan High-Tech seeks approval for 5% private placement to fund tungsten expansion",
-    "url": "https://www.livemint.com/companies/vietnams-masan-high-tech-seeks-approval-for-5-private-placement-to-fund-tungsten-expansion-11791181821471.html",
-    "date": "2026-10-05T06:30:21.000Z",
-    "reason": "Foreign company financing story, not an Indian development.",
-    "checkedAt": "2026-10-05T10:52:29.491Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Will be arrested anytime under NSA, says CJP's Ashutosh Ranka: 'Agar maar bhi diya toh...'",
-    "url": "https://www.livemint.com/news/india/will-be-arrested-anytime-under-nsa-cjp-ashutosh-ranka-abhijit-dipke-saurav-das-agar-maar-bhi-diya-to-gyanesh-kumar-11791179893302.html",
-    "date": "2026-10-05T06:20:57.000Z",
-    "reason": "Centres on an activist's personal claim about possible arrest; party-political sparring.",
     "checkedAt": "2026-10-05T10:52:29.491Z"
   }
 ]
