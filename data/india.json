@@ -2,7 +2,7 @@
   "schema": 3,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-05T09:31:54.590Z",
+  "updatedAt": "2026-10-05T09:57:31.033Z",
   "sectors": [
     {
       "id": "energy",
@@ -49,6 +49,28 @@
               "headline": "US pressures Europe to release diesel reserves as Trump threatens export ban",
               "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
               "date": "2026-10-02T08:54:00.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1o9hx0z",
+          "headline": "US sends third aircraft carrier to Middle East amid stalemate in Iran war",
+          "url": "https://www.theguardian.com/world/2026/oct/02/us-third-aircraft-carrier-middle-east-iran",
+          "source": "guardian",
+          "date": "2026-10-02T01:17:37.000Z",
+          "relevance": "medium",
+          "why": "A widening US-Iran conflict in the Middle East sits on the routes that carry much of India's oil and gas imports.",
+          "implications": [
+            "Prolonged military buildup could keep crude oil and freight risk premiums elevated, which may raise India's import costs.",
+            "New US strikes on Iran could disrupt Gulf shipping and energy supplies reaching India.",
+            "Indian citizens and workers in the Gulf may face greater security risks if fighting escalates."
+          ],
+          "reports": [
+            {
+              "source": "guardian",
+              "headline": "US sends third aircraft carrier to Middle East amid stalemate in Iran war",
+              "url": "https://www.theguardian.com/world/2026/oct/02/us-third-aircraft-carrier-middle-east-iran",
+              "date": "2026-10-02T01:17:37.000Z"
             }
           ]
         }
@@ -110,6 +132,12 @@
               "headline": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
               "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o",
               "date": "2026-10-02T09:08:06.000Z"
+            },
+            {
+              "source": "bbc",
+              "headline": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+              "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo",
+              "date": "2026-10-02T11:52:04.000Z"
             }
           ]
         }
@@ -259,9 +287,10 @@
   ],
   "source": "BBC News & The Guardian",
   "lastRun": {
-    "analysed": 5,
-    "added": 0,
-    "merged": 0,
+    "analysed": 11,
+    "added": 1,
+    "merged": 1,
+    "rejected": 9,
     "failedBatches": 0
   }
 }
