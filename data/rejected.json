@@ -1,5 +1,93 @@
 [
   {
+    "source": "bbc",
+    "headline": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
+    "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo",
+    "date": "2026-10-05T12:07:59.000Z",
+    "reason": "UK base security story; summary gives no stated link to India or trade routes.",
+    "checkedAt": "2026-10-05T12:17:04.087Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "Guardian readers fund life-changing surgery for Somali boy injured in US airstrike",
+    "url": "https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah",
+    "date": "2026-10-05T12:00:24.000Z",
+    "reason": "Humanitarian story about a Somali boy; no clear path to India.",
+    "checkedAt": "2026-10-05T12:17:04.087Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "Senate-approved bills aim to ease burden on pilots amid mental health ‘stigma’",
+    "url": "https://www.theguardian.com/us-news/2026/oct/05/us-senate-pilots-air-traffic-controllers-mental-health",
+    "date": "2026-10-05T12:00:24.000Z",
+    "reason": "US domestic aviation workforce legislation with no direct effect on India.",
+    "checkedAt": "2026-10-05T12:17:04.087Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "Two people die trying to cross Channel as anti-migrant protesters clash with police in Gosport",
+    "url": "https://www.theguardian.com/uk-news/2026/oct/05/anti-migrant-protesters-scuffle-police-gosport-channel-rescue",
+    "date": "2026-10-05T11:59:19.000Z",
+    "reason": "UK migration and protest story with no link to India.",
+    "checkedAt": "2026-10-05T12:17:04.087Z"
+  },
+  {
+    "source": "npr",
+    "headline": "FBI arrests a woman accused of spying on Taiwan leader's family for China",
+    "url": "https://www.npr.org/2026/10/05/g-s1-146410/fbi-arrests-a-woman-accused-of-spying-on-taiwan-leaders-family-for-china",
+    "date": "2026-10-05T11:47:36.000Z",
+    "reason": "US espionage arrest tied to Taiwan; no direct path to India.",
+    "checkedAt": "2026-10-05T12:17:04.087Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "Average five-year fixed mortgage rate hits 6% for first time in three years",
+    "url": "https://www.theguardian.com/money/2026/oct/05/five-year-fixed-mortgage-rate-banks-building-societies",
+    "date": "2026-10-05T11:39:37.000Z",
+    "reason": "UK domestic mortgage rates; the global bond-market cause is a separate story.",
+    "checkedAt": "2026-10-05T12:17:04.087Z"
+  },
+  {
+    "source": "npr",
+    "headline": "Imran Khan supporters march in Pakistan to demand his release after talks failed",
+    "url": "https://www.npr.org/2026/10/05/g-s1-146408/imran-khan-supporters-march-in-pakistan-to-demand-his-release-after-talks-failed",
+    "date": "2026-10-05T11:38:26.000Z",
+    "reason": "Pakistan's domestic political protest with no stated trade, energy or foreign-policy shift.",
+    "checkedAt": "2026-10-05T12:17:04.087Z"
+  },
+  {
+    "source": "aljazeera",
+    "headline": "Growing outrage in Japan after US Marine arrested in woman’s killing",
+    "url": "https://www.aljazeera.com/news/2026/10/5/growing-outrage-in-japan-after-us-marine-arrested-in-womans-killing",
+    "date": "2026-10-05T11:25:45.000Z",
+    "reason": "Local crime and protest story in Japan with no trade or policy link to India.",
+    "checkedAt": "2026-10-05T12:17:04.087Z"
+  },
+  {
+    "source": "bbc",
+    "headline": "Indian singer Anuv Jain on finding success without the Bollywood boost",
+    "url": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo",
+    "date": "2026-10-05T11:10:28.000Z",
+    "reason": "Entertainment profile with no material economic or policy effect on India.",
+    "checkedAt": "2026-10-05T12:17:04.086Z"
+  },
+  {
+    "source": "npr",
+    "headline": "SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff",
+    "url": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
+    "date": "2026-10-05T11:07:09.000Z",
+    "reason": "US court case and Brazil's domestic election race; no stated direct path to India.",
+    "checkedAt": "2026-10-05T12:17:04.086Z"
+  },
+  {
+    "source": "bbc",
+    "headline": "Spanish PM Sánchez calls early election after housing protests",
+    "url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o",
+    "date": "2026-10-05T10:18:47.000Z",
+    "reason": "Spanish domestic politics with no stated trade, tariff, energy or foreign-policy shift.",
+    "checkedAt": "2026-10-05T12:17:04.086Z"
+  },
+  {
     "source": "guardian",
     "headline": "Son of disgraced ex-president Jair Bolsonaro takes election lead in Brazil | First Thing",
     "url": "https://www.theguardian.com/us-news/2026/oct/05/first-thing-son-disgraced-ex-president-jair-flavio-bolsonaro-election-lead-brazil",
@@ -1110,93 +1198,5 @@
     "date": "2026-10-04T22:11:33.000Z",
     "reason": "South Korean domestic criminal trial; no India link.",
     "checkedAt": "2026-10-05T10:50:14.007Z"
-  },
-  {
-    "source": "npr",
-    "headline": "The Amazon's future is on the ballot in Brazil. Many voters aren't focused on it",
-    "url": "https://www.npr.org/2026/10/04/nx-s1-5986271/the-amazons-future-is-on-the-ballot-in-brazil-many-voters-arent-focused-on-it",
-    "date": "2026-10-04T21:57:06.000Z",
-    "reason": "Brazilian domestic campaign story on environment, with no direct India trade or policy path.",
-    "checkedAt": "2026-10-05T10:50:14.007Z"
-  },
-  {
-    "source": "npr",
-    "headline": "Brazil votes, with Lula facing Bolsonaro's son",
-    "url": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
-    "date": "2026-10-04T21:52:09.000Z",
-    "reason": "Foreign election race with no stated trade or policy shift affecting India.",
-    "checkedAt": "2026-10-05T10:50:14.007Z"
-  },
-  {
-    "source": "mercopress",
-    "headline": "US withdraws all its bombers from Britain's RAF Fairford base",
-    "url": "https://en.mercopress.com/2026/10/04/us-withdraws-all-its-bombers-from-britain-s-raf-fairford-base",
-    "date": "2026-10-04T21:35:00.000Z",
-    "reason": "US military deployment change in England, with no stated India link.",
-    "checkedAt": "2026-10-05T10:50:14.007Z"
-  },
-  {
-    "source": "mercopress",
-    "headline": "Falklands Chamber of Commerce backs the Punta Arenas route despite Argentine warnings",
-    "url": "https://en.mercopress.com/2026/10/04/falklands-chamber-of-commerce-backs-the-punta-arenas-route-despite-argentine-warnings",
-    "date": "2026-10-04T21:19:00.000Z",
-    "reason": "Regional Falklands-Chile-Argentina trade dispute, not on India's trade routes.",
-    "checkedAt": "2026-10-05T10:50:14.007Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "Tories to pledge to scrap Environment Agency and Natural England",
-    "url": "https://www.theguardian.com/politics/2026/oct/04/tories-scrap-environment-agency-natural-england-conservative-conference",
-    "date": "2026-10-04T21:00:38.000Z",
-    "reason": "UK opposition party's domestic regulatory pledge; no India link.",
-    "checkedAt": "2026-10-05T10:50:14.007Z"
-  },
-  {
-    "source": "abc",
-    "headline": "Jane Doe threatened in Cornell University rape case, lawyer says",
-    "url": "https://www.abc.net.au/news/2026-10-05/woman-at-centre-of-cornell-rape-allegations-targeted-threats/107228278",
-    "date": "2026-10-04T20:32:13.000Z",
-    "reason": "US university legal case with no link to India.",
-    "checkedAt": "2026-10-05T10:50:14.007Z"
-  },
-  {
-    "source": "abc",
-    "headline": "ASX edges higher supported by miners, housing market weakens as auction clearance rates fall — as it happened",
-    "url": "https://www.abc.net.au/news/2026-10-05/asx-markets-business-live-news/107227606",
-    "date": "2026-10-04T20:09:46.000Z",
-    "reason": "Australian market and housing report; no clear path to India.",
-    "checkedAt": "2026-10-05T10:50:14.007Z"
-  },
-  {
-    "source": "abc",
-    "headline": "Former Bachelor star Sam Wood will stay behind bars after facing court on DV charges",
-    "url": "https://www.abc.net.au/news/2026-10-05/sam-wood-bachelor-fitness-influencer-domestic-violence-offences/107228270",
-    "date": "2026-10-04T19:58:50.000Z",
-    "reason": "Australian domestic criminal case with no link to India.",
-    "checkedAt": "2026-10-05T10:50:14.007Z"
-  },
-  {
-    "source": "npr",
-    "headline": "Trump names national intelligence chief Jay Clayton as new AI czar",
-    "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
-    "date": "2026-10-04T18:36:48.000Z",
-    "reason": "A US domestic appointment with no stated trade, tech-export or policy effect on India.",
-    "checkedAt": "2026-10-05T10:50:14.007Z"
-  },
-  {
-    "source": "abc",
-    "headline": "Australia's fossil fuel expansion 'slap in the face' to Pacific nations",
-    "url": "https://www.abc.net.au/news/2026-10-05/pre-cop31-australia-challenged-over-fossil-fuel-expansion/107220650",
-    "date": "2026-10-04T18:30:00.000Z",
-    "reason": "Framed around Australia's climate credentials at regional talks; no clear path to India.",
-    "checkedAt": "2026-10-05T10:50:14.007Z"
-  },
-  {
-    "source": "abc",
-    "headline": "AI is evolving rapidly. Is it a new form of life?",
-    "url": "https://www.abc.net.au/news/2026-10-05/is-artificial-intelligence-a-new-lifeform/107226762",
-    "date": "2026-10-04T18:25:23.000Z",
-    "reason": "Philosophical commentary on AI with no concrete India link.",
-    "checkedAt": "2026-10-05T10:50:00.771Z"
   }
 ]

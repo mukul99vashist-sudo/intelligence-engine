@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-05T11:11:50.366Z",
+  "updatedAt": "2026-10-05T12:17:04.087Z",
   "sectors": [
     {
       "id": "energy",
@@ -107,6 +107,51 @@
       "name": "Logistics & Shipping",
       "items": [
         {
+          "id": "s1yu8mst",
+          "headline": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
+          "url": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
+          "source": "guardian",
+          "date": "2026-10-02T08:39:40.000Z",
+          "relevance": "medium",
+          "why": "An Indian pilot was attacked on a flydubai flight and spoke with India's PM, raising air safety concerns on Gulf routes.",
+          "implications": [
+            "Air travellers from India on Gulf and Middle East routes may worry about aviation security.",
+            "Indian crew working for Gulf carriers could face greater scrutiny of cockpit security and safety."
+          ],
+          "reports": [
+            {
+              "source": "guardian",
+              "headline": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
+              "url": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
+              "date": "2026-10-02T08:39:40.000Z"
+            },
+            {
+              "source": "bbc",
+              "headline": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+              "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o",
+              "date": "2026-10-02T09:08:06.000Z"
+            },
+            {
+              "source": "bbc",
+              "headline": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+              "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo",
+              "date": "2026-10-02T11:52:04.000Z"
+            },
+            {
+              "source": "guardian",
+              "headline": "Suicide by plane or terrorism? Speculation over motive in flight 1073 attack",
+              "url": "https://www.theguardian.com/world/2026/oct/02/aviation-security-flydubai-flight-israel",
+              "date": "2026-10-02T15:40:05.000Z"
+            },
+            {
+              "source": "bbc",
+              "headline": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+              "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o",
+              "date": "2026-10-05T11:34:59.000Z"
+            }
+          ]
+        },
+        {
           "id": "s1j2msqq",
           "headline": "Yemen's government announces all-out war to reclaim land from Houthis",
           "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o",
@@ -150,45 +195,6 @@
               "date": "2026-10-05T09:40:37.000Z"
             }
           ]
-        },
-        {
-          "id": "s1yu8mst",
-          "headline": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
-          "url": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
-          "source": "guardian",
-          "date": "2026-10-02T08:39:40.000Z",
-          "relevance": "medium",
-          "why": "An Indian pilot was attacked on a flydubai flight and spoke with India's PM, raising air safety concerns on Gulf routes.",
-          "implications": [
-            "Air travellers from India on Gulf and Middle East routes may worry about aviation security.",
-            "Indian crew working for Gulf carriers could face greater scrutiny of cockpit security and safety."
-          ],
-          "reports": [
-            {
-              "source": "guardian",
-              "headline": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
-              "url": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
-              "date": "2026-10-02T08:39:40.000Z"
-            },
-            {
-              "source": "bbc",
-              "headline": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-              "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o",
-              "date": "2026-10-02T09:08:06.000Z"
-            },
-            {
-              "source": "bbc",
-              "headline": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-              "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo",
-              "date": "2026-10-02T11:52:04.000Z"
-            },
-            {
-              "source": "guardian",
-              "headline": "Suicide by plane or terrorism? Speculation over motive in flight 1073 attack",
-              "url": "https://www.theguardian.com/world/2026/oct/02/aviation-security-flydubai-flight-israel",
-              "date": "2026-10-02T15:40:05.000Z"
-            }
-          ]
         }
       ]
     },
@@ -196,6 +202,28 @@
       "id": "economy",
       "name": "Economy & Trade",
       "items": [
+        {
+          "id": "s1haxzqq",
+          "headline": "Euro falls to 17-month low against dollar amid French debt fears",
+          "url": "https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone",
+          "source": "guardian",
+          "date": "2026-10-05T11:18:20.000Z",
+          "relevance": "medium",
+          "why": "A weaker euro against the dollar and eurozone debt worries could shift currency and trade conditions affecting India's exports to Europe.",
+          "implications": [
+            "Indian exports to the eurozone may become less price-competitive if the euro stays weak.",
+            "Rupee movements against the euro and dollar could become more volatile, affecting import costs and exporters' earnings.",
+            "Prolonged eurozone uncertainty could dampen European demand for Indian goods and services."
+          ],
+          "reports": [
+            {
+              "source": "guardian",
+              "headline": "Euro falls to 17-month low against dollar amid French debt fears",
+              "url": "https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone",
+              "date": "2026-10-05T11:18:20.000Z"
+            }
+          ]
+        },
         {
           "id": "sqnr518",
           "headline": "How India became dangerously addicted to Chinese imports",
@@ -380,21 +408,21 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 3,
-    "added": 0,
-    "merged": 0,
-    "rejected": 3,
+    "analysed": 13,
+    "added": 1,
+    "merged": 1,
+    "rejected": 11,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 156
+        "items": 154
       },
       "guardian": {
         "feedsOk": 7,
         "feedsFailed": 0,
-        "items": 193
+        "items": 195
       },
       "npr": {
         "feedsOk": 4,

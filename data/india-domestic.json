@@ -2,12 +2,34 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-05T11:11:56.595Z",
+  "updatedAt": "2026-10-05T12:17:24.046Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "ss3t8t6",
+          "headline": "India records highest e-bus sales in April-September period, adoption jumps to 8.55%",
+          "url": "https://www.livemint.com/industry/india-electric-bus-sales-surge-55-percent-h1-fy27-11791191122581.html",
+          "source": "mint",
+          "date": "2026-10-05T11:40:04.000Z",
+          "relevance": "medium",
+          "why": "Record e-bus sales and a planned cheaper-loan scheme show India's shift to electric public and freight transport is speeding up.",
+          "implications": [
+            "Cheaper loans could make it easier for private bus and truck operators to buy electric vehicles.",
+            "Higher e-bus adoption may gradually cut diesel use in city transport.",
+            "Bus makers and charging networks may see rising demand for electric fleets."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "India records highest e-bus sales in April-September period, adoption jumps to 8.55%",
+              "url": "https://www.livemint.com/industry/india-electric-bus-sales-surge-55-percent-h1-fy27-11791191122581.html",
+              "date": "2026-10-05T11:40:04.000Z"
+            }
+          ]
+        },
         {
           "id": "serr6er",
           "headline": "GEC III: Bridging geographic and temporal mismatch",
@@ -260,23 +282,24 @@
       "name": "Economy & Trade",
       "items": [
         {
-          "id": "s1jftzf",
-          "headline": "Trade talks need different templates for different partners, says FM Sitharaman",
-          "url": "https://www.livemint.com/news/india/trade-talks-need-different-templates-for-different-partners-says-fm-sitharaman-11791185501564.html",
+          "id": "silfvmn",
+          "headline": "State borrowing to rise 26% to ₹3.6 tn in Q3 under new issuance strategy: ICRA",
+          "url": "https://www.livemint.com/news/india/state-borrowing-set-to-rise-26-in-q3-as-26-states-adopt-new-issuance-strategy-icra-11791195674179.html",
           "source": "mint",
-          "date": "2026-10-05T09:12:44.000Z",
+          "date": "2026-10-05T12:10:46.000Z",
           "relevance": "medium",
-          "why": "The finance minister signalling partner-specific trade templates shows India will not copy its EU deal approach in tariff-heavy talks such as those with the US.",
+          "why": "A new RBI-backed issuance strategy adopted by most states is reshaping how states borrow, with Q3 borrowing projected to rise 26% to ₹3.6 trillion.",
           "implications": [
-            "Terms for exporters and importers may differ by partner, so tariff outcomes could vary across sectors.",
-            "Supply-chain resilience and strategic aims may shape which goods get tariff relief in future deals."
+            "Higher state borrowing could keep government bond yields elevated, which may influence loan interest rates in coming months.",
+            "Issuing within set maturity buckets could make state borrowing more predictable and orderly for lenders and banks.",
+            "Larger borrowing may signal heavier state spending on public services and infrastructure in the coming quarter."
           ],
           "reports": [
             {
               "source": "mint",
-              "headline": "Trade talks need different templates for different partners, says FM Sitharaman",
-              "url": "https://www.livemint.com/news/india/trade-talks-need-different-templates-for-different-partners-says-fm-sitharaman-11791185501564.html",
-              "date": "2026-10-05T09:12:44.000Z"
+              "headline": "State borrowing to rise 26% to ₹3.6 tn in Q3 under new issuance strategy: ICRA",
+              "url": "https://www.livemint.com/news/india/state-borrowing-set-to-rise-26-in-q3-as-26-states-adopt-new-issuance-strategy-icra-11791195674179.html",
+              "date": "2026-10-05T12:10:46.000Z"
             }
           ]
         },
@@ -299,6 +322,33 @@
               "headline": "Rupee trades in narrow range against U.S. dollar in early trade",
               "url": "https://www.thehindu.com/business/rupee-trades-in-narrow-range-against-us-dollar-in-early-trade/article71545911.ece",
               "date": "2026-10-05T05:25:15.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Rupee falls 5 paise to close at 96.30 against U.S. dollar",
+              "url": "https://www.thehindu.com/business/markets/rupee-falls-5-paise-to-close-at-9630-against-us-dollar/article71546875.ece",
+              "date": "2026-10-05T11:18:14.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1jftzf",
+          "headline": "Trade talks need different templates for different partners, says FM Sitharaman",
+          "url": "https://www.livemint.com/news/india/trade-talks-need-different-templates-for-different-partners-says-fm-sitharaman-11791185501564.html",
+          "source": "mint",
+          "date": "2026-10-05T09:12:44.000Z",
+          "relevance": "medium",
+          "why": "The finance minister signalling partner-specific trade templates shows India will not copy its EU deal approach in tariff-heavy talks such as those with the US.",
+          "implications": [
+            "Terms for exporters and importers may differ by partner, so tariff outcomes could vary across sectors.",
+            "Supply-chain resilience and strategic aims may shape which goods get tariff relief in future deals."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Trade talks need different templates for different partners, says FM Sitharaman",
+              "url": "https://www.livemint.com/news/india/trade-talks-need-different-templates-for-different-partners-says-fm-sitharaman-11791185501564.html",
+              "date": "2026-10-05T09:12:44.000Z"
             }
           ]
         },
@@ -795,6 +845,28 @@
       "name": "Policy & Governance",
       "items": [
         {
+          "id": "sped6ol",
+          "headline": "Aadhaar name correction new rules 2026: Which document do you need for spelling mistake, marriage or major name change?",
+          "url": "https://www.livemint.com/news/india/aadhaar-name-correction-new-rules-2026-which-document-do-you-need-for-spelling-mistake-marriage-or-major-name-change-11791199334968.html",
+          "source": "mint",
+          "date": "2026-10-05T12:04:10.000Z",
+          "relevance": "medium",
+          "why": "Revised UIDAI rules set document requirements for Aadhaar name changes, affecting the identity system that underpins banking, subsidies and public services nationwide.",
+          "implications": [
+            "Residents correcting names after marriage or spelling errors will need specific prescribed documents for each type of request.",
+            "Applicants submitting affidavits or Gazette notifications may face stricter UIDAI verification, which could slow some updates.",
+            "Mismatched names could be cleared more reliably, easing access to bank accounts, KYC and welfare benefits."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Aadhaar name correction new rules 2026: Which document do you need for spelling mistake, marriage or major name change?",
+              "url": "https://www.livemint.com/news/india/aadhaar-name-correction-new-rules-2026-which-document-do-you-need-for-spelling-mistake-marriage-or-major-name-change-11791199334968.html",
+              "date": "2026-10-05T12:04:10.000Z"
+            }
+          ]
+        },
+        {
           "id": "s1izayod",
           "headline": "ECI Row: What happens when all three Election Commissioners disagree? Here's what the law says",
           "url": "https://www.livemint.com/news/india/eci-row-what-happens-when-all-three-election-commissioners-disagree-heres-what-the-law-says-11791182525314.html",
@@ -925,16 +997,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 3,
-    "added": 0,
-    "merged": 0,
-    "rejected": 3,
+    "analysed": 21,
+    "added": 3,
+    "merged": 1,
+    "rejected": 17,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 342
+        "items": 343
       },
       "mint": {
         "feedsOk": 6,
