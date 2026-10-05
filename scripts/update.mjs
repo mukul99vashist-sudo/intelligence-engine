@@ -67,7 +67,7 @@ function skip(title, link) {
   if (/– as it happened$|- as it happened$/i.test(title)) return true;
   // newsletters, briefings, podcasts and round-ups summarise other reports rather than reporting news
   if (/^((monday|tuesday|wednesday|thursday|friday|saturday|sunday|morning|evening|weekend|first edition|business today)\b[^:]{0,20})?\s*briefing\s*:/i.test(title)) return true;
-  if (/^(first edition|the long read|today in focus|business live|newsletter)\b|\b(podcast|quiz|in pictures|week in pictures)\b|[–-] live$/i.test(title)) return true;
+  if (/^(first edition|the long read|today in focus|business live|newsletter)\b|\b(podcast|quiz|in (\d+ )?(photos|pictures))\b|[–-] live$/i.test(title)) return true;
   if (/\/series\/|\/info\/|\/newsletters?\//.test(link)) return true;
   return /\/sport\/|\/live\/|\/videos?\/|\/commentisfree\/|\/audio\/|\/football\/|\/lifeandstyle\/|\/culture\/|\/tv-and-radio\/|\/music\/|\/film\/|\/books\//.test(link);
 }
