@@ -5,7 +5,7 @@
 <meta name="color-scheme" content="light">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>India | The Intelligence Engine</title>
-<meta name="description" content="Today's global news from six outlets on five continents, through India's lens: sorted by sector, with what each story could mean for India.">
+<meta name="description" content="Two views of India's news: how world events from six outlets on five continents reach India, and the developments inside India from The Hindu and Mint, sorted by sector with what each could mean.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🛰️</text></svg>">
 <style>
 :root{
@@ -38,6 +38,14 @@ h1{font:800 clamp(34px,5vw,46px)/1 var(--sans);letter-spacing:-.025em;margin:0}
 .status b{color:var(--ink-2);font-weight:600}
 .dot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--ok);margin-right:6px;vertical-align:1px}
 .dot.stale{background:var(--ink-3)}
+
+/* View switch */
+.views{display:inline-flex;background:var(--bg-2);border-radius:12px;padding:3px;margin:4px 0 14px}
+.view{border:0;background:transparent;border-radius:9px;padding:8px 16px;font-size:14.5px;font-weight:600;color:var(--ink-3);cursor:pointer}
+.view[aria-selected="true"]{background:var(--card);color:var(--ink);box-shadow:0 1px 3px rgba(0,0,0,.12)}
+.dev{display:inline-flex;align-items:center;gap:4px;font-weight:600;color:var(--s-governance)}
+.dev::before{content:"";width:6px;height:6px;border-radius:50%;background:currentColor}
+.read .latest{color:var(--accent);font-weight:700}
 
 /* Sector tabs */
 .tabs{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:saturate(180%) blur(16px);-webkit-backdrop-filter:saturate(180%) blur(16px);border-bottom:1px solid var(--rule);margin:0 calc(-1 * var(--pad)) 22px;padding:10px var(--pad)}
@@ -120,10 +128,14 @@ footer{margin-top:28px;font-size:12.5px;color:var(--ink-3);max-width:80ch;line-h
     <div>
       <p class="date" id="today"></p>
       <h1>India</h1>
-      <p class="sub">Today's global news, through India's lens.</p>
+      <p class="sub" id="sub">How today's world news reaches India.</p>
     </div>
     <div class="status" id="status" aria-live="polite"></div>
   </header>
+  <div class="views" role="tablist" aria-label="Choose a view">
+    <button class="view" type="button" role="tab" data-view="global" id="v-global">🌍 Global impact</button>
+    <button class="view" type="button" role="tab" data-view="domestic" id="v-domestic">🇮🇳 Inside India</button>
+  </div>
 
   <nav class="tabs" aria-label="Sectors"><ul id="tabs" role="tablist"></ul></nav>
 
@@ -136,7 +148,7 @@ footer{margin-top:28px;font-size:12.5px;color:var(--ink-3);max-width:80ch;line-h
   </details>
 
   <footer>
-    For intelligence purposes only. Nothing here is financial or investment advice. Headlines are reproduced as published by the originating outlet (BBC News, The Guardian, NPR, Al Jazeera, MercoPress or ABC News) and link to the full story. "Why it reaches India" and implications are AI-generated analysis, not reported fact, and may be wrong. The desk checks both outlets automatically throughout the day; the time at the top shows the latest check.
+    For intelligence purposes only. Nothing here is financial or investment advice. Headlines are reproduced as published by the originating outlet (Global impact: BBC News, The Guardian, NPR, Al Jazeera, MercoPress, ABC News; Inside India: The Hindu, Mint) and link to the full story. The "why" lines and implications are AI-generated analysis, not reported fact, and may be wrong. The desk checks both outlets automatically throughout the day; the time at the top shows the latest check.
   </footer>
 </div>
 
@@ -146,9 +158,15 @@ footer{margin-top:28px;font-size:12.5px;color:var(--ink-3);max-width:80ch;line-h
 (function(){
 "use strict";
 var OWNER="mukul99vashist-sudo", REPO="intelligence-engine";
-var REFRESH_MS=2*60*1000, GRID_SHOW=12, SEEN_KEY="ie.seen.v1";
-var OUTLET={bbc:"BBC News",guardian:"The Guardian",npr:"NPR",aljazeera:"Al Jazeera",mercopress:"MercoPress",abc:"ABC News"};
-var REGION={bbc:"Europe",guardian:"Europe",npr:"North America",aljazeera:"Asia",mercopress:"South America",abc:"Australia"};
+var REFRESH_MS=2*60*1000, GRID_SHOW=12;
+var VIEWS={
+  global:  {data:"india.json",          rejected:"rejected.json",          sub:"How today's world news reaches India.",   why:"Why it reaches India", seen:"ie.seen.v1"},
+  domestic:{data:"india-domestic.json", rejected:"rejected-domestic.json", sub:"The developments shaping India today.",    why:"Why it matters",       seen:"ie.seen.domestic.v1"}
+};
+var view = location.hash==="#inside" ? "domestic" : "global";
+var docs={}, rejectedByView={}, lastUpdatedByView={};
+var OUTLET={bbc:"BBC News",guardian:"The Guardian",npr:"NPR",aljazeera:"Al Jazeera",mercopress:"MercoPress",abc:"ABC News",thehindu:"The Hindu",mint:"Mint"};
+var REGION={bbc:"Europe",guardian:"Europe",npr:"North America",aljazeera:"Asia",mercopress:"South America",abc:"Australia",thehindu:"India",mint:"India"};
 function learnSources(doc){ (doc.sources||[]).forEach(function(x){ OUTLET[x.id]=x.name; if(x.region) REGION[x.id]=x.region; }); }
 function regionsOf(it){ var r=[]; outletsOf(it).forEach(function(o){ var g=REGION[o]; if(g && r.indexOf(g)<0) r.push(g); }); return r; }
 var $=function(id){return document.getElementById(id);};
@@ -164,9 +182,11 @@ function latestDate(it){ var ds=reportsOf(it).map(function(r){return r.date||"";
 
 $("today").textContent=new Date().toLocaleDateString([], {weekday:"long", day:"numeric", month:"long"});
 
-var seenBefore={}, firstVisit=true, current=null, tab="all", showAll=false, lastUpdated=null, events=[];
-try{ var raw=localStorage.getItem(SEEN_KEY); if(raw){ seenBefore=JSON.parse(raw)||{}; firstVisit=false; } }catch(e){}
-function remember(){ var ids={}; events.forEach(function(e){ids[e.it.id]=1;}); try{ localStorage.setItem(SEEN_KEY, JSON.stringify(ids)); }catch(e){} }
+var seenBefore={}, firstVisit=true, current=null, tab="all", showAll=false, events=[];
+function loadSeen(){ seenBefore={}; firstVisit=true; try{ var raw=localStorage.getItem(VIEWS[view].seen); if(raw){ seenBefore=JSON.parse(raw)||{}; firstVisit=false; } }catch(e){} }
+function remember(){ var ids={}; events.forEach(function(e){ids[e.it.id]=1;}); try{ localStorage.setItem(VIEWS[view].seen, JSON.stringify(ids)); }catch(e){} }
+loadSeen();
+function isDeveloping(it){ var r=reportsOf(it); if(r.length<2) return false; var ts=r.map(function(x){return Date.parse(x.date);}).filter(function(t){return !isNaN(t);}); return ts.length>1 && (Math.max.apply(null,ts)-Math.min.apply(null,ts))>2*36e5; }
 
 /* Rank for the Top Story: relevance, corroboration, freshness. */
 function score(e){
@@ -179,8 +199,9 @@ function byline(it, withRel){
   var b=el("div","byline");
   var outs=outletsOf(it), names=outs.map(function(o){return OUTLET[o]||o;});
   b.appendChild(el("span","outlet", names.length>2 ? names.slice(0,2).join(" · ")+" +"+(names.length-2) : names.join(" · ")));
-  if(outs.length===1 && REGION[outs[0]]) b.appendChild(el("span","region",REGION[outs[0]]));
-  if(outs.length>1){ var rg=regionsOf(it).length; b.appendChild(el("span","corr","✓ "+outs.length+" outlets"+(rg>1?" · "+rg+" continents":""))); }
+  if(view==="global" && outs.length===1 && REGION[outs[0]]) b.appendChild(el("span","region",REGION[outs[0]]));
+  if(isDeveloping(it)) b.appendChild(el("span","dev","Developing · "+reportsOf(it).length+" reports"));
+  if(outs.length>1){ var rg=regionsOf(it).length; b.appendChild(el("span","corr","✓ "+outs.length+" outlets"+(view==="global"&&rg>1?" · "+rg+" continents":""))); }
   if(withRel && it.relevance==="high") b.appendChild(el("span","rel","High impact"));
   var w=when(latestDate(it)); if(w) b.appendChild(el("span",null,w));
   return b;
@@ -205,7 +226,7 @@ function renderStatus(doc){
   var fresh=Date.now()-Date.parse(doc.updatedAt) < 3*36e5;
   var a=el("div"); a.appendChild(el("span","dot"+(fresh?"":" stale"))); a.appendChild(document.createTextNode("Updated ")); a.appendChild(el("b",null,ago(doc.updatedAt)||"recently")); s.appendChild(a);
   var src=doc.sources||[], regs=[]; src.forEach(function(x){ if(x.region && regs.indexOf(x.region)<0) regs.push(x.region); });
-  var line=el("div",null, src.length ? src.length+" outlets across "+regs.length+" continents" : (doc.source||""));
+  var line=el("div",null, !src.length ? (doc.source||"") : view==="global" ? src.length+" outlets across "+regs.length+" continents" : src.map(function(x){return x.name;}).join(" & "));
   line.title=src.map(function(x){return x.name+(x.region?" ("+x.region+")":"");}).join(", ");
   s.appendChild(line);
 }
@@ -227,7 +248,7 @@ function render(doc){
   events=[]; (doc.sectors||[]).forEach(function(s){ (s.items||[]).forEach(function(it){ events.push({it:it, sector:s}); }); });
   renderTabs(doc);
   var main=$("main"); main.textContent="";
-  if(!events.length){ main.appendChild(el("div","state","No India-relevant stories yet. The desk checks BBC News and The Guardian throughout the day, and new stories will appear here automatically.")); return; }
+  if(!events.length){ main.appendChild(el("div","state", view==="global" ? "No India-relevant stories yet. The desk checks its outlets throughout the day, and new stories will appear here automatically." : "No stories of national significance yet. The desk checks The Hindu and Mint throughout the day, and new stories will appear here automatically.")); return; }
 
   var list = tab==="all" ? events.slice() : events.filter(function(e){return e.sector.id===tab;});
   list.sort(function(a,b){ return String(latestDate(b.it)).localeCompare(String(latestDate(a.it))); });
@@ -247,7 +268,7 @@ function render(doc){
   }
   if(tab==="all"){
     var empty=(doc.sectors||[]).filter(function(s){return !(s.items||[]).length;});
-    if(empty.length){ var q=el("p","quiet"); q.appendChild(el("b",null,"No India-relevant stories yet in: ")); q.appendChild(document.createTextNode(empty.map(function(s){return s.name;}).join(" · "))); main.appendChild(q); }
+    if(empty.length){ var q=el("p","quiet"); q.appendChild(el("b",null, view==="global" ? "No India-relevant stories yet in: " : "No national stories yet in: ")); q.appendChild(document.createTextNode(empty.map(function(s){return s.name;}).join(" · "))); main.appendChild(q); }
   }
 }
 
@@ -259,12 +280,14 @@ function openSheet(e){
   var k=el("span","kicker",e.sector.name); k.style.setProperty("--sc","var(--s-"+e.sector.id+")"); body.appendChild(k);
   var h=el("h2",null,it.headline); h.id="sheetTitle"; body.appendChild(h);
   body.appendChild(byline(it,true));
-  if(it.why){ var w=el("div","block"); w.appendChild(el("h3",null,"Why it reaches India")); w.appendChild(el("p",null,it.why)); body.appendChild(w); }
+  if(it.why){ var w=el("div","block"); w.appendChild(el("h3",null,VIEWS[view].why)); w.appendChild(el("p",null,it.why)); body.appendChild(w); }
   if((it.implications||[]).length){ var im=el("div","block"); im.appendChild(el("h3",null,"Likely implications · analysis")); var ul=el("ul"); it.implications.forEach(function(t){ul.appendChild(el("li",null,t));}); im.appendChild(ul); body.appendChild(im); }
-  var rb=el("div","block"); rb.appendChild(el("h3",null,reportsOf(it).length>1?"Read each outlet's report":"Read the full story"));
+  var dev=isDeveloping(it), reps=reportsOf(it).slice().sort(function(a,b){return String(b.date||"").localeCompare(String(a.date||""));});
+  var rb=el("div","block"); rb.appendChild(el("h3",null,dev?"How the story developed · newest first":reps.length>1?"Read each outlet's report":"Read the full story"));
   var rd=el("div","reads");
-  reportsOf(it).forEach(function(r){ var a=el("a","read"); a.href=r.url; a.target="_blank"; a.rel="noopener";
-    a.appendChild(el("span","o",(OUTLET[r.source]||r.source)+(REGION[r.source]?" · "+REGION[r.source]:"")+(r.date?" · "+when(r.date):""))); a.appendChild(el("span","t",r.headline)); a.appendChild(el("span","go","Open story →")); rd.appendChild(a); });
+  reps.forEach(function(r,i){ var a=el("a","read"); a.href=r.url; a.target="_blank"; a.rel="noopener";
+    if(dev && i===0) a.appendChild(el("span","latest","Latest"));
+    a.appendChild(el("span","o",(OUTLET[r.source]||r.source)+(view==="global"&&REGION[r.source]?" · "+REGION[r.source]:"")+(r.date?" · "+when(r.date):""))); a.appendChild(el("span","t",r.headline)); a.appendChild(el("span","go","Open story →")); rd.appendChild(a); });
   rb.appendChild(rd); body.appendChild(rb);
   if(typeof d.showModal==="function") d.showModal(); else d.setAttribute("open","");
   x.focus();
@@ -286,15 +309,29 @@ function loadFrom(urls,i){
   return fetch(urls[i]+"?t="+Date.now(),{cache:"no-store"}).then(function(r){ if(!r.ok) throw new Error(String(r.status)); return r.json(); })
     .catch(function(){ return loadFrom(urls,i+1); });
 }
+function setView(v, push){
+  view=v; tab="all"; showAll=false;
+  ["global","domestic"].forEach(function(x){ $("v-"+x).setAttribute("aria-selected", x===v?"true":"false"); });
+  $("sub").textContent=VIEWS[v].sub;
+  document.title=(v==="global"?"India · Global impact":"India · Inside India")+" | The Intelligence Engine";
+  if(push) history.replaceState(null,"", v==="domestic" ? "#inside" : location.pathname+location.search);
+  loadSeen();
+  if(docs[v]){ render(docs[v]); remember(); } else { current=null; $("main").textContent=""; $("main").appendChild(el("div","state","Loading…")); $("status").textContent=""; }
+  renderAudit(rejectedByView[v]||[]);
+  refresh();
+}
+["global","domestic"].forEach(function(x){ $("v-"+x).addEventListener("click",function(){ if(view!==x) setView(x,true); }); });
 function refresh(){
-  loadFrom(sourcesFor("rejected.json")).then(renderAudit).catch(function(){});
-  loadFrom(sourcesFor("india.json")).then(function(doc){
-    if(doc.updatedAt!==lastUpdated){ lastUpdated=doc.updatedAt; render(doc); remember(); } else renderStatus(doc);
+  var v=view;
+  loadFrom(sourcesFor(VIEWS[v].rejected)).then(function(list){ rejectedByView[v]=list; if(v===view) renderAudit(list); }).catch(function(){ if(v===view) renderAudit([]); });
+  loadFrom(sourcesFor(VIEWS[v].data)).then(function(doc){
+    docs[v]=doc; if(v!==view) return;
+    if(doc.updatedAt!==lastUpdatedByView[v]){ lastUpdatedByView[v]=doc.updatedAt; render(doc); remember(); } else renderStatus(doc);
   }).catch(function(){
-    if(!current){ $("main").textContent=""; $("main").appendChild(el("div","state","The desk hasn't published any stories yet. They will appear here automatically after its first update.")); }
+    if(v===view && !docs[v]){ $("main").textContent=""; $("main").appendChild(el("div","state", v==="domestic" ? "The Inside India desk hasn't published yet. Its stories will appear here automatically after the next update." : "The desk hasn't published any stories yet. They will appear here automatically after its first update.")); }
   });
 }
-refresh();
+setView(view,false);
 setInterval(function(){ if(!document.hidden) refresh(); }, REFRESH_MS);
 document.addEventListener("visibilitychange",function(){ if(!document.hidden) refresh(); });
 setInterval(function(){ if(current) renderStatus(current); }, 60*1000);
