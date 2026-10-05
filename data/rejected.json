@@ -1,5 +1,597 @@
 [
   {
+    "source": "mercopress",
+    "headline": "Flávio Bolsonaro edges Lula in the first round; both head to an October 25 runoff",
+    "url": "https://en.mercopress.com/2026/10/05/flavio-bolsonaro-edges-lula-in-the-first-round-both-head-to-an-october-25-runoff",
+    "date": "2026-10-05T10:30:00.000Z",
+    "reason": "Brazil's domestic election result has no clear, direct path to India's trade, energy or policy.",
+    "checkedAt": "2026-10-05T10:32:58.048Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "Lidl GB’s sales soar by over 10%, helped by price cuts and Deluxe range",
+    "url": "https://www.theguardian.com/business/2026/oct/05/lidl-gb-sales-price-cuts-deluxe-range",
+    "date": "2026-10-05T10:27:40.000Z",
+    "reason": "A UK supermarket's sales results are a domestic UK business story.",
+    "checkedAt": "2026-10-05T10:32:56.406Z"
+  },
+  {
+    "source": "mercopress",
+    "headline": "Falklands weighs curbs on Argentine visitors after flag-waving incidents",
+    "url": "https://en.mercopress.com/2026/10/05/falklands-weighs-curbs-on-argentine-visitors-after-flag-waving-incidents",
+    "date": "2026-10-05T10:20:00.000Z",
+    "reason": "A local Falklands visitor dispute with Argentina has no clear path to India.",
+    "checkedAt": "2026-10-05T10:32:56.406Z"
+  },
+  {
+    "source": "npr",
+    "headline": "Nobel medicine prize goes to 3 scientists for research into brain activity",
+    "url": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
+    "date": "2026-10-05T10:11:33.000Z",
+    "reason": "A Nobel science award has no clear economic or policy path to India.",
+    "checkedAt": "2026-10-05T10:32:56.406Z"
+  },
+  {
+    "source": "bbc",
+    "headline": "Nobel Prize awarded for showing how nerve cells shape feelings",
+    "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o",
+    "date": "2026-10-05T10:10:27.000Z",
+    "reason": "A Nobel science award has no clear economic or policy path to India.",
+    "checkedAt": "2026-10-05T10:32:56.406Z"
+  },
+  {
+    "source": "npr",
+    "headline": "Former Prince Andrew files legal action to quash warrants that led to residence searches",
+    "url": "https://www.npr.org/2026/10/05/g-s1-146396/former-prince-andrew-legal-action",
+    "date": "2026-10-05T10:01:19.000Z",
+    "reason": "A UK legal matter involving a former royal has no India link.",
+    "checkedAt": "2026-10-05T10:32:56.406Z"
+  },
+  {
+    "source": "npr",
+    "headline": "Spain's prime minister calls early elections as pressure mounts over housing crisis",
+    "url": "https://www.npr.org/2026/10/05/nx-s1-5991404/spain-snap-elections",
+    "date": "2026-10-05T09:15:55.000Z",
+    "reason": "Spain's domestic politics over housing has no clear path to India.",
+    "checkedAt": "2026-10-05T10:32:56.406Z"
+  },
+  {
+    "source": "abc",
+    "headline": "US accuses California woman of spying on Taiwan president's son for China",
+    "url": "https://www.abc.net.au/news/2026-10-05/us-accuses-california-woman-of-surveilling-taiwan-president-son/107231000",
+    "date": "2026-10-05T09:12:03.000Z",
+    "reason": "A US espionage arrest involving Taiwan and China has no direct India link.",
+    "checkedAt": "2026-10-05T10:32:56.406Z"
+  },
+  {
+    "source": "npr",
+    "headline": "Russia's attacks on Ukraine escalate as its drones target bridges in Kyiv",
+    "url": "https://www.npr.org/2026/10/05/nx-s1-5989637/russias-attacks-on-ukraine-escalate-as-its-drones-target-bridges-in-kyiv",
+    "date": "2026-10-05T08:44:06.000Z",
+    "reason": "Ukraine war strikes on Kyiv bridges have no clear new path to India's trade or energy.",
+    "checkedAt": "2026-10-05T10:32:56.406Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Jail time warning for child psychiatrist who sexually abused patients",
+    "url": "https://www.abc.net.au/news/2026-10-05/jail-time-warning-for-benjamin-wen-child-psychiatrist/107229230",
+    "date": "2026-10-05T08:27:44.000Z",
+    "reason": "Australian criminal case with no India link.",
+    "checkedAt": "2026-10-05T10:32:45.408Z"
+  },
+  {
+    "source": "aljazeera",
+    "headline": "Pakistan installs fishing nets at security outposts to block drone attacks",
+    "url": "https://www.aljazeera.com/news/2026/10/5/pakistan-installs-fishing-nets-at-security-outposts-to-block-drone-attacks",
+    "date": "2026-10-05T08:20:34.000Z",
+    "reason": "Pakistan's domestic security measure; no stated direct effect on India.",
+    "checkedAt": "2026-10-05T10:32:45.408Z"
+  },
+  {
+    "source": "abc",
+    "headline": "More than 5,000 pepper spray canisters sold in the NT since start of trial",
+    "url": "https://www.abc.net.au/news/2026-10-05/nt-oc-spray-trial-report-data-shows-thousands-of-purchases/107229232",
+    "date": "2026-10-05T08:20:28.000Z",
+    "reason": "Northern Territory local policing trial with no India link.",
+    "checkedAt": "2026-10-05T10:32:45.408Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Andrew Mountbatten-Windsor launches legal action over Epstein files arrest",
+    "url": "https://www.abc.net.au/news/2026-10-05/andrew-mountbatten-windsor-legal-action-after-epstein-arrest/107228702",
+    "date": "2026-10-05T07:39:47.000Z",
+    "reason": "UK royal legal matter with no clear path to India.",
+    "checkedAt": "2026-10-05T10:32:45.408Z"
+  },
+  {
+    "source": "abc",
+    "headline": "WA premier backflips on desalination plant amid $543m pipeline upgrade",
+    "url": "https://www.abc.net.au/news/2026-10-05/wa-premier-confirms-esperance-desalination-plant-needed/107228738",
+    "date": "2026-10-05T07:18:18.000Z",
+    "reason": "Western Australia regional water infrastructure story with no India link.",
+    "checkedAt": "2026-10-05T10:32:45.408Z"
+  },
+  {
+    "source": "aljazeera",
+    "headline": "Spain’s Pedro Sanchez announces snap election amid housing crisis",
+    "url": "https://www.aljazeera.com/news/2026/10/5/spanish-prime-minister-pedro-sanchez-announces-snap-election",
+    "date": "2026-10-05T07:14:41.000Z",
+    "reason": "Spain's domestic election and housing politics have no clear path to India.",
+    "checkedAt": "2026-10-05T10:32:45.408Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Spanish Prime Minister Pedro Sánchez announces early election",
+    "url": "https://www.abc.net.au/news/2026-10-05/spanish-prime-minister-pedro-sanchez-announces-early-election/107230816",
+    "date": "2026-10-05T07:13:37.000Z",
+    "reason": "Spain's domestic election and housing politics have no clear path to India.",
+    "checkedAt": "2026-10-05T10:32:45.408Z"
+  },
+  {
+    "source": "aljazeera",
+    "headline": "World Space Week: Which countries have sent people to space?",
+    "url": "https://www.aljazeera.com/news/2026/10/5/world-space-week-which-countries-have-sent-people-to-space",
+    "date": "2026-10-05T07:06:18.000Z",
+    "reason": "General space-travel explainer with no clear India impact.",
+    "checkedAt": "2026-10-05T10:32:45.408Z"
+  },
+  {
+    "source": "aljazeera",
+    "headline": "Samoa PM apologises after Nazi salute video emerges",
+    "url": "https://www.aljazeera.com/news/2026/10/5/samoa-pm-apologises-after-nazi-salute-video-emerges",
+    "date": "2026-10-05T05:08:29.000Z",
+    "reason": "Samoa's domestic political controversy has no clear path to India.",
+    "checkedAt": "2026-10-05T10:32:45.408Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Athletes run 4,000kms from Cottesloe to Bondi to honour DV victims, survivors",
+    "url": "https://www.abc.net.au/news/2026-10-05/project-australia-run-cottesloe-to-bondi-for-domestic-violence/107229530",
+    "date": "2026-10-05T04:58:05.000Z",
+    "reason": "Australian charity relay for domestic violence victims has no India link.",
+    "checkedAt": "2026-10-05T10:32:37.492Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Australia's Rugby League World Cup squad is a sign of the changing times",
+    "url": "https://www.abc.net.au/news/2026-10-05/australia-world-cup-rugby-league-squad-kevin-walters/107229918",
+    "date": "2026-10-05T04:46:15.000Z",
+    "reason": "Australian rugby league squad selection has no India relevance.",
+    "checkedAt": "2026-10-05T10:32:37.492Z"
+  },
+  {
+    "source": "aljazeera",
+    "headline": "FBI arrests ‘Chinese foreign agent’ for spying on Taiwan president’s son",
+    "url": "https://www.aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son",
+    "date": "2026-10-05T04:13:20.000Z",
+    "reason": "US arrest over spying on Taiwan's president's family has no direct India path.",
+    "checkedAt": "2026-10-05T10:32:37.492Z"
+  },
+  {
+    "source": "aljazeera",
+    "headline": "Russian lab worker dies of suspected plague in Siberia; US monitoring case",
+    "url": "https://www.aljazeera.com/news/2026/10/5/russian-lab-worker-dies-of-suspected-plague-in-siberia-us-monitoring-case",
+    "date": "2026-10-05T04:07:51.000Z",
+    "reason": "A single suspected plague death in Siberia; no stated spread or India link.",
+    "checkedAt": "2026-10-05T10:32:37.492Z"
+  },
+  {
+    "source": "abc",
+    "headline": "The FBI calls this type of cult 'modern-day terrorism'. It has found its way to Australia",
+    "url": "https://www.abc.net.au/news/2026-10-05/australian-children-at-risk-from-sadistic-online-cults-like-764/107217600",
+    "date": "2026-10-05T04:01:52.000Z",
+    "reason": "Online cult story centred on Australia, with no stated India link.",
+    "checkedAt": "2026-10-05T10:32:37.492Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Human Rights Watch warns Australians linked to IS face potential execution in Iraq",
+    "url": "https://www.abc.net.au/news/2026-10-05/australians-held-in-iraq-face-potential-execution-hrw/107228916",
+    "date": "2026-10-05T04:00:18.000Z",
+    "reason": "Concerns Australians held in Iraq; no Indian citizens or interests involved.",
+    "checkedAt": "2026-10-05T10:32:37.492Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Samoan PM apologises for 'heil Hitler' salute at family event in 2007",
+    "url": "https://www.abc.net.au/news/2026-10-05/samoa-prime-minister-nazi-salute-video/107226830",
+    "date": "2026-10-05T03:59:09.000Z",
+    "reason": "Samoan PM's apology is a domestic political story with no India link.",
+    "checkedAt": "2026-10-05T10:32:37.492Z"
+  },
+  {
+    "source": "aljazeera",
+    "headline": "Singapore turns matchmaker amid rock-bottom birthrate",
+    "url": "https://www.aljazeera.com/economy/2026/10/5/singapore-turns-matchmaker-amid-rock-bottom-birthrate",
+    "date": "2026-10-05T03:48:17.000Z",
+    "reason": "Singapore's domestic birthrate and dating platform story has no clear India impact.",
+    "checkedAt": "2026-10-05T10:32:37.492Z"
+  },
+  {
+    "source": "abc",
+    "headline": "NBL owner pays Tasmanian government $577 a week to rent stadium",
+    "url": "https://www.abc.net.au/news/2026-10-05/rent-paid-nbl-billionaire-owner-dec-to-tas-govt/107229810",
+    "date": "2026-10-05T03:43:56.000Z",
+    "reason": "Tasmanian stadium rent is a local Australian matter with no India link.",
+    "checkedAt": "2026-10-05T10:32:37.492Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Nobel Peace Prize won't go to Trump this year, experts say",
+    "url": "https://www.abc.net.au/news/2026-10-05/nobel-peace-prize-announced-trump-carney-space-station/107228440",
+    "date": "2026-10-05T03:33:47.000Z",
+    "reason": "Nobel Prize speculation about Trump has no clear path to India.",
+    "checkedAt": "2026-10-05T10:32:37.492Z"
+  },
+  {
+    "source": "aljazeera",
+    "headline": "US coastguard suspends search for six on board crashed medical jet",
+    "url": "https://www.aljazeera.com/news/2026/10/5/us-coastguard-suspends-search-for-six-on-board-crashed-medical-jet",
+    "date": "2026-10-05T03:22:32.000Z",
+    "reason": "US air ambulance crash search; no path to India.",
+    "checkedAt": "2026-10-05T10:32:32.707Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Illegal tobacco crackdown in Victoria has come too late, says ex-policeman",
+    "url": "https://www.abc.net.au/news/2026-10-05/illicit-tobacco-trade-police-power-criticism/107229108",
+    "date": "2026-10-05T02:52:53.000Z",
+    "reason": "Victoria state illegal tobacco policy; a local Australian matter.",
+    "checkedAt": "2026-10-05T10:32:32.707Z"
+  },
+  {
+    "source": "aljazeera",
+    "headline": "Brazil’s presidential race: Three key takeaways from the first round",
+    "url": "https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-three-key-takeaways-from-the-first-round",
+    "date": "2026-10-05T01:55:50.000Z",
+    "reason": "Brazil's domestic election analysis; no direct India link described.",
+    "checkedAt": "2026-10-05T10:32:32.707Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Best is yet to come for Naufahu Whyte following NRL grand final victory",
+    "url": "https://www.abc.net.au/news/2026-10-05/naufahu-whyte-nrl-grand-final-sydney-roosters/107228076",
+    "date": "2026-10-05T01:50:46.000Z",
+    "reason": "Australian rugby league sports story; irrelevant to India.",
+    "checkedAt": "2026-10-05T10:32:32.707Z"
+  },
+  {
+    "source": "aljazeera",
+    "headline": "Can the KKK find a new foothold in the US?",
+    "url": "https://www.aljazeera.com/news/2026/10/5/can-the-kkk-find-a-new-foothold-in-the-us",
+    "date": "2026-10-05T01:47:13.000Z",
+    "reason": "US domestic hate group story; no path to India.",
+    "checkedAt": "2026-10-05T10:32:32.707Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Bank of America met with Australian super funds and delivered a warning",
+    "url": "https://www.abc.net.au/news/2026-10-05/bank-of-america-expert-has-warning-for-australian-super-funds/107221740",
+    "date": "2026-10-05T01:44:38.000Z",
+    "reason": "Australian interest rates and super funds; a domestic story with no India link.",
+    "checkedAt": "2026-10-05T10:32:32.707Z"
+  },
+  {
+    "source": "aljazeera",
+    "headline": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
+    "url": "https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings",
+    "date": "2026-10-05T01:08:44.000Z",
+    "reason": "Malaysia-Myanmar migrant deportations; no clear path to India.",
+    "checkedAt": "2026-10-05T10:32:32.707Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Bolsonaro defies expectations in Brazil presidential vote to face Lula in run-off",
+    "url": "https://www.abc.net.au/news/2026-10-05/brazil-heads-to-run-off-election-as-bolsonaro-leads-lula/107229260",
+    "date": "2026-10-05T01:07:02.000Z",
+    "reason": "Brazil's domestic election round; no direct India trade or policy link described.",
+    "checkedAt": "2026-10-05T10:32:32.707Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Property downturn worsens with less than 50pc of auctions leading to a sale",
+    "url": "https://www.abc.net.au/news/2026-10-05/auction-clearance-rate-sinks-below-50pc-to-three-month-low/107228628",
+    "date": "2026-10-05T01:02:50.000Z",
+    "reason": "Australia's domestic property market; no clear path to India.",
+    "checkedAt": "2026-10-05T10:32:32.707Z"
+  },
+  {
+    "source": "npr",
+    "headline": "Brazil's presidential race heads to Lula–Bolsonaro run-off as right gains ground",
+    "url": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
+    "date": "2026-10-05T00:17:35.000Z",
+    "reason": "Brazil's domestic election round result; no direct India path.",
+    "checkedAt": "2026-10-05T10:32:26.035Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Man fatally shot by police after crashing car into tree near Yass",
+    "url": "https://www.abc.net.au/news/2026-10-05/man-fatally-shot-by-police-following-car-crash-in-rugby-nsw/107228664",
+    "date": "2026-10-05T00:14:31.000Z",
+    "reason": "Local Australian police shooting with no India link.",
+    "checkedAt": "2026-10-05T10:32:26.035Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Japan builds spy agency 'with the utmost urgency' as tensions with China escalate",
+    "url": "https://www.abc.net.au/news/2026-10-05/japan-builds-spy-agency-as-china-tensions-escalate/107220738",
+    "date": "2026-10-04T23:18:40.000Z",
+    "reason": "Japan's domestic intelligence restructuring; no direct India trade, energy or supply link.",
+    "checkedAt": "2026-10-05T10:32:26.035Z"
+  },
+  {
+    "source": "abc",
+    "headline": "US marine arrested on suspicion of murder and robbery in Okinawa",
+    "url": "https://www.abc.net.au/news/2026-10-05/us-marine-arrested-on-suspicion-of-murder-in-japan-okinawa/107228414",
+    "date": "2026-10-04T22:17:17.000Z",
+    "reason": "Local crime case in Japan involving a US marine.",
+    "checkedAt": "2026-10-05T10:32:26.035Z"
+  },
+  {
+    "source": "npr",
+    "headline": "The Amazon's future is on the ballot in Brazil. Many voters aren't focused on it",
+    "url": "https://www.npr.org/2026/10/04/nx-s1-5986271/the-amazons-future-is-on-the-ballot-in-brazil-many-voters-arent-focused-on-it",
+    "date": "2026-10-04T21:57:06.000Z",
+    "reason": "Brazil's domestic campaign politics on the Amazon; no clear India link.",
+    "checkedAt": "2026-10-05T10:32:26.035Z"
+  },
+  {
+    "source": "npr",
+    "headline": "Brazil's election could shift its ties with the U.S. and China",
+    "url": "https://www.npr.org/2026/10/04/nx-s1-5989593/brazils-election-could-shift-its-ties-with-the-u-s-and-china",
+    "date": "2026-10-04T21:53:15.000Z",
+    "reason": "Framed around Brazil's election and its US-China ties; India link is not described.",
+    "checkedAt": "2026-10-05T10:32:26.035Z"
+  },
+  {
+    "source": "npr",
+    "headline": "Brazil votes, with Lula facing Bolsonaro's son",
+    "url": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
+    "date": "2026-10-04T21:52:09.000Z",
+    "reason": "Brazil's domestic election race; no direct path to India described.",
+    "checkedAt": "2026-10-05T10:32:26.035Z"
+  },
+  {
+    "source": "mercopress",
+    "headline": "US withdraws all its bombers from Britain's RAF Fairford base",
+    "url": "https://en.mercopress.com/2026/10/04/us-withdraws-all-its-bombers-from-britain-s-raf-fairford-base",
+    "date": "2026-10-04T21:35:00.000Z",
+    "reason": "US military basing in Britain; no direct India trade, energy or security link.",
+    "checkedAt": "2026-10-05T10:32:26.035Z"
+  },
+  {
+    "source": "mercopress",
+    "headline": "Falklands Chamber of Commerce backs the Punta Arenas route despite Argentine warnings",
+    "url": "https://en.mercopress.com/2026/10/04/falklands-chamber-of-commerce-backs-the-punta-arenas-route-despite-argentine-warnings",
+    "date": "2026-10-04T21:19:00.000Z",
+    "reason": "Local Falklands-Chile trade dispute with Argentina; no clear path to India.",
+    "checkedAt": "2026-10-05T10:32:26.035Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Jane Doe threatened in Cornell University rape case, lawyer says",
+    "url": "https://www.abc.net.au/news/2026-10-05/woman-at-centre-of-cornell-rape-allegations-targeted-threats/107228278",
+    "date": "2026-10-04T20:32:13.000Z",
+    "reason": "US university legal case with no India pathway.",
+    "checkedAt": "2026-10-05T10:32:15.867Z"
+  },
+  {
+    "source": "abc",
+    "headline": "ASX edges higher supported by miners, housing market weakens as auction clearance rates fall — as it happened",
+    "url": "https://www.abc.net.au/news/2026-10-05/asx-markets-business-live-news/107227606",
+    "date": "2026-10-04T20:09:46.000Z",
+    "reason": "Australian share market and housing report; domestic market story.",
+    "checkedAt": "2026-10-05T10:32:15.867Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Former Bachelor star Sam Wood will stay behind bars after facing court on DV charges",
+    "url": "https://www.abc.net.au/news/2026-10-05/sam-wood-bachelor-fitness-influencer-domestic-violence-offences/107228270",
+    "date": "2026-10-04T19:58:50.000Z",
+    "reason": "Australian celebrity criminal case with no India link.",
+    "checkedAt": "2026-10-05T10:32:15.867Z"
+  },
+  {
+    "source": "npr",
+    "headline": "Trump names national intelligence chief Jay Clayton as new AI czar",
+    "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
+    "date": "2026-10-04T18:36:48.000Z",
+    "reason": "US internal appointment; no clear direct path to India.",
+    "checkedAt": "2026-10-05T10:32:15.866Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Australia's fossil fuel expansion 'slap in the face' to Pacific nations",
+    "url": "https://www.abc.net.au/news/2026-10-05/pre-cop31-australia-challenged-over-fossil-fuel-expansion/107220650",
+    "date": "2026-10-04T18:30:00.000Z",
+    "reason": "Australian domestic mine approval and climate politics; no stated India link.",
+    "checkedAt": "2026-10-05T10:32:15.866Z"
+  },
+  {
+    "source": "abc",
+    "headline": "AI is evolving rapidly. Is it a new form of life?",
+    "url": "https://www.abc.net.au/news/2026-10-05/is-artificial-intelligence-a-new-lifeform/107226762",
+    "date": "2026-10-04T18:25:23.000Z",
+    "reason": "Opinion-style discussion on AI with no specific India pathway.",
+    "checkedAt": "2026-10-05T10:32:15.866Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Ketamine cold calls and 'free' cannabis: Veterans treated as 'cash cows'",
+    "url": "https://www.abc.net.au/news/2026-10-05/cannabis-ketamine-prescriptions-veteran-health-care-dva/107207132",
+    "date": "2026-10-04T18:22:12.000Z",
+    "reason": "US veterans' healthcare story with no link to India.",
+    "checkedAt": "2026-10-05T10:32:15.866Z"
+  },
+  {
+    "source": "npr",
+    "headline": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
+    "url": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
+    "date": "2026-10-04T15:15:09.000Z",
+    "reason": "Local crime case in Japan with no clear path to India.",
+    "checkedAt": "2026-10-05T10:32:15.866Z"
+  },
+  {
+    "source": "npr",
+    "headline": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
+    "url": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
+    "date": "2026-10-04T10:00:00.000Z",
+    "reason": "Lawsuit by families of journalists against a US network; no India path.",
+    "checkedAt": "2026-10-05T10:32:05.708Z"
+  },
+  {
+    "source": "mercopress",
+    "headline": "Trump declines to back Lula or Flávio Bolsonaro as Brazil votes",
+    "url": "https://en.mercopress.com/2026/10/04/trump-declines-to-back-lula-or-flavio-bolsonaro-as-brazil-votes",
+    "date": "2026-10-04T08:57:00.000Z",
+    "reason": "Trump's non-endorsement in Brazil's election has no clear path to India.",
+    "checkedAt": "2026-10-05T10:32:05.708Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Russia hits major Kyiv bridge as Germany's Merz visits Ukrainian capital",
+    "url": "https://www.abc.net.au/news/2026-10-04/ukraine-to-hit-russian-refineries-in-response-to-moscow-strikes/107226904",
+    "date": "2026-10-04T04:25:14.000Z",
+    "reason": "Russia-Ukraine strike and a German visit; no clear direct India path stated.",
+    "checkedAt": "2026-10-05T10:32:05.708Z"
+  },
+  {
+    "source": "mercopress",
+    "headline": "Scientific workshop on Illex Squid in Vigo with the participation of Falkland Islands",
+    "url": "https://en.mercopress.com/2026/10/03/scientific-workshop-on-illex-squid-in-vigo-with-the-participation-of-falkland-islands",
+    "date": "2026-10-03T17:11:00.000Z",
+    "reason": "Fisheries workshop dispute between Argentina and the Falklands; no India link.",
+    "checkedAt": "2026-10-05T10:32:05.708Z"
+  },
+  {
+    "source": "npr",
+    "headline": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
+    "url": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
+    "date": "2026-10-03T11:47:09.000Z",
+    "reason": "US domestic jobs data framed around the gender gap; no direct India path.",
+    "checkedAt": "2026-10-05T10:32:05.708Z"
+  },
+  {
+    "source": "mercopress",
+    "headline": "Argentina to sell citizenship to foreigners for US$350,000 to raise dollars",
+    "url": "https://en.mercopress.com/2026/10/03/argentina-to-sell-citizenship-to-foreigners-for-us-350-000-to-raise-dollars",
+    "date": "2026-10-03T09:52:00.000Z",
+    "reason": "Argentina's domestic citizenship scheme has no clear path to India.",
+    "checkedAt": "2026-10-05T10:32:05.708Z"
+  },
+  {
+    "source": "mercopress",
+    "headline": "Uruguay ranks third in Latin America for international air passengers per capita",
+    "url": "https://en.mercopress.com/2026/10/03/uruguay-ranks-third-in-latin-america-for-international-air-passengers-per-capita",
+    "date": "2026-10-03T09:40:00.000Z",
+    "reason": "Uruguay air passenger ranking is a regional statistic with no India link.",
+    "checkedAt": "2026-10-05T10:32:05.708Z"
+  },
+  {
+    "source": "mercopress",
+    "headline": "Alternative media and Trump are influencing Brazilian voters",
+    "url": "https://en.mercopress.com/2026/10/03/alternative-media-and-trump-are-influencing-brazilian-voters",
+    "date": "2026-10-03T07:36:00.000Z",
+    "reason": "Commentary on Brazilian election campaigning; no clear path to India.",
+    "checkedAt": "2026-10-05T10:32:05.708Z"
+  },
+  {
+    "source": "mercopress",
+    "headline": "Brazil votes with Lula and Flávio Bolsonaro tied and a small group of undecided voters holding the key",
+    "url": "https://en.mercopress.com/2026/10/03/brazil-votes-with-lula-and-flavio-bolsonaro-tied-and-a-small-group-of-undecided-voters-holding-the-key",
+    "date": "2026-10-03T07:06:00.000Z",
+    "reason": "Brazil's domestic election; no direct, clear path to India in the item.",
+    "checkedAt": "2026-10-05T10:32:05.708Z"
+  },
+  {
+    "source": "mercopress",
+    "headline": "Halliburton rules out Sea Lion after Argentina raised criminal and civil enforcement",
+    "url": "https://en.mercopress.com/2026/10/03/halliburton-rules-out-sea-lion-after-argentina-raised-criminal-and-civil-enforcement",
+    "date": "2026-10-03T06:56:00.000Z",
+    "reason": "Falklands drilling dispute involving a US company has no clear path to India.",
+    "checkedAt": "2026-10-05T10:32:05.708Z"
+  },
+  {
+    "source": "npr",
+    "headline": "Pro-Trump Influencer Benny Johnson is being sued for defamation by ICE protesters",
+    "url": "https://www.npr.org/2026/10/02/nx-s1-5989413/benny-johnson-defamation-lawsuit-ice-protesters",
+    "date": "2026-10-02T18:43:30.000Z",
+    "reason": "US defamation lawsuit over ICE protests; no India link.",
+    "checkedAt": "2026-10-05T10:32:01.773Z"
+  },
+  {
+    "source": "npr",
+    "headline": "The U.S. added only 29,000 jobs in September as job market lacks spark",
+    "url": "https://www.npr.org/2026/10/02/nx-s1-5989140/jobs-labor-wages-federal-reserve",
+    "date": "2026-10-02T13:54:18.000Z",
+    "reason": "US domestic jobs data; no direct, clear path to India.",
+    "checkedAt": "2026-10-05T10:32:01.773Z"
+  },
+  {
+    "source": "npr",
+    "headline": "Why is diesel more expensive than regular gas?",
+    "url": "https://www.npr.org/sections/planet-money/2026/10/02/nx-s1-5988075/why-is-diesel-more-expensive-than-regular-gas",
+    "date": "2026-10-02T11:00:00.000Z",
+    "reason": "US-focused explainer on diesel versus gasoline pricing and taxes.",
+    "checkedAt": "2026-10-05T10:32:01.773Z"
+  },
+  {
+    "source": "npr",
+    "headline": "U.S. employers add only 29,000 jobs in September, much less than August",
+    "url": "https://www.npr.org/2026/10/02/nx-s1-5987754/u-s-employers-add-only-29-000-jobs-in-september-much-less-than-august",
+    "date": "2026-10-02T10:47:02.000Z",
+    "reason": "US domestic jobs data; no direct, clear path to India.",
+    "checkedAt": "2026-10-05T10:32:01.773Z"
+  },
+  {
+    "source": "npr",
+    "headline": "Economist discusses high bond yields and the September jobs report",
+    "url": "https://www.npr.org/2026/10/02/nx-s1-5987794/economist-discusses-high-bond-yields-and-the-september-jobs-report",
+    "date": "2026-10-02T10:46:57.000Z",
+    "reason": "Interview framed around US bond yields and a US jobs report.",
+    "checkedAt": "2026-10-05T10:32:01.773Z"
+  },
+  {
+    "source": "npr",
+    "headline": "San Francisco's car crime has plunged. How much credit does Flock deserve?",
+    "url": "https://www.npr.org/sections/planet-money/2026/10/02/g-s1-146060/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve",
+    "date": "2026-10-02T10:30:00.000Z",
+    "reason": "San Francisco local crime and surveillance story; no India link.",
+    "checkedAt": "2026-10-05T10:32:01.773Z"
+  },
+  {
+    "source": "npr",
+    "headline": "The U.S. Senate is up for grabs. Can this Ohio Democrat win back working class votes?",
+    "url": "https://www.npr.org/2026/10/02/nx-s1-5981096/ohio-senate-sherrod-brown-labor-workers",
+    "date": "2026-10-02T09:00:00.000Z",
+    "reason": "US domestic Senate race; no clear path to India.",
+    "checkedAt": "2026-10-05T10:32:01.773Z"
+  },
+  {
+    "source": "npr",
+    "headline": "After bankruptcy, he was banned from sports betting sites. Then he discovered Kalshi",
+    "url": "https://www.npr.org/2026/10/02/nx-s1-5981420/kalshi-betting-prediction-markets-gambling-addiction",
+    "date": "2026-10-02T09:00:00.000Z",
+    "reason": "US consumer gambling and prediction-market story; no India link.",
+    "checkedAt": "2026-10-05T10:32:01.773Z"
+  },
+  {
+    "source": "npr",
+    "headline": "Google launches satellite to test feasibility of building data centers in space",
+    "url": "https://www.npr.org/2026/10/02/nx-s1-5988044/google-launches-satellite-to-test-feasibility-of-building-data-centers-in-space",
+    "date": "2026-10-02T08:45:13.000Z",
+    "reason": "Experimental corporate satellite test; no near-term effect on India.",
+    "checkedAt": "2026-10-05T10:32:01.773Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Commonwealth Bank boss says Reserve Bank rate hikes probably finished",
+    "url": "https://www.abc.net.au/news/2026-10-02/cba-boss-talks-interest-rates-and-november-hike-possibility/107220010",
+    "date": "2026-10-02T01:36:24.000Z",
+    "reason": "Australian bank commentary on domestic rate outlook; no clear path to India.",
+    "checkedAt": "2026-10-05T10:32:01.773Z"
+  },
+  {
     "source": "bbc",
     "headline": "Why are data centres such a big deal in Scotland?",
     "url": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o",

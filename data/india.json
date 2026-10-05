@@ -2,12 +2,34 @@
   "schema": 3,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-05T10:12:09.905Z",
+  "updatedAt": "2026-10-05T10:32:58.048Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "scj21pm",
+          "headline": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
+          "url": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows",
+          "source": "aljazeera",
+          "date": "2026-10-05T05:20:57.000Z",
+          "relevance": "high",
+          "why": "India imports much of its crude from the Gulf via Hormuz, so recovering Middle East exports bear directly on its oil supply and prices.",
+          "implications": [
+            "Higher Gulf export volumes could ease supply worries and moderate crude prices for Indian importers.",
+            "The IRGC claim that flows through the US-supervised route are negligible suggests Hormuz shipments remain uncertain.",
+            "Any renewed disruption could raise freight and insurance costs and fuel import bills."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
+              "url": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows",
+              "date": "2026-10-05T05:20:57.000Z"
+            }
+          ]
+        },
         {
           "id": "s1uprbyh",
           "headline": "G7 to release millions of barrels of oil and diesel after Trump threat",
@@ -27,6 +49,12 @@
               "headline": "G7 to release millions of barrels of oil and diesel after Trump threat",
               "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
               "date": "2026-10-03T04:38:31.000Z"
+            },
+            {
+              "source": "npr",
+              "headline": "G7 countries reluctantly agree to tap their fuel reserves to help the U.S.",
+              "url": "https://www.npr.org/2026/10/04/nx-s1-5989670/g7-countries-reluctantly-agree-to-tap-their-fuel-reserves-to-help-the-u-s",
+              "date": "2026-10-04T12:29:38.000Z"
             }
           ]
         },
@@ -81,6 +109,34 @@
       "name": "Logistics & Shipping",
       "items": [
         {
+          "id": "sobkdki",
+          "headline": "Yemen war: What’s the latest, as government forces claim advances?",
+          "url": "https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield",
+          "source": "aljazeera",
+          "date": "2026-10-05T09:38:26.000Z",
+          "relevance": "medium",
+          "why": "Fighting to retake Houthi-held areas near the Bab al-Mandeb strait bears on Red Sea shipping lanes that India's trade with Europe depends on.",
+          "implications": [
+            "Renewed fighting near the strait could raise shipping risk and insurance costs for India-bound and India-origin cargo.",
+            "Exporters sending goods to Europe and the Gulf may face delays or longer rerouting if disruption spreads.",
+            "Indian crews and ships transiting the Red Sea could face higher security risk."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Yemen war: What’s the latest, as government forces claim advances?",
+              "url": "https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield",
+              "date": "2026-10-05T09:38:26.000Z"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Yemeni forces reclaim Dhubab, key positions near Bab al-Mandeb from Houthis",
+              "url": "https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis",
+              "date": "2026-10-05T09:40:37.000Z"
+            }
+          ]
+        },
+        {
           "id": "s1j2msqq",
           "headline": "Yemen's government announces all-out war to reclaim land from Houthis",
           "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o",
@@ -105,6 +161,34 @@
               "headline": "Yemen’s Saudi-backed government launches military drive to retake all Houthi-held territory",
               "url": "https://www.theguardian.com/world/2026/oct/05/saudi-backed-yemen-government-military-drive-retake-houthi-territory",
               "date": "2026-10-05T00:38:54.000Z"
+            },
+            {
+              "source": "abc",
+              "headline": "Yemen's government declares major operation against Houthis",
+              "url": "https://www.abc.net.au/news/2026-10-05/yemeni-government-launches-offensive-to-seize-all-areas-from-ira/107228550",
+              "date": "2026-10-05T02:50:43.000Z"
+            }
+          ]
+        },
+        {
+          "id": "svyjomh",
+          "headline": "Flydubai co-pilot planned to crash plane into airport, Israeli media reports",
+          "url": "https://www.abc.net.au/news/2026-10-05/flydubai-pilot-planned-to-crash-plane-into-ben-gurion-airport/107228592",
+          "source": "abc",
+          "date": "2026-10-05T00:51:54.000Z",
+          "relevance": "medium",
+          "why": "Flydubai is a major Gulf-India carrier, and an Indian pilot was involved in the incident, so the inquiry touches Indian air travellers and crew.",
+          "implications": [
+            "Indian passengers on Gulf-India flights may see closer scrutiny of cockpit security and crew vetting.",
+            "Airline and regulatory reviews could cause some schedule disruption on routes between India and the Gulf.",
+            "Indian crew and pilots employed by Gulf carriers may face added attention and checks."
+          ],
+          "reports": [
+            {
+              "source": "abc",
+              "headline": "Flydubai co-pilot planned to crash plane into airport, Israeli media reports",
+              "url": "https://www.abc.net.au/news/2026-10-05/flydubai-pilot-planned-to-crash-plane-into-ben-gurion-airport/107228592",
+              "date": "2026-10-05T00:51:54.000Z"
             }
           ]
         },
@@ -224,6 +308,28 @@
       "name": "Policy & Governance",
       "items": [
         {
+          "id": "suy1v38",
+          "headline": "India's 'Cockroach' protests intensify as police probe harassment claims",
+          "url": "https://www.abc.net.au/news/2026-10-05/india-investigates-sexual-harassment-cockroach-protests/107227464",
+          "source": "abc",
+          "date": "2026-10-04T18:46:37.000Z",
+          "relevance": "medium",
+          "why": "Intensifying protests against India's electoral commission and a police probe of harassment claims concern domestic governance and institutional trust.",
+          "implications": [
+            "Continued protests could raise pressure on the electoral commission and the government over election-body credibility.",
+            "The police probe into harassment claims may draw scrutiny of policing and press freedom at protests.",
+            "Protests in Delhi could disrupt local traffic and public order."
+          ],
+          "reports": [
+            {
+              "source": "abc",
+              "headline": "India's 'Cockroach' protests intensify as police probe harassment claims",
+              "url": "https://www.abc.net.au/news/2026-10-05/india-investigates-sexual-harassment-cockroach-protests/107227464",
+              "date": "2026-10-04T18:46:37.000Z"
+            }
+          ]
+        },
+        {
           "id": "safoyq8",
           "headline": "Indian police accused of sexually harassing journalists at protest",
           "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o",
@@ -278,18 +384,73 @@
   "sources": [
     {
       "id": "bbc",
-      "name": "BBC News"
+      "name": "BBC News",
+      "region": "Europe"
     },
     {
       "id": "guardian",
-      "name": "The Guardian"
+      "name": "The Guardian",
+      "region": "Europe"
+    },
+    {
+      "id": "npr",
+      "name": "NPR",
+      "region": "North America"
+    },
+    {
+      "id": "aljazeera",
+      "name": "Al Jazeera",
+      "region": "Asia"
+    },
+    {
+      "id": "mercopress",
+      "name": "MercoPress",
+      "region": "South America"
+    },
+    {
+      "id": "abc",
+      "name": "ABC News",
+      "region": "Australia"
     }
   ],
-  "source": "BBC News & The Guardian",
+  "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News",
   "lastRun": {
-    "analysed": 0,
-    "added": 0,
-    "merged": 0,
-    "failedBatches": 0
+    "analysed": 81,
+    "added": 4,
+    "merged": 3,
+    "rejected": 74,
+    "failedBatches": 0,
+    "feeds": {
+      "bbc": {
+        "feedsOk": 6,
+        "feedsFailed": 0,
+        "items": 156
+      },
+      "guardian": {
+        "feedsOk": 7,
+        "feedsFailed": 0,
+        "items": 193
+      },
+      "npr": {
+        "feedsOk": 4,
+        "feedsFailed": 0,
+        "items": 40
+      },
+      "aljazeera": {
+        "feedsOk": 1,
+        "feedsFailed": 0,
+        "items": 14
+      },
+      "mercopress": {
+        "feedsOk": 3,
+        "feedsFailed": 0,
+        "items": 30
+      },
+      "abc": {
+        "feedsOk": 3,
+        "feedsFailed": 0,
+        "items": 33
+      }
+    }
   }
 }
