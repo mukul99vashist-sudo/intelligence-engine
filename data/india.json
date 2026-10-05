@@ -2,7 +2,7 @@
   "schema": 3,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-04T23:37:32.920Z",
+  "updatedAt": "2026-10-05T02:25:23.045Z",
   "sectors": [
     {
       "id": "energy",
@@ -77,6 +77,12 @@
               "headline": "Yemen's government announces all-out war to reclaim land from Houthis",
               "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o",
               "date": "2026-10-04T16:51:30.000Z"
+            },
+            {
+              "source": "guardian",
+              "headline": "Yemen’s Saudi-backed government launches military drive to retake all Houthi-held territory",
+              "url": "https://www.theguardian.com/world/2026/oct/05/saudi-backed-yemen-government-military-drive-retake-houthi-territory",
+              "date": "2026-10-05T00:38:54.000Z"
             }
           ]
         },
@@ -112,7 +118,30 @@
     {
       "id": "economy",
       "name": "Economy & Trade",
-      "items": []
+      "items": [
+        {
+          "id": "sqnr518",
+          "headline": "How India became dangerously addicted to Chinese imports",
+          "url": "https://www.bbc.co.uk/news/articles/c5pve834grpno",
+          "source": "bbc",
+          "date": "2026-10-05T01:42:11.000Z",
+          "relevance": "medium",
+          "why": "The story is about India's heavy reliance on Chinese imports, which shapes its trade balance and supply chains.",
+          "implications": [
+            "India's trade deficit with China may stay large while dependence on Chinese goods persists.",
+            "Indian buyers and retailers could be exposed to supply or price shocks from China.",
+            "Pressure may grow for policy to build domestic production and diversify import sources."
+          ],
+          "reports": [
+            {
+              "source": "bbc",
+              "headline": "How India became dangerously addicted to Chinese imports",
+              "url": "https://www.bbc.co.uk/news/articles/c5pve834grpno",
+              "date": "2026-10-05T01:42:11.000Z"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "technology",
@@ -136,6 +165,12 @@
               "headline": "Trump names intelligence chief Jay Clayton as new White House AI czar",
               "url": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
               "date": "2026-10-04T17:45:28.000Z"
+            },
+            {
+              "source": "bbc",
+              "headline": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+              "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo",
+              "date": "2026-10-05T02:09:44.000Z"
             }
           ]
         }
@@ -224,9 +259,9 @@
   ],
   "source": "BBC News & The Guardian",
   "lastRun": {
-    "analysed": 3,
-    "added": 0,
-    "merged": 0,
+    "analysed": 9,
+    "added": 1,
+    "merged": 2,
     "failedBatches": 0
   }
 }
