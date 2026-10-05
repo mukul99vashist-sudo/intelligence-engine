@@ -15,11 +15,14 @@ const FEEDS = [
   { src: "bbc", url: "https://feeds.bbci.co.uk/news/technology/rss.xml" },
   { src: "bbc", url: "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml" },
   { src: "bbc", url: "https://feeds.bbci.co.uk/news/world/asia/india/rss.xml" },
+  { src: "bbc", url: "https://feeds.bbci.co.uk/news/world/asia/rss.xml" },
   { src: "guardian", url: "https://www.theguardian.com/world/rss" },
   { src: "guardian", url: "https://www.theguardian.com/world/india/rss" },
   { src: "guardian", url: "https://www.theguardian.com/uk/business/rss" },
   { src: "guardian", url: "https://www.theguardian.com/uk/technology/rss" },
-  { src: "guardian", url: "https://www.theguardian.com/environment/rss" }
+  { src: "guardian", url: "https://www.theguardian.com/environment/rss" },
+  { src: "guardian", url: "https://www.theguardian.com/world/middleeast/rss" },
+  { src: "guardian", url: "https://www.theguardian.com/global-development/rss" }
 ];
 const MODELS = [process.env.CLAUDE_MODEL || "claude-sonnet-5-5", "claude-haiku-4-5-20251001"];
 const SECTORS = [
@@ -34,6 +37,8 @@ const SECTORS = [
 ];
 const DATA_FILE = "data/india.json";
 const SEEN_FILE = "data/seen.json";
+const REJECTED_FILE = "data/rejected.json";   // audit trail of what the filter discarded
+const MAX_REJECTED = 150;
 const BATCH = 10;              // headlines per Claude request
 const MAX_NEW_PER_RUN = 80;    // the rest wait for the next run
 const MATCH_WINDOW_DAYS = 4;   // how far back to look for the same event
@@ -122,7 +127,7 @@ ${JSON.stringify(items)}
 
 Return ONLY a JSON array, one object per item:
 [{"id":0,"relevant":true,"sector":"energy","relevance":"high","why":"one sentence on how this reaches ${REGION}","implications":["...","..."],"sameAs":null}]
-For relevant=false return {"id":N,"relevant":false,"sameAs":null}. Give 2 or 3 implications when relevant.`;
+For relevant=false return {"id":N,"relevant":false,"reason":"why it does not reach ${REGION}, under 15 words","sameAs":null}. Give 2 or 3 implications when relevant.`;
 }
 
 async function callClaude(prompt) {
@@ -181,6 +186,7 @@ export async function main() {
     .reverse();                                                    // ...then process them in time order so the first report leads
   console.log(`${fresh.length} new headlines to analyse (${fresh.filter(f => f.src === "bbc").length} BBC, ${fresh.filter(f => f.src === "guardian").length} Guardian)`);
 
+  const rejected = await readJson(REJECTED_FILE, []);
   let added = 0, merged = 0, failures = 0;
   for (let k = 0; k < fresh.length; k += BATCH) {
     const batch = fresh.slice(k, k + BATCH);
@@ -191,7 +197,12 @@ export async function main() {
     catch (e) { console.error(`Batch failed: ${e.message}`); failures++; continue; } // not marked seen: retried next run
     const placed = {};                                      // batch index -> event it went into
     for (const r of [...results].sort((a, b) => (a?.id ?? 0) - (b?.id ?? 0))) {
-      const s = batch[r?.id]; if (!s || !r.relevant) continue;
+      const s = batch[r?.id]; if (!s) continue;
+      if (!r.relevant) {
+        rejected.unshift({ source: s.src, headline: s.headline, url: s.url, date: s.date,
+          reason: typeof r.reason === "string" ? r.reason.slice(0, 160) : "", checkedAt: new Date().toISOString() });
+        continue;
+      }
       const report = { source: s.src, headline: s.headline, url: s.url, date: s.date };
       let target = null;
       if (typeof r.sameAs === "string") {
@@ -222,10 +233,11 @@ export async function main() {
     s.items = [...uniq.values()].sort((a, b) => latest(b).localeCompare(latest(a))).slice(0, MAX_PER_SECTOR);
   }
   data.updatedAt = new Date().toISOString();
-  data.lastRun = { analysed: fresh.length, added, merged, failedBatches: failures };
+  data.lastRun = { analysed: fresh.length, added, merged, rejected: fresh.length && !failures ? fresh.length - added - merged : undefined, failedBatches: failures };
 
   await fs.writeFile(DATA_FILE, JSON.stringify(data, null, 2) + "\n");
   await fs.writeFile(SEEN_FILE, JSON.stringify([...seen].slice(-MAX_SEEN)) + "\n");
+  await fs.writeFile(REJECTED_FILE, JSON.stringify(rejected.slice(0, MAX_REJECTED), null, 2) + "\n");
   console.log(`Added ${added} new events, merged ${merged} reports into existing events. Failed batches: ${failures}.`);
   if (failures && !added && !merged && fresh.length) process.exit(1); // surface total failure in the Actions tab
 }
