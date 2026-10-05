@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-05T15:00:57.927Z",
+  "updatedAt": "2026-10-05T19:27:58.413Z",
   "sectors": [
     {
       "id": "energy",
@@ -230,6 +230,27 @@
       "name": "Logistics & Shipping",
       "items": [
         {
+          "id": "s1d4ioxx",
+          "headline": "Airlines seek faster release of govt-backed credit amid liquidity strain",
+          "url": "https://www.livemint.com/industry/airlines-seek-faster-release-of-govt-backed-credit-amid-liquidity-strain-11791209419083.html",
+          "source": "mint",
+          "date": "2026-10-05T16:49:17.000Z",
+          "relevance": "medium",
+          "why": "Airlines say delays in releasing government-backed ECLGS 5.0 credit are straining liquidity across the aviation sector.",
+          "implications": [
+            "Airlines may struggle with operating costs if sanctioned credit stays delayed.",
+            "Fares or flight schedules could be affected if liquidity pressure persists."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Airlines seek faster release of govt-backed credit amid liquidity strain",
+              "url": "https://www.livemint.com/industry/airlines-seek-faster-release-of-govt-backed-credit-amid-liquidity-strain-11791209419083.html",
+              "date": "2026-10-05T16:49:17.000Z"
+            }
+          ]
+        },
+        {
           "id": "setgw22",
           "headline": "IndiGo revises fuel surcharge for the third time",
           "url": "https://www.thehindu.com/business/Industry/indigo-revises-fuel-surcharge-for-the-third-time/article71547656.ece",
@@ -325,6 +346,28 @@
       "id": "economy",
       "name": "Economy & Trade",
       "items": [
+        {
+          "id": "s1s4wjmk",
+          "headline": "Most of rural agricultural workers landed in non-productive, informal urban jobs in 25 years: study",
+          "url": "https://www.thehindu.com/news/national/most-of-rural-agricultural-workers-landed-in-non-productive-informal-urban-jobs-in-25-years-study/article71548198.ece",
+          "source": "thehindu",
+          "date": "2026-10-05T16:42:19.000Z",
+          "relevance": "medium",
+          "why": "A study based on RBI KLEMS data suggests farm labour has shifted mainly into low-productivity informal urban jobs, pointing to a structural weakness in India's employment quality.",
+          "implications": [
+            "Many former farm workers may remain in low-wage, insecure jobs without social security.",
+            "Weak productivity gains could limit income growth and household spending among informal workers.",
+            "Policymakers may face pressure to focus on higher-quality job creation in manufacturing and services."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Most of rural agricultural workers landed in non-productive, informal urban jobs in 25 years: study",
+              "url": "https://www.thehindu.com/news/national/most-of-rural-agricultural-workers-landed-in-non-productive-informal-urban-jobs-in-25-years-study/article71548198.ece",
+              "date": "2026-10-05T16:42:19.000Z"
+            }
+          ]
+        },
         {
           "id": "s1yuvx84",
           "headline": "India’s infrastructure challenge shifts from raising capital to making projects investable, says Deloitte",
@@ -878,6 +921,27 @@
       "name": "Environment & Climate",
       "items": [
         {
+          "id": "s1ha6srs",
+          "headline": "New GRAP Rules in Delhi; Restrictions in NCR October 2026: Petrol vs Diesel vs CNG vs EV — Know car ban guidelines here",
+          "url": "https://www.livemint.com/news/india/new-grap-rules-in-delhi-restrictions-in-ncr-october-2026-petrol-vs-diesel-vs-cng-vs-ev-know-car-ban-guidelines-here-11791207178162.html",
+          "source": "mint",
+          "date": "2026-10-05T15:01:35.000Z",
+          "relevance": "medium",
+          "why": "Revised GRAP curbs on older vehicles and construction across Delhi-NCR, which spans several states, are a major air-pollution policy measure.",
+          "implications": [
+            "Owners of BS-III petrol and BS-IV diesel vehicles in the NCR may face plying restrictions during pollution episodes.",
+            "Interstate bus operations and construction projects in the region could face earlier curbs and tighter monitoring."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "New GRAP Rules in Delhi; Restrictions in NCR October 2026: Petrol vs Diesel vs CNG vs EV — Know car ban guidelines here",
+              "url": "https://www.livemint.com/news/india/new-grap-rules-in-delhi-restrictions-in-ncr-october-2026-petrol-vs-diesel-vs-cng-vs-ev-know-car-ban-guidelines-here-11791207178162.html",
+              "date": "2026-10-05T15:01:35.000Z"
+            }
+          ]
+        },
+        {
           "id": "s1pikzq4",
           "headline": "Supreme Court allows Great Nicobar project challenge to proceed in Calcutta HC",
           "url": "https://www.livemint.com/news/india/supreme-court-allows-great-nicobar-project-challenge-to-proceed-in-calcutta-hc-11791187657524.html",
@@ -938,6 +1002,125 @@
       "id": "governance",
       "name": "Policy & Governance",
       "items": [
+        {
+          "id": "s7j35ni",
+          "headline": "Panel on simultaneous elections Bills meets media personalities and economists",
+          "url": "https://www.thehindu.com/news/national/panel-on-simultaneous-elections-bills-meets-media-personalities-and-economists/article71547172.ece",
+          "source": "thehindu",
+          "date": "2026-10-05T16:53:39.000Z",
+          "relevance": "medium",
+          "why": "The parliamentary panel's consultations on the simultaneous elections Bills are part of a major proposed change to India's electoral system.",
+          "implications": [
+            "The consultation outcome could shape the final form of the Bills and the timeline for synchronised polls.",
+            "If passed, the changes could alter how often states and the Centre hold elections and the related costs."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Panel on simultaneous elections Bills meets media personalities and economists",
+              "url": "https://www.thehindu.com/news/national/panel-on-simultaneous-elections-bills-meets-media-personalities-and-economists/article71547172.ece",
+              "date": "2026-10-05T16:53:39.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "DMK MP defends the simultaneous polls panel’s plan to meet CJI",
+              "url": "https://www.thehindu.com/news/national/dmk-mp-defends-the-simultaneous-polls-panels-plan-to-meet-cji/article71548610.ece",
+              "date": "2026-10-05T17:29:33.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1ccvcrv",
+          "headline": "GST arrest powers may be removed? Council to discuss decriminalisation on Wednesday; law change likely in Winter Session",
+          "url": "https://www.livemint.com/economy/gst-arrest-powers-may-be-removed-council-to-discuss-decriminalisation-on-wednesday-law-change-likely-in-winter-session-11791112867891.html",
+          "source": "mint",
+          "date": "2026-10-04T12:48:16.000Z",
+          "relevance": "medium",
+          "why": "Removing GST arrest powers would change how tax law is enforced against businesses across India and ease compliance fears.",
+          "implications": [
+            "Traders and small businesses may face less fear of arrest during GST investigations and disputes.",
+            "Any change would likely need a law amendment, possibly in the Winter Session.",
+            "Tax officials may have to rely more on penalties and recovery than arrests."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "GST arrest powers may be removed? Council to discuss decriminalisation on Wednesday; law change likely in Winter Session",
+              "url": "https://www.livemint.com/economy/gst-arrest-powers-may-be-removed-council-to-discuss-decriminalisation-on-wednesday-law-change-likely-in-winter-session-11791112867891.html",
+              "date": "2026-10-04T12:48:16.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "GST Council meeting postponed for second time, rescheduled to October 8",
+              "url": "https://www.livemint.com/economy/gst-council-meeting-postponed-for-second-time-rescheduled-to-october-8-11791215422846.html",
+              "date": "2026-10-05T15:53:32.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "GST Council meeting rescheduled for Thursday, says official order",
+              "url": "https://www.livemint.com/economy/gst-council-meeting-rescheduled-to-thursday-says-official-order-11791217970800.html",
+              "date": "2026-10-05T17:28:37.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1izayod",
+          "headline": "ECI Row: What happens when all three Election Commissioners disagree? Here's what the law says",
+          "url": "https://www.livemint.com/news/india/eci-row-what-happens-when-all-three-election-commissioners-disagree-heres-what-the-law-says-11791182525314.html",
+          "source": "mint",
+          "date": "2026-10-05T06:53:21.000Z",
+          "relevance": "medium",
+          "why": "Public disagreement inside the Election Commission raises questions about how India's poll body would function if its three members cannot agree, which bears on electoral credibility.",
+          "implications": [
+            "Clarity on the legal position may shape confidence in how upcoming electoral roll revisions and elections are run.",
+            "Prolonged internal splits could delay or complicate decisions on poll schedules and roll updates.",
+            "The row may prompt calls for rule changes on how the Election Commission decides contested matters."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "ECI Row: What happens when all three Election Commissioners disagree? Here's what the law says",
+              "url": "https://www.livemint.com/news/india/eci-row-what-happens-when-all-three-election-commissioners-disagree-heres-what-the-law-says-11791182525314.html",
+              "date": "2026-10-05T06:53:21.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "SIR row: Supreme Court refuses to pass interim order on suspending CEC Gyanesh Kumar, issues notices to EC, Centre",
+              "url": "https://www.livemint.com/news/india/plea-in-sc-to-suspend-cec-gyanesh-kumar-supreme-court-issues-notice-ec-centre-what-we-know-so-far-11791186670022.html",
+              "date": "2026-10-05T07:58:17.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Supreme Court notice to ECI, Centre on plea challenging decisions taken by CEC-led poll panel",
+              "url": "https://www.thehindu.com/news/national/supreme-court-notice-to-eci-centre-on-plea-challenging-decisions-taken-by-cec-led-poll-panel/article71546395.ece",
+              "date": "2026-10-05T09:14:57.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "SC declines to suspend CEC Gyanesh Kumar, seeks response on poll body decisions",
+              "url": "https://www.livemint.com/news/india/cec-gyanesh-kumar-sir-voter-list-india-supreme-court-order-on-cec-11791189277401.html",
+              "date": "2026-10-05T09:44:10.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Protest against CEC Gyanesh Kumar LIVE: Supreme Court says changes to Form 6 not made by court, issues notice to ECI, Centre",
+              "url": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-protest-live-updates-supreme-court-hearing-suspension-cjp-congress-delhi-mumbai-india/article71545740.ece",
+              "date": "2026-10-05T10:37:59.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "ECI fact-checks claims on Form 6 following SC observation",
+              "url": "https://www.thehindu.com/news/national/eci-fact-checks-claims-on-form-6-following-sc-observation/article71548392.ece",
+              "date": "2026-10-05T16:27:29.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "CEC Gyanesh Kumar has lost public trust and must be removed, say former bureaucrats, activists",
+              "url": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-has-lost-public-trust-and-must-be-removed-say-former-bureaucrats-activists/article71548097.ece",
+              "date": "2026-10-05T16:27:39.000Z"
+            }
+          ]
+        },
         {
           "id": "s1oojmmp",
           "headline": "Health groups seek regulation of private hospital charges, medicine margins",
@@ -1004,52 +1187,6 @@
           ]
         },
         {
-          "id": "s1izayod",
-          "headline": "ECI Row: What happens when all three Election Commissioners disagree? Here's what the law says",
-          "url": "https://www.livemint.com/news/india/eci-row-what-happens-when-all-three-election-commissioners-disagree-heres-what-the-law-says-11791182525314.html",
-          "source": "mint",
-          "date": "2026-10-05T06:53:21.000Z",
-          "relevance": "medium",
-          "why": "Public disagreement inside the Election Commission raises questions about how India's poll body would function if its three members cannot agree, which bears on electoral credibility.",
-          "implications": [
-            "Clarity on the legal position may shape confidence in how upcoming electoral roll revisions and elections are run.",
-            "Prolonged internal splits could delay or complicate decisions on poll schedules and roll updates.",
-            "The row may prompt calls for rule changes on how the Election Commission decides contested matters."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "ECI Row: What happens when all three Election Commissioners disagree? Here's what the law says",
-              "url": "https://www.livemint.com/news/india/eci-row-what-happens-when-all-three-election-commissioners-disagree-heres-what-the-law-says-11791182525314.html",
-              "date": "2026-10-05T06:53:21.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "SIR row: Supreme Court refuses to pass interim order on suspending CEC Gyanesh Kumar, issues notices to EC, Centre",
-              "url": "https://www.livemint.com/news/india/plea-in-sc-to-suspend-cec-gyanesh-kumar-supreme-court-issues-notice-ec-centre-what-we-know-so-far-11791186670022.html",
-              "date": "2026-10-05T07:58:17.000Z"
-            },
-            {
-              "source": "thehindu",
-              "headline": "Supreme Court notice to ECI, Centre on plea challenging decisions taken by CEC-led poll panel",
-              "url": "https://www.thehindu.com/news/national/supreme-court-notice-to-eci-centre-on-plea-challenging-decisions-taken-by-cec-led-poll-panel/article71546395.ece",
-              "date": "2026-10-05T09:14:57.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "SC declines to suspend CEC Gyanesh Kumar, seeks response on poll body decisions",
-              "url": "https://www.livemint.com/news/india/cec-gyanesh-kumar-sir-voter-list-india-supreme-court-order-on-cec-11791189277401.html",
-              "date": "2026-10-05T09:44:10.000Z"
-            },
-            {
-              "source": "thehindu",
-              "headline": "Protest against CEC Gyanesh Kumar LIVE: Supreme Court says changes to Form 6 not made by court, issues notice to ECI, Centre",
-              "url": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-protest-live-updates-supreme-court-hearing-suspension-cjp-congress-delhi-mumbai-india/article71545740.ece",
-              "date": "2026-10-05T10:37:59.000Z"
-            }
-          ]
-        },
-        {
           "id": "s24g8zp",
           "headline": "Mint Explainer | Why Karnataka’s gig worker law has put platforms and workers at odds",
           "url": "https://www.livemint.com/industry/karnataka-gig-worker-law-social-security-platform-companies-11791175740941.html",
@@ -1092,28 +1229,6 @@
               "date": "2026-10-04T13:39:17.000Z"
             }
           ]
-        },
-        {
-          "id": "s1ccvcrv",
-          "headline": "GST arrest powers may be removed? Council to discuss decriminalisation on Wednesday; law change likely in Winter Session",
-          "url": "https://www.livemint.com/economy/gst-arrest-powers-may-be-removed-council-to-discuss-decriminalisation-on-wednesday-law-change-likely-in-winter-session-11791112867891.html",
-          "source": "mint",
-          "date": "2026-10-04T12:48:16.000Z",
-          "relevance": "medium",
-          "why": "Removing GST arrest powers would change how tax law is enforced against businesses across India and ease compliance fears.",
-          "implications": [
-            "Traders and small businesses may face less fear of arrest during GST investigations and disputes.",
-            "Any change would likely need a law amendment, possibly in the Winter Session.",
-            "Tax officials may have to rely more on penalties and recovery than arrests."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "GST arrest powers may be removed? Council to discuss decriminalisation on Wednesday; law change likely in Winter Session",
-              "url": "https://www.livemint.com/economy/gst-arrest-powers-may-be-removed-council-to-discuss-decriminalisation-on-wednesday-law-change-likely-in-winter-session-11791112867891.html",
-              "date": "2026-10-04T12:48:16.000Z"
-            }
-          ]
         }
       ]
     }
@@ -1134,16 +1249,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 68,
-    "added": 6,
-    "merged": 1,
-    "rejected": 61,
+    "analysed": 82,
+    "added": 4,
+    "merged": 5,
+    "rejected": 73,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 343
+        "items": 345
       },
       "mint": {
         "feedsOk": 6,

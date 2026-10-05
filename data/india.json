@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-05T15:00:18.708Z",
+  "updatedAt": "2026-10-05T19:26:57.637Z",
   "sectors": [
     {
       "id": "energy",
@@ -156,6 +156,96 @@
       "name": "Logistics & Shipping",
       "items": [
         {
+          "id": "s1j2msqq",
+          "headline": "Yemen's government announces all-out war to reclaim land from Houthis",
+          "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o",
+          "source": "bbc",
+          "date": "2026-10-04T16:51:30.000Z",
+          "relevance": "high",
+          "why": "Escalating fighting in Yemen involving the Houthis raises risk around the Red Sea, a key route for India's trade with Europe.",
+          "implications": [
+            "Shipping through the Red Sea and Gulf of Aden could face fresh disruption, raising freight and insurance costs for Indian exporters.",
+            "Longer diversions around Africa may delay Indian cargo and push up import prices."
+          ],
+          "reports": [
+            {
+              "source": "bbc",
+              "headline": "Yemen's government announces all-out war to reclaim land from Houthis",
+              "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o",
+              "date": "2026-10-04T16:51:30.000Z"
+            },
+            {
+              "source": "guardian",
+              "headline": "Yemen’s Saudi-backed government launches military drive to retake all Houthi-held territory",
+              "url": "https://www.theguardian.com/world/2026/oct/05/saudi-backed-yemen-government-military-drive-retake-houthi-territory",
+              "date": "2026-10-05T00:38:54.000Z"
+            },
+            {
+              "source": "abc",
+              "headline": "Yemen's government declares major operation against Houthis",
+              "url": "https://www.abc.net.au/news/2026-10-05/yemeni-government-launches-offensive-to-seize-all-areas-from-ira/107228550",
+              "date": "2026-10-05T02:50:43.000Z"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Yemen war: What’s the latest, as government forces claim advances?",
+              "url": "https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield",
+              "date": "2026-10-05T09:38:26.000Z"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Yemeni forces reclaim Dhubab, key positions near Bab al-Mandeb from Houthis",
+              "url": "https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis",
+              "date": "2026-10-05T09:40:37.000Z"
+            },
+            {
+              "source": "guardian",
+              "headline": "Air campaign against Houthis under way in Yemen, says Saudi-led coalition",
+              "url": "https://www.theguardian.com/world/2026/oct/05/yemen-air-campaign-houthis-saudi-led-coalition",
+              "date": "2026-10-05T15:21:54.000Z"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge",
+              "url": "https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge",
+              "date": "2026-10-05T15:29:04.000Z"
+            },
+            {
+              "source": "abc",
+              "headline": "Saudi-backed Yemeni forces claim control of Bab el-Mandeb Strait",
+              "url": "https://www.abc.net.au/news/2026-10-06/yemeni-government-forces-say-bab-el-mandeb-strait-secured/107231438",
+              "date": "2026-10-05T15:49:26.000Z"
+            },
+            {
+              "source": "bbc",
+              "headline": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
+              "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo",
+              "date": "2026-10-05T17:49:59.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1k8znwq",
+          "headline": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+          "url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o",
+          "source": "bbc",
+          "date": "2026-10-05T15:17:23.000Z",
+          "relevance": "medium",
+          "why": "A Russian strike on a grain-carrying ship in the Black Sea raises risks for global grain shipping.",
+          "implications": [
+            "Black Sea freight and insurance costs may rise, which could add to import costs for grain and edible oils.",
+            "Continued attacks on merchant ships could disrupt grain flows and push up global food prices."
+          ],
+          "reports": [
+            {
+              "source": "bbc",
+              "headline": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+              "url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o",
+              "date": "2026-10-05T15:17:23.000Z"
+            }
+          ]
+        },
+        {
           "id": "s1yu8mst",
           "headline": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
           "url": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
@@ -203,51 +293,6 @@
               "headline": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
               "url": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
               "date": "2026-10-05T10:53:46.000Z"
-            }
-          ]
-        },
-        {
-          "id": "s1j2msqq",
-          "headline": "Yemen's government announces all-out war to reclaim land from Houthis",
-          "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o",
-          "source": "bbc",
-          "date": "2026-10-04T16:51:30.000Z",
-          "relevance": "high",
-          "why": "Escalating fighting in Yemen involving the Houthis raises risk around the Red Sea, a key route for India's trade with Europe.",
-          "implications": [
-            "Shipping through the Red Sea and Gulf of Aden could face fresh disruption, raising freight and insurance costs for Indian exporters.",
-            "Longer diversions around Africa may delay Indian cargo and push up import prices."
-          ],
-          "reports": [
-            {
-              "source": "bbc",
-              "headline": "Yemen's government announces all-out war to reclaim land from Houthis",
-              "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o",
-              "date": "2026-10-04T16:51:30.000Z"
-            },
-            {
-              "source": "guardian",
-              "headline": "Yemen’s Saudi-backed government launches military drive to retake all Houthi-held territory",
-              "url": "https://www.theguardian.com/world/2026/oct/05/saudi-backed-yemen-government-military-drive-retake-houthi-territory",
-              "date": "2026-10-05T00:38:54.000Z"
-            },
-            {
-              "source": "abc",
-              "headline": "Yemen's government declares major operation against Houthis",
-              "url": "https://www.abc.net.au/news/2026-10-05/yemeni-government-launches-offensive-to-seize-all-areas-from-ira/107228550",
-              "date": "2026-10-05T02:50:43.000Z"
-            },
-            {
-              "source": "aljazeera",
-              "headline": "Yemen war: What’s the latest, as government forces claim advances?",
-              "url": "https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield",
-              "date": "2026-10-05T09:38:26.000Z"
-            },
-            {
-              "source": "aljazeera",
-              "headline": "Yemeni forces reclaim Dhubab, key positions near Bab al-Mandeb from Houthis",
-              "url": "https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis",
-              "date": "2026-10-05T09:40:37.000Z"
             }
           ]
         }
@@ -469,21 +514,21 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 35,
-    "added": 2,
-    "merged": 3,
-    "rejected": 30,
+    "analysed": 54,
+    "added": 1,
+    "merged": 4,
+    "rejected": 49,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 155
+        "items": 153
       },
       "guardian": {
         "feedsOk": 7,
         "feedsFailed": 0,
-        "items": 200
+        "items": 201
       },
       "npr": {
         "feedsOk": 4,
@@ -493,12 +538,12 @@
       "aljazeera": {
         "feedsOk": 1,
         "feedsFailed": 0,
-        "items": 13
+        "items": 16
       },
       "mercopress": {
-        "feedsOk": 2,
-        "feedsFailed": 1,
-        "items": 20
+        "feedsOk": 3,
+        "feedsFailed": 0,
+        "items": 30
       },
       "abc": {
         "feedsOk": 3,
