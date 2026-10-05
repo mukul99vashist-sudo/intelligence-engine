@@ -1,5 +1,29 @@
 [
   {
+    "source": "bbc",
+    "headline": "Why are data centres such a big deal in Scotland?",
+    "url": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o",
+    "date": "2026-10-05T10:04:08.000Z",
+    "reason": "Scottish domestic planning story about local data centres; no clear path to India.",
+    "checkedAt": "2026-10-05T10:09:28.643Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "Nobel prize in medicine 2026 awarded for research on mysteries of brain",
+    "url": "https://www.theguardian.com/science/2026/oct/05/nobel-prize-medicine-2026-winner",
+    "date": "2026-10-05T09:52:07.000Z",
+    "reason": "Nobel prize award to foreign scientists; no clear near-term effect on India.",
+    "checkedAt": "2026-10-05T10:09:28.643Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "Mixed start for pre-Cop as just two non-Pacific leaders accept Australian invitation to climate summit",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/05/mixed-start-for-pre-cop-as-just-two-non-pacific-leaders-accept-australian-invitation-to-climate-summit",
+    "date": "2026-10-05T09:52:03.000Z",
+    "reason": "Preparatory climate meeting in Fiji; no stated direct path to India's economy or policy.",
+    "checkedAt": "2026-10-05T10:09:28.643Z"
+  },
+  {
     "source": "guardian",
     "headline": "UK considering tariffs on Chinese car imports to align with EU, reports say",
     "url": "https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing",
