@@ -2,12 +2,40 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-06T00:56:40.853Z",
+  "updatedAt": "2026-10-06T05:46:37.595Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "slvj25g",
+          "headline": "Petrol and diesel prices today, October 5: Check fuel cost in Delhi, Mumbai, Bengaluru",
+          "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-5-check-fuel-cost-in-delhi-mumbai-bengaluru-11791162475833.html",
+          "source": "mint",
+          "date": "2026-10-05T01:35:57.000Z",
+          "relevance": "medium",
+          "why": "Steady pump prices despite global crude disruption shape household fuel costs and inflation, and signal pressure on oil marketing companies.",
+          "implications": [
+            "Petrol and diesel prices in major cities have stayed unchanged, sparing households and transporters an immediate cost increase.",
+            "Continued global disruption could eventually force price revisions, which may raise transport and goods costs.",
+            "Refiners absorbing higher costs may face margin pressure if crude stays elevated."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Petrol and diesel prices today, October 5: Check fuel cost in Delhi, Mumbai, Bengaluru",
+              "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-5-check-fuel-cost-in-delhi-mumbai-bengaluru-11791162475833.html",
+              "date": "2026-10-05T01:35:57.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Petrol and diesel prices today, October 6: Check fuel cost in Delhi, Mumbai, Bengaluru",
+              "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-6-check-fuel-cost-in-delhi-mumbai-bengaluru-11791255202771.html",
+              "date": "2026-10-06T03:23:12.000Z"
+            }
+          ]
+        },
         {
           "id": "ss3t8t6",
           "headline": "India records highest e-bus sales in April-September period, adoption jumps to 8.55%",
@@ -49,28 +77,6 @@
               "headline": "GEC III: Bridging geographic and temporal mismatch",
               "url": "https://www.thehindu.com/business/Industry/gec-iii-bridging-geographic-and-temporal-mismatch/article71546014.ece",
               "date": "2026-10-05T06:20:27.000Z"
-            }
-          ]
-        },
-        {
-          "id": "slvj25g",
-          "headline": "Petrol and diesel prices today, October 5: Check fuel cost in Delhi, Mumbai, Bengaluru",
-          "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-5-check-fuel-cost-in-delhi-mumbai-bengaluru-11791162475833.html",
-          "source": "mint",
-          "date": "2026-10-05T01:35:57.000Z",
-          "relevance": "medium",
-          "why": "Steady pump prices despite global crude disruption shape household fuel costs and inflation, and signal pressure on oil marketing companies.",
-          "implications": [
-            "Petrol and diesel prices in major cities have stayed unchanged, sparing households and transporters an immediate cost increase.",
-            "Continued global disruption could eventually force price revisions, which may raise transport and goods costs.",
-            "Refiners absorbing higher costs may face margin pressure if crude stays elevated."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "Petrol and diesel prices today, October 5: Check fuel cost in Delhi, Mumbai, Bengaluru",
-              "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-5-check-fuel-cost-in-delhi-mumbai-bengaluru-11791162475833.html",
-              "date": "2026-10-05T01:35:57.000Z"
             }
           ]
         },
@@ -369,6 +375,62 @@
       "name": "Economy & Trade",
       "items": [
         {
+          "id": "s935ivj",
+          "headline": "Rupee trades in narrow range against U.S. dollar in early trade",
+          "url": "https://www.thehindu.com/business/rupee-trades-in-narrow-range-against-us-dollar-in-early-trade/article71545911.ece",
+          "source": "thehindu",
+          "date": "2026-10-05T05:25:15.000Z",
+          "relevance": "high",
+          "why": "A rupee near 96 per dollar, pressured by crude prices and fund outflows, raises India's import bill and inflation risks ahead of the RBI decision.",
+          "implications": [
+            "Imported fuel, electronics and other goods may become costlier for households and businesses.",
+            "Firms with foreign-currency debt or imported inputs could face higher costs.",
+            "The RBI's rate decision may affect loan EMIs and borrowing costs."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Rupee trades in narrow range against U.S. dollar in early trade",
+              "url": "https://www.thehindu.com/business/rupee-trades-in-narrow-range-against-us-dollar-in-early-trade/article71545911.ece",
+              "date": "2026-10-05T05:25:15.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Rupee falls 5 paise to close at 96.30 against U.S. dollar",
+              "url": "https://www.thehindu.com/business/markets/rupee-falls-5-paise-to-close-at-9630-against-us-dollar/article71546875.ece",
+              "date": "2026-10-05T11:18:14.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Rupee slips 4 paise to 96.39 against U.S. dollar in early trade",
+              "url": "https://www.thehindu.com/business/rupee-slips-4-paise-to-9639-against-us-dollar-in-early-trade/article71550012.ece",
+              "date": "2026-10-06T05:24:48.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s12pay30",
+          "headline": "Union Cabinet to take up ₹10,000 crore SME Growth Fund, centralised infra authority",
+          "url": "https://www.thehindu.com/business/Economy/union-cabinet-to-take-up-10000-crore-sme-growth-fund-centralised-infra-authority/article71550009.ece",
+          "source": "thehindu",
+          "date": "2026-10-06T05:03:39.000Z",
+          "relevance": "medium",
+          "why": "A ₹10,000 crore SME Growth Fund and a centralised infrastructure authority, if approved, could reshape how small firms and infrastructure projects are financed nationally.",
+          "implications": [
+            "Small and medium enterprises may gain access to direct equity funding, which could support expansion and hiring.",
+            "A centralised infrastructure authority could streamline project planning and approvals, though details are yet to be seen.",
+            "Both proposals still need Cabinet approval, so their scope and timing may change."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Union Cabinet to take up ₹10,000 crore SME Growth Fund, centralised infra authority",
+              "url": "https://www.thehindu.com/business/Economy/union-cabinet-to-take-up-10000-crore-sme-growth-fund-centralised-infra-authority/article71550009.ece",
+              "date": "2026-10-06T05:03:39.000Z"
+            }
+          ]
+        },
+        {
           "id": "s1s4wjmk",
           "headline": "Most of rural agricultural workers landed in non-productive, informal urban jobs in 25 years: study",
           "url": "https://www.thehindu.com/news/national/most-of-rural-agricultural-workers-landed-in-non-productive-informal-urban-jobs-in-25-years-study/article71548198.ece",
@@ -480,34 +542,6 @@
               "headline": "State borrowing to rise 26% to ₹3.6 tn in Q3 under new issuance strategy: ICRA",
               "url": "https://www.livemint.com/news/india/state-borrowing-set-to-rise-26-in-q3-as-26-states-adopt-new-issuance-strategy-icra-11791195674179.html",
               "date": "2026-10-05T12:10:46.000Z"
-            }
-          ]
-        },
-        {
-          "id": "s935ivj",
-          "headline": "Rupee trades in narrow range against U.S. dollar in early trade",
-          "url": "https://www.thehindu.com/business/rupee-trades-in-narrow-range-against-us-dollar-in-early-trade/article71545911.ece",
-          "source": "thehindu",
-          "date": "2026-10-05T05:25:15.000Z",
-          "relevance": "high",
-          "why": "A rupee near 96 per dollar, pressured by crude prices and fund outflows, raises India's import bill and inflation risks ahead of the RBI decision.",
-          "implications": [
-            "Imported fuel, electronics and other goods may become costlier for households and businesses.",
-            "Firms with foreign-currency debt or imported inputs could face higher costs.",
-            "The RBI's rate decision may affect loan EMIs and borrowing costs."
-          ],
-          "reports": [
-            {
-              "source": "thehindu",
-              "headline": "Rupee trades in narrow range against U.S. dollar in early trade",
-              "url": "https://www.thehindu.com/business/rupee-trades-in-narrow-range-against-us-dollar-in-early-trade/article71545911.ece",
-              "date": "2026-10-05T05:25:15.000Z"
-            },
-            {
-              "source": "thehindu",
-              "headline": "Rupee falls 5 paise to close at 96.30 against U.S. dollar",
-              "url": "https://www.thehindu.com/business/markets/rupee-falls-5-paise-to-close-at-9630-against-us-dollar/article71546875.ece",
-              "date": "2026-10-05T11:18:14.000Z"
             }
           ]
         },
@@ -1046,6 +1080,28 @@
       "name": "Agriculture & Food",
       "items": [
         {
+          "id": "s142sfes",
+          "headline": "FSSAI steps up action against brands over unsafe products, misleading claims: Do consumers need simpler food labels?",
+          "url": "https://www.livemint.com/industry/retail/fssai-steps-up-action-against-brands-over-unsafe-products-misleading-claims-do-consumers-need-simpler-food-labels-11791255727134.html",
+          "source": "mint",
+          "date": "2026-10-06T03:35:16.000Z",
+          "relevance": "medium",
+          "why": "Tighter FSSAI scrutiny of major food brands and the debate on clearer labels may reshape food safety and labelling standards nationwide.",
+          "implications": [
+            "Consumers may see more product recalls and action against misleading food claims.",
+            "Food brands could face costlier compliance and may have to simplify labels.",
+            "Clearer labels may help households choose healthier packaged food."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "FSSAI steps up action against brands over unsafe products, misleading claims: Do consumers need simpler food labels?",
+              "url": "https://www.livemint.com/industry/retail/fssai-steps-up-action-against-brands-over-unsafe-products-misleading-claims-do-consumers-need-simpler-food-labels-11791255727134.html",
+              "date": "2026-10-06T03:35:16.000Z"
+            }
+          ]
+        },
+        {
           "id": "s1etlc9i",
           "headline": "FSSAI flags Everest cumin powder as unsafe, orders immediate market recall: What food analyst report found",
           "url": "https://www.livemint.com/news/india/fssai-flags-everest-cumin-powder-as-unsafe-orders-immediate-market-recall-what-food-analyst-report-found-11791132343201.html",
@@ -1073,6 +1129,33 @@
       "id": "governance",
       "name": "Policy & Governance",
       "items": [
+        {
+          "id": "s1lwnfbc",
+          "headline": "Meet Justices Sunita Agarwal, DK Upadhyay, Aparesh Singh: Centre notifies appointment of 3 judges to Supreme Court",
+          "url": "https://www.livemint.com/news/india/meet-justices-sunita-agarwal-dk-upadhyay-aparesh-singh-centre-notifies-appointment-of-3-judges-to-supreme-court-11791201406043.html",
+          "source": "mint",
+          "date": "2026-10-05T13:12:12.000Z",
+          "relevance": "medium",
+          "why": "Elevating three High Court Chief Justices brings the Supreme Court to 37 of 38 judges, supporting the functioning of the country's apex judiciary.",
+          "implications": [
+            "Near-full strength may help the Supreme Court handle its large pending caseload more steadily.",
+            "Litigants and businesses awaiting apex court hearings could see modestly faster listing of cases."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Meet Justices Sunita Agarwal, DK Upadhyay, Aparesh Singh: Centre notifies appointment of 3 judges to Supreme Court",
+              "url": "https://www.livemint.com/news/india/meet-justices-sunita-agarwal-dk-upadhyay-aparesh-singh-centre-notifies-appointment-of-3-judges-to-supreme-court-11791201406043.html",
+              "date": "2026-10-05T13:12:12.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Centre elevates three Chief Justices to Supreme Court",
+              "url": "https://www.thehindu.com/news/national/centre-elevates-three-chief-justices-to-supreme-court/article71548242.ece",
+              "date": "2026-10-06T03:28:39.000Z"
+            }
+          ]
+        },
         {
           "id": "s7j35ni",
           "headline": "Panel on simultaneous elections Bills meets media personalities and economists",
@@ -1215,27 +1298,6 @@
           ]
         },
         {
-          "id": "s1lwnfbc",
-          "headline": "Meet Justices Sunita Agarwal, DK Upadhyay, Aparesh Singh: Centre notifies appointment of 3 judges to Supreme Court",
-          "url": "https://www.livemint.com/news/india/meet-justices-sunita-agarwal-dk-upadhyay-aparesh-singh-centre-notifies-appointment-of-3-judges-to-supreme-court-11791201406043.html",
-          "source": "mint",
-          "date": "2026-10-05T13:12:12.000Z",
-          "relevance": "medium",
-          "why": "Elevating three High Court Chief Justices brings the Supreme Court to 37 of 38 judges, supporting the functioning of the country's apex judiciary.",
-          "implications": [
-            "Near-full strength may help the Supreme Court handle its large pending caseload more steadily.",
-            "Litigants and businesses awaiting apex court hearings could see modestly faster listing of cases."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "Meet Justices Sunita Agarwal, DK Upadhyay, Aparesh Singh: Centre notifies appointment of 3 judges to Supreme Court",
-              "url": "https://www.livemint.com/news/india/meet-justices-sunita-agarwal-dk-upadhyay-aparesh-singh-centre-notifies-appointment-of-3-judges-to-supreme-court-11791201406043.html",
-              "date": "2026-10-05T13:12:12.000Z"
-            }
-          ]
-        },
-        {
           "id": "sped6ol",
           "headline": "Aadhaar name correction new rules 2026: Which document do you need for spelling mistake, marriage or major name change?",
           "url": "https://www.livemint.com/news/india/aadhaar-name-correction-new-rules-2026-which-document-do-you-need-for-spelling-mistake-marriage-or-major-name-change-11791199334968.html",
@@ -1320,10 +1382,10 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 30,
-    "added": 3,
-    "merged": 1,
-    "rejected": 26,
+    "analysed": 41,
+    "added": 2,
+    "merged": 3,
+    "rejected": 36,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
