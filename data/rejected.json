@@ -1,5 +1,77 @@
 [
   {
+    "source": "guardian",
+    "headline": "S&P 500 and Nasdaq surge to record highs after AI chipmaker rally",
+    "url": "https://www.theguardian.com/business/2026/oct/06/sp-500-nasdaq-stocks-ai-chipmakers",
+    "date": "2026-10-06T20:28:42.000Z",
+    "reason": "US market movement story with no clear trade, supply or policy path to India.",
+    "checkedAt": "2026-10-06T20:42:39.914Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "Ex-CIA official pleads guilty to using position and government funds to enrich himself",
+    "url": "https://www.theguardian.com/us-news/2026/oct/06/cia-official-gold-bars-guilty-plea",
+    "date": "2026-10-06T20:27:42.000Z",
+    "reason": "US criminal case with no India link.",
+    "checkedAt": "2026-10-06T20:42:39.914Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "Disney accuses Trump officials of ‘blatant violations’ of constitution amid FCC battle",
+    "url": "https://www.theguardian.com/media/2026/oct/06/disney-trump-abc-fcc",
+    "date": "2026-10-06T20:12:20.000Z",
+    "reason": "US domestic regulatory and legal dispute involving a media company.",
+    "checkedAt": "2026-10-06T20:42:39.914Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Man charged with murder after body found in Logan unit",
+    "url": "https://www.abc.net.au/news/2026-10-07/man-charged-with-murder-after-woodridge-body-found/107235630",
+    "date": "2026-10-06T20:09:42.000Z",
+    "reason": "Local Australian crime story.",
+    "checkedAt": "2026-10-06T20:42:39.914Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Sydney bus lane proposal draws ire of lord mayor, transport advocates",
+    "url": "https://www.abc.net.au/news/2026-10-07/why-proposed-bus-lane-draws-ire-of-lord-mayor/107233130",
+    "date": "2026-10-06T20:00:58.000Z",
+    "reason": "Local Sydney transport planning dispute.",
+    "checkedAt": "2026-10-06T20:42:39.914Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "‘All I want to do is cry’: trauma of 7 October survivors three years after the attacks",
+    "url": "https://www.theguardian.com/world/2026/oct/06/trauma-of-7-october-israel-survivors-three-years-hamas-after-attacks",
+    "date": "2026-10-06T20:00:23.000Z",
+    "reason": "Human-interest story about Israeli attack survivors, with no clear path to India.",
+    "checkedAt": "2026-10-06T20:42:39.914Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Singles struggle to afford housing as cost of living rises",
+    "url": "https://www.abc.net.au/news/2026-10-07/qld-cost-of-housing-for-single-income-households-difficult/107220664",
+    "date": "2026-10-06T19:57:13.000Z",
+    "reason": "Australian domestic housing and cost-of-living story with no India link.",
+    "checkedAt": "2026-10-06T20:42:39.914Z"
+  },
+  {
+    "source": "bbc",
+    "headline": "Tech Life",
+    "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyj",
+    "date": "2026-10-06T19:30:00.000Z",
+    "reason": "General technology explainer with no specific India link.",
+    "checkedAt": "2026-10-06T20:42:39.914Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Millions of bogong moths have descended on the suburbs. When will they leave?",
+    "url": "https://www.abc.net.au/news/2026-10-07/nsw-why-there-are-so-many-bogong-moths-in-sydney/107233300",
+    "date": "2026-10-06T19:28:54.000Z",
+    "reason": "Local Australian wildlife story with no path to India.",
+    "checkedAt": "2026-10-06T20:42:39.914Z"
+  },
+  {
     "source": "bbc",
     "headline": "Tech Life",
     "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service",
@@ -1126,77 +1198,5 @@
     "date": "2026-10-06T07:03:04.000Z",
     "reason": "Australian criminal trial with no path to India.",
     "checkedAt": "2026-10-06T13:40:17.643Z"
-  },
-  {
-    "source": "aljazeera",
-    "headline": "Southeast Asia’s energy chiefs meet against backdrop of Iran war",
-    "url": "https://www.aljazeera.com/economy/2026/10/6/southeast-asias-energy-chiefs-meet-against-backdrop-of-iran-war",
-    "date": "2026-10-06T07:07:47.000Z",
-    "reason": "ASEAN ministerial meeting; the Iran war cause is covered separately, with no direct India path.",
-    "checkedAt": "2026-10-06T07:27:38.808Z"
-  },
-  {
-    "source": "abc",
-    "headline": "Police investigate alleged assault of child by gymnastics coach",
-    "url": "https://www.abc.net.au/news/2026-10-06/qld-gymnastics-splitz-gym-alleged-assault-of-child/107234190",
-    "date": "2026-10-06T07:06:40.000Z",
-    "reason": "Local Australian criminal investigation with no India link.",
-    "checkedAt": "2026-10-06T07:27:38.808Z"
-  },
-  {
-    "source": "abc",
-    "headline": "New police tasers to be introduced in troubled NT community",
-    "url": "https://www.abc.net.au/news/2026-10-06/taser-10-rollout-nt-remote-communities-police-wadeye/107232746",
-    "date": "2026-10-06T07:05:42.000Z",
-    "reason": "Australian local policing equipment story with no India link.",
-    "checkedAt": "2026-10-06T07:27:38.808Z"
-  },
-  {
-    "source": "bbc",
-    "headline": "Lego fraudster among last year's most high-profile insurance scammers",
-    "url": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo",
-    "date": "2026-10-06T07:03:35.000Z",
-    "reason": "UK insurance fraud case with no India link.",
-    "checkedAt": "2026-10-06T07:27:38.808Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "Israeli ambassador to Australia says he hopes for return to ‘traditional friendship’ on October 7 anniversary eve",
-    "url": "https://www.theguardian.com/world/2026/oct/06/israeli-ambassador-australia-friendship-october-7-attack-anniversary-ntwnfb",
-    "date": "2026-10-06T07:00:06.000Z",
-    "reason": "Israel–Australia diplomatic relations, with no clear path to India.",
-    "checkedAt": "2026-10-06T07:27:38.808Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "Keeping up with the Bolsonaros: Flávio’s surprise first-round election win heralds rise of a political dynasty",
-    "url": "https://www.theguardian.com/world/2026/oct/06/keeping-up-with-the-bolsonaros-flavios-surprise-first-round-election-win-heralds-rise-of-a-political-dynasty",
-    "date": "2026-10-06T07:00:05.000Z",
-    "reason": "Brazilian domestic election politics, with no stated trade or foreign-policy shift.",
-    "checkedAt": "2026-10-06T07:27:38.808Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "Buckingham Palace says it will not fund Andrew’s legal action against police",
-    "url": "https://www.theguardian.com/uk-news/2026/oct/06/buckingham-palace-andrew-mountbatten-windsor-legal-action-police",
-    "date": "2026-10-06T06:44:12.000Z",
-    "reason": "UK royal legal matter with no India link.",
-    "checkedAt": "2026-10-06T07:27:38.807Z"
-  },
-  {
-    "source": "abc",
-    "headline": "Breaking: Person trapped in grain silo in central Victoria",
-    "url": "https://www.abc.net.au/news/2026-10-06/person-trapped-in-grain-silo-in-dunolly/107235624",
-    "date": "2026-10-06T06:43:25.000Z",
-    "reason": "Local Australian emergency incident with no India link.",
-    "checkedAt": "2026-10-06T07:27:38.807Z"
-  },
-  {
-    "source": "abc",
-    "headline": "Former American Idol singer gets life in prison for wife's murder",
-    "url": "https://www.abc.net.au/news/2026-10-06/former-american-idol-singer-caleb-flynn-murder-sentence/107235506",
-    "date": "2026-10-06T06:35:12.000Z",
-    "reason": "Foreign criminal sentencing with no path to India.",
-    "checkedAt": "2026-10-06T07:27:38.807Z"
   }
 ]

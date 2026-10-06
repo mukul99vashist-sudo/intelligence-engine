@@ -1,6 +1,54 @@
 [
   {
     "source": "mint",
+    "headline": "US House bill honours Indian pilot Smit Machchhar after his brave actions thwarted flydubai terror attack",
+    "url": "https://www.livemint.com/news/us-news/us-house-bill-honours-indian-pilot-smit-machchhar-after-his-brave-actions-thwarted-flydubai-terror-attack-11791310648084.html",
+    "date": "2026-10-06T20:18:17.000Z",
+    "reason": "US House resolution honouring an individual pilot; not a national sectoral development in India.",
+    "checkedAt": "2026-10-06T20:42:43.915Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Trump’s ‘take out LA, San Diego’ remark: White House clarifies what he actually meant",
+    "url": "https://www.livemint.com/news/us-news/trumps-take-out-la-san-diego-remark-explained-what-the-white-house-says-he-meant-11791316611264.html",
+    "date": "2026-10-06T20:14:11.000Z",
+    "reason": "US political remark and clarification; not an Indian development.",
+    "checkedAt": "2026-10-06T20:42:43.915Z"
+  },
+  {
+    "source": "mint",
+    "headline": "McDonalds sued over AI tool that recommends prices to US franchisees",
+    "url": "https://www.livemint.com/technology/mcdonalds-sued-over-ai-tool-that-recommends-prices-to-us-franchisees-11791317028736.html",
+    "date": "2026-10-06T20:03:48.000Z",
+    "reason": "US lawsuit against a company over pricing tool; not about India.",
+    "checkedAt": "2026-10-06T20:42:43.915Z"
+  },
+  {
+    "source": "mint",
+    "headline": "British Airways A380 makeover: World’s biggest business class, 30% fewer economy seats and 5 other key changes",
+    "url": "https://www.livemint.com/companies/news/british-airways-a380-makeover-world-s-biggest-business-class-30-fewer-economy-seats-and-5-other-key-changes-11791309765483.html",
+    "date": "2026-10-06T19:55:50.000Z",
+    "reason": "Foreign airline cabin refurbishment; a single-company story with no national impact on India.",
+    "checkedAt": "2026-10-06T20:42:43.915Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Ladli Behna scheme has turned out to be ‘very expensive’, says Madhya Pradesh CM",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/ladli-behna-scheme-has-turned-out-to-be-very-expensive-says-madhya-pradesh-cm/article71552264.ece",
+    "date": "2026-10-06T19:06:12.000Z",
+    "reason": "State-level welfare scheme in Madhya Pradesh; no national policy impact stated.",
+    "checkedAt": "2026-10-06T20:42:43.915Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Maharashtra Govt approves to increase scholarship allowance for SC and ST students",
+    "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-govt-approves-to-increase-scholarshipallowance-for-sc-and-st-students/article71552395.ece",
+    "date": "2026-10-06T18:57:41.000Z",
+    "reason": "State-level scholarship allowance revision in Maharashtra without national impact.",
+    "checkedAt": "2026-10-06T20:42:43.915Z"
+  },
+  {
+    "source": "mint",
     "headline": "Lawmakers Urge Oz to Reconsider Remote Health Monitoring Rule",
     "url": "https://www.livemint.com/politics/lawmakers-urge-oz-to-reconsider-remote-health-monitoring-rule-11791313907051.html",
     "date": "2026-10-06T19:11:46.000Z",
@@ -1150,53 +1198,5 @@
     "date": "2026-10-06T12:48:20.000Z",
     "reason": "Local temple festival, religious and local in nature.",
     "checkedAt": "2026-10-06T13:42:04.935Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Union Minister Rammohan Naidu invites West Bengal CM Suvendu Adhikari to attend Vijayawada Utsav",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/union-minister-rammohan-naidu-invites-west-bengal-cm-suvendu-adhikari-to-attend-vijayawada-utsav/article71551342.ece",
-    "date": "2026-10-06T12:47:31.000Z",
-    "reason": "Local cultural festival invitation, not a national development.",
-    "checkedAt": "2026-10-06T13:42:04.935Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Belagavi-based KLS GIT signs MoU with Purosil on sustainable polymer materials based on ‘Biocongruent Chemistry’",
-    "url": "https://www.thehindu.com/news/national/karnataka/belagavi-based-kls-git-signs-mou-with-purosil-on-sustainable-polymer-materials-based-on-biocongruent-chemistry/article71551530.ece",
-    "date": "2026-10-06T12:47:29.000Z",
-    "reason": "Single institute-company MoU with no sector-wide national effect.",
-    "checkedAt": "2026-10-06T13:42:04.935Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "TGHRC pulls up NIMS Hyderabad over 12-year delay in releasing retired professor’s pension benefits",
-    "url": "https://www.thehindu.com/news/national/telangana/tghrc-pulls-up-nims-hyderabad-over-12-year-delay-in-releasing-retired-professors-pension-benefits/article71551025.ece",
-    "date": "2026-10-06T12:46:26.000Z",
-    "reason": "State-level human rights commission case about one pension matter, with no national impact.",
-    "checkedAt": "2026-10-06T13:42:04.935Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Andhra Pradesh Information Commissioner imposes ₹20,000 penalty on PIO for RTI delay",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-information-commissioner-imposes-20000-penalty-on-pio-for-rti-delay/article71551123.ece",
-    "date": "2026-10-06T12:42:47.000Z",
-    "reason": "Single state-level RTI penalty on an individual official.",
-    "checkedAt": "2026-10-06T13:41:52.824Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Navy sailor arrested for allegedly leaking classified information to Pakistani intelligence operative",
-    "url": "https://www.thehindu.com/news/cities/Visakhapatnam/navy-sailor-arrested-for-allegedly-leaking-classified-information-to-pakistani-intelligence-operative/article71544101.ece",
-    "date": "2026-10-06T12:37:23.000Z",
-    "reason": "Arrest of an individual for alleged leaks; a criminal case.",
-    "checkedAt": "2026-10-06T13:41:52.824Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Eight persons, including former chief of Mandya milk union, arrested in ₹3 crore milk powder scam",
-    "url": "https://www.thehindu.com/news/national/karnataka/eight-persons-including-former-chief-of-manmul-arrested-in-3-crore-milk-powder-scam/article71551327.ece",
-    "date": "2026-10-06T12:37:13.000Z",
-    "reason": "State-level cooperative scam arrests; a crime story.",
-    "checkedAt": "2026-10-06T13:41:52.824Z"
   }
 ]

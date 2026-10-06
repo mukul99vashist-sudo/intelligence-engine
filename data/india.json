@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-06T19:46:15.291Z",
+  "updatedAt": "2026-10-06T20:42:39.914Z",
   "sectors": [
     {
       "id": "energy",
@@ -227,33 +227,6 @@
       "name": "Logistics & Shipping",
       "items": [
         {
-          "id": "s18vq9q9",
-          "headline": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
-          "url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters",
-          "source": "aljazeera",
-          "date": "2026-10-06T14:50:01.000Z",
-          "relevance": "medium",
-          "why": "Drone strikes sinking ships in the Black Sea raise risks for shipping on a route carrying grain and edible oils.",
-          "implications": [
-            "Higher shipping risk and insurance costs may disrupt Black Sea cargoes bound for India.",
-            "Disruption could lift global prices of edible oils and grains that India imports."
-          ],
-          "reports": [
-            {
-              "source": "aljazeera",
-              "headline": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
-              "url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters",
-              "date": "2026-10-06T14:50:01.000Z"
-            },
-            {
-              "source": "abc",
-              "headline": "Crew missing after drone sinks ship in Black Sea off Bulgaria",
-              "url": "https://www.abc.net.au/news/2026-10-07/crew-missing-after-drone-sinks-ship-in-black-sea/107235430",
-              "date": "2026-10-06T17:14:47.000Z"
-            }
-          ]
-        },
-        {
           "id": "s1j2msqq",
           "headline": "Yemen's government announces all-out war to reclaim land from Houthis",
           "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o",
@@ -331,6 +304,39 @@
               "headline": "Pakistan, Turkiye join Saudi deterrence against Houthis: What that means",
               "url": "https://www.aljazeera.com/news/2026/10/6/pakistan-turkiye-join-saudi-deterrence-against-houthis-what-that-means",
               "date": "2026-10-06T12:22:46.000Z"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Yemen’s government is on the attack against the Houthis. What has changed?",
+              "url": "https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed",
+              "date": "2026-10-06T19:43:05.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s18vq9q9",
+          "headline": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
+          "url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters",
+          "source": "aljazeera",
+          "date": "2026-10-06T14:50:01.000Z",
+          "relevance": "medium",
+          "why": "Drone strikes sinking ships in the Black Sea raise risks for shipping on a route carrying grain and edible oils.",
+          "implications": [
+            "Higher shipping risk and insurance costs may disrupt Black Sea cargoes bound for India.",
+            "Disruption could lift global prices of edible oils and grains that India imports."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
+              "url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters",
+              "date": "2026-10-06T14:50:01.000Z"
+            },
+            {
+              "source": "abc",
+              "headline": "Crew missing after drone sinks ship in Black Sea off Bulgaria",
+              "url": "https://www.abc.net.au/news/2026-10-07/crew-missing-after-drone-sinks-ship-in-black-sea/107235430",
+              "date": "2026-10-06T17:14:47.000Z"
             }
           ]
         },
@@ -734,10 +740,10 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 21,
+    "analysed": 10,
     "added": 0,
-    "merged": 0,
-    "rejected": 21,
+    "merged": 1,
+    "rejected": 9,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
@@ -748,7 +754,7 @@
       "guardian": {
         "feedsOk": 7,
         "feedsFailed": 0,
-        "items": 202
+        "items": 204
       },
       "npr": {
         "feedsOk": 4,
@@ -758,7 +764,7 @@
       "aljazeera": {
         "feedsOk": 1,
         "feedsFailed": 0,
-        "items": 13
+        "items": 11
       },
       "mercopress": {
         "feedsOk": 3,
