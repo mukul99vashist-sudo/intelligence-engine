@@ -1,5 +1,69 @@
 [
   {
+    "source": "mint",
+    "headline": "Lawmakers Urge Oz to Reconsider Remote Health Monitoring Rule",
+    "url": "https://www.livemint.com/politics/lawmakers-urge-oz-to-reconsider-remote-health-monitoring-rule-11791313907051.html",
+    "date": "2026-10-06T19:11:46.000Z",
+    "reason": "US Medicare rule dispute; not an India development.",
+    "checkedAt": "2026-10-06T19:46:21.243Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Codelco Probes New Signs of Overstated Chile Copper Production",
+    "url": "https://www.livemint.com/companies/codelco-probes-new-signs-of-overstated-chile-copper-production-11791313604023.html",
+    "date": "2026-10-06T19:06:43.000Z",
+    "reason": "Foreign company production accounting probe in Chile; not an India development.",
+    "checkedAt": "2026-10-06T19:46:21.243Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Act against illegal resorts and homestays in tiger reserves: Ramalinga Reddy",
+    "url": "https://www.thehindu.com/news/national/karnataka/act-against-illegal-resorts-and-homestays-in-tiger-reserves-ramalinga-reddy/article71551839.ece",
+    "date": "2026-10-06T19:04:53.000Z",
+    "reason": "State minister's statement on resorts near tiger reserves; limited, local, no details.",
+    "checkedAt": "2026-10-06T19:46:21.243Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Milk price in Karnataka may go up by ₹8, but only after Legislative Council polls",
+    "url": "https://www.thehindu.com/news/national/karnataka/milk-price-in-karnataka-may-go-up-by-8-but-only-after-legislative-council-polls/article71552764.ece",
+    "date": "2026-10-06T19:02:31.000Z",
+    "reason": "State-level milk price and fare proposals in Karnataka; no national impact.",
+    "checkedAt": "2026-10-06T19:46:21.243Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Vellore police hands over missing phones to owners",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/vellore-police-hands-over-missing-phones-to-owners/article71551307.ece",
+    "date": "2026-10-06T18:51:03.000Z",
+    "reason": "Local police recovery of missing phones; no national significance.",
+    "checkedAt": "2026-10-06T19:46:21.243Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "CM Samrat Choudhary directs officials to submit detailed report on flood damage in Bihar",
+    "url": "https://www.thehindu.com/news/national/bihar/cm-samrat-choudhary-directs-officials-to-submit-detailed-report-on-flood-damage-in-bihar/article71552720.ece",
+    "date": "2026-10-06T18:48:03.000Z",
+    "reason": "State-level flood damage review in Bihar; no clear national impact.",
+    "checkedAt": "2026-10-06T19:46:21.243Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "RPF, Nemili police seize 16 kg of ganja in separate cases; four persons held",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/rpf-nemili-police-seize-16-kg-of-ganja-in-separate-cases-four-persons-held/article71551300.ece",
+    "date": "2026-10-06T18:46:33.000Z",
+    "reason": "Local police drug seizure; crime story without national impact.",
+    "checkedAt": "2026-10-06T19:46:21.243Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Burglars decamp with 30 sovereigns of gold, ₹5 lakh in Ranipet",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/burglars-decamp-with-30-sovereigns-of-gold-5-lakh-in-ranipet/article71551303.ece",
+    "date": "2026-10-06T18:44:04.000Z",
+    "reason": "Local burglary; crime story with no national significance.",
+    "checkedAt": "2026-10-06T19:46:21.243Z"
+  },
+  {
     "source": "thehindu",
     "headline": "SIR: BLOs being forced to accept Form-7s without signature of applicants",
     "url": "https://www.thehindu.com/news/national/telangana/sir-blos-being-forced-to-accept-form-7s-without-signature-of-applicants/article71552172.ece",
@@ -1133,70 +1197,6 @@
     "url": "https://www.thehindu.com/news/national/karnataka/eight-persons-including-former-chief-of-manmul-arrested-in-3-crore-milk-powder-scam/article71551327.ece",
     "date": "2026-10-06T12:37:13.000Z",
     "reason": "State-level cooperative scam arrests; a crime story.",
-    "checkedAt": "2026-10-06T13:41:52.824Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Naidu, Pawan Kalyan discuss strategy for local body elections in Andhra Pradesh",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-pawan-kalyan-discuss-strategy-for-local-body-elections-in-andhra-pradesh/article71551127.ece",
-    "date": "2026-10-06T12:36:10.000Z",
-    "reason": "State-level party alliance strategy for local body elections.",
-    "checkedAt": "2026-10-06T13:41:52.824Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Flydubai ‘hero’ Indian pilot suffers skull fracture, memory issues; co-pilot may have intended to kill him | New details",
-    "url": "https://www.livemint.com/news/india/flydubai-hero-indian-pilot-suffers-skull-fracture-memory-issues-co-pilot-may-have-intended-to-kill-him-new-details-11791288303331.html",
-    "date": "2026-10-06T12:35:06.000Z",
-    "reason": "Individual pilot's injuries and a criminal incident abroad.",
-    "checkedAt": "2026-10-06T13:41:52.824Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Not part of INDIA bloc, BJD issues long clarification",
-    "url": "https://www.thehindu.com/news/national/odisha/not-part-of-india-bloc-bjd-issues-long-clarification/article71551371.ece",
-    "date": "2026-10-06T12:32:01.000Z",
-    "reason": "Party political clarification about alliance membership.",
-    "checkedAt": "2026-10-06T13:41:52.824Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Left parties, Congress seek withdrawal of cases against protesters in Eluru",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/left-parties-congress-seek-withdrawal-of-cases-against-protesters-in-eluru/article71551112.ece",
-    "date": "2026-10-06T12:31:18.000Z",
-    "reason": "Local political demand about cases against protesters in Eluru.",
-    "checkedAt": "2026-10-06T13:41:52.824Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Two arrested; 13 Navy personnel among 18 under scanner for alleged leaks to Pakistan intelligence operatives",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/two-arrested-13-navy-personnel-among-18-under-scanner-for-alleged-leaks-to-pakistan-intelligence-operatives/article71551131.ece",
-    "date": "2026-10-06T12:22:53.000Z",
-    "reason": "Espionage arrests of individuals; a criminal investigation rather than a sector development.",
-    "checkedAt": "2026-10-06T13:41:52.824Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "‘Youth should use interdisciplinary knowledge to ensure all-round progress’",
-    "url": "https://www.thehindu.com/news/national/karnataka/youth-should-use-interdisciplinary-knowledge-to-ensure-all-round-progress/article71551360.ece",
-    "date": "2026-10-06T12:19:08.000Z",
-    "reason": "Routine seminar remarks at a college event.",
-    "checkedAt": "2026-10-06T13:41:52.824Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "CPI(M) stages protest seeking house sites, pattas in Mangalagiri",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/cpim-stages-protest-seeking-house-sites-pattas-in-mangalagiri/article71551239.ece",
-    "date": "2026-10-06T12:16:17.000Z",
-    "reason": "Local party protest over house sites in one Andhra town.",
-    "checkedAt": "2026-10-06T13:41:52.824Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Jagtial man remains in Dubai jail, family seeks Telangana government help",
-    "url": "https://www.thehindu.com/news/national/telangana/jagtial-man-remains-in-dubai-jail-family-seeks-telangana-government-help/article71548546.ece",
-    "date": "2026-10-06T12:11:49.000Z",
-    "reason": "Individual's detention abroad; a personal case without national policy impact.",
     "checkedAt": "2026-10-06T13:41:52.824Z"
   }
 ]
