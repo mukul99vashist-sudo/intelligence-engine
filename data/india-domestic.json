@@ -2,12 +2,34 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-06T05:46:37.595Z",
+  "updatedAt": "2026-10-06T07:28:13.739Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "s1gk5jcm",
+          "headline": "Ecuador in talks with India for sale of crude oil, critical minerals, copper: ambassador Buchelli",
+          "url": "https://www.livemint.com/economy/ecuador-india-talks-crude-oil-critical-minerals-copper-trade-11791257129841.html",
+          "source": "mint",
+          "date": "2026-10-06T06:35:13.000Z",
+          "relevance": "medium",
+          "why": "India is widening its crude and critical-mineral sourcing beyond war-hit West Asia, which bears on national energy supply security.",
+          "implications": [
+            "Wider crude sourcing could cushion India against supply disruptions from West Asia, though the talks are still at an early stage.",
+            "Access to copper and critical minerals may help industries that depend on these inputs over time.",
+            "Diversified imports could moderate fuel price volatility for households and businesses, though this is uncertain."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Ecuador in talks with India for sale of crude oil, critical minerals, copper: ambassador Buchelli",
+              "url": "https://www.livemint.com/economy/ecuador-india-talks-crude-oil-critical-minerals-copper-trade-11791257129841.html",
+              "date": "2026-10-06T06:35:13.000Z"
+            }
+          ]
+        },
         {
           "id": "slvj25g",
           "headline": "Petrol and diesel prices today, October 5: Check fuel cost in Delhi, Mumbai, Bengaluru",
@@ -375,6 +397,95 @@
       "name": "Economy & Trade",
       "items": [
         {
+          "id": "sjush0y",
+          "headline": "RBI likely to raise repo rate in October 2026 as West Asia crisis fuels inflation risks",
+          "url": "https://www.livemint.com/economy/rbi-likely-to-raise-repo-rate-in-october-2026-as-west-asia-crisis-fuels-inflation-risks-11791121335600.html",
+          "source": "mint",
+          "date": "2026-10-04T13:53:48.000Z",
+          "relevance": "high",
+          "why": "A possible RBI repo rate hike would change borrowing costs nationwide, driven by inflation risks from the West Asia crisis.",
+          "implications": [
+            "Home, car and business loan EMIs could rise if the repo rate is increased by 0.25 percentage points.",
+            "Higher rates may add to the cost of borrowing for businesses and slow credit demand.",
+            "Fixed deposit rates could edge up for savers if the RBI tightens policy."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "RBI likely to raise repo rate in October 2026 as West Asia crisis fuels inflation risks",
+              "url": "https://www.livemint.com/economy/rbi-likely-to-raise-repo-rate-in-october-2026-as-west-asia-crisis-fuels-inflation-risks-11791121335600.html",
+              "date": "2026-10-04T13:53:48.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "RBI rate hikes back on the table as inflation risks mount",
+              "url": "https://www.livemint.com/economy/rbi-monetary-policy-repo-rate-indian-economy-11791107863686.html",
+              "date": "2026-10-05T00:00:22.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Rate hikes are coming, but don’t count credit growth out just yet",
+              "url": "https://www.livemint.com/economy/india-credit-growth-rate-hike-rbi-monetary-policy-bank-lending-bank-credit-fcnr-b-deposits-financial-deepening-11791139917638.html",
+              "date": "2026-10-05T03:30:45.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Experts’ poll: RBI may hike rates by 0.25% in October policy amid inflationary pressures",
+              "url": "https://www.thehindu.com/business/experts-poll-rbi-may-hike-rates-by-025-in-october-policy-amid-inflationary-pressures/article71543381.ece",
+              "date": "2026-10-04T10:35:22.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Mint Explainer | Why the RBI looks set to hike rates",
+              "url": "https://www.livemint.com/economy/rbi-repo-rate-hike-mpc-october-2026-11791267893186.html",
+              "date": "2026-10-06T07:21:32.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s880gcz",
+          "headline": "World Bank raises India FY27 growth forecast to 7.1% from 6.6% on stronger-than-expected activity",
+          "url": "https://www.livemint.com/economy/world-bank-raises-india-fy27-growth-forecast-to-7-1-from-6-6-on-stronger-than-expected-activity-11791270536568.html",
+          "source": "mint",
+          "date": "2026-10-06T07:17:42.000Z",
+          "relevance": "medium",
+          "why": "A higher World Bank growth forecast signals stronger-than-expected demand and exports, though the bank warns global risks remain elevated.",
+          "implications": [
+            "Stronger domestic demand could support hiring and incomes across sectors in the coming year.",
+            "Firms may plan expansion more confidently, though elevated global risks could still limit investment decisions."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "World Bank raises India FY27 growth forecast to 7.1% from 6.6% on stronger-than-expected activity",
+              "url": "https://www.livemint.com/economy/world-bank-raises-india-fy27-growth-forecast-to-7-1-from-6-6-on-stronger-than-expected-activity-11791270536568.html",
+              "date": "2026-10-06T07:17:42.000Z"
+            }
+          ]
+        },
+        {
+          "id": "syq0rhi",
+          "headline": "India’s services sector growth hits three-month high: PMI survey",
+          "url": "https://www.livemint.com/economy/india-services-economy-pmi-survey-business-consumer-services-11791265040418.html",
+          "source": "mint",
+          "date": "2026-10-06T06:29:54.000Z",
+          "relevance": "medium",
+          "why": "Services growth reaching a three-month high suggests the largest part of the economy is gaining momentum on stronger demand.",
+          "implications": [
+            "Rising sales across services may support hiring in travel, software, transport and financial services.",
+            "Firmer demand for loans and insurance could mean steady credit and household financial activity.",
+            "Stronger services activity may help offset weakness in industrial output in overall growth."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "India’s services sector growth hits three-month high: PMI survey",
+              "url": "https://www.livemint.com/economy/india-services-economy-pmi-survey-business-consumer-services-11791265040418.html",
+              "date": "2026-10-06T06:29:54.000Z"
+            }
+          ]
+        },
+        {
           "id": "s935ivj",
           "headline": "Rupee trades in narrow range against U.S. dollar in early trade",
           "url": "https://www.thehindu.com/business/rupee-trades-in-narrow-range-against-us-dollar-in-early-trade/article71545911.ece",
@@ -589,46 +700,6 @@
           ]
         },
         {
-          "id": "sjush0y",
-          "headline": "RBI likely to raise repo rate in October 2026 as West Asia crisis fuels inflation risks",
-          "url": "https://www.livemint.com/economy/rbi-likely-to-raise-repo-rate-in-october-2026-as-west-asia-crisis-fuels-inflation-risks-11791121335600.html",
-          "source": "mint",
-          "date": "2026-10-04T13:53:48.000Z",
-          "relevance": "high",
-          "why": "A possible RBI repo rate hike would change borrowing costs nationwide, driven by inflation risks from the West Asia crisis.",
-          "implications": [
-            "Home, car and business loan EMIs could rise if the repo rate is increased by 0.25 percentage points.",
-            "Higher rates may add to the cost of borrowing for businesses and slow credit demand.",
-            "Fixed deposit rates could edge up for savers if the RBI tightens policy."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "RBI likely to raise repo rate in October 2026 as West Asia crisis fuels inflation risks",
-              "url": "https://www.livemint.com/economy/rbi-likely-to-raise-repo-rate-in-october-2026-as-west-asia-crisis-fuels-inflation-risks-11791121335600.html",
-              "date": "2026-10-04T13:53:48.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "RBI rate hikes back on the table as inflation risks mount",
-              "url": "https://www.livemint.com/economy/rbi-monetary-policy-repo-rate-indian-economy-11791107863686.html",
-              "date": "2026-10-05T00:00:22.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "Rate hikes are coming, but don’t count credit growth out just yet",
-              "url": "https://www.livemint.com/economy/india-credit-growth-rate-hike-rbi-monetary-policy-bank-lending-bank-credit-fcnr-b-deposits-financial-deepening-11791139917638.html",
-              "date": "2026-10-05T03:30:45.000Z"
-            },
-            {
-              "source": "thehindu",
-              "headline": "Experts’ poll: RBI may hike rates by 0.25% in October policy amid inflationary pressures",
-              "url": "https://www.thehindu.com/business/experts-poll-rbi-may-hike-rates-by-025-in-october-policy-amid-inflationary-pressures/article71543381.ece",
-              "date": "2026-10-04T10:35:22.000Z"
-            }
-          ]
-        },
-        {
           "id": "sxukokm",
           "headline": "Next-Gen GST and India’s next phase of growth",
           "url": "https://www.thehindu.com/business/Economy/next-gen-gst-and-indias-next-phase-of-growth/article71541678.ece",
@@ -808,6 +879,28 @@
       "name": "Technology",
       "items": [
         {
+          "id": "s10310hy",
+          "headline": "Is era of affordable smartphones ending? HMD India CEO warns prices may stay high till 2027",
+          "url": "https://www.livemint.com/technology/is-era-of-affordable-smartphones-ending-hmd-india-ceo-warns-prices-may-stay-high-till-2027-11791268377725.html",
+          "source": "mint",
+          "date": "2026-10-06T07:14:58.000Z",
+          "relevance": "medium",
+          "why": "Rising memory and component costs driven by AI demand could keep smartphone prices high across India, especially in the budget segment.",
+          "implications": [
+            "Buyers in the sub-₹20,000 segment may face higher prices or fewer low-cost models through 2027.",
+            "Households may delay phone upgrades, which could slow digital access for first-time users.",
+            "Handset makers and assemblers in India may face tighter margins from component costs."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Is era of affordable smartphones ending? HMD India CEO warns prices may stay high till 2027",
+              "url": "https://www.livemint.com/technology/is-era-of-affordable-smartphones-ending-hmd-india-ceo-warns-prices-may-stay-high-till-2027-11791268377725.html",
+              "date": "2026-10-06T07:14:58.000Z"
+            }
+          ]
+        },
+        {
           "id": "sexalie",
           "headline": "There should be no GST on MDR for UPI transactions: C. Rangarajan",
           "url": "https://www.thehindu.com/news/national/tamil-nadu/there-should-be-no-gst-on-mdr-for-upi-transactions-c-rangarajan/article71548512.ece",
@@ -969,6 +1062,28 @@
       "id": "manufacturing",
       "name": "Manufacturing",
       "items": [
+        {
+          "id": "sftf1gm",
+          "headline": "‘Best ever September’: Auto retail sales surge 32% year-on-year",
+          "url": "https://www.thehindu.com/business/Industry/best-ever-september-auto-retail-sales-surge-32-year-on-year/article71550095.ece",
+          "source": "thehindu",
+          "date": "2026-10-06T05:55:45.000Z",
+          "relevance": "medium",
+          "why": "Record September auto retail sales point to strong consumer demand and rising EV uptake, which affect the whole vehicle industry and its supply chain.",
+          "implications": [
+            "Strong festive demand may support factory output and jobs across vehicle makers and component suppliers.",
+            "Rising EV adoption could gradually shift buyer choices and charging and servicing needs.",
+            "Steady rural and semi-urban demand suggests household spending on big-ticket purchases remains healthy."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "‘Best ever September’: Auto retail sales surge 32% year-on-year",
+              "url": "https://www.thehindu.com/business/Industry/best-ever-september-auto-retail-sales-surge-32-year-on-year/article71550095.ece",
+              "date": "2026-10-06T05:55:45.000Z"
+            }
+          ]
+        },
         {
           "id": "s1yaccvu",
           "headline": "Beyond assembly: how India’s next telecom PLI wants to build the supply chain from within",
@@ -1382,16 +1497,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 41,
-    "added": 2,
-    "merged": 3,
-    "rejected": 36,
+    "analysed": 35,
+    "added": 5,
+    "merged": 1,
+    "rejected": 29,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 344
+        "items": 343
       },
       "mint": {
         "feedsOk": 6,

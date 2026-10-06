@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-06T05:46:05.156Z",
+  "updatedAt": "2026-10-06T07:27:38.808Z",
   "sectors": [
     {
       "id": "energy",
@@ -444,6 +444,27 @@
       "name": "Policy & Governance",
       "items": [
         {
+          "id": "s59a90g",
+          "headline": "From competing for food to a gold medal: the stories behind India’s Asian Games winners",
+          "url": "https://www.theguardian.com/world/2026/oct/05/this-is-india-asian-games-winners-success",
+          "source": "guardian",
+          "date": "2026-10-06T06:30:04.000Z",
+          "relevance": "medium",
+          "why": "India's 85-medal Asian Games haul, with athletes who trained on limited money, is a national sports story that may shape support debates.",
+          "implications": [
+            "Medal success by under-resourced athletes may increase pressure for more public funding and facilities for non-cricket sports.",
+            "Strong results could raise youth interest in sports beyond cricket."
+          ],
+          "reports": [
+            {
+              "source": "guardian",
+              "headline": "From competing for food to a gold medal: the stories behind India’s Asian Games winners",
+              "url": "https://www.theguardian.com/world/2026/oct/05/this-is-india-asian-games-winners-success",
+              "date": "2026-10-06T06:30:04.000Z"
+            }
+          ]
+        },
+        {
           "id": "sqjwff2",
           "headline": "India's 'cockroach' protesters are back - this time asking poll chief to resign",
           "url": "https://www.bbc.co.uk/news/articles/ck62mped4rz9o",
@@ -542,21 +563,21 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 40,
-    "added": 0,
+    "analysed": 24,
+    "added": 1,
     "merged": 0,
-    "rejected": 40,
+    "rejected": 23,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 156
+        "items": 155
       },
       "guardian": {
         "feedsOk": 7,
         "feedsFailed": 0,
-        "items": 200
+        "items": 196
       },
       "npr": {
         "feedsOk": 4,
