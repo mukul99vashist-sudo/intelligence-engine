@@ -2,12 +2,55 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-06T14:25:40.331Z",
+  "updatedAt": "2026-10-06T18:35:34.781Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "s1sxjihn",
+          "headline": "What new measures is Iran taking to counter US economic pressure?",
+          "url": "https://www.aljazeera.com/news/2026/10/6/what-new-measures-is-iran-taking-to-counter-us-economic-pressure",
+          "source": "aljazeera",
+          "date": "2026-10-06T14:42:33.000Z",
+          "relevance": "medium",
+          "why": "US economic pressure and naval blockades on Iran affect Gulf shipping and oil flows that India relies on.",
+          "implications": [
+            "Continued blockades may disrupt Gulf oil shipments and keep crude prices elevated for India.",
+            "Iran's trade restrictions could complicate Indian payments, shipping and trade routes in the region."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "What new measures is Iran taking to counter US economic pressure?",
+              "url": "https://www.aljazeera.com/news/2026/10/6/what-new-measures-is-iran-taking-to-counter-us-economic-pressure",
+              "date": "2026-10-06T14:42:33.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s12jhjw8",
+          "headline": "Saudi Arabia says East-West pipeline pumping 5.8 million bpd",
+          "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-east-west-pipeline-pumping-5-8-million-bpd",
+          "source": "aljazeera",
+          "date": "2026-10-06T14:38:09.000Z",
+          "relevance": "high",
+          "why": "Restored Saudi East-West pipeline flow eases Gulf export bottlenecks, which matters for India's heavy dependence on Gulf crude.",
+          "implications": [
+            "Restored pipeline capacity may help keep Saudi crude supplies to India steady.",
+            "Easing supply worries could limit upward pressure on global oil prices and India's import bill.",
+            "Alternative export routes may reduce India's exposure to disruption around Hormuz."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Saudi Arabia says East-West pipeline pumping 5.8 million bpd",
+              "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-east-west-pipeline-pumping-5-8-million-bpd",
+              "date": "2026-10-06T14:38:09.000Z"
+            }
+          ]
+        },
         {
           "id": "scj21pm",
           "headline": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
@@ -183,6 +226,33 @@
       "id": "logistics",
       "name": "Logistics & Shipping",
       "items": [
+        {
+          "id": "s18vq9q9",
+          "headline": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
+          "url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters",
+          "source": "aljazeera",
+          "date": "2026-10-06T14:50:01.000Z",
+          "relevance": "medium",
+          "why": "Drone strikes sinking ships in the Black Sea raise risks for shipping on a route carrying grain and edible oils.",
+          "implications": [
+            "Higher shipping risk and insurance costs may disrupt Black Sea cargoes bound for India.",
+            "Disruption could lift global prices of edible oils and grains that India imports."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
+              "url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters",
+              "date": "2026-10-06T14:50:01.000Z"
+            },
+            {
+              "source": "abc",
+              "headline": "Crew missing after drone sinks ship in Black Sea off Bulgaria",
+              "url": "https://www.abc.net.au/news/2026-10-07/crew-missing-after-drone-sinks-ship-in-black-sea/107235430",
+              "date": "2026-10-06T17:14:47.000Z"
+            }
+          ]
+        },
         {
           "id": "s1j2msqq",
           "headline": "Yemen's government announces all-out war to reclaim land from Houthis",
@@ -664,10 +734,10 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 9,
-    "added": 1,
-    "merged": 2,
-    "rejected": 6,
+    "analysed": 40,
+    "added": 3,
+    "merged": 1,
+    "rejected": 36,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
@@ -678,7 +748,7 @@
       "guardian": {
         "feedsOk": 7,
         "feedsFailed": 0,
-        "items": 200
+        "items": 201
       },
       "npr": {
         "feedsOk": 4,
@@ -688,7 +758,7 @@
       "aljazeera": {
         "feedsOk": 1,
         "feedsFailed": 0,
-        "items": 18
+        "items": 13
       },
       "mercopress": {
         "feedsOk": 3,

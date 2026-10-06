@@ -2,12 +2,56 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-06T14:26:06.358Z",
+  "updatedAt": "2026-10-06T18:36:33.494Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "sga3vnf",
+          "headline": "NTPC to buy 10 million tonnes of coal from commercial mines in H2 FY27 as power demand rises",
+          "url": "https://www.livemint.com/companies/ntpc-to-buy-10-million-tonnes-of-coal-from-commercial-mines-in-h2-fy27-as-power-demand-rises-11791300287123.html",
+          "source": "mint",
+          "date": "2026-10-06T17:26:54.000Z",
+          "relevance": "medium",
+          "why": "Coal sourcing by India's largest power generator from commercial mines points to rising electricity demand and a growing role for private coal supply.",
+          "implications": [
+            "Higher power demand may keep coal requirements elevated through FY27.",
+            "Commercial coal mines could see steadier offtake, supporting domestic coal supply.",
+            "Fuel availability at plants may help limit power shortages in peak demand months."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "NTPC to buy 10 million tonnes of coal from commercial mines in H2 FY27 as power demand rises",
+              "url": "https://www.livemint.com/companies/ntpc-to-buy-10-million-tonnes-of-coal-from-commercial-mines-in-h2-fy27-as-power-demand-rises-11791300287123.html",
+              "date": "2026-10-06T17:26:54.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sqzcca6",
+          "headline": "UCIL bets on greenfield mines, copper residue to double uranium output by 2036",
+          "url": "https://www.thehindu.com/business/Industry/ucil-bets-on-greenfield-mines-copper-residue-to-double-uranium-output-by-2036/article71552246.ece",
+          "source": "thehindu",
+          "date": "2026-10-06T16:10:48.000Z",
+          "relevance": "medium",
+          "why": "Doubling uranium output by 2036 could strengthen domestic fuel supply for India's growing nuclear power programme.",
+          "implications": [
+            "Greater domestic uranium may reduce reliance on imported nuclear fuel over the coming years.",
+            "New mines and copper-residue recovery could create mining and processing jobs in producing regions.",
+            "Steadier fuel supply may support planned nuclear capacity additions and long-term clean power availability."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "UCIL bets on greenfield mines, copper residue to double uranium output by 2036",
+              "url": "https://www.thehindu.com/business/Industry/ucil-bets-on-greenfield-mines-copper-residue-to-double-uranium-output-by-2036/article71552246.ece",
+              "date": "2026-10-06T16:10:48.000Z"
+            }
+          ]
+        },
         {
           "id": "s3n9hxu",
           "headline": "Anti-dam protests: Withdraw forces from Siang belt, demands Arunachal youth body",
@@ -301,30 +345,24 @@
       "name": "Logistics & Shipping",
       "items": [
         {
-          "id": "s1jctn2o",
-          "headline": "Indians favour two-wheelers, but buses and trains dominate overnight travel: NSO survey",
-          "url": "https://www.livemint.com/news/india/twowheelers-dominate-work-commute-buses-and-rail-drive-overnight-travel-nso-survey-11791202775009.html",
+          "id": "spd98hj",
+          "headline": "‘Longer but safer’ routes may beat speed: France says IMEC ‘more necessary amid Gaza, Iran, Hormuz crises’",
+          "url": "https://www.livemint.com/news/world/longer-but-safer-routes-may-beat-speed-france-says-imec-more-necessary-amid-gaza-iran-hormuz-crises-11791303247567.html",
           "source": "mint",
-          "date": "2026-10-05T14:19:40.000Z",
+          "date": "2026-10-06T17:12:21.000Z",
           "relevance": "medium",
-          "why": "The first national travel survey gives official data on how Indians commute and travel, which can guide transport planning and public investment.",
+          "why": "Hormuz and West Asia risks are strengthening the case for the IMEC corridor as an alternative trade route for India.",
           "implications": [
-            "Findings on buses and trains for overnight travel may shape public transport and rail capacity planning.",
-            "Dominance of two-wheelers could influence fuel demand, road and urban mobility policy over time.",
-            "Better travel data may help states and operators plan services for work and education journeys."
+            "Safer alternative routes could reduce Indian exporters' exposure to disruptions in Hormuz and nearby sea lanes.",
+            "Corridor development may take years, so near-term shipping costs and delays are unlikely to ease soon.",
+            "Greater focus on resilient routes could shape future port and logistics investment plans."
           ],
           "reports": [
             {
               "source": "mint",
-              "headline": "Indians favour two-wheelers, but buses and trains dominate overnight travel: NSO survey",
-              "url": "https://www.livemint.com/news/india/twowheelers-dominate-work-commute-buses-and-rail-drive-overnight-travel-nso-survey-11791202775009.html",
-              "date": "2026-10-05T14:19:40.000Z"
-            },
-            {
-              "source": "thehindu",
-              "headline": "Buses carry most overnight travellers, two-wheelers dominate the daily work commute",
-              "url": "https://www.thehindu.com/news/national/buses-carry-most-overnight-travellers-two-wheelers-dominate-the-daily-work-commute/article71551659.ece",
-              "date": "2026-10-06T13:48:21.000Z"
+              "headline": "‘Longer but safer’ routes may beat speed: France says IMEC ‘more necessary amid Gaza, Iran, Hormuz crises’",
+              "url": "https://www.livemint.com/news/world/longer-but-safer-routes-may-beat-speed-france-says-imec-more-necessary-amid-gaza-iran-hormuz-crises-11791303247567.html",
+              "date": "2026-10-06T17:12:21.000Z"
             }
           ]
         },
@@ -377,6 +415,40 @@
               "headline": "Mumbai airport standoff: Govt puts Adani Airports' plan to shift international flights from T2 to Navi Mumbai on hold",
               "url": "https://www.livemint.com/news/india/mumbai-airport-standoff-govt-pauses-adani-airport-s-plan-to-cut-international-flights-from-t2-11791293307395.html",
               "date": "2026-10-06T13:41:35.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Govt pauses Adani plan to move Mumbai international flights, gives airlines more time",
+              "url": "https://www.livemint.com/industry/govt-pauses-adani-plan-to-move-mumbai-international-flights-gives-airlines-more-time-11791294877943.html",
+              "date": "2026-10-06T15:16:39.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1jctn2o",
+          "headline": "Indians favour two-wheelers, but buses and trains dominate overnight travel: NSO survey",
+          "url": "https://www.livemint.com/news/india/twowheelers-dominate-work-commute-buses-and-rail-drive-overnight-travel-nso-survey-11791202775009.html",
+          "source": "mint",
+          "date": "2026-10-05T14:19:40.000Z",
+          "relevance": "medium",
+          "why": "The first national travel survey gives official data on how Indians commute and travel, which can guide transport planning and public investment.",
+          "implications": [
+            "Findings on buses and trains for overnight travel may shape public transport and rail capacity planning.",
+            "Dominance of two-wheelers could influence fuel demand, road and urban mobility policy over time.",
+            "Better travel data may help states and operators plan services for work and education journeys."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Indians favour two-wheelers, but buses and trains dominate overnight travel: NSO survey",
+              "url": "https://www.livemint.com/news/india/twowheelers-dominate-work-commute-buses-and-rail-drive-overnight-travel-nso-survey-11791202775009.html",
+              "date": "2026-10-05T14:19:40.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Buses carry most overnight travellers, two-wheelers dominate the daily work commute",
+              "url": "https://www.thehindu.com/news/national/buses-carry-most-overnight-travellers-two-wheelers-dominate-the-daily-work-commute/article71551659.ece",
+              "date": "2026-10-06T13:48:21.000Z"
             }
           ]
         },
@@ -525,6 +597,34 @@
               "headline": "Centre to propose five-pronged reform plan at GST Council meeting on October 8",
               "url": "https://www.thehindu.com/business/Economy/centre-to-propose-five-pronged-reform-plan-at-gst-council-meeting-on-october-8/article71551328.ece",
               "date": "2026-10-06T14:07:08.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "GST Council aims to ease compliance, expedite refunds, curb frequent rate tweaks",
+              "url": "https://www.livemint.com/economy/gst-council-aims-to-ease-compliance-expedite-refunds-curb-frequent-rate-tweaks-11791297868065.html",
+              "date": "2026-10-06T16:53:11.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sf8nc9e",
+          "headline": "Irdai commission caps: Brokers to seek more time to submit feedback on Friday",
+          "url": "https://www.livemint.com/industry/irdai-commission-caps-brokers-to-seek-more-time-to-submit-feedback-on-friday-11791288222095.html",
+          "source": "mint",
+          "date": "2026-10-06T15:33:03.000Z",
+          "relevance": "medium",
+          "why": "Proposed caps on insurance commissions could reshape how insurance is sold and priced across India.",
+          "implications": [
+            "Insurance distribution income may change, which could affect brokers and agents' earnings.",
+            "Premiums or product availability for policyholders could shift if distribution costs change.",
+            "The final rules may be delayed if the feedback deadline is extended."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Irdai commission caps: Brokers to seek more time to submit feedback on Friday",
+              "url": "https://www.livemint.com/industry/irdai-commission-caps-brokers-to-seek-more-time-to-submit-feedback-on-friday-11791288222095.html",
+              "date": "2026-10-06T15:33:03.000Z"
             }
           ]
         },
@@ -534,7 +634,7 @@
           "url": "https://www.livemint.com/economy/world-bank-raises-india-fy27-growth-forecast-to-7-1-from-6-6-on-stronger-than-expected-activity-11791270536568.html",
           "source": "mint",
           "date": "2026-10-06T07:17:42.000Z",
-          "relevance": "medium",
+          "relevance": "high",
           "why": "A higher World Bank growth forecast signals stronger-than-expected demand and exports, though the bank warns global risks remain elevated.",
           "implications": [
             "Stronger domestic demand could support hiring and incomes across sectors in the coming year.",
@@ -552,6 +652,34 @@
               "headline": "World Bank raises India FY27 growth forecast to 7.1% on resilient demand, exports",
               "url": "https://www.livemint.com/economy/world-bank-raises-india-fy27-growth-forecast-to-7-1-on-resilient-demand-exports-11791288081027.html",
               "date": "2026-10-06T13:29:20.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "World Bank ups India's GDP growth projection to 7.1% for FY27",
+              "url": "https://www.thehindu.com/business/Economy/world-bank-ups-indias-gdp-growth-projection-to-71-for-fy27/article71552011.ece",
+              "date": "2026-10-06T15:13:06.000Z"
+            }
+          ]
+        },
+        {
+          "id": "ssazkbl",
+          "headline": "Banks told to expand digital lending, financial inclusion outreach: DFS secretary",
+          "url": "https://www.livemint.com/news/india/banks-told-to-expand-digital-lending-financial-inclusion-outreach-dfs-secretary-11791292801526.html",
+          "source": "mint",
+          "date": "2026-10-06T14:44:34.000Z",
+          "relevance": "medium",
+          "why": "A government push for banks to digitise lending and widen inclusion could change how credit reaches households and small businesses nationwide.",
+          "implications": [
+            "Small firms and micro-enterprises may find loan applications faster and more digital.",
+            "Borrowers in underserved areas could gain wider access to formal credit through inclusion schemes.",
+            "Branch-based paperwork for loans may gradually shrink at public sector banks."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Banks told to expand digital lending, financial inclusion outreach: DFS secretary",
+              "url": "https://www.livemint.com/news/india/banks-told-to-expand-digital-lending-financial-inclusion-outreach-dfs-secretary-11791292801526.html",
+              "date": "2026-10-06T14:44:34.000Z"
             }
           ]
         },
@@ -1324,6 +1452,28 @@
       "name": "Manufacturing",
       "items": [
         {
+          "id": "sf4u507",
+          "headline": "Defence Minister Rajnath Singh pitches indigenous aero-engine capability for AMCA",
+          "url": "https://www.thehindu.com/news/national/defence-minister-rajnath-singh-pitches-indigenous-aero-engine-capability-for-amca/article71552354.ece",
+          "source": "thehindu",
+          "date": "2026-10-06T15:52:25.000Z",
+          "relevance": "medium",
+          "why": "A second Shakti engine production line and indigenous aero-engine push for AMCA could deepen India's domestic defence manufacturing base and cut import reliance.",
+          "implications": [
+            "Expanded engine production may create skilled manufacturing and supplier-network jobs over the coming years.",
+            "Greater domestic engine capability could reduce dependence on imported aero-engines and related foreign exchange outgo.",
+            "Benefits are likely gradual, as the AMCA programme and new production line will take time to mature."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Defence Minister Rajnath Singh pitches indigenous aero-engine capability for AMCA",
+              "url": "https://www.thehindu.com/news/national/defence-minister-rajnath-singh-pitches-indigenous-aero-engine-capability-for-amca/article71552354.ece",
+              "date": "2026-10-06T15:52:25.000Z"
+            }
+          ]
+        },
+        {
           "id": "sqhnzu3",
           "headline": "Kasturi Cotton gains traction as India puts traceability on the textile map",
           "url": "https://www.thehindu.com/business/kasturi-cotton-gains-traction-as-india-puts-traceability-on-the-textile-map/article71551334.ece",
@@ -1423,6 +1573,28 @@
       "id": "environment",
       "name": "Environment & Climate",
       "items": [
+        {
+          "id": "s1y8cmtc",
+          "headline": "No ‘one size fits all’, says Environment Minister at Pre-COP31 climate summit meetings",
+          "url": "https://www.thehindu.com/news/national/no-one-size-fits-all-says-environment-minister-at-pre-cop31-climate-summit-meetings/article71552406.ece",
+          "source": "thehindu",
+          "date": "2026-10-06T16:40:31.000Z",
+          "relevance": "medium",
+          "why": "India's stance at Pre-COP31 signals its position on climate mitigation, adaptation and resource needs ahead of global negotiations.",
+          "implications": [
+            "India may push for differentiated climate responsibilities, which could shape future emission commitments affecting industry and energy.",
+            "Emphasis on local assessments could influence how adaptation funds and projects are prioritised for vulnerable regions.",
+            "Outcomes may affect access to climate finance that supports clean energy and resilience projects."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "No ‘one size fits all’, says Environment Minister at Pre-COP31 climate summit meetings",
+              "url": "https://www.thehindu.com/news/national/no-one-size-fits-all-says-environment-minister-at-pre-cop31-climate-summit-meetings/article71552406.ece",
+              "date": "2026-10-06T16:40:31.000Z"
+            }
+          ]
+        },
         {
           "id": "s1pikzq4",
           "headline": "Supreme Court allows Great Nicobar project challenge to proceed in Calcutta HC",
@@ -1813,16 +1985,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 46,
-    "added": 2,
+    "analysed": 83,
+    "added": 7,
     "merged": 3,
-    "rejected": 41,
+    "rejected": 73,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 344
+        "items": 345
       },
       "mint": {
         "feedsOk": 6,
