@@ -2,12 +2,34 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-06T07:27:38.808Z",
+  "updatedAt": "2026-10-06T13:41:03.261Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "sctwrbx",
+          "headline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
+          "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border",
+          "source": "aljazeera",
+          "date": "2026-10-06T10:47:54.000Z",
+          "relevance": "medium",
+          "why": "Houthi strikes on Saudi airports add to instability in a region central to India's oil supply and to its large expatriate community.",
+          "implications": [
+            "Wider Saudi-Yemen escalation could raise oil price risk, which would pressure India's import bill and fuel costs.",
+            "Indian workers in Saudi Arabia may face safety concerns and travel disruption.",
+            "Heightened Red Sea and Gulf tension could raise shipping and insurance costs for Indian trade."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
+              "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border",
+              "date": "2026-10-06T10:47:54.000Z"
+            }
+          ]
+        },
         {
           "id": "s1o9hx0z",
           "headline": "US sends third aircraft carrier to Middle East amid stalemate in Iran war",
@@ -227,6 +249,12 @@
               "headline": "Saudi-backed forces recapture key areas around strait from Houthis in Yemen",
               "url": "https://www.theguardian.com/world/2026/oct/05/saudi-forces-recapture-key-areas-strait-houthis-yemen",
               "date": "2026-10-05T19:44:01.000Z"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Pakistan, Turkiye join Saudi deterrence against Houthis: What that means",
+              "url": "https://www.aljazeera.com/news/2026/10/6/pakistan-turkiye-join-saudi-deterrence-against-houthis-what-that-means",
+              "date": "2026-10-06T12:22:46.000Z"
             }
           ]
         },
@@ -248,6 +276,12 @@
               "headline": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
               "url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o",
               "date": "2026-10-05T15:17:23.000Z"
+            },
+            {
+              "source": "bbc",
+              "headline": "Ship sinks and crew missing after Black Sea drone attack",
+              "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo",
+              "date": "2026-10-06T11:53:21.000Z"
             }
           ]
         },
@@ -444,6 +478,40 @@
       "name": "Policy & Governance",
       "items": [
         {
+          "id": "s185yeqj",
+          "headline": "Indian opposition MPs detained in protest against election chief",
+          "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o",
+          "source": "bbc",
+          "date": "2026-10-06T10:05:22.000Z",
+          "relevance": "medium",
+          "why": "Opposition MPs were detained in India over allegations that the chief election commissioner manipulated voter rolls, a domestic political and institutional dispute.",
+          "implications": [
+            "Disputes over voter-roll integrity could deepen political confrontation and disrupt parliamentary business in India.",
+            "Allegations against the election chief may erode public trust in electoral institutions.",
+            "Further protests and detentions are likely if the opposition's demands go unmet."
+          ],
+          "reports": [
+            {
+              "source": "bbc",
+              "headline": "Indian opposition MPs detained in protest against election chief",
+              "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o",
+              "date": "2026-10-06T10:05:22.000Z"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "India opposition leaders briefly arrested in protest against election chief",
+              "url": "https://www.aljazeera.com/news/2026/10/6/india-opposition-leaders-briefly-arrested-in-protest-against-election-chief",
+              "date": "2026-10-06T11:16:48.000Z"
+            },
+            {
+              "source": "npr",
+              "headline": "What to know about nationwide protests in India over voter list changes",
+              "url": "https://www.npr.org/2026/10/06/g-s1-146636/what-to-know-about-nationwide-protests-in-india-over-voter-list-changes",
+              "date": "2026-10-06T11:44:06.000Z"
+            }
+          ]
+        },
+        {
           "id": "s59a90g",
           "headline": "From competing for food to a gold medal: the stories behind India’s Asian Games winners",
           "url": "https://www.theguardian.com/world/2026/oct/05/this-is-india-asian-games-winners-success",
@@ -563,21 +631,21 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 24,
-    "added": 1,
-    "merged": 0,
-    "rejected": 23,
+    "analysed": 84,
+    "added": 2,
+    "merged": 4,
+    "rejected": 78,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 155
+        "items": 160
       },
       "guardian": {
         "feedsOk": 7,
         "feedsFailed": 0,
-        "items": 196
+        "items": 202
       },
       "npr": {
         "feedsOk": 4,
@@ -587,7 +655,7 @@
       "aljazeera": {
         "feedsOk": 1,
         "feedsFailed": 0,
-        "items": 12
+        "items": 18
       },
       "mercopress": {
         "feedsOk": 3,

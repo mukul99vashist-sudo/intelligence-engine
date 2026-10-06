@@ -2,12 +2,55 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-06T07:28:13.739Z",
+  "updatedAt": "2026-10-06T13:42:20.116Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "s3n9hxu",
+          "headline": "Anti-dam protests: Withdraw forces from Siang belt, demands Arunachal youth body",
+          "url": "https://www.thehindu.com/news/national/arunachal-pradesh/anti-dam-protests-withdraw-forces-from-siang-belt-demands-arunachal-youth-body/article71551362.ece",
+          "source": "thehindu",
+          "date": "2026-10-06T12:57:55.000Z",
+          "relevance": "medium",
+          "why": "Protests and clashes over the proposed 11,000 MW Siang hydropower project could affect the timing of a major national hydropower and infrastructure plan.",
+          "implications": [
+            "Continued unrest may delay the project, pushing back the large hydropower capacity it is meant to add.",
+            "Security deployments and local opposition could make land and clearance decisions harder for similar large dams."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Anti-dam protests: Withdraw forces from Siang belt, demands Arunachal youth body",
+              "url": "https://www.thehindu.com/news/national/arunachal-pradesh/anti-dam-protests-withdraw-forces-from-siang-belt-demands-arunachal-youth-body/article71551362.ece",
+              "date": "2026-10-06T12:57:55.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sc90y8g",
+          "headline": "Iran war: Shell sees Middle East oil flows at 80% as Saudi Aramco warns inventories may take 2 years to rebuild",
+          "url": "https://www.livemint.com/economy/iran-war-shell-sees-middle-east-oil-flows-at-80-per-cent-as-saudi-aramco-warns-inventories-may-take-2-years-to-rebuild-11791286140675.html",
+          "source": "mint",
+          "date": "2026-10-06T12:14:05.000Z",
+          "relevance": "medium",
+          "why": "Middle East oil flows recovering to about 80% of pre-conflict levels bears on India's import supply and fuel price outlook.",
+          "implications": [
+            "Partial recovery of Gulf supply may ease pressure on crude import costs over coming weeks.",
+            "Fuel price hikes could moderate if flows keep improving, though inventories may take long to rebuild.",
+            "Inflation risks from energy costs may stay elevated until supplies normalise."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Iran war: Shell sees Middle East oil flows at 80% as Saudi Aramco warns inventories may take 2 years to rebuild",
+              "url": "https://www.livemint.com/economy/iran-war-shell-sees-middle-east-oil-flows-at-80-per-cent-as-saudi-aramco-warns-inventories-may-take-2-years-to-rebuild-11791286140675.html",
+              "date": "2026-10-06T12:14:05.000Z"
+            }
+          ]
+        },
         {
           "id": "s1gk5jcm",
           "headline": "Ecuador in talks with India for sale of crude oil, critical minerals, copper: ambassador Buchelli",
@@ -258,6 +301,55 @@
       "name": "Logistics & Shipping",
       "items": [
         {
+          "id": "s1su96hr",
+          "headline": "11 Indian crew injured after ship hit by projectile in Strait of Hormuz; India condemns attack",
+          "url": "https://www.thehindu.com/news/national/indian-crew-attacked-in-mt-on-peace-vessel-attack-strait-of-hormuz/article71551158.ece",
+          "source": "thehindu",
+          "date": "2026-10-06T11:23:32.000Z",
+          "relevance": "medium",
+          "why": "An attack on a vessel in the Strait of Hormuz, with Indian crew injured, highlights risk to a key shipping route for India.",
+          "implications": [
+            "Shipping and insurance costs on Gulf routes could rise, adding to import costs.",
+            "Indian seafarers on Gulf routes may face greater safety risks and disruption."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "11 Indian crew injured after ship hit by projectile in Strait of Hormuz; India condemns attack",
+              "url": "https://www.thehindu.com/news/national/indian-crew-attacked-in-mt-on-peace-vessel-attack-strait-of-hormuz/article71551158.ece",
+              "date": "2026-10-06T11:23:32.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "‘Targeting of commercial shipping must end’: India condemns latest attack on vessels",
+              "url": "https://www.thehindu.com/news/national/targeting-of-commercial-shipping-must-end-india-condemns-latest-attack-on-vessels/article71551531.ece",
+              "date": "2026-10-06T13:32:21.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sb3lbi4",
+          "headline": "Centre revisits ATF price stabilisation fund amid rising costs",
+          "url": "https://www.livemint.com/industry/atf-price-stabilisation-fund-airlines-india-11791268222479.html",
+          "source": "mint",
+          "date": "2026-10-06T08:25:20.000Z",
+          "relevance": "medium",
+          "why": "A revived ATF price stabilisation mechanism could affect airline costs and fares across the aviation sector amid rising fuel costs.",
+          "implications": [
+            "Airfares may stay more stable if fuel price swings are smoothed out.",
+            "Airlines facing cost pressure could get some relief on operating costs.",
+            "Final design of the fund is uncertain and could take time."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Centre revisits ATF price stabilisation fund amid rising costs",
+              "url": "https://www.livemint.com/industry/atf-price-stabilisation-fund-airlines-india-11791268222479.html",
+              "date": "2026-10-06T08:25:20.000Z"
+            }
+          ]
+        },
+        {
           "id": "s1myyjke",
           "headline": "First international cargo vessel leaves eastern Assam since 1947",
           "url": "https://www.thehindu.com/news/national/assam/first-international-cargo-vessel-leaves-eastern-assam-since-1947/article71547112.ece",
@@ -397,6 +489,185 @@
       "name": "Economy & Trade",
       "items": [
         {
+          "id": "s880gcz",
+          "headline": "World Bank raises India FY27 growth forecast to 7.1% from 6.6% on stronger-than-expected activity",
+          "url": "https://www.livemint.com/economy/world-bank-raises-india-fy27-growth-forecast-to-7-1-from-6-6-on-stronger-than-expected-activity-11791270536568.html",
+          "source": "mint",
+          "date": "2026-10-06T07:17:42.000Z",
+          "relevance": "medium",
+          "why": "A higher World Bank growth forecast signals stronger-than-expected demand and exports, though the bank warns global risks remain elevated.",
+          "implications": [
+            "Stronger domestic demand could support hiring and incomes across sectors in the coming year.",
+            "Firms may plan expansion more confidently, though elevated global risks could still limit investment decisions."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "World Bank raises India FY27 growth forecast to 7.1% from 6.6% on stronger-than-expected activity",
+              "url": "https://www.livemint.com/economy/world-bank-raises-india-fy27-growth-forecast-to-7-1-from-6-6-on-stronger-than-expected-activity-11791270536568.html",
+              "date": "2026-10-06T07:17:42.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "World Bank raises India FY27 growth forecast to 7.1% on resilient demand, exports",
+              "url": "https://www.livemint.com/economy/world-bank-raises-india-fy27-growth-forecast-to-7-1-on-resilient-demand-exports-11791288081027.html",
+              "date": "2026-10-06T13:29:20.000Z"
+            }
+          ]
+        },
+        {
+          "id": "szovftg",
+          "headline": "Govt plans to expand services index to cover 80% of sector output",
+          "url": "https://www.livemint.com/economy/govt-services-index-expand-80-sector-output-11791288455058.html",
+          "source": "mint",
+          "date": "2026-10-06T13:19:03.000Z",
+          "relevance": "medium",
+          "why": "A wider services index would give India a more complete, timely read on the sector that dominates its economic output.",
+          "implications": [
+            "Policymakers and the RBI may get a fuller view of services activity when setting policy.",
+            "Including education, healthcare and defence could make monthly growth readings more representative.",
+            "Businesses and analysts may find it easier to track demand and jobs in services."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Govt plans to expand services index to cover 80% of sector output",
+              "url": "https://www.livemint.com/economy/govt-services-index-expand-80-sector-output-11791288455058.html",
+              "date": "2026-10-06T13:19:03.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s12pay30",
+          "headline": "Union Cabinet to take up ₹10,000 crore SME Growth Fund, centralised infra authority",
+          "url": "https://www.thehindu.com/business/Economy/union-cabinet-to-take-up-10000-crore-sme-growth-fund-centralised-infra-authority/article71550009.ece",
+          "source": "thehindu",
+          "date": "2026-10-06T05:03:39.000Z",
+          "relevance": "high",
+          "why": "A ₹10,000 crore SME Growth Fund and a centralised infrastructure authority, if approved, could reshape how small firms and infrastructure projects are financed nationally.",
+          "implications": [
+            "Small and medium enterprises may gain access to direct equity funding, which could support expansion and hiring.",
+            "A centralised infrastructure authority could streamline project planning and approvals, though details are yet to be seen.",
+            "Both proposals still need Cabinet approval, so their scope and timing may change."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Union Cabinet to take up ₹10,000 crore SME Growth Fund, centralised infra authority",
+              "url": "https://www.thehindu.com/business/Economy/union-cabinet-to-take-up-10000-crore-sme-growth-fund-centralised-infra-authority/article71550009.ece",
+              "date": "2026-10-06T05:03:39.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Cabinet approves proposal to set up Integrated Transport and Logistics Authority",
+              "url": "https://www.thehindu.com/news/national/cabinet-approves-proposal-to-set-up-integrated-transport-and-logistics-authority/article71551117.ece",
+              "date": "2026-10-06T12:01:45.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Union Cabinet approves ₹10,000-cr SME growth fund to boost manufacturing",
+              "url": "https://www.thehindu.com/business/Economy/union-cabinet-approves-10000-cr-sme-growth-fund-to-boost-manufacturing/article71551392.ece",
+              "date": "2026-10-06T12:17:27.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Cabinet okays integrated transport planning authority, ₹10,000-crore SME fund",
+              "url": "https://www.livemint.com/news/india/cabinet-okays-integrated-transport-planning-authority-10-000-crore-sme-fund-11791285220408.html",
+              "date": "2026-10-06T12:46:15.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sdancio",
+          "headline": "Centre to propose five-pronged reform plan at GST Council meeting on October 8",
+          "url": "https://www.thehindu.com/business/centre-to-propose-five-pronged-reform-plan-at-gst-council-meeting-on-october-8/article71551328.ece",
+          "source": "thehindu",
+          "date": "2026-10-06T12:42:22.000Z",
+          "relevance": "high",
+          "why": "A five-pronged GST reform proposal could change tax compliance and business conditions across the country.",
+          "implications": [
+            "Process and structural reforms may reduce compliance burdens for businesses, especially smaller firms.",
+            "Changes for services exports and e-commerce could affect how online sellers and exporters are taxed.",
+            "Outcomes remain uncertain until the GST Council decides on the proposals."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Centre to propose five-pronged reform plan at GST Council meeting on October 8",
+              "url": "https://www.thehindu.com/business/centre-to-propose-five-pronged-reform-plan-at-gst-council-meeting-on-october-8/article71551328.ece",
+              "date": "2026-10-06T12:42:22.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s935ivj",
+          "headline": "Rupee trades in narrow range against U.S. dollar in early trade",
+          "url": "https://www.thehindu.com/business/rupee-trades-in-narrow-range-against-us-dollar-in-early-trade/article71545911.ece",
+          "source": "thehindu",
+          "date": "2026-10-05T05:25:15.000Z",
+          "relevance": "high",
+          "why": "A rupee near 96 per dollar, pressured by crude prices and fund outflows, raises India's import bill and inflation risks ahead of the RBI decision.",
+          "implications": [
+            "Imported fuel, electronics and other goods may become costlier for households and businesses.",
+            "Firms with foreign-currency debt or imported inputs could face higher costs.",
+            "The RBI's rate decision may affect loan EMIs and borrowing costs."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Rupee trades in narrow range against U.S. dollar in early trade",
+              "url": "https://www.thehindu.com/business/rupee-trades-in-narrow-range-against-us-dollar-in-early-trade/article71545911.ece",
+              "date": "2026-10-05T05:25:15.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Rupee falls 5 paise to close at 96.30 against U.S. dollar",
+              "url": "https://www.thehindu.com/business/markets/rupee-falls-5-paise-to-close-at-9630-against-us-dollar/article71546875.ece",
+              "date": "2026-10-05T11:18:14.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Rupee slips 4 paise to 96.39 against U.S. dollar in early trade",
+              "url": "https://www.thehindu.com/business/rupee-slips-4-paise-to-9639-against-us-dollar-in-early-trade/article71550012.ece",
+              "date": "2026-10-06T05:24:48.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Rupee falls 8 paise to close at 96.43 against U.S. dollar",
+              "url": "https://www.thehindu.com/business/markets/rupee-falls-8-paise-to-close-at-9643-against-us-dollar/article71551166.ece",
+              "date": "2026-10-06T11:14:06.000Z"
+            }
+          ]
+        },
+        {
+          "id": "syq0rhi",
+          "headline": "India’s services sector growth hits three-month high: PMI survey",
+          "url": "https://www.livemint.com/economy/india-services-economy-pmi-survey-business-consumer-services-11791265040418.html",
+          "source": "mint",
+          "date": "2026-10-06T06:29:54.000Z",
+          "relevance": "medium",
+          "why": "Services growth reaching a three-month high suggests the largest part of the economy is gaining momentum on stronger demand.",
+          "implications": [
+            "Rising sales across services may support hiring in travel, software, transport and financial services.",
+            "Firmer demand for loans and insurance could mean steady credit and household financial activity.",
+            "Stronger services activity may help offset weakness in industrial output in overall growth."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "India’s services sector growth hits three-month high: PMI survey",
+              "url": "https://www.livemint.com/economy/india-services-economy-pmi-survey-business-consumer-services-11791265040418.html",
+              "date": "2026-10-06T06:29:54.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "India’s services sector growth touches three-month high in September on strong domestic demand: PMI",
+              "url": "https://www.thehindu.com/business/indias-services-sector-growth-touches-three-month-high-in-september-on-strong-domestic-demand-pmi/article71550628.ece",
+              "date": "2026-10-06T09:29:15.000Z"
+            }
+          ]
+        },
+        {
           "id": "sjush0y",
           "headline": "RBI likely to raise repo rate in October 2026 as West Asia crisis fuels inflation risks",
           "url": "https://www.livemint.com/economy/rbi-likely-to-raise-repo-rate-in-october-2026-as-west-asia-crisis-fuels-inflation-risks-11791121335600.html",
@@ -439,105 +710,6 @@
               "headline": "Mint Explainer | Why the RBI looks set to hike rates",
               "url": "https://www.livemint.com/economy/rbi-repo-rate-hike-mpc-october-2026-11791267893186.html",
               "date": "2026-10-06T07:21:32.000Z"
-            }
-          ]
-        },
-        {
-          "id": "s880gcz",
-          "headline": "World Bank raises India FY27 growth forecast to 7.1% from 6.6% on stronger-than-expected activity",
-          "url": "https://www.livemint.com/economy/world-bank-raises-india-fy27-growth-forecast-to-7-1-from-6-6-on-stronger-than-expected-activity-11791270536568.html",
-          "source": "mint",
-          "date": "2026-10-06T07:17:42.000Z",
-          "relevance": "medium",
-          "why": "A higher World Bank growth forecast signals stronger-than-expected demand and exports, though the bank warns global risks remain elevated.",
-          "implications": [
-            "Stronger domestic demand could support hiring and incomes across sectors in the coming year.",
-            "Firms may plan expansion more confidently, though elevated global risks could still limit investment decisions."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "World Bank raises India FY27 growth forecast to 7.1% from 6.6% on stronger-than-expected activity",
-              "url": "https://www.livemint.com/economy/world-bank-raises-india-fy27-growth-forecast-to-7-1-from-6-6-on-stronger-than-expected-activity-11791270536568.html",
-              "date": "2026-10-06T07:17:42.000Z"
-            }
-          ]
-        },
-        {
-          "id": "syq0rhi",
-          "headline": "India’s services sector growth hits three-month high: PMI survey",
-          "url": "https://www.livemint.com/economy/india-services-economy-pmi-survey-business-consumer-services-11791265040418.html",
-          "source": "mint",
-          "date": "2026-10-06T06:29:54.000Z",
-          "relevance": "medium",
-          "why": "Services growth reaching a three-month high suggests the largest part of the economy is gaining momentum on stronger demand.",
-          "implications": [
-            "Rising sales across services may support hiring in travel, software, transport and financial services.",
-            "Firmer demand for loans and insurance could mean steady credit and household financial activity.",
-            "Stronger services activity may help offset weakness in industrial output in overall growth."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "India’s services sector growth hits three-month high: PMI survey",
-              "url": "https://www.livemint.com/economy/india-services-economy-pmi-survey-business-consumer-services-11791265040418.html",
-              "date": "2026-10-06T06:29:54.000Z"
-            }
-          ]
-        },
-        {
-          "id": "s935ivj",
-          "headline": "Rupee trades in narrow range against U.S. dollar in early trade",
-          "url": "https://www.thehindu.com/business/rupee-trades-in-narrow-range-against-us-dollar-in-early-trade/article71545911.ece",
-          "source": "thehindu",
-          "date": "2026-10-05T05:25:15.000Z",
-          "relevance": "high",
-          "why": "A rupee near 96 per dollar, pressured by crude prices and fund outflows, raises India's import bill and inflation risks ahead of the RBI decision.",
-          "implications": [
-            "Imported fuel, electronics and other goods may become costlier for households and businesses.",
-            "Firms with foreign-currency debt or imported inputs could face higher costs.",
-            "The RBI's rate decision may affect loan EMIs and borrowing costs."
-          ],
-          "reports": [
-            {
-              "source": "thehindu",
-              "headline": "Rupee trades in narrow range against U.S. dollar in early trade",
-              "url": "https://www.thehindu.com/business/rupee-trades-in-narrow-range-against-us-dollar-in-early-trade/article71545911.ece",
-              "date": "2026-10-05T05:25:15.000Z"
-            },
-            {
-              "source": "thehindu",
-              "headline": "Rupee falls 5 paise to close at 96.30 against U.S. dollar",
-              "url": "https://www.thehindu.com/business/markets/rupee-falls-5-paise-to-close-at-9630-against-us-dollar/article71546875.ece",
-              "date": "2026-10-05T11:18:14.000Z"
-            },
-            {
-              "source": "thehindu",
-              "headline": "Rupee slips 4 paise to 96.39 against U.S. dollar in early trade",
-              "url": "https://www.thehindu.com/business/rupee-slips-4-paise-to-9639-against-us-dollar-in-early-trade/article71550012.ece",
-              "date": "2026-10-06T05:24:48.000Z"
-            }
-          ]
-        },
-        {
-          "id": "s12pay30",
-          "headline": "Union Cabinet to take up ₹10,000 crore SME Growth Fund, centralised infra authority",
-          "url": "https://www.thehindu.com/business/Economy/union-cabinet-to-take-up-10000-crore-sme-growth-fund-centralised-infra-authority/article71550009.ece",
-          "source": "thehindu",
-          "date": "2026-10-06T05:03:39.000Z",
-          "relevance": "medium",
-          "why": "A ₹10,000 crore SME Growth Fund and a centralised infrastructure authority, if approved, could reshape how small firms and infrastructure projects are financed nationally.",
-          "implications": [
-            "Small and medium enterprises may gain access to direct equity funding, which could support expansion and hiring.",
-            "A centralised infrastructure authority could streamline project planning and approvals, though details are yet to be seen.",
-            "Both proposals still need Cabinet approval, so their scope and timing may change."
-          ],
-          "reports": [
-            {
-              "source": "thehindu",
-              "headline": "Union Cabinet to take up ₹10,000 crore SME Growth Fund, centralised infra authority",
-              "url": "https://www.thehindu.com/business/Economy/union-cabinet-to-take-up-10000-crore-sme-growth-fund-centralised-infra-authority/article71550009.ece",
-              "date": "2026-10-06T05:03:39.000Z"
             }
           ]
         },
@@ -879,6 +1051,33 @@
       "name": "Technology",
       "items": [
         {
+          "id": "syst6ip",
+          "headline": "India among top 10 emerging markets in AI readiness; private AI investment triples: World Bank",
+          "url": "https://www.livemint.com/technology/india-among-top-10-emerging-markets-in-ai-readiness-private-ai-investment-triples-world-bank-11791283557375.html",
+          "source": "mint",
+          "date": "2026-10-06T10:45:56.000Z",
+          "relevance": "medium",
+          "why": "A World Bank assessment of India's AI readiness and rising private AI investment shapes how the country builds its AI capacity.",
+          "implications": [
+            "Rising private AI investment could create more AI-related jobs and skilling demand over the coming years.",
+            "Stronger readiness may speed adoption of AI tools in public services and businesses."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "India among top 10 emerging markets in AI readiness; private AI investment triples: World Bank",
+              "url": "https://www.livemint.com/technology/india-among-top-10-emerging-markets-in-ai-readiness-private-ai-investment-triples-world-bank-11791283557375.html",
+              "date": "2026-10-06T10:45:56.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "World Bank says India should scale small AI applications instead of betting heavily on frontier models",
+              "url": "https://www.livemint.com/technology/world-bank-says-india-should-scale-small-ai-applications-instead-of-betting-heavily-on-frontier-models-11791283874808.html",
+              "date": "2026-10-06T10:51:14.000Z"
+            }
+          ]
+        },
+        {
           "id": "s10310hy",
           "headline": "Is era of affordable smartphones ending? HMD India CEO warns prices may stay high till 2027",
           "url": "https://www.livemint.com/technology/is-era-of-affordable-smartphones-ending-hmd-india-ceo-warns-prices-may-stay-high-till-2027-11791268377725.html",
@@ -1063,6 +1262,28 @@
       "name": "Manufacturing",
       "items": [
         {
+          "id": "sqhnzu3",
+          "headline": "Kasturi Cotton gains traction as India puts traceability on the textile map",
+          "url": "https://www.thehindu.com/business/kasturi-cotton-gains-traction-as-india-puts-traceability-on-the-textile-map/article71551334.ece",
+          "source": "thehindu",
+          "date": "2026-10-06T13:39:10.000Z",
+          "relevance": "medium",
+          "why": "Blockchain-based traceability for Kasturi Cotton could help India's textile industry meet buyer transparency demands in the U.S. and Europe, which matters for the sector's export competitiveness.",
+          "implications": [
+            "Textile exporters with certified supply chains may find it easier to meet U.S. and European buyer requirements.",
+            "Cotton growers and ginners could be asked to adopt tracking and documentation, which may add compliance effort.",
+            "Certified Indian cotton may gain a stronger position with international buyers over time."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Kasturi Cotton gains traction as India puts traceability on the textile map",
+              "url": "https://www.thehindu.com/business/kasturi-cotton-gains-traction-as-india-puts-traceability-on-the-textile-map/article71551334.ece",
+              "date": "2026-10-06T13:39:10.000Z"
+            }
+          ]
+        },
+        {
           "id": "sftf1gm",
           "headline": "‘Best ever September’: Auto retail sales surge 32% year-on-year",
           "url": "https://www.thehindu.com/business/Industry/best-ever-september-auto-retail-sales-surge-32-year-on-year/article71550095.ece",
@@ -1081,6 +1302,12 @@
               "headline": "‘Best ever September’: Auto retail sales surge 32% year-on-year",
               "url": "https://www.thehindu.com/business/Industry/best-ever-september-auto-retail-sales-surge-32-year-on-year/article71550095.ece",
               "date": "2026-10-06T05:55:45.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Dealers flag price hikes as risk to GST-led sales boom",
+              "url": "https://www.livemint.com/industry/dealers-car-price-hikes-gst-cuts-festive-season-11791265195880.html",
+              "date": "2026-10-06T07:32:17.000Z"
             }
           ]
         },
@@ -1195,6 +1422,27 @@
       "name": "Agriculture & Food",
       "items": [
         {
+          "id": "sjw6lux",
+          "headline": "Monster, PepsiCo, Campa get Delhi HC relief against FSSAI ‘energy drink’ label ban",
+          "url": "https://www.livemint.com/industry/retail/monster-pepsico-campa-get-delhi-hc-relief-against-fssai-energy-drink-label-ban-11791286344573.html",
+          "source": "mint",
+          "date": "2026-10-06T13:08:57.000Z",
+          "relevance": "medium",
+          "why": "A court's interim relief on FSSAI's bar on the 'energy drink' label bears on how the food regulator can control labelling across the beverage category.",
+          "implications": [
+            "Caffeinated beverages may stay on shelves with the 'energy drink' label while the case continues.",
+            "The outcome could shape how far FSSAI can restrict product labels, affecting what consumers are told about caffeinated drinks."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Monster, PepsiCo, Campa get Delhi HC relief against FSSAI ‘energy drink’ label ban",
+              "url": "https://www.livemint.com/industry/retail/monster-pepsico-campa-get-delhi-hc-relief-against-fssai-energy-drink-label-ban-11791286344573.html",
+              "date": "2026-10-06T13:08:57.000Z"
+            }
+          ]
+        },
+        {
           "id": "s142sfes",
           "headline": "FSSAI steps up action against brands over unsafe products, misleading claims: Do consumers need simpler food labels?",
           "url": "https://www.livemint.com/industry/retail/fssai-steps-up-action-against-brands-over-unsafe-products-misleading-claims-do-consumers-need-simpler-food-labels-11791255727134.html",
@@ -1268,6 +1516,12 @@
               "headline": "Centre elevates three Chief Justices to Supreme Court",
               "url": "https://www.thehindu.com/news/national/centre-elevates-three-chief-justices-to-supreme-court/article71548242.ece",
               "date": "2026-10-06T03:28:39.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "CJI Surya Kant administers oath to three new judges, judges count now 37 in Supreme Court",
+              "url": "https://www.thehindu.com/news/national/cji-surya-kant-administers-oath-to-three-new-judges-judges-count-now-37-in-supreme-court/article71551291.ece",
+              "date": "2026-10-06T12:06:17.000Z"
             }
           ]
         },
@@ -1497,16 +1751,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 35,
-    "added": 5,
-    "merged": 1,
-    "rejected": 29,
+    "analysed": 92,
+    "added": 9,
+    "merged": 10,
+    "rejected": 73,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 343
+        "items": 340
       },
       "mint": {
         "feedsOk": 6,
