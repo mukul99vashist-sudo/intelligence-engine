@@ -2,12 +2,40 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-06T13:41:03.261Z",
+  "updatedAt": "2026-10-06T14:25:40.331Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "scj21pm",
+          "headline": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
+          "url": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows",
+          "source": "aljazeera",
+          "date": "2026-10-05T05:20:57.000Z",
+          "relevance": "high",
+          "why": "Rising Gulf oil exports and the Hormuz route status bear directly on India's crude import supply and prices.",
+          "implications": [
+            "Recovering Middle East exports may ease crude supply for India, which imports most of its oil.",
+            "Continued Hormuz tensions could still keep freight and insurance costs elevated for Indian importers.",
+            "Steadier flows may limit pressure on fuel prices and India's import bill."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
+              "url": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows",
+              "date": "2026-10-05T05:20:57.000Z"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Hormuz ship attacks surge: Are increased oil exports sustainable?",
+              "url": "https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable",
+              "date": "2026-10-06T14:15:09.000Z"
+            }
+          ]
+        },
         {
           "id": "sctwrbx",
           "headline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
@@ -97,28 +125,6 @@
               "headline": "Is Iran charging a toll to allow oil traffic through Hormuz?",
               "url": "https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz",
               "date": "2026-10-05T13:11:42.000Z"
-            }
-          ]
-        },
-        {
-          "id": "scj21pm",
-          "headline": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
-          "url": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows",
-          "source": "aljazeera",
-          "date": "2026-10-05T05:20:57.000Z",
-          "relevance": "high",
-          "why": "Rising Gulf oil exports and the Hormuz route status bear directly on India's crude import supply and prices.",
-          "implications": [
-            "Recovering Middle East exports may ease crude supply for India, which imports most of its oil.",
-            "Continued Hormuz tensions could still keep freight and insurance costs elevated for Indian importers.",
-            "Steadier flows may limit pressure on fuel prices and India's import bill."
-          ],
-          "reports": [
-            {
-              "source": "aljazeera",
-              "headline": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
-              "url": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows",
-              "date": "2026-10-05T05:20:57.000Z"
             }
           ]
         },
@@ -343,6 +349,27 @@
       "name": "Economy & Trade",
       "items": [
         {
+          "id": "s75qgnw",
+          "headline": "Coalition’s migration plan risks breaching India free trade agreement and damaging economy, advocates warn",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/07/coalition-migration-policy-reaction-universities-students-economy-india-ntwnfb",
+          "source": "guardian",
+          "date": "2026-10-06T14:00:16.000Z",
+          "relevance": "medium",
+          "why": "An Australian opposition migration plan could clash with the India trade deal's post-study work provisions for Indian students.",
+          "implications": [
+            "Indian students may find Australia less attractive if post-study work rights are cut.",
+            "Australia's commitments under the India trade agreement could come under scrutiny and strain ties."
+          ],
+          "reports": [
+            {
+              "source": "guardian",
+              "headline": "Coalition’s migration plan risks breaching India free trade agreement and damaging economy, advocates warn",
+              "url": "https://www.theguardian.com/australia-news/2026/oct/07/coalition-migration-policy-reaction-universities-students-economy-india-ntwnfb",
+              "date": "2026-10-06T14:00:16.000Z"
+            }
+          ]
+        },
+        {
           "id": "s1c0c575",
           "headline": "Five reasons India's stock market is sinking even when its economy is growing",
           "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo",
@@ -508,6 +535,12 @@
               "headline": "What to know about nationwide protests in India over voter list changes",
               "url": "https://www.npr.org/2026/10/06/g-s1-146636/what-to-know-about-nationwide-protests-in-india-over-voter-list-changes",
               "date": "2026-10-06T11:44:06.000Z"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "‘Cockroach stir stripped Modi’s carefully confected image’: Arundhati Roy",
+              "url": "https://www.aljazeera.com/news/2026/10/6/cockroach-stir-stripped-modis-carefully-confected-image-arundhati-roy",
+              "date": "2026-10-06T14:13:55.000Z"
             }
           ]
         },
@@ -631,10 +664,10 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 84,
-    "added": 2,
-    "merged": 4,
-    "rejected": 78,
+    "analysed": 9,
+    "added": 1,
+    "merged": 2,
+    "rejected": 6,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
@@ -645,7 +678,7 @@
       "guardian": {
         "feedsOk": 7,
         "feedsFailed": 0,
-        "items": 202
+        "items": 200
       },
       "npr": {
         "feedsOk": 4,

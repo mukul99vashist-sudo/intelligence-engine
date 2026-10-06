@@ -1,5 +1,53 @@
 [
   {
+    "source": "guardian",
+    "headline": "US citizen alleges immigration agent in Chicago shot her from behind",
+    "url": "https://www.theguardian.com/us-news/2026/oct/06/chicago-citizen-shot-by-immigration-agent-lawsuit",
+    "date": "2026-10-06T14:08:55.000Z",
+    "reason": "US domestic immigration enforcement lawsuit with no clear India link.",
+    "checkedAt": "2026-10-06T14:25:40.330Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "PM called on to act on communal grave revelations as NSW commits to urgent review",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/07/nsw-health-people-buried-unmarked-grave-minister-failings-families",
+    "date": "2026-10-06T14:00:17.000Z",
+    "reason": "Australian domestic burial practices story with no India link.",
+    "checkedAt": "2026-10-06T14:25:40.330Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "Norwegian princess Märtha Louise and husband sue ex-friends for ‘betrayal of trust’",
+    "url": "https://www.theguardian.com/us-news/2026/oct/06/norway-princess-martha-louise-husband-durek-verrett-lawsuit-defamation-los-angeles",
+    "date": "2026-10-06T13:59:17.000Z",
+    "reason": "Royal family defamation lawsuit with no India link.",
+    "checkedAt": "2026-10-06T14:25:40.330Z"
+  },
+  {
+    "source": "aljazeera",
+    "headline": "UK police arrest British national linked to airbase incident",
+    "url": "https://www.aljazeera.com/news/2026/10/6/uk-police-arrest-british-national-linked-to-airbase-incident",
+    "date": "2026-10-06T13:44:19.000Z",
+    "reason": "UK domestic security arrest with no clear path to India.",
+    "checkedAt": "2026-10-06T14:25:40.330Z"
+  },
+  {
+    "source": "bbc",
+    "headline": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+    "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o",
+    "date": "2026-10-06T13:36:46.000Z",
+    "reason": "US domestic legal case with no path to India.",
+    "checkedAt": "2026-10-06T14:25:40.330Z"
+  },
+  {
+    "source": "bbc",
+    "headline": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
+    "url": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo",
+    "date": "2026-10-06T13:31:56.000Z",
+    "reason": "US televangelist obituary with no link to India.",
+    "checkedAt": "2026-10-06T14:25:40.330Z"
+  },
+  {
     "source": "bbc",
     "headline": "Paramount takes over Warner Bros in $110bn Hollywood merger",
     "url": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo",
@@ -1150,53 +1198,5 @@
     "date": "2026-10-06T00:13:16.000Z",
     "reason": "Morocco's domestic surveillance allegations; no stated trade, energy or policy link to India.",
     "checkedAt": "2026-10-06T00:56:14.307Z"
-  },
-  {
-    "source": "aljazeera",
-    "headline": "Police clash with Kosovo protesters over bid to curb Hague war crimes court",
-    "url": "https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court",
-    "date": "2026-10-06T00:10:27.000Z",
-    "reason": "Kosovo domestic political dispute over a war crimes court; no clear path to India.",
-    "checkedAt": "2026-10-06T00:56:14.307Z"
-  },
-  {
-    "source": "aljazeera",
-    "headline": "Trump officials pursue record number of cases to strip US citizenship",
-    "url": "https://www.aljazeera.com/news/2026/10/6/trump-officials-pursue-record-number-of-cases-to-strip-us-citizenship",
-    "date": "2026-10-06T00:02:23.000Z",
-    "reason": "US domestic immigration and citizenship policy; no stated trade, energy or foreign-policy link to India.",
-    "checkedAt": "2026-10-06T00:56:14.307Z"
-  },
-  {
-    "source": "aljazeera",
-    "headline": "New York state declares measles disaster amid resurgence of disease in US",
-    "url": "https://www.aljazeera.com/news/2026/10/6/new-york-state-declares-measles-disaster-amid-resurgence-of-disease-in-us",
-    "date": "2026-10-06T00:00:36.000Z",
-    "reason": "New York state public health emergency with no India link.",
-    "checkedAt": "2026-10-06T00:56:11.618Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "Oil from South Korea being shipped to Russia as Ukraine war grinds on",
-    "url": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war",
-    "date": "2026-10-05T23:50:12.000Z",
-    "reason": "Focuses on South Korea-Russia fuel shipments; no clear stated path to India.",
-    "checkedAt": "2026-10-06T00:56:11.618Z"
-  },
-  {
-    "source": "abc",
-    "headline": "Jaymie Graham named new North Melbourne AFL coach",
-    "url": "https://www.abc.net.au/news/2026-10-06/jaymie-graham-named-new-north-melbourne-afl-coach/107232272",
-    "date": "2026-10-05T23:41:09.000Z",
-    "reason": "Australian sports coaching appointment.",
-    "checkedAt": "2026-10-06T00:56:11.618Z"
-  },
-  {
-    "source": "abc",
-    "headline": "Nurse used 'unreasonable' force against aged care resident, tribunal rules",
-    "url": "https://www.abc.net.au/news/2026-10-06/aged-care-nurse-su-jin-han-banned-for-force-against-resident/107230486",
-    "date": "2026-10-05T23:29:43.000Z",
-    "reason": "Australian aged care tribunal ruling with no India link.",
-    "checkedAt": "2026-10-06T00:56:11.618Z"
   }
 ]
