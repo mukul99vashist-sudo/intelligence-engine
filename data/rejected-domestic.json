@@ -1,5 +1,101 @@
 [
   {
+    "source": "thehindu",
+    "headline": "Karnataka Chief Minister leaves for Delhi ahead of GST Council meeting",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-leaves-for-delhi-ahead-of-gst-council-meeting/article71551971.ece",
+    "date": "2026-10-06T22:49:55.000Z",
+    "reason": "Chief Minister's travel to Delhi; political visit, no substantive policy content.",
+    "checkedAt": "2026-10-06T23:20:45.935Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Elon Musk Net Worth: How SpaceX and Tesla helped Musk become a trillionaire again after market rally",
+    "url": "https://www.livemint.com/news/us-news/elon-musk-net-worth-how-spacex-and-tesla-helped-musk-become-a-trillionaire-again-after-market-rally-11791320544773.html",
+    "date": "2026-10-06T21:59:30.000Z",
+    "reason": "Billionaire net worth and market commentary; not nationally significant.",
+    "checkedAt": "2026-10-06T23:20:45.935Z"
+  },
+  {
+    "source": "mint",
+    "headline": "First Atlantic Hurricane of 2026 Seen Threatening US Gulf Coast",
+    "url": "https://www.livemint.com/news/us-news/first-atlantic-hurricane-of-2026-seen-threatening-us-gulf-coast-11791323938963.html",
+    "date": "2026-10-06T21:58:58.000Z",
+    "reason": "US Gulf Coast hurricane; not an Indian development.",
+    "checkedAt": "2026-10-06T23:20:45.935Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "CJP’s Dipke chides Maharashtra Police over alleged notices to workers",
+    "url": "https://www.thehindu.com/news/national/cjp-activists-getting-police-notices-being-pressured-not-to-join-october-10-delhi-protest-abhijit-dipke/article71550853.ece",
+    "date": "2026-10-06T21:57:28.000Z",
+    "reason": "Police notices to protest workers; state-level political dispute.",
+    "checkedAt": "2026-10-06T23:20:45.935Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "NDA wins 34 of 42 Silchar Municipal Corporation seats",
+    "url": "https://www.thehindu.com/news/national/assam/nda-wins-34-of-42-silchar-municipal-corporation-seats/article71552428.ece",
+    "date": "2026-10-06T21:48:54.000Z",
+    "reason": "Municipal election result in one city; political and local.",
+    "checkedAt": "2026-10-06T23:20:45.935Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Passenger bus, running under recently launched M.P. govt service, gutted in fire; passengers evacuated safely",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/passenger-bus-running-under-recently-launched-mp-govt-service-gutted-in-fire-passengers-evacuated-safely/article71552814.ece",
+    "date": "2026-10-06T21:35:02.000Z",
+    "reason": "Single bus fire accident; no national significance.",
+    "checkedAt": "2026-10-06T23:20:45.935Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "About 76% voter turnout in Nagaon Lok Sabha bypoll",
+    "url": "https://www.thehindu.com/news/national/assam/about-76-voter-turnout-in-nagaon-lok-sabha-bypoll/article71552134.ece",
+    "date": "2026-10-06T21:32:17.000Z",
+    "reason": "Single bypoll turnout figure; constituency-level election story.",
+    "checkedAt": "2026-10-06T23:20:45.935Z"
+  },
+  {
+    "source": "mint",
+    "headline": "32%, 24%, 52%, 86%: Why these 4 numbers are bad news for Trump before the midterms",
+    "url": "https://www.livemint.com/news/us-news/32-24-52-86-why-these-4-numbers-are-bad-news-for-trump-before-the-midterms-11791319759284.html",
+    "date": "2026-10-06T21:19:55.000Z",
+    "reason": "US domestic politics and polling; not an Indian development.",
+    "checkedAt": "2026-10-06T23:20:45.935Z"
+  },
+  {
+    "source": "mint",
+    "headline": "What Paramount’s Warner Bros. takeover means for streaming, movies and news",
+    "url": "https://www.livemint.com/companies/what-paramount-s-warner-bros-takeover-means-for-streaming-movies-and-news-11791321076607.html",
+    "date": "2026-10-06T21:11:16.000Z",
+    "reason": "Foreign media company takeover; single-company deal without Indian sector impact.",
+    "checkedAt": "2026-10-06T23:20:45.935Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Did you receive $90 from Social Security? Who qualifies for Trump’s Medicare rebate and when it will arrive",
+    "url": "https://www.livemint.com/news/us-news/did-you-receive-90-from-social-security-who-qualifies-for-trump-s-medicare-rebate-and-when-it-will-arrive-11791317938777.html",
+    "date": "2026-10-06T21:01:49.000Z",
+    "reason": "US Medicare rebate story; not a development inside India.",
+    "checkedAt": "2026-10-06T23:20:45.935Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Fertiliser hoarding, black marketing to be curbed in rabi crop season in Rajasthan",
+    "url": "https://www.thehindu.com/news/national/rajasthan/fertiliser-hoarding-black-marketing-to-be-curbed-in-rabi-crop-season-in-rajasthan/article71552207.ece",
+    "date": "2026-10-06T20:11:15.000Z",
+    "reason": "State-level fertiliser supply measure in Rajasthan without clear national impact.",
+    "checkedAt": "2026-10-06T23:20:45.935Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Gajendra Singh Patel accuses Hemant Soren government of encouraging infiltration in Jharkhand",
+    "url": "https://www.thehindu.com/news/national/jharkhand/gajendra-singh-patel-accuses-hemant-soren-government-of-encouraging-infiltration-in-jharkhand/article71551510.ece",
+    "date": "2026-10-06T19:49:32.000Z",
+    "reason": "Party political sparring in a state; no national policy impact.",
+    "checkedAt": "2026-10-06T23:20:45.935Z"
+  },
+  {
     "source": "mint",
     "headline": "US House bill honours Indian pilot Smit Machchhar after his brave actions thwarted flydubai terror attack",
     "url": "https://www.livemint.com/news/us-news/us-house-bill-honours-indian-pilot-smit-machchhar-after-his-brave-actions-thwarted-flydubai-terror-attack-11791310648084.html",
@@ -1102,101 +1198,5 @@
     "date": "2026-10-06T13:20:45.000Z",
     "reason": "Local constituency development works with no national impact.",
     "checkedAt": "2026-10-06T13:42:15.976Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Mphasis extends Social Security Scotland deal in £35.4 million contract",
-    "url": "https://www.thehindu.com/business/Industry/mphasis-extends-social-security-scotland-deal-in-354-million-contract/article71551591.ece",
-    "date": "2026-10-06T13:15:51.000Z",
-    "reason": "Single-company overseas contract extension, not a sector-wide development.",
-    "checkedAt": "2026-10-06T13:42:15.976Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Paramount Skydance completes $110 billion Warner Bros Discovery deal: David Ellison takes control of new Hollywood giant",
-    "url": "https://www.livemint.com/companies/news/paramount-skydance-completes-110-billion-warner-bros-discovery-deal-david-ellison-takes-control-of-new-hollywood-giant-11791291245408.html",
-    "date": "2026-10-06T13:15:37.000Z",
-    "reason": "Foreign media deal with no direct India sector impact.",
-    "checkedAt": "2026-10-06T13:42:15.976Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Telangana ACB arrests Achampet treasury office senior accountant for taking ₹25,000 bribe",
-    "url": "https://www.thehindu.com/news/national/telangana/telangana-acb-arrests-achampet-treasury-office-senior-accountant-for-taking-25000-bribe/article71551096.ece",
-    "date": "2026-10-06T13:14:04.000Z",
-    "reason": "Individual bribery arrest at a state office, a crime story.",
-    "checkedAt": "2026-10-06T13:42:04.935Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "CM Chandrababu Naidu invited for Navaratri festivities at Srisailam",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/cm-chandrababu-naidu-invited-to-navaratri-festivities-at-srisailam/article71551336.ece",
-    "date": "2026-10-06T13:08:45.000Z",
-    "reason": "Local temple festival arrangements, religious and state-level.",
-    "checkedAt": "2026-10-06T13:42:04.935Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Omar Abdullah welcomes SC intervention in voter-list deletions",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/need-to-wait-and-see-how-far-supreme-court-rectifies-voter-deletions-omar-abdullah/article71551272.ece",
-    "date": "2026-10-06T13:06:32.000Z",
-    "reason": "Political statements by a state leader and opposition sparring.",
-    "checkedAt": "2026-10-06T13:42:04.935Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Three-day raw material expo takes off in Coimbatore",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/three-day-raw-material-expo-takes-off-in-coimbatore/article71550794.ece",
-    "date": "2026-10-06T13:06:24.000Z",
-    "reason": "Local trade expo in one city, no national significance.",
-    "checkedAt": "2026-10-06T13:42:04.935Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Frances Mistral announces new AI model",
-    "url": "https://www.livemint.com/technology/frances-mistral-announces-new-ai-model-11791291755261.html",
-    "date": "2026-10-06T13:02:34.000Z",
-    "reason": "Foreign company product announcement, not an Indian development.",
-    "checkedAt": "2026-10-06T13:42:04.935Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Rubber Board set to launch platform to tackle tapper shortage in Keralam",
-    "url": "https://www.thehindu.com/news/national/kerala/rubber-board-set-to-launch-platform-to-tackle-tapper-shortage-in-keralam/article71551540.ece",
-    "date": "2026-10-06T13:00:53.000Z",
-    "reason": "Crop-specific labour platform in one state, narrow impact.",
-    "checkedAt": "2026-10-06T13:42:04.935Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Poco X8 Power review: Great battery life and striking design, but does it justify ₹35,999 price tag?",
-    "url": "https://www.livemint.com/technology/tech-reviews/poco-x8-power-review-great-battery-life-and-striking-design-but-does-it-justify-rs-35-999-price-tag-11791286562301.html",
-    "date": "2026-10-06T12:59:06.000Z",
-    "reason": "Consumer gadget review, not a national development.",
-    "checkedAt": "2026-10-06T13:42:04.935Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "YSRCP leader accuses government of misleading BCs over 34% quota",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-leader-accuses-government-of-misleading-bcs-over-34-quota/article71551318.ece",
-    "date": "2026-10-06T12:56:16.000Z",
-    "reason": "State-level party political criticism over a reservation order.",
-    "checkedAt": "2026-10-06T13:42:04.935Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Three-member panel to probe woman’s death at Kottayam Medical College Hospital in Keralam",
-    "url": "https://www.thehindu.com/news/national/kerala//article71551456.ece",
-    "date": "2026-10-06T12:54:43.000Z",
-    "reason": "Single hospital death probe in one state, no national impact.",
-    "checkedAt": "2026-10-06T13:42:04.935Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Sarannavaratri festivities at Kothuru Tadepalli temple from October 11",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/sarannavaratri-festivities-at-kothuru-tadepalli-temple-from-october-11/article71551234.ece",
-    "date": "2026-10-06T12:48:20.000Z",
-    "reason": "Local temple festival, religious and local in nature.",
-    "checkedAt": "2026-10-06T13:42:04.935Z"
   }
 ]

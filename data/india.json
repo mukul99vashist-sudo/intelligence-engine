@@ -2,12 +2,33 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-06T20:42:39.914Z",
+  "updatedAt": "2026-10-06T23:20:39.370Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "sbktx77",
+          "headline": "Ukraine says South Korean exports helped ease Russia's drone-strike crisis",
+          "url": "https://www.abc.net.au/news/2026-10-07/south-korea-weapons-to-russia-ukraine-says-easing-crisis/107237356",
+          "source": "abc",
+          "date": "2026-10-06T22:49:40.000Z",
+          "relevance": "medium",
+          "why": "Russia is sourcing fuel from South Korea to offset refinery damage, which affects global fuel flows and sanctions enforcement.",
+          "implications": [
+            "Russian fuel supply may be more resilient than expected, which could limit upward pressure on global fuel prices that India imports at.",
+            "Scrutiny of sanctions workarounds could widen to third-country fuel trade, which may affect India's own Russian-linked energy dealings."
+          ],
+          "reports": [
+            {
+              "source": "abc",
+              "headline": "Ukraine says South Korean exports helped ease Russia's drone-strike crisis",
+              "url": "https://www.abc.net.au/news/2026-10-07/south-korea-weapons-to-russia-ukraine-says-easing-crisis/107237356",
+              "date": "2026-10-06T22:49:40.000Z"
+            }
+          ]
+        },
         {
           "id": "s1sxjihn",
           "headline": "What new measures is Iran taking to counter US economic pressure?",
@@ -740,16 +761,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 10,
-    "added": 0,
-    "merged": 1,
-    "rejected": 9,
+    "analysed": 41,
+    "added": 1,
+    "merged": 0,
+    "rejected": 40,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 161
+        "items": 163
       },
       "guardian": {
         "feedsOk": 7,
@@ -764,7 +785,7 @@
       "aljazeera": {
         "feedsOk": 1,
         "feedsFailed": 0,
-        "items": 11
+        "items": 13
       },
       "mercopress": {
         "feedsOk": 3,
