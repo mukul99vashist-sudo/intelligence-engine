@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-05T19:26:57.637Z",
+  "updatedAt": "2026-10-06T00:56:14.308Z",
   "sectors": [
     {
       "id": "energy",
@@ -221,6 +221,12 @@
               "headline": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
               "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo",
               "date": "2026-10-05T17:49:59.000Z"
+            },
+            {
+              "source": "guardian",
+              "headline": "Saudi-backed forces recapture key areas around strait from Houthis in Yemen",
+              "url": "https://www.theguardian.com/world/2026/oct/05/saudi-forces-recapture-key-areas-strait-houthis-yemen",
+              "date": "2026-10-05T19:44:01.000Z"
             }
           ]
         },
@@ -302,6 +308,28 @@
       "id": "economy",
       "name": "Economy & Trade",
       "items": [
+        {
+          "id": "s1c0c575",
+          "headline": "Five reasons India's stock market is sinking even when its economy is growing",
+          "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo",
+          "source": "bbc",
+          "date": "2026-10-05T23:13:11.000Z",
+          "relevance": "medium",
+          "why": "India's equity market is lagging badly despite fast economic growth, a gap that points to investor caution about the economy.",
+          "implications": [
+            "The gap between strong growth and weak markets may signal cautious sentiment toward India's economic outlook.",
+            "Weak markets could make it harder for Indian businesses to raise funds for expansion.",
+            "Household savings and wealth held in market-linked products may come under pressure."
+          ],
+          "reports": [
+            {
+              "source": "bbc",
+              "headline": "Five reasons India's stock market is sinking even when its economy is growing",
+              "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo",
+              "date": "2026-10-05T23:13:11.000Z"
+            }
+          ]
+        },
         {
           "id": "s1haxzqq",
           "headline": "Euro falls to 17-month low against dollar amid French debt fears",
@@ -514,16 +542,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 54,
+    "analysed": 50,
     "added": 1,
-    "merged": 4,
-    "rejected": 49,
+    "merged": 1,
+    "rejected": 48,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 153
+        "items": 155
       },
       "guardian": {
         "feedsOk": 7,
@@ -538,7 +566,7 @@
       "aljazeera": {
         "feedsOk": 1,
         "feedsFailed": 0,
-        "items": 16
+        "items": 13
       },
       "mercopress": {
         "feedsOk": 3,

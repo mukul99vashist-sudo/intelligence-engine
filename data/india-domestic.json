@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-05T19:27:58.413Z",
+  "updatedAt": "2026-10-06T00:56:40.853Z",
   "sectors": [
     {
       "id": "energy",
@@ -229,6 +229,28 @@
       "id": "logistics",
       "name": "Logistics & Shipping",
       "items": [
+        {
+          "id": "s1myyjke",
+          "headline": "First international cargo vessel leaves eastern Assam since 1947",
+          "url": "https://www.thehindu.com/news/national/assam/first-international-cargo-vessel-leaves-eastern-assam-since-1947/article71547112.ece",
+          "source": "thehindu",
+          "date": "2026-10-05T21:48:23.000Z",
+          "relevance": "medium",
+          "why": "A first international cargo sailing from Dibrugarh since 1947 signals revival of inland waterway trade routes linking India's northeast to wider markets.",
+          "implications": [
+            "Northeast exporters and traders may gain a cheaper river route for moving goods.",
+            "Greater use of Dibrugarh port could ease road and rail congestion in the region over time.",
+            "Regular services could create port, handling and transport jobs in eastern Assam."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "First international cargo vessel leaves eastern Assam since 1947",
+              "url": "https://www.thehindu.com/news/national/assam/first-international-cargo-vessel-leaves-eastern-assam-since-1947/article71547112.ece",
+              "date": "2026-10-05T21:48:23.000Z"
+            }
+          ]
+        },
         {
           "id": "s1d4ioxx",
           "headline": "Airlines seek faster release of govt-backed credit amid liquidity strain",
@@ -752,6 +774,27 @@
       "name": "Technology",
       "items": [
         {
+          "id": "sexalie",
+          "headline": "There should be no GST on MDR for UPI transactions: C. Rangarajan",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/there-should-be-no-gst-on-mdr-for-upi-transactions-c-rangarajan/article71548512.ece",
+          "source": "thehindu",
+          "date": "2026-10-05T18:56:14.000Z",
+          "relevance": "medium",
+          "why": "A senior economist's view on GST for UPI merchant fees feeds a national debate on the cost of running India's digital payments system.",
+          "implications": [
+            "Any GST on UPI merchant fees could raise acceptance costs for small merchants and businesses.",
+            "Higher costs may lead some merchants to limit UPI or pass charges on to customers."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "There should be no GST on MDR for UPI transactions: C. Rangarajan",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/there-should-be-no-gst-on-mdr-for-upi-transactions-c-rangarajan/article71548512.ece",
+              "date": "2026-10-05T18:56:14.000Z"
+            }
+          ]
+        },
+        {
           "id": "so2g6h9",
           "headline": "Tata's Assam chip unit is almost ready, and a non-China supply chain is in place",
           "url": "https://www.livemint.com/companies/news/tata-electronics-assam-semiconductor-chip-plant-11791089738819.html",
@@ -893,6 +936,28 @@
       "name": "Manufacturing",
       "items": [
         {
+          "id": "s1yaccvu",
+          "headline": "Beyond assembly: how India’s next telecom PLI wants to build the supply chain from within",
+          "url": "https://www.livemint.com/news/india-new-telecom-pli-scheme-11791199089014.html",
+          "source": "mint",
+          "date": "2026-10-06T00:20:53.000Z",
+          "relevance": "medium",
+          "why": "A new telecom PLI aimed at building local component supply chains could deepen domestic telecom equipment manufacturing beyond assembly.",
+          "implications": [
+            "Domestic makers of network gear may get incentives to source components locally rather than import.",
+            "Telecom equipment manufacturing could add skilled factory jobs in the coming years.",
+            "Reduced import dependence may help telecom operators with more stable equipment supply."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Beyond assembly: how India’s next telecom PLI wants to build the supply chain from within",
+              "url": "https://www.livemint.com/news/india-new-telecom-pli-scheme-11791199089014.html",
+              "date": "2026-10-06T00:20:53.000Z"
+            }
+          ]
+        },
+        {
           "id": "s139nthu",
           "headline": "The oil shock hasn’t stopped the factory boom. It may be changing what factories make | Explained",
           "url": "https://www.livemint.com/economy/the-oil-shock-hasn-t-stopped-the-factory-boom-it-may-be-changing-what-factories-make-11791124337610.html",
@@ -921,27 +986,6 @@
       "name": "Environment & Climate",
       "items": [
         {
-          "id": "s1ha6srs",
-          "headline": "New GRAP Rules in Delhi; Restrictions in NCR October 2026: Petrol vs Diesel vs CNG vs EV — Know car ban guidelines here",
-          "url": "https://www.livemint.com/news/india/new-grap-rules-in-delhi-restrictions-in-ncr-october-2026-petrol-vs-diesel-vs-cng-vs-ev-know-car-ban-guidelines-here-11791207178162.html",
-          "source": "mint",
-          "date": "2026-10-05T15:01:35.000Z",
-          "relevance": "medium",
-          "why": "Revised GRAP curbs on older vehicles and construction across Delhi-NCR, which spans several states, are a major air-pollution policy measure.",
-          "implications": [
-            "Owners of BS-III petrol and BS-IV diesel vehicles in the NCR may face plying restrictions during pollution episodes.",
-            "Interstate bus operations and construction projects in the region could face earlier curbs and tighter monitoring."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "New GRAP Rules in Delhi; Restrictions in NCR October 2026: Petrol vs Diesel vs CNG vs EV — Know car ban guidelines here",
-              "url": "https://www.livemint.com/news/india/new-grap-rules-in-delhi-restrictions-in-ncr-october-2026-petrol-vs-diesel-vs-cng-vs-ev-know-car-ban-guidelines-here-11791207178162.html",
-              "date": "2026-10-05T15:01:35.000Z"
-            }
-          ]
-        },
-        {
           "id": "s1pikzq4",
           "headline": "Supreme Court allows Great Nicobar project challenge to proceed in Calcutta HC",
           "url": "https://www.livemint.com/news/india/supreme-court-allows-great-nicobar-project-challenge-to-proceed-in-calcutta-hc-11791187657524.html",
@@ -965,6 +1009,33 @@
               "headline": "Preservation of culture a fundamental right, says SC, refuses to stay Calcutta HC proceedings in Nicobar project case",
               "url": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/supreme-court-refuses-to-stay-calcutta-hc-order-in-great-nicobar-island-project-terms-preservation-of-culture-a-fundamental-right/article71546355.ece",
               "date": "2026-10-05T10:25:03.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Supreme Court refuses to stay proceedings against Nicobar project",
+              "url": "https://www.thehindu.com/sci-tech/energy-and-environment/supreme-court-refuses-to-stay-calcutta-hc-order-in-great-nicobar-island-project-terms-preservation-of-culture-a-fundamental-right/article71546355.ece",
+              "date": "2026-10-05T20:01:46.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1ha6srs",
+          "headline": "New GRAP Rules in Delhi; Restrictions in NCR October 2026: Petrol vs Diesel vs CNG vs EV — Know car ban guidelines here",
+          "url": "https://www.livemint.com/news/india/new-grap-rules-in-delhi-restrictions-in-ncr-october-2026-petrol-vs-diesel-vs-cng-vs-ev-know-car-ban-guidelines-here-11791207178162.html",
+          "source": "mint",
+          "date": "2026-10-05T15:01:35.000Z",
+          "relevance": "medium",
+          "why": "Revised GRAP curbs on older vehicles and construction across Delhi-NCR, which spans several states, are a major air-pollution policy measure.",
+          "implications": [
+            "Owners of BS-III petrol and BS-IV diesel vehicles in the NCR may face plying restrictions during pollution episodes.",
+            "Interstate bus operations and construction projects in the region could face earlier curbs and tighter monitoring."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "New GRAP Rules in Delhi; Restrictions in NCR October 2026: Petrol vs Diesel vs CNG vs EV — Know car ban guidelines here",
+              "url": "https://www.livemint.com/news/india/new-grap-rules-in-delhi-restrictions-in-ncr-october-2026-petrol-vs-diesel-vs-cng-vs-ev-know-car-ban-guidelines-here-11791207178162.html",
+              "date": "2026-10-05T15:01:35.000Z"
             }
           ]
         }
@@ -1249,16 +1320,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 82,
-    "added": 4,
-    "merged": 5,
-    "rejected": 73,
+    "analysed": 30,
+    "added": 3,
+    "merged": 1,
+    "rejected": 26,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 345
+        "items": 344
       },
       "mint": {
         "feedsOk": 6,
