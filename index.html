@@ -236,6 +236,7 @@ dialog::backdrop{background:rgba(15,15,20,.28);backdrop-filter:blur(10px) satura
 .sheet h2{font:800 clamp(26px,2.6vw,38px)/1.12 var(--sans);letter-spacing:-.022em;margin:10px 0 12px}
 .sheet .byline{margin:0}
 .block p,.block li{font-size:16.5px;line-height:1.55}
+.block p.lead{font-weight:600;color:var(--ink);margin:0 0 10px}
 @media (max-width:900px){
   dialog{width:94vw;height:90vh;border-radius:22px}
   .sheet{grid-template-columns:minmax(0,1fr);padding:34px 20px 24px}
@@ -337,8 +338,8 @@ var SHOW_IMAGES=true;
 // Sector artwork for stories without a photo. Off: such stories show the text-only card instead.
 var SECTOR_ART=false;
 var VIEWS={
-  global:  {data:"india.json",          rejected:"rejected.json",          threads:"threads-global.json",   archive:"archive/global/",          sub:"How today's world news reaches India.",   why:"Why it reaches India", seen:"ie.seen.v1"},
-  domestic:{data:"india-domestic.json", rejected:"rejected-domestic.json", threads:"threads-domestic.json", archive:"archive/domestic/", sub:"The developments shaping India today.",    why:"Why it matters",       seen:"ie.seen.domestic.v1"}
+  global:  {data:"india.json",          rejected:"rejected.json",          threads:"threads-global.json",   archive:"archive/global/",          sub:"How today's world news reaches India.",   why:"Why it reaches India", means:"What it means for India", seen:"ie.seen.v1"},
+  domestic:{data:"india-domestic.json", rejected:"rejected-domestic.json", threads:"threads-domestic.json", archive:"archive/domestic/", sub:"The developments shaping India today.",    why:"Why it matters",       means:"What it means",           seen:"ie.seen.domestic.v1"}
 };
 var view = location.hash==="#inside" ? "domestic" : "global";
 var docs={}, rejectedByView={}, lastUpdatedByView={}, threadsByView={}, archiveByView={};
@@ -416,8 +417,8 @@ function brief(it){
   var reps=reportsOf(it), withSum=reps.filter(function(r){return r.summary;});
   var r=withSum.filter(function(x){return x.image && x.image===it.image;})[0] || withSum[0] || reps[0];
   var b=el("div","brief"), name=OUTLET[r.source]||r.source;
-  b.appendChild(el("span","from", r.summary ? "From "+name : VIEWS[view].why));
-  b.appendChild(el("blockquote",null, r.summary || it.why || it.headline));
+  b.appendChild(el("span","from","From "+name));
+  if(r.summary) b.appendChild(el("blockquote",null,r.summary));
   var a=el("a","cta","Read the full story on "+name+" →"); a.href=r.url; a.target="_blank"; a.rel="noopener"; b.appendChild(a);
   return b;
 }
@@ -560,8 +561,12 @@ function openSheet(e){
   body.appendChild(head);
 
   var left=el("div","panel");
-  if(it.why){ var w=el("div","block"); w.appendChild(el("h3",null,VIEWS[view].why)); w.appendChild(el("p",null,it.why)); left.appendChild(w); }
-  if((it.implications||[]).length){ var im=el("div","block"); im.appendChild(el("h3",null,"Likely implications · analysis")); var ul=el("ul"); it.implications.forEach(function(t){ul.appendChild(el("li",null,t));}); im.appendChild(ul); left.appendChild(im); }
+  if(it.why || (it.implications||[]).length){
+    var im=el("div","block"); im.appendChild(el("h3",null,VIEWS[view].means+" · analysis"));
+    if(it.why) im.appendChild(el("p","lead",it.why));
+    if((it.implications||[]).length){ var ul=el("ul"); it.implications.forEach(function(t){ul.appendChild(el("li",null,t));}); im.appendChild(ul); }
+    left.appendChild(im);
+  }
   body.appendChild(left);
 
   var dev=isDeveloping(it), reps=reportsOf(it).slice().sort(function(a,b){return String(b.date||"").localeCompare(String(a.date||""));});
