@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-06T23:20:39.370Z",
+  "updatedAt": "2026-10-07T02:28:48.985Z",
   "sectors": [
     {
       "id": "energy",
@@ -331,6 +331,12 @@
               "headline": "Yemen’s government is on the attack against the Houthis. What has changed?",
               "url": "https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed",
               "date": "2026-10-06T19:43:05.000Z"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz",
+              "url": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz",
+              "date": "2026-10-07T00:35:57.000Z"
             }
           ]
         },
@@ -761,16 +767,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 41,
-    "added": 1,
-    "merged": 0,
-    "rejected": 40,
+    "analysed": 25,
+    "added": 0,
+    "merged": 1,
+    "rejected": 24,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 163
+        "items": 164
       },
       "guardian": {
         "feedsOk": 7,
@@ -788,9 +794,9 @@
         "items": 13
       },
       "mercopress": {
-        "feedsOk": 3,
-        "feedsFailed": 0,
-        "items": 30
+        "feedsOk": 2,
+        "feedsFailed": 1,
+        "items": 20
       },
       "abc": {
         "feedsOk": 3,

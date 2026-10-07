@@ -2,12 +2,68 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-06T23:20:45.935Z",
+  "updatedAt": "2026-10-07T02:29:16.207Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "slvj25g",
+          "headline": "Petrol and diesel prices today, October 5: Check fuel cost in Delhi, Mumbai, Bengaluru",
+          "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-5-check-fuel-cost-in-delhi-mumbai-bengaluru-11791162475833.html",
+          "source": "mint",
+          "date": "2026-10-05T01:35:57.000Z",
+          "relevance": "medium",
+          "why": "Steady pump prices despite global crude disruption shape household fuel costs and inflation, and signal pressure on oil marketing companies.",
+          "implications": [
+            "Petrol and diesel prices in major cities have stayed unchanged, sparing households and transporters an immediate cost increase.",
+            "Continued global disruption could eventually force price revisions, which may raise transport and goods costs.",
+            "Refiners absorbing higher costs may face margin pressure if crude stays elevated."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Petrol and diesel prices today, October 5: Check fuel cost in Delhi, Mumbai, Bengaluru",
+              "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-5-check-fuel-cost-in-delhi-mumbai-bengaluru-11791162475833.html",
+              "date": "2026-10-05T01:35:57.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Petrol and diesel prices today, October 6: Check fuel cost in Delhi, Mumbai, Bengaluru",
+              "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-6-check-fuel-cost-in-delhi-mumbai-bengaluru-11791255202771.html",
+              "date": "2026-10-06T03:23:12.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Petrol and diesel prices today, October 7: How much does fuel cost in Delhi, Mumbai, Bengaluru",
+              "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-7-how-much-does-fuel-cost-in-delhi-mumbai-bengaluru-11791334212802.html",
+              "date": "2026-10-07T01:30:20.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s577zy8",
+          "headline": "US tariffs, missing cells, evening power gaps: inside India’s solar energy bottlenecks",
+          "url": "https://www.livemint.com/news/india-solar-power-capacity-cell-panel-manufacturing-us-solar-tariffs-11791279430659.html",
+          "source": "mint",
+          "date": "2026-10-07T00:30:53.000Z",
+          "relevance": "medium",
+          "why": "India's solar build-out now depends on domestic cell, wafer and storage capacity, which shapes clean power supply and energy security.",
+          "implications": [
+            "Gaps in domestic cell and wafer supply may keep solar equipment costs exposed to import tariffs and trade disruptions.",
+            "Limited storage could leave evening power shortfalls unresolved, which may strain grids and raise reliance on costlier supply.",
+            "Capital-heavy upstream manufacturing may take time to scale, delaying cheaper solar power for households and industry."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "US tariffs, missing cells, evening power gaps: inside India’s solar energy bottlenecks",
+              "url": "https://www.livemint.com/news/india-solar-power-capacity-cell-panel-manufacturing-us-solar-tariffs-11791279430659.html",
+              "date": "2026-10-07T00:30:53.000Z"
+            }
+          ]
+        },
         {
           "id": "sga3vnf",
           "headline": "NTPC to buy 10 million tonnes of coal from commercial mines in H2 FY27 as power demand rises",
@@ -114,34 +170,6 @@
               "headline": "Ecuador in talks with India for sale of crude oil, critical minerals, copper: ambassador Buchelli",
               "url": "https://www.livemint.com/economy/ecuador-india-talks-crude-oil-critical-minerals-copper-trade-11791257129841.html",
               "date": "2026-10-06T06:35:13.000Z"
-            }
-          ]
-        },
-        {
-          "id": "slvj25g",
-          "headline": "Petrol and diesel prices today, October 5: Check fuel cost in Delhi, Mumbai, Bengaluru",
-          "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-5-check-fuel-cost-in-delhi-mumbai-bengaluru-11791162475833.html",
-          "source": "mint",
-          "date": "2026-10-05T01:35:57.000Z",
-          "relevance": "medium",
-          "why": "Steady pump prices despite global crude disruption shape household fuel costs and inflation, and signal pressure on oil marketing companies.",
-          "implications": [
-            "Petrol and diesel prices in major cities have stayed unchanged, sparing households and transporters an immediate cost increase.",
-            "Continued global disruption could eventually force price revisions, which may raise transport and goods costs.",
-            "Refiners absorbing higher costs may face margin pressure if crude stays elevated."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "Petrol and diesel prices today, October 5: Check fuel cost in Delhi, Mumbai, Bengaluru",
-              "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-5-check-fuel-cost-in-delhi-mumbai-bengaluru-11791162475833.html",
-              "date": "2026-10-05T01:35:57.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "Petrol and diesel prices today, October 6: Check fuel cost in Delhi, Mumbai, Bengaluru",
-              "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-6-check-fuel-cost-in-delhi-mumbai-bengaluru-11791255202771.html",
-              "date": "2026-10-06T03:23:12.000Z"
             }
           ]
         },
@@ -603,6 +631,12 @@
               "headline": "GST Council aims to ease compliance, expedite refunds, curb frequent rate tweaks",
               "url": "https://www.livemint.com/economy/gst-council-aims-to-ease-compliance-expedite-refunds-curb-frequent-rate-tweaks-11791297868065.html",
               "date": "2026-10-06T16:53:11.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "GST Council may weigh wider data sharing, rare disease tax relief on Thursday",
+              "url": "https://www.livemint.com/economy/gst-council-may-open-tax-data-for-wider-economic-use-consider-rare-disease-relief-11791293979209.html",
+              "date": "2026-10-07T00:35:54.000Z"
             }
           ]
         },
@@ -1985,10 +2019,10 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 12,
-    "added": 0,
-    "merged": 0,
-    "rejected": 12,
+    "analysed": 27,
+    "added": 1,
+    "merged": 2,
+    "rejected": 24,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
