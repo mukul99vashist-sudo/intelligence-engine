@@ -113,20 +113,27 @@ function skip(title, link) {
 // Publisher-supplied thumbnail from the feed item (linked, not copied). Prefers the widest rendition.
 function unescapeHtml(s) { return String(s || "").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'").replace(/&amp;/g, "&"); }
 function attr(a, name) { const m = new RegExp(`\\b${name}=["']([^"']+)["']`).exec(a); return m ? m[1] : ""; }
+// Tracking pixels and spacers that some feeds embed to count readers.
+export function isJunkImage(u) { return /pixel|tracking|beacon|spacer|1x1|blank\.(gif|png)|feeds\.feedburner/i.test(String(u || "")); }
 export function imageOf(block) {
   const cands = [];
   for (const m of block.matchAll(/<media:(?:content|thumbnail)\b([^>]*)>/g)) {
     const a = m[1], url = attr(a, "url"), medium = attr(a, "medium"), type = attr(a, "type");
-    if (!url || (medium && medium !== "image") || (type && !/^image\//.test(type))) continue;
-    cands.push({ url, w: +(attr(a, "width") || 0) });
+    const w = +(attr(a, "width") || 0);
+    if (!url || (medium && medium !== "image") || (type && !/^image\//.test(type)) || isJunkImage(url) || (w && w < 100)) continue;
+    cands.push({ url, w });
   }
   for (const m of block.matchAll(/<enclosure\b([^>]*)>/g)) {
     const url = attr(m[1], "url"), type = attr(m[1], "type");
     if (url && /^image\//.test(type)) cands.push({ url, w: 0 });
   }
   if (!cands.length) {
-    const img = /<img[^>]+src=["']([^"']+)["']/i.exec(unescapeHtml(block.replace(/<!\[CDATA\[|\]\]>/g, "")));
-    if (img) cands.push({ url: img[1], w: 0 });
+    const html = unescapeHtml(block.replace(/<!\[CDATA\[|\]\]>/g, ""));
+    for (const m of html.matchAll(/<img[^>]+src=["']([^"']+)["'][^>]*>/gi)) {
+      const tag = m[0], wm = /\bwidth=["']?(\d+)/i.exec(tag);
+      if (isJunkImage(m[1]) || (wm && +wm[1] < 100)) continue;
+      cands.push({ url: m[1], w: 0 }); break;
+    }
   }
   cands.sort((x, y) => y.w - x.w);
   let u = cands[0] && unescapeHtml(cands[0].url);
@@ -135,7 +142,9 @@ export function imageOf(block) {
   if (!/^https:\/\//.test(u)) return null;
   const out = { image: u };
   // BBC's image service serves the same picture at larger widths; the site falls back to the original if this fails.
-  const big = u.replace(/(ichef\.bbci\.co\.uk\/(?:ace|news)\/(?:standard|ws)\/)\d+\//, "$1976/");
+  let big = u.replace(/(ichef\.bbci\.co\.uk\/(?:ace|news)\/(?:standard|ws)\/)\d+\//, "$1976/");
+  // The Hindu's feed gives 120px thumbnails; the same image exists at 1200px.
+  big = big.replace(/(thgim\.com\/.*\/alternates\/LANDSCAPE)_\d+\b/, "$1_1200");
   if (big !== u) out.imageLarge = big;
   return out;
 }
@@ -294,6 +303,11 @@ async function runDesk(desk) {
   // Backfill images onto stories already on the desk (no re-analysis needed).
   const imgByUrl = new Map(fetched.filter(i => i.image).map(i => [i.url, i]));
   let backfilled = 0;
+  const tidy = o => {
+    if (o.image && isJunkImage(o.image)) { delete o.image; delete o.imageLarge; }
+    if (o.image && !o.imageLarge) { const up = imageOf(`<media:content url="${o.image}"/>`); if (up && up.imageLarge) o.imageLarge = up.imageLarge; }
+  };
+  for (const sec of data.sectors) for (const ev of sec.items) { tidy(ev); (ev.reports || []).forEach(tidy); }
   for (const sec of data.sectors) for (const ev of sec.items) {
     for (const r of ev.reports || []) { const f = imgByUrl.get(r.url); if (f && !r.image) { r.image = f.image; if (f.imageLarge) r.imageLarge = f.imageLarge; } }
     if (!ev.image) { const r = (ev.reports || []).find(x => x.image); if (r) { ev.image = r.image; if (r.imageLarge) ev.imageLarge = r.imageLarge; backfilled++; } }
