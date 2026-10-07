@@ -60,8 +60,8 @@ const INDIA_FEEDS = [
   { src: "mint", url: "https://www.livemint.com/rss/technology" }
 ];
 const DESKS = [
-  { id: "global",   mode: "global",   feeds: GLOBAL_FEEDS, data: "data/india.json",          seen: "data/seen.json",          rejected: "data/rejected.json" },
-  { id: "domestic", mode: "domestic", feeds: INDIA_FEEDS,  data: "data/india-domestic.json", seen: "data/seen-domestic.json", rejected: "data/rejected-domestic.json" }
+  { id: "global",   mode: "global",   feeds: GLOBAL_FEEDS, data: "data/india.json",          seen: "data/seen.json",          rejected: "data/rejected.json",          threads: "data/threads-global.json",   archive: "data/archive/global" },
+  { id: "domestic", mode: "domestic", feeds: INDIA_FEEDS,  data: "data/india-domestic.json", seen: "data/seen-domestic.json", rejected: "data/rejected-domestic.json", threads: "data/threads-domestic.json", archive: "data/archive/domestic" }
 ];
 const MODELS = [process.env.CLAUDE_MODEL || "claude-sonnet-5-5", "claude-haiku-4-5-20251001"];
 const SECTORS = [
@@ -78,7 +78,10 @@ const MAX_REJECTED = 150;                      // audit trail of what the filter
 const BATCH = 15;              // headlines per Claude request
 const MAX_NEW_PER_RUN = 150;   // the rest wait for the next run
 const MATCH_WINDOW_DAYS = 4;   // how far back to look for the same event
-const MAX_PER_SECTOR = 40;
+const RECENT_DAYS = 60;        // the site's main file holds the last 60 days; everything is kept in monthly archive files
+const THREAD_BATCH = 20;       // stories per thread-assignment request
+const THREAD_ACTIVE_DAYS = 120;// threads offered for new stories to join
+const SUMMARY_LIMIT = 25;      // "How we got here" summaries refreshed per desk per run
 const MAX_SEEN = 3000;
 
 /* ---------- helpers ---------- */
@@ -167,13 +170,24 @@ export function ogImageFromHtml(html) {
   if (/(default|placeholder|fallback)[-_]?(og|share|social|image)?\.(png|jpe?g|webp)/i.test(u)) return null; // site-wide stock image, not the story's
   return u;
 }
+export function ogDescriptionFromHtml(html) {
+  for (const m of String(html || "").match(/<meta\b[^>]*>/gi) || []) {
+    const key = (attr(m, "property") || attr(m, "name")).toLowerCase();
+    if (key === "og:description" || key === "description" || key === "twitter:description") {
+      const c = plain(unescapeHtml(attr(m, "content")));
+      if (c && c.length >= 40) return c.slice(0, 320);
+    }
+  }
+  return null;
+}
 async function fetchOgImage(url) {
   const ctl = new AbortController(), t = setTimeout(() => ctl.abort(), 8000);
   try {
     const res = await fetch(url, { signal: ctl.signal, redirect: "follow",
       headers: { "user-agent": "Mozilla/5.0 (compatible; ContinentConnectBot/1.0)", accept: "text/html" } });
     if (!res.ok) return null;
-    return ogImageFromHtml((await res.text()).slice(0, 400000));
+    const html = (await res.text()).slice(0, 400000);
+    return { image: ogImageFromHtml(html), description: ogDescriptionFromHtml(html) };
   } catch { return null; } finally { clearTimeout(t); }
 }
 async function pool(items, n, fn) {
@@ -181,20 +195,109 @@ async function pool(items, n, fn) {
   await Promise.all(Array.from({ length: Math.min(n, items.length) }, async () => { while (i < items.length) await fn(items[i++]); }));
 }
 async function fillShareImages(data) {
-  // newest stories first; each report is tried once (ogTried) so failures aren't refetched every run
-  const events = data.sectors.flatMap(s => s.items).filter(e => !e.image)
+  // Open an article page when its story lacks a photo, or its report lacks the publisher's summary.
+  // Newest stories first; each report is checked once per need (ogTried / descTried) so failures aren't refetched every run.
+  const events = data.sectors.flatMap(s => s.items)
     .sort((a, b) => String(b.date || "").localeCompare(String(a.date || "")));
   const jobs = [];
-  for (const ev of events) for (const r of ev.reports || []) if (!r.image && !r.ogTried && jobs.length < OG_FETCH_LIMIT) jobs.push({ ev, r });
-  let found = 0;
+  for (const ev of events) for (const r of ev.reports || []) {
+    const needImg = !ev.image && !r.image && !r.ogTried, needSum = !r.summary && !r.descTried;
+    if ((needImg || needSum) && jobs.length < OG_FETCH_LIMIT) jobs.push({ ev, r });
+  }
+  let found = 0, summaries = 0;
   await pool(jobs, OG_CONCURRENCY, async ({ ev, r }) => {
-    r.ogTried = true;
-    if (ev.image) return;                        // another report already supplied one
-    const img = await fetchOgImage(r.url);
-    if (img) { r.image = img; ev.image = img; found++; }
+    r.ogTried = true; r.descTried = true;
+    const page = await fetchOgImage(r.url);
+    if (!page) return;
+    if (page.description && !r.summary) { r.summary = page.description; summaries++; }
+    if (page.image && !ev.image && !r.image) { r.image = page.image; ev.image = page.image; found++; }
   });
-  return { tried: jobs.length, found };
+  return { tried: jobs.length, found, summaries };
 }
+// ---------- Story threads: long-running storylines that collect stories over weeks or months ----------
+function threadIdFor(desk, name) { return "t" + idFor(desk + ":" + name.toLowerCase().trim()).slice(1); }
+function threadPrompt(stories, threads, mode) {
+  const lens = mode === "domestic" ? "developments inside India" : "world news and its effects on India";
+  return `You organise ${lens} into STORY THREADS: long-running storylines that develop over weeks or months, for example "Red Sea shipping attacks", "RBI interest rate decisions", "Iran conflict and oil supply", "India–US trade talks", "Monsoon and food prices".
+
+EXISTING THREADS:
+${JSON.stringify(threads)}
+
+NEW STORIES:
+${JSON.stringify(stories)}
+
+For each new story, either put it in the existing thread whose storyline it continues, or name a new thread.
+Rules:
+1. Join an existing thread only if the story is part of the same storyline: the same conflict, crisis, policy process, negotiation, regulatory saga, recurring decision or company/sector saga. Sharing a country or sector is NOT enough.
+2. New thread names: 2 to 6 words, specific and neutral, no dates, no opinion (good: "Red Sea shipping attacks"; bad: "Energy news", "Big week for oil").
+3. If several new stories belong to the same new storyline, give them the identical new name.
+4. Use only the information given.
+
+Return ONLY a JSON array, one object per story:
+[{"id":"<story id>","thread":"<existing thread key>"}] or [{"id":"<story id>","newThread":"<new name>"}]`;
+}
+function summaryPrompt(thread, items, mode) {
+  return `Write "How we got here" for the storyline "${thread.name}" on a news site about ${mode === "domestic" ? "India" : "how world news affects India"}.
+
+Use ONLY the dated reports below. Do not add any fact, number, name, cause or context that is not in them. Do not predict, speculate or mention investments.
+Write 2 to 4 plain sentences, in time order, referring to when things happened (e.g. "In early October…"). Neutral tone.
+
+Reports (oldest first):
+${JSON.stringify(items)}
+
+Return ONLY a JSON array with one object: [{"summary":"..."}]`;
+}
+async function assignThreads(events, threads, desk) {
+  const cutoff = Date.now() - THREAD_ACTIVE_DAYS * 864e5;
+  const pending = events.filter(e => !e.thread).sort((a, b) => String(a.date || "").localeCompare(String(b.date || "")));
+  let assigned = 0, created = 0, failed = 0;
+  for (let k = 0; k < pending.length; k += THREAD_BATCH) {
+    const batch = pending.slice(k, k + THREAD_BATCH);
+    const active = Object.values(threads).filter(t => Date.parse(t.updated || 0) >= cutoff)
+      .sort((a, b) => String(b.updated).localeCompare(String(a.updated))).slice(0, 120)
+      .map(t => ({ key: t.id, name: t.name, sector: t.sector, latest: t.latestHeadline }));
+    const stories = batch.map(e => ({ id: e.id, headline: e.headline, summary: (e.reports || []).map(r => r.summary).find(Boolean) || e.why || "", sector: e.sector, date: (e.date || "").slice(0, 10) }));
+    let res;
+    try { res = await callClaude(threadPrompt(stories, active, desk.mode)); }
+    catch (err) { console.error(`Thread batch failed: ${err.message}`); failed++; continue; }
+    const byName = new Map(Object.values(threads).map(t => [t.name.toLowerCase(), t]));
+    for (const r of res || []) {
+      const ev = batch.find(e => e.id === r?.id); if (!ev) continue;
+      let t = r.thread && threads[r.thread];
+      if (!t && typeof r.newThread === "string" && r.newThread.trim()) {
+        const name = r.newThread.trim().slice(0, 80);
+        t = byName.get(name.toLowerCase());
+        if (!t) { t = { id: threadIdFor(desk.id, name), name, sector: ev.sector, created: ev.date || new Date().toISOString() }; threads[t.id] = t; byName.set(name.toLowerCase(), t); created++; }
+      }
+      if (!t) continue;
+      ev.thread = t.id; assigned++;
+      if (!t.updated || String(ev.date || "") > String(t.updated)) { t.updated = ev.date || t.updated; t.latestHeadline = ev.headline; }
+    }
+  }
+  return { assigned, created, failedBatches: failed };
+}
+async function refreshSummaries(events, threads, desk) {
+  const members = {};
+  for (const e of events) if (e.thread && threads[e.thread]) (members[e.thread] ||= []).push(e);
+  const due = Object.entries(members).filter(([id, evs]) => evs.length >= 2 && threads[id].summaryCount !== evs.length)
+    .sort((a, b) => String(threads[b[0]].updated || "").localeCompare(String(threads[a[0]].updated || ""))).slice(0, SUMMARY_LIMIT);
+  let written = 0;
+  for (const [id, evs] of due) {
+    const t = threads[id];
+    const items = evs.slice().sort((a, b) => String(a.date || "").localeCompare(String(b.date || ""))).slice(-25).map(e => ({
+      date: (e.date || "").slice(0, 10), outlet: OUTLETS[e.source] || e.source, headline: e.headline,
+      summary: (e.reports || []).map(r => r.summary).find(Boolean) || ""
+    }));
+    try {
+      const res = await callClaude(summaryPrompt(t, items, desk.mode));
+      const text = res && res[0] && typeof res[0].summary === "string" ? res[0].summary.trim() : "";
+      if (text) { t.summary = text.slice(0, 900); t.summaryCount = evs.length; t.summaryAt = new Date().toISOString(); written++; }
+    } catch (err) { console.error(`Summary for "${t.name}" failed: ${err.message}`); }
+  }
+  return { written, due: due.length };
+}
+function monthOf(e) { return String(e.date || latest(e) || new Date().toISOString()).slice(0, 7); }
+
 function cleanUrl(u) { try { const x = new URL(u); x.search = ""; x.hash = ""; return x.toString(); } catch { return u; } }
 function idFor(url) { let h = 0; for (const c of url) h = (h * 31 + c.charCodeAt(0)) >>> 0; return "s" + h.toString(36); }
 
@@ -342,6 +445,18 @@ async function runDesk(desk) {
   data.source = Object.values(OUTLETS).join(" & ");
   const byId = Object.fromEntries((data.sectors || []).map(s => [s.id, s]));
   data.sectors = SECTORS.map(s => ({ ...s, items: byId[s.id]?.items || [] }));
+  // Bring back every archived story so nothing is ever dropped.
+  const archIndex = await readJson(`${desk.archive}/index.json`, { months: [] });
+  const known = new Set(data.sectors.flatMap(s => s.items.map(i => i.id)));
+  for (const m of archIndex.months || []) {
+    const file = await readJson(`${desk.archive}/${m.month}.json`, { events: [] });
+    for (const ev of file.events || []) {
+      if (known.has(ev.id)) continue;
+      const sec = data.sectors.find(x => x.id === ev.sector); if (!sec) continue;
+      const { sector, ...rest } = ev; sec.items.push(rest); known.add(ev.id);
+    }
+  }
+  const threads = data.schema === SCHEMA ? (await readJson(desk.threads, { threads: {} })).threads || {} : {};
 
   const allEvents = () => data.sectors.flatMap(s => s.items);
   const findEvent = key => allEvents().find(e => e.id === key);
@@ -349,6 +464,7 @@ async function runDesk(desk) {
   const fetched = await fetchFeeds(desk.feeds);
   // Backfill images onto stories already on the desk (no re-analysis needed).
   const imgByUrl = new Map(fetched.filter(i => i.image).map(i => [i.url, i]));
+  const sumByUrl = new Map(fetched.filter(i => i.summary && i.summary.length >= 40).map(i => [i.url, i.summary.slice(0, 320)]));
   let backfilled = 0;
   const tidy = o => {
     if (o.image && isJunkImage(o.image)) { delete o.image; delete o.imageLarge; }
@@ -356,7 +472,10 @@ async function runDesk(desk) {
   };
   for (const sec of data.sectors) for (const ev of sec.items) { tidy(ev); (ev.reports || []).forEach(tidy); }
   for (const sec of data.sectors) for (const ev of sec.items) {
-    for (const r of ev.reports || []) { const f = imgByUrl.get(r.url); if (f && !r.image) { r.image = f.image; if (f.imageLarge) r.imageLarge = f.imageLarge; } }
+    for (const r of ev.reports || []) {
+      const f = imgByUrl.get(r.url); if (f && !r.image) { r.image = f.image; if (f.imageLarge) r.imageLarge = f.imageLarge; }
+      const g = sumByUrl.get(r.url); if (g && !r.summary) r.summary = g;
+    }
     if (!ev.image) { const r = (ev.reports || []).find(x => x.image); if (r) { ev.image = r.image; if (r.imageLarge) ev.imageLarge = r.imageLarge; backfilled++; } }
   }
   if (backfilled) console.log(`Added images to ${backfilled} existing stories`);
@@ -386,7 +505,7 @@ async function runDesk(desk) {
           reason: typeof r.reason === "string" ? r.reason.slice(0, 160) : "", checkedAt: new Date().toISOString() });
         continue;
       }
-      const report = { source: s.src, headline: s.headline, url: s.url, date: s.date, ...(s.image ? { image: s.image } : {}), ...(s.imageLarge ? { imageLarge: s.imageLarge } : {}) };
+      const report = { source: s.src, headline: s.headline, url: s.url, date: s.date, ...(s.summary && s.summary.length >= 40 ? { summary: s.summary.slice(0, 320) } : {}), ...(s.image ? { image: s.image } : {}), ...(s.imageLarge ? { imageLarge: s.imageLarge } : {}) };
       let target = null;
       if (typeof r.sameAs === "string") {
         target = r.sameAs.startsWith("item:") ? placed[+r.sameAs.slice(5)] : findEvent(r.sameAs);
@@ -414,14 +533,44 @@ async function runDesk(desk) {
   }
 
   const og = await fillShareImages(data);
-  if (og.tried) console.log(`Share images: found ${og.found} of ${og.tried} article pages tried`);
+  if (og.tried) console.log(`Article pages checked: ${og.tried} (photos found ${og.found}, summaries found ${og.summaries})`);
 
   for (const s of data.sectors) {
     const uniq = new Map(s.items.map(i => [i.id, i]));
-    s.items = [...uniq.values()].sort((a, b) => latest(b).localeCompare(latest(a))).slice(0, MAX_PER_SECTOR);
+    s.items = [...uniq.values()].sort((a, b) => latest(b).localeCompare(latest(a)));
   }
+  const everything = data.sectors.flatMap(s => s.items.map(i => Object.assign(i, { sector: s.id })));
+
+  // Story threads and their "How we got here" summaries
+  const th = await assignThreads(everything, threads, desk);
+  const sm = await refreshSummaries(everything, threads, desk);
+  console.log(`Threads: ${th.assigned} stories assigned, ${th.created} new threads; summaries written: ${sm.written}`);
+
+  // Monthly archive: every story, kept permanently
+  const byMonth = {};
+  for (const e of everything) (byMonth[monthOf(e)] ||= []).push(e);
+  await fs.mkdir(desk.archive, { recursive: true });
+  for (const [month, evs] of Object.entries(byMonth)) {
+    await fs.writeFile(`${desk.archive}/${month}.json`, JSON.stringify({ desk: desk.id, month, events: evs }) + "\n");
+  }
+  await fs.writeFile(`${desk.archive}/index.json`, JSON.stringify({ desk: desk.id, months: Object.keys(byMonth).sort().reverse().map(m => ({ month: m, count: byMonth[m].length })) }, null, 2) + "\n");
+
+  // Threads file: names, summaries and a lightweight timeline the site can show without loading archives
+  const refs = {};
+  for (const e of everything) if (e.thread && threads[e.thread]) (refs[e.thread] ||= []).push({ id: e.id, date: e.date, headline: e.headline, source: e.source, url: e.url, sector: e.sector, month: monthOf(e) });
+  for (const [id, t] of Object.entries(threads)) {
+    const list = (refs[id] || []).sort((a, b) => String(a.date || "").localeCompare(String(b.date || "")));
+    t.events = list; t.count = list.length;
+    if (list.length) { t.first = list[0].date; t.updated = list[list.length - 1].date || t.updated; t.latestHeadline = list[list.length - 1].headline; }
+  }
+  await fs.writeFile(desk.threads, JSON.stringify({ desk: desk.id, updatedAt: new Date().toISOString(), threads }, null, 1) + "\n");
+
+  // Main file for the site: the last RECENT_DAYS days (no per-sector cap)
+  const recentCut = Date.now() - RECENT_DAYS * 864e5;
+  for (const s of data.sectors) s.items = s.items.filter(i => { const t = Date.parse(latest(i)); return isNaN(t) || t >= recentCut; }).map(({ sector, ...rest }) => rest);
+  data.recentDays = RECENT_DAYS;
   data.updatedAt = new Date().toISOString();
-  data.lastRun = { analysed: fresh.length, added, merged, rejected: fresh.length && !failures ? fresh.length - added - merged : undefined, failedBatches: failures, feeds: feedHealth, shareImages: og };
+  data.lastRun = { analysed: fresh.length, added, merged, rejected: fresh.length && !failures ? fresh.length - added - merged : undefined, failedBatches: failures, feeds: feedHealth, shareImages: og, threads: th, summaries: sm };
 
   await fs.writeFile(desk.data, JSON.stringify(data, null, 2) + "\n");
   await fs.writeFile(desk.seen, JSON.stringify([...seen].slice(-MAX_SEEN)) + "\n");
