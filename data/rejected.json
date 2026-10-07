@@ -1,5 +1,45 @@
 [
   {
+    "source": "abc",
+    "headline": "Major Australian gambling companies face restrictions if NT bill passes",
+    "url": "https://www.abc.net.au/news/2026-10-08/online-gambling-regulation-nt-bill-inducements-deposit-caps/107229354",
+    "date": "2026-10-07T20:37:49.000Z",
+    "reason": "Australian state-level gambling regulation; no connection to India.",
+    "checkedAt": "2026-10-07T20:43:35.660Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Live: ASX set to fall, day after Wall St hit record highs",
+    "url": "https://www.abc.net.au/news/2026-10-08/asx-markets-business-news-live-updates-thursday-october-8/107241332",
+    "date": "2026-10-07T20:31:15.000Z",
+    "reason": "Australian market preview framed around domestic market moves; no clear path to India.",
+    "checkedAt": "2026-10-07T20:43:35.660Z"
+  },
+  {
+    "source": "aljazeera",
+    "headline": "US Republicans, independents express low trust in election integrity: Poll",
+    "url": "https://www.aljazeera.com/news/2026/10/7/us-republicans-independents-express-low-trust-in-election-integrity-poll",
+    "date": "2026-10-07T20:27:47.000Z",
+    "reason": "US domestic poll on election trust; no trade, tariff or foreign-policy shift mentioned.",
+    "checkedAt": "2026-10-07T20:43:35.660Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Spanish pensioner whose eviction sparked protests dies",
+    "url": "https://www.abc.net.au/news/2026-10-08/spanish-pensioner-whose-eviction-sparked-protests-dies/107241352",
+    "date": "2026-10-07T20:27:23.000Z",
+    "reason": "Spanish domestic housing and eviction story with no link to India.",
+    "checkedAt": "2026-10-07T20:43:35.660Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Aussies hit back at ex-players in build-up to first South Africa Test",
+    "url": "https://www.abc.net.au/news/2026-10-08/australia-south-africa-first-test-durban-travis-head/107241292",
+    "date": "2026-10-07T19:48:04.000Z",
+    "reason": "Australian cricket team commentary; no clear path to India's economy or society.",
+    "checkedAt": "2026-10-07T20:43:35.660Z"
+  },
+  {
     "source": "guardian",
     "headline": "FBI says it thwarted terrorist attack in Minnesota by an 18-year-old it supplied with an AK-47",
     "url": "https://www.theguardian.com/us-news/2026/oct/07/mall-of-america-thwarted-attack",
@@ -1157,46 +1197,6 @@
     "url": "https://www.aljazeera.com/news/2026/10/7/advocates-decry-unlawful-detention-of-kashmiri-filmmaker-by-ice-in-us",
     "date": "2026-10-07T08:35:23.000Z",
     "reason": "Individual immigration detention in the US; summary does not establish Indian citizenship or a policy shift.",
-    "checkedAt": "2026-10-07T09:10:50.415Z"
-  },
-  {
-    "source": "aljazeera",
-    "headline": "‘We’re short of resources’: France’s student protesters, in their own words",
-    "url": "https://www.aljazeera.com/news/2026/10/7/were-short-of-resources-frances-student-protesters-in-their-own-words",
-    "date": "2026-10-07T08:32:16.000Z",
-    "reason": "French school protests are a domestic matter with no path to India.",
-    "checkedAt": "2026-10-07T09:10:50.415Z"
-  },
-  {
-    "source": "aljazeera",
-    "headline": "Three years of Israel’s mass dispossession of West Bank Palestinians",
-    "url": "https://www.aljazeera.com/features/2026/10/7/three-years-of-israels-mass-dispossession-of-west-bank-palestinians",
-    "date": "2026-10-07T08:22:19.000Z",
-    "reason": "West Bank human rights story; no stated trade or energy route link to India.",
-    "checkedAt": "2026-10-07T09:10:50.415Z"
-  },
-  {
-    "source": "mercopress",
-    "headline": "Trump promises payments to voters ahead of midterms dominated by the cost of living",
-    "url": "https://en.mercopress.com/2026/10/07/trump-promises-payments-to-voters-ahead-of-midterms-dominated-by-the-cost-of-living",
-    "date": "2026-10-07T08:07:00.000Z",
-    "reason": "US domestic election politics with no stated trade, tariff or foreign-policy shift.",
-    "checkedAt": "2026-10-07T09:10:50.415Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "Police routinely failing to investigate ‘revenge porn’ in England and Wales",
-    "url": "https://www.theguardian.com/society/2026/oct/07/police-routinely-failing-to-investigate-revenge-porn-reports-research-shows",
-    "date": "2026-10-07T08:00:38.000Z",
-    "reason": "UK domestic policing and crime story; no path to India.",
-    "checkedAt": "2026-10-07T09:10:50.415Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "‘The nurse used the torch on her phone to do the op’: hospitals stripped of resources in Ukraine’s occupied territories",
-    "url": "https://www.theguardian.com/world/2026/oct/07/the-nurse-used-the-torch-on-her-phone-to-do-the-op-hospitals-stripped-of-resources-in-ukraines-occupied-territories",
-    "date": "2026-10-07T08:00:38.000Z",
-    "reason": "Humanitarian conditions in occupied Ukraine; no clear path to India.",
     "checkedAt": "2026-10-07T09:10:50.415Z"
   }
 ]

@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-07T20:34:33.340Z",
+  "updatedAt": "2026-10-07T20:43:48.600Z",
   "sectors": [
     {
       "id": "energy",
@@ -26,21 +26,27 @@
               "source": "mint",
               "headline": "Petrol and diesel prices today, October 5: Check fuel cost in Delhi, Mumbai, Bengaluru",
               "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-5-check-fuel-cost-in-delhi-mumbai-bengaluru-11791162475833.html",
-              "date": "2026-10-05T01:35:57.000Z"
+              "date": "2026-10-05T01:35:57.000Z",
+              "ogTried": true,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/2-0-1242954145-Petrol-pump-5-0_1679616097740_1791164084205_OKJ5_bda41fe0-81c3-4dea-abe2-424ca7f27e6e_DIaz.jpg"
             },
             {
               "source": "mint",
               "headline": "Petrol and diesel prices today, October 6: Check fuel cost in Delhi, Mumbai, Bengaluru",
               "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-6-check-fuel-cost-in-delhi-mumbai-bengaluru-11791255202771.html",
-              "date": "2026-10-06T03:23:12.000Z"
+              "date": "2026-10-06T03:23:12.000Z",
+              "ogTried": true,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/INDIA-ECONOMY-ENERGY-FUEL-1_1789954965148_dyX7_178_1791256870241_2Ntn_1791256870409_wZtQ_d30a2a6f-36c4-4ebf-b645-e8e6a179d557_mjD7.jpg"
             },
             {
               "source": "mint",
               "headline": "Petrol and diesel prices today, October 7: How much does fuel cost in Delhi, Mumbai, Bengaluru",
               "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-7-how-much-does-fuel-cost-in-delhi-mumbai-bengaluru-11791334212802.html",
-              "date": "2026-10-07T01:30:20.000Z"
+              "date": "2026-10-07T01:30:20.000Z",
+              "ogTried": true
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/INDIA-ECONOMY-ENERGY-FUEL-1_1789954965148_dyX7_178_1791256870241_2Ntn_1791256870409_wZtQ_d30a2a6f-36c4-4ebf-b645-e8e6a179d557_mjD7.jpg"
         },
         {
           "id": "s577zy8",
@@ -60,9 +66,12 @@
               "source": "mint",
               "headline": "US tariffs, missing cells, evening power gaps: inside India’s solar energy bottlenecks",
               "url": "https://www.livemint.com/news/india-solar-power-capacity-cell-panel-manufacturing-us-solar-tariffs-11791279430659.html",
-              "date": "2026-10-07T00:30:53.000Z"
+              "date": "2026-10-07T00:30:53.000Z",
+              "ogTried": true,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/Image_4_1736501707060_1791284409159_JU2I_691c5ff6-5f96-4059-bfc4-0d4d88fef58e_SM1h.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/Image_4_1736501707060_1791284409159_JU2I_691c5ff6-5f96-4059-bfc4-0d4d88fef58e_SM1h.jpg"
         },
         {
           "id": "sga3vnf",
@@ -129,9 +138,12 @@
               "source": "thehindu",
               "headline": "Anti-dam protests: Withdraw forces from Siang belt, demands Arunachal youth body",
               "url": "https://www.thehindu.com/news/national/arunachal-pradesh/anti-dam-protests-withdraw-forces-from-siang-belt-demands-arunachal-youth-body/article71551362.ece",
-              "date": "2026-10-06T12:57:55.000Z"
+              "date": "2026-10-06T12:57:55.000Z",
+              "ogTried": true,
+              "image": "https://th-i.thgim.com/public/incoming/o921c5/article71551596.ece/alternates/LANDSCAPE_1200/IMG_WhatsApp_Image_2025-_2_1_L2EEKIET.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/o921c5/article71551596.ece/alternates/LANDSCAPE_1200/IMG_WhatsApp_Image_2025-_2_1_L2EEKIET.jpg"
         },
         {
           "id": "sc90y8g",
@@ -247,9 +259,12 @@
               "source": "thehindu",
               "headline": "Government raises deepwater gas price ceiling to $9.89/MMBtu; APM gas cap at $7",
               "url": "https://www.thehindu.com/business/government-raises-deepwater-gas-price-ceiling-to-989mmbtu-apm-gas-cap-at-7/article71543103.ece",
-              "date": "2026-10-04T07:00:31.000Z"
+              "date": "2026-10-04T07:00:31.000Z",
+              "ogTried": true,
+              "image": "https://th-i.thgim.com/public/incoming/t0covb/article71543132.ece/alternates/LANDSCAPE_1200/iStock-481312160.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/t0covb/article71543132.ece/alternates/LANDSCAPE_1200/iStock-481312160.jpg"
         },
         {
           "id": "s1syvph9",
@@ -412,9 +427,12 @@
               "source": "thehindu",
               "headline": "Railways to recruit 5,664 staff and scrap 10,939 posts",
               "url": "https://www.thehindu.com/news/national/telangana/railways-to-recruit-5664-staff-and-scrap-10939-posts/article71555971.ece",
-              "date": "2026-10-07T15:32:21.000Z"
+              "date": "2026-10-07T15:32:21.000Z",
+              "ogTried": true,
+              "image": "https://www.thehindu.com/theme/images/og-image.png"
             }
-          ]
+          ],
+          "image": "https://www.thehindu.com/theme/images/og-image.png"
         },
         {
           "id": "s1io1kv0",
@@ -577,21 +595,27 @@
               "source": "mint",
               "headline": "Indians favour two-wheelers, but buses and trains dominate overnight travel: NSO survey",
               "url": "https://www.livemint.com/news/india/twowheelers-dominate-work-commute-buses-and-rail-drive-overnight-travel-nso-survey-11791202775009.html",
-              "date": "2026-10-05T14:19:40.000Z"
+              "date": "2026-10-05T14:19:40.000Z",
+              "ogTried": true,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/2-0-1420259121-20150327-BPL-MF-MN-Helmet-checking-_1791209515840_ROMW_1791209515957_FIjy_dd3530cd-ee03-4292-ae11-a60d6fc7b640_0bGW.jpg"
             },
             {
               "source": "thehindu",
               "headline": "Buses carry most overnight travellers, two-wheelers dominate the daily work commute",
               "url": "https://www.thehindu.com/news/national/buses-carry-most-overnight-travellers-two-wheelers-dominate-the-daily-work-commute/article71551659.ece",
-              "date": "2026-10-06T13:48:21.000Z"
+              "date": "2026-10-06T13:48:21.000Z",
+              "ogTried": true,
+              "image": "https://th-i.thgim.com/public/incoming/g2wlfz/article71551998.ece/alternates/LANDSCAPE_1200/05_mn%20KSRTC.jpg"
             },
             {
               "source": "mint",
               "headline": "Your gender dictates your path to work: men use two-wheelers, women walk or take a bus",
               "url": "https://www.livemint.com/news/national-household-travel-survey-workplace-mobility-women-gender-gap-commute-to-work-public-transport-11791344761602.html",
-              "date": "2026-10-07T05:15:17.000Z"
+              "date": "2026-10-07T05:15:17.000Z",
+              "ogTried": true
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/g2wlfz/article71551998.ece/alternates/LANDSCAPE_1200/05_mn%20KSRTC.jpg"
         },
         {
           "id": "s1su96hr",
@@ -610,15 +634,20 @@
               "source": "thehindu",
               "headline": "11 Indian crew injured after ship hit by projectile in Strait of Hormuz; India condemns attack",
               "url": "https://www.thehindu.com/news/national/indian-crew-attacked-in-mt-on-peace-vessel-attack-strait-of-hormuz/article71551158.ece",
-              "date": "2026-10-06T11:23:32.000Z"
+              "date": "2026-10-06T11:23:32.000Z",
+              "ogTried": true,
+              "image": "https://www.thehindu.com/theme/images/og-image.png"
             },
             {
               "source": "thehindu",
               "headline": "‘Targeting of commercial shipping must end’: India condemns latest attack on vessels",
               "url": "https://www.thehindu.com/news/national/targeting-of-commercial-shipping-must-end-india-condemns-latest-attack-on-vessels/article71551531.ece",
-              "date": "2026-10-06T13:32:21.000Z"
+              "date": "2026-10-06T13:32:21.000Z",
+              "ogTried": true,
+              "image": "https://th-i.thgim.com/public/incoming/k9d71f/article71551848.ece/alternates/LANDSCAPE_1200/Iran_Strait_of_Hormuz_62397.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/k9d71f/article71551848.ece/alternates/LANDSCAPE_1200/Iran_Strait_of_Hormuz_62397.jpg"
         },
         {
           "id": "s1myyjke",
@@ -638,9 +667,12 @@
               "source": "thehindu",
               "headline": "First international cargo vessel leaves eastern Assam since 1947",
               "url": "https://www.thehindu.com/news/national/assam/first-international-cargo-vessel-leaves-eastern-assam-since-1947/article71547112.ece",
-              "date": "2026-10-05T21:48:23.000Z"
+              "date": "2026-10-05T21:48:23.000Z",
+              "ogTried": true,
+              "image": "https://th-i.thgim.com/public/news/national/62tpsb/article71547604.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-05%20at%203.41.59%20PM.jpeg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/news/national/62tpsb/article71547604.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-05%20at%203.41.59%20PM.jpeg"
         },
         {
           "id": "s1d4ioxx",
@@ -791,15 +823,20 @@
               "source": "mint",
               "headline": "Industrial marketplace Pneucons disables UPI on orders from Oct 10, co-founder says ‘MDR ate 94% of our margins’",
               "url": "https://www.livemint.com/companies/news/industrial-marketplace-pneucons-disables-upi-on-orders-from-oct-10-co-founder-says-mdr-ate-94-of-our-margins-11791079493499.html",
-              "date": "2026-10-04T03:26:33.000Z"
+              "date": "2026-10-04T03:26:33.000Z",
+              "ogTried": true,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/digital_payment_1744967393921_1791084255437_cAm1_b7ff2efc-ac74-4699-8904-6257255d019c_BVDe.jpg"
             },
             {
               "source": "thehindu",
               "headline": "Textile merchants stage protest against UPI charge move in Kochi",
               "url": "https://www.thehindu.com/news/national/kerala/textile-merchants-stage-protest-against-upi-charge-move-in-kochi/article71556183.ece",
-              "date": "2026-10-07T15:31:17.000Z"
+              "date": "2026-10-07T15:31:17.000Z",
+              "ogTried": true,
+              "image": "https://www.thehindu.com/theme/images/og-image.png"
             }
-          ]
+          ],
+          "image": "https://www.thehindu.com/theme/images/og-image.png"
         },
         {
           "id": "s1oem4n8",
@@ -1182,9 +1219,12 @@
               "source": "mint",
               "headline": "Banks told to expand digital lending, financial inclusion outreach: DFS secretary",
               "url": "https://www.livemint.com/news/india/banks-told-to-expand-digital-lending-financial-inclusion-outreach-dfs-secretary-11791292801526.html",
-              "date": "2026-10-06T14:44:34.000Z"
+              "date": "2026-10-06T14:44:34.000Z",
+              "ogTried": true,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/INDIA-RUPEE-1_1742901214966_1791297715991_icsa_78aaf282-243e-428c-a101-c5fffcb574d1_4yNY.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/INDIA-RUPEE-1_1742901214966_1791297715991_icsa_78aaf282-243e-428c-a101-c5fffcb574d1_4yNY.jpg"
         },
         {
           "id": "szovftg",
@@ -1345,9 +1385,12 @@
               "source": "thehindu",
               "headline": "Most of rural agricultural workers landed in non-productive, informal urban jobs in 25 years: study",
               "url": "https://www.thehindu.com/news/national/most-of-rural-agricultural-workers-landed-in-non-productive-informal-urban-jobs-in-25-years-study/article71548198.ece",
-              "date": "2026-10-05T16:42:19.000Z"
+              "date": "2026-10-05T16:42:19.000Z",
+              "ogTried": true,
+              "image": "https://th-i.thgim.com/public/incoming/re0ryr/article71548647.ece/alternates/LANDSCAPE_1200/VSP05_Paddy%202.JPG"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/re0ryr/article71548647.ece/alternates/LANDSCAPE_1200/VSP05_Paddy%202.JPG"
         },
         {
           "id": "s1yuvx84",
@@ -1445,9 +1488,12 @@
               "source": "mint",
               "headline": "State borrowing to rise 26% to ₹3.6 tn in Q3 under new issuance strategy: ICRA",
               "url": "https://www.livemint.com/news/india/state-borrowing-set-to-rise-26-in-q3-as-26-states-adopt-new-issuance-strategy-icra-11791195674179.html",
-              "date": "2026-10-05T12:10:46.000Z"
+              "date": "2026-10-05T12:10:46.000Z",
+              "ogTried": true,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/Borrowing_1791202037919_04GS_1791202038101_2sfT_0acc3c4d-b150-4a2a-91bc-765255679c33_txrw.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/Borrowing_1791202037919_04GS_1791202038101_2sfT_0acc3c4d-b150-4a2a-91bc-765255679c33_txrw.jpg"
         },
         {
           "id": "s1jftzf",
@@ -1466,9 +1512,12 @@
               "source": "mint",
               "headline": "Trade talks need different templates for different partners, says FM Sitharaman",
               "url": "https://www.livemint.com/news/india/trade-talks-need-different-templates-for-different-partners-says-fm-sitharaman-11791185501564.html",
-              "date": "2026-10-05T09:12:44.000Z"
+              "date": "2026-10-05T09:12:44.000Z",
+              "ogTried": true,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/maxresdefault_1791192372693_NstX_1791192377020_R3Mg_c661a6dc-5acb-4c55-a9e0-1b49be76bf29_1fTM.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/maxresdefault_1791192372693_NstX_1791192377020_R3Mg_c661a6dc-5acb-4c55-a9e0-1b49be76bf29_1fTM.jpg"
         },
         {
           "id": "s1mycfju",
@@ -1536,9 +1585,12 @@
               "source": "thehindu",
               "headline": "RBI chief lays down 5 key priorities to maintain financial stability amidst emerging risks",
               "url": "https://www.thehindu.com/business/rbi-chief-lays-down-5-key-priorities-to-maintain-financial-stability-amidst-emerging-risks/article71540523.ece",
-              "date": "2026-10-03T15:43:33.000Z"
+              "date": "2026-10-03T15:43:33.000Z",
+              "ogTried": true,
+              "image": "https://th-i.thgim.com/public/incoming/du53oh/article71541490.ece/alternates/LANDSCAPE_1200/PTI10_03_2026_000447B.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/du53oh/article71541490.ece/alternates/LANDSCAPE_1200/PTI10_03_2026_000447B.jpg"
         },
         {
           "id": "s1h6wut9",
@@ -1557,9 +1609,12 @@
               "source": "thehindu",
               "headline": "RBI remains cautious on crypto, backs underlying technology: Governor Malhotra",
               "url": "https://www.thehindu.com/business/rbi-remains-cautious-on-crypto-backs-underlying-technology-governor-malhotra/article71540258.ece",
-              "date": "2026-10-03T10:15:48.000Z"
+              "date": "2026-10-03T10:15:48.000Z",
+              "ogTried": true,
+              "image": "https://th-i.thgim.com/public/incoming/gv9kyl/article71540274.ece/alternates/LANDSCAPE_1200/2026-09-22T084303Z_841991853_RC25GJAFCKJ1_RTRMADP_3_INDIA-MARKETS-RUPEE.JPG"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/gv9kyl/article71540274.ece/alternates/LANDSCAPE_1200/2026-09-22T084303Z_841991853_RC25GJAFCKJ1_RTRMADP_3_INDIA-MARKETS-RUPEE.JPG"
         },
         {
           "id": "sdvnmtt",
@@ -1650,9 +1705,12 @@
               "source": "mint",
               "headline": "Government procurement from MSEs hits ₹48,635 crore in H1 FY27, H2 seen stronger",
               "url": "https://www.livemint.com/industry/government-procurement-from-mses-hits-48-635-crore-in-h1-fy27-h2-seen-stronger-11790918187467.html",
-              "date": "2026-10-02T08:34:24.000Z"
+              "date": "2026-10-02T08:34:24.000Z",
+              "ogTried": true,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/pexels-photo-31047162_1790927758111_x7Vd_1790927772906_IvGN_5cd44102-94e4-4ef5-839a-e398fb045ebc_4jv5.jpeg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/pexels-photo-31047162_1790927758111_x7Vd_1790927772906_IvGN_5cd44102-94e4-4ef5-839a-e398fb045ebc_4jv5.jpeg"
         }
       ]
     },
@@ -1907,9 +1965,12 @@
               "source": "mint",
               "headline": "Tata's Assam chip unit is almost ready, and a non-China supply chain is in place",
               "url": "https://www.livemint.com/companies/news/tata-electronics-assam-semiconductor-chip-plant-11791089738819.html",
-              "date": "2026-10-05T00:30:22.000Z"
+              "date": "2026-10-05T00:30:22.000Z",
+              "ogTried": true,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/FILES-TAIWAN-TECHNOLOGY-EARNINGS-TSMC-1_1784200204_1791118534293_wstM_1791118534408_aVlt_c51fa56f-f861-4bdf-84cc-b0a9c787428b_vHbU.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/FILES-TAIWAN-TECHNOLOGY-EARNINGS-TSMC-1_1784200204_1791118534293_wstM_1791118534408_aVlt_c51fa56f-f861-4bdf-84cc-b0a9c787428b_vHbU.jpg"
         },
         {
           "id": "s14kr73a",
@@ -1959,9 +2020,12 @@
               "source": "mint",
               "headline": "Data centre pre-leasing doubles amid rising AI demand",
               "url": "https://www.livemint.com/industry/infotech/data-centre-pre-leasing-doubles-amid-rising-ai-demand-11790836267049.html",
-              "date": "2026-10-03T00:00:42.000Z"
+              "date": "2026-10-03T00:00:42.000Z",
+              "ogTried": true,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/g4d1235eeba32e338_1790949631925_zmm8_1790949632096_fsmf_79fdfdaf-3c54-48af-9e82-0c3c3dc274ef_pDZf.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/g4d1235eeba32e338_1790949631925_zmm8_1790949632096_fsmf_79fdfdaf-3c54-48af-9e82-0c3c3dc274ef_pDZf.jpg"
         },
         {
           "id": "sxssrch",
@@ -2027,9 +2091,12 @@
               "source": "mint",
               "headline": "Mint Explainer | Why state-owned BSNL is wary of Trai's proposed service quality rules",
               "url": "https://www.livemint.com/industry/telecom/bsnl-trai-quality-of-service-rules-objections-explained-11790925221858.html",
-              "date": "2026-10-02T08:31:34.000Z"
+              "date": "2026-10-02T08:31:34.000Z",
+              "ogTried": true,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/BSNL_1687370845781_1790932338206_snhV_924af13b-430d-453a-a49b-5db493d3022c_aqmg.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/BSNL_1687370845781_1790932338206_snhV_924af13b-430d-453a-a49b-5db493d3022c_aqmg.jpg"
         }
       ]
     },
@@ -2055,9 +2122,12 @@
               "source": "thehindu",
               "headline": "Revised SOP eases defence industry access to proof ranges, test facilities",
               "url": "https://www.thehindu.com/news/national/revised-sop-eases-defence-industry-access-to-proof-ranges-test-facilities/article71556406.ece",
-              "date": "2026-10-07T15:58:18.000Z"
+              "date": "2026-10-07T15:58:18.000Z",
+              "ogTried": true,
+              "image": "https://th-i.thgim.com/public/incoming/kpt5jn/article71556894.ece/alternates/LANDSCAPE_1200/PTI10_07_2026_000134A.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/kpt5jn/article71556894.ece/alternates/LANDSCAPE_1200/PTI10_07_2026_000134A.jpg"
         },
         {
           "id": "sf4u507",
@@ -2077,9 +2147,12 @@
               "source": "thehindu",
               "headline": "Defence Minister Rajnath Singh pitches indigenous aero-engine capability for AMCA",
               "url": "https://www.thehindu.com/news/national/defence-minister-rajnath-singh-pitches-indigenous-aero-engine-capability-for-amca/article71552354.ece",
-              "date": "2026-10-06T15:52:25.000Z"
+              "date": "2026-10-06T15:52:25.000Z",
+              "ogTried": true,
+              "image": "https://th-i.thgim.com/public/incoming/m9dmc/article71552663.ece/alternates/LANDSCAPE_1200/PTI10_06_2026_000488B.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/m9dmc/article71552663.ece/alternates/LANDSCAPE_1200/PTI10_06_2026_000488B.jpg"
         },
         {
           "id": "sqhnzu3",
@@ -2154,9 +2227,12 @@
               "source": "mint",
               "headline": "Beyond assembly: how India’s next telecom PLI wants to build the supply chain from within",
               "url": "https://www.livemint.com/news/india-new-telecom-pli-scheme-11791199089014.html",
-              "date": "2026-10-06T00:20:53.000Z"
+              "date": "2026-10-06T00:20:53.000Z",
+              "ogTried": true,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/India-s-service--telecom--computer-software---hard_1686156708193_1791211609398_msiy_83479a1a-4c4a-4ecf-a180-a9aa6486949a_Hjdp.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/India-s-service--telecom--computer-software---hard_1686156708193_1791211609398_msiy_83479a1a-4c4a-4ecf-a180-a9aa6486949a_Hjdp.jpg"
         },
         {
           "id": "s139nthu",
@@ -2205,15 +2281,20 @@
               "source": "mint",
               "headline": "New GRAP Rules in Delhi; Restrictions in NCR October 2026: Petrol vs Diesel vs CNG vs EV — Know car ban guidelines here",
               "url": "https://www.livemint.com/news/india/new-grap-rules-in-delhi-restrictions-in-ncr-october-2026-petrol-vs-diesel-vs-cng-vs-ev-know-car-ban-guidelines-here-11791207178162.html",
-              "date": "2026-10-05T15:01:35.000Z"
+              "date": "2026-10-05T15:01:35.000Z",
+              "ogTried": true,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/AI_1791210734809_8YhA_1791210735134_oQaE_a9762d20-e7d2-4339-9a8c-d5e116d205c0_xJEa.png"
             },
             {
               "source": "mint",
               "headline": "New GRAP Rules in Delhi; restrictions in NCR Oct 2026: These 8 states; older buses to be impacted - Imp for commuters",
               "url": "https://www.livemint.com/news/india/new-grap-rules-in-delhi-restrictions-in-ncr-oct-2026-these-8-states-older-buses-to-be-impacted-imp-for-commuters-11791350142318.html",
-              "date": "2026-10-07T05:21:29.000Z"
+              "date": "2026-10-07T05:21:29.000Z",
+              "ogTried": true,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/India-Air-Pollution-8_1731909354418_1791350184195_CrCj_dad0ac7c-c2e3-4a73-b161-c39351800a21_mn3u.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/AI_1791210734809_8YhA_1791210735134_oQaE_a9762d20-e7d2-4339-9a8c-d5e116d205c0_xJEa.png"
         },
         {
           "id": "s1y8cmtc",
@@ -2233,9 +2314,12 @@
               "source": "thehindu",
               "headline": "No ‘one size fits all’, says Environment Minister at Pre-COP31 climate summit meetings",
               "url": "https://www.thehindu.com/news/national/no-one-size-fits-all-says-environment-minister-at-pre-cop31-climate-summit-meetings/article71552406.ece",
-              "date": "2026-10-06T16:40:31.000Z"
+              "date": "2026-10-06T16:40:31.000Z",
+              "ogTried": true,
+              "image": "https://th-i.thgim.com/public/incoming/2t9w2i/article71552877.ece/alternates/LANDSCAPE_1200/20260915197L.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/2t9w2i/article71552877.ece/alternates/LANDSCAPE_1200/20260915197L.jpg"
         },
         {
           "id": "s1pikzq4",
@@ -2254,21 +2338,28 @@
               "source": "mint",
               "headline": "Supreme Court allows Great Nicobar project challenge to proceed in Calcutta HC",
               "url": "https://www.livemint.com/news/india/supreme-court-allows-great-nicobar-project-challenge-to-proceed-in-calcutta-hc-11791187657524.html",
-              "date": "2026-10-05T09:10:49.000Z"
+              "date": "2026-10-05T09:10:49.000Z",
+              "ogTried": true,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/PTI08-13-2026-000565A-0_1791190335435_Wc2e_1791190369028_P9k7_8b2f0472-2254-462d-923f-c58b4a8ecfbb_hmq7.jpg"
             },
             {
               "source": "thehindu",
               "headline": "Preservation of culture a fundamental right, says SC, refuses to stay Calcutta HC proceedings in Nicobar project case",
               "url": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/supreme-court-refuses-to-stay-calcutta-hc-order-in-great-nicobar-island-project-terms-preservation-of-culture-a-fundamental-right/article71546355.ece",
-              "date": "2026-10-05T10:25:03.000Z"
+              "date": "2026-10-05T10:25:03.000Z",
+              "ogTried": true,
+              "image": "https://th-i.thgim.com/public/incoming/szzymb/article71546602.ece/alternates/LANDSCAPE_1200/iStock-968845818.jpg"
             },
             {
               "source": "thehindu",
               "headline": "Supreme Court refuses to stay proceedings against Nicobar project",
               "url": "https://www.thehindu.com/sci-tech/energy-and-environment/supreme-court-refuses-to-stay-calcutta-hc-order-in-great-nicobar-island-project-terms-preservation-of-culture-a-fundamental-right/article71546355.ece",
-              "date": "2026-10-05T20:01:46.000Z"
+              "date": "2026-10-05T20:01:46.000Z",
+              "ogTried": true,
+              "image": "https://th-i.thgim.com/public/incoming/szzymb/article71546602.ece/alternates/LANDSCAPE_1200/iStock-968845818.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/szzymb/article71546602.ece/alternates/LANDSCAPE_1200/iStock-968845818.jpg"
         }
       ]
     },
@@ -2419,9 +2510,12 @@
               "source": "mint",
               "headline": "FSSAI flags Everest cumin powder as unsafe, orders immediate market recall: What food analyst report found",
               "url": "https://www.livemint.com/news/india/fssai-flags-everest-cumin-powder-as-unsafe-orders-immediate-market-recall-what-food-analyst-report-found-11791132343201.html",
-              "date": "2026-10-04T17:37:35.000Z"
+              "date": "2026-10-04T17:37:35.000Z",
+              "ogTried": true,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/maxresdefault_1791212040179_S9Tp_1791212046895_sLo1_7ac044f1-abe7-4ff6-a83a-3e685d939264_UQtE.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/maxresdefault_1791212040179_S9Tp_1791212046895_sLo1_7ac044f1-abe7-4ff6-a83a-3e685d939264_UQtE.jpg"
         }
       ]
     },
@@ -2447,9 +2541,12 @@
               "source": "thehindu",
               "headline": "State, UT-level Bankers’ Committees asked to report share of SC beneficiaries in jobs, loan subsidy schemes",
               "url": "https://www.thehindu.com/news/national/state-ut-level-bankers-committees-asked-to-report-share-of-sc-beneficiaries-in-jobs-loan-subsidy-schemes/article71555856.ece",
-              "date": "2026-10-07T14:58:05.000Z"
+              "date": "2026-10-07T14:58:05.000Z",
+              "ogTried": true,
+              "image": "https://www.thehindu.com/theme/images/og-image.png"
             }
-          ]
+          ],
+          "image": "https://www.thehindu.com/theme/images/og-image.png"
         },
         {
           "id": "s5x99w1",
@@ -2492,63 +2589,77 @@
               "source": "mint",
               "headline": "ECI Row: What happens when all three Election Commissioners disagree? Here's what the law says",
               "url": "https://www.livemint.com/news/india/eci-row-what-happens-when-all-three-election-commissioners-disagree-heres-what-the-law-says-11791182525314.html",
-              "date": "2026-10-05T06:53:21.000Z"
+              "date": "2026-10-05T06:53:21.000Z",
+              "ogTried": true,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/maxresdefault_live_1791187881655_Uqit_1791187888573_dwmc_55a32ca6-274b-4eef-8e74-e5ec0faed827_Nzbe.jpg"
             },
             {
               "source": "mint",
               "headline": "SIR row: Supreme Court refuses to pass interim order on suspending CEC Gyanesh Kumar, issues notices to EC, Centre",
               "url": "https://www.livemint.com/news/india/plea-in-sc-to-suspend-cec-gyanesh-kumar-supreme-court-issues-notice-ec-centre-what-we-know-so-far-11791186670022.html",
-              "date": "2026-10-05T07:58:17.000Z"
+              "date": "2026-10-05T07:58:17.000Z",
+              "ogTried": true,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/maxresdefault_live_1791193270742_Iu40_1791193278284_yvRm_56434b07-c324-4098-8b41-9585fef465ed_P7Dc.jpg"
             },
             {
               "source": "thehindu",
               "headline": "Supreme Court notice to ECI, Centre on plea challenging decisions taken by CEC-led poll panel",
               "url": "https://www.thehindu.com/news/national/supreme-court-notice-to-eci-centre-on-plea-challenging-decisions-taken-by-cec-led-poll-panel/article71546395.ece",
-              "date": "2026-10-05T09:14:57.000Z"
+              "date": "2026-10-05T09:14:57.000Z",
+              "ogTried": true,
+              "image": "https://th-i.thgim.com/public/incoming/1xq83c/article71546425.ece/alternates/LANDSCAPE_1200/IMG_Suprem_Court_3_1_EFGIQVEC.jpg"
             },
             {
               "source": "mint",
               "headline": "SC declines to suspend CEC Gyanesh Kumar, seeks response on poll body decisions",
               "url": "https://www.livemint.com/news/india/cec-gyanesh-kumar-sir-voter-list-india-supreme-court-order-on-cec-11791189277401.html",
-              "date": "2026-10-05T09:44:10.000Z"
+              "date": "2026-10-05T09:44:10.000Z",
+              "ogTried": true
             },
             {
               "source": "thehindu",
               "headline": "Protest against CEC Gyanesh Kumar LIVE: Supreme Court says changes to Form 6 not made by court, issues notice to ECI, Centre",
               "url": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-protest-live-updates-supreme-court-hearing-suspension-cjp-congress-delhi-mumbai-india/article71545740.ece",
-              "date": "2026-10-05T10:37:59.000Z"
+              "date": "2026-10-05T10:37:59.000Z",
+              "ogTried": true
             },
             {
               "source": "thehindu",
               "headline": "ECI fact-checks claims on Form 6 following SC observation",
               "url": "https://www.thehindu.com/news/national/eci-fact-checks-claims-on-form-6-following-sc-observation/article71548392.ece",
-              "date": "2026-10-05T16:27:29.000Z"
+              "date": "2026-10-05T16:27:29.000Z",
+              "ogTried": true
             },
             {
               "source": "thehindu",
               "headline": "CEC Gyanesh Kumar has lost public trust and must be removed, say former bureaucrats, activists",
               "url": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-has-lost-public-trust-and-must-be-removed-say-former-bureaucrats-activists/article71548097.ece",
-              "date": "2026-10-05T16:27:39.000Z"
+              "date": "2026-10-05T16:27:39.000Z",
+              "ogTried": true
             },
             {
               "source": "thehindu",
               "headline": "Key developments in the ECI row: A timeline",
               "url": "https://www.thehindu.com/news/national/key-developments-in-the-eci-row-a-timeline/article71552265.ece",
-              "date": "2026-10-07T07:21:03.000Z"
+              "date": "2026-10-07T07:21:03.000Z",
+              "ogTried": true
             },
             {
               "source": "thehindu",
               "headline": "CJI agrees to take a call on hearing a plea to recall split verdict in CEC appointments law case",
               "url": "https://www.thehindu.com/news/national/cji-agrees-to-take-a-call-on-hearing-a-plea-to-recall-split-verdict-in-cec-appointments-law-case/article71554566.ece",
-              "date": "2026-10-07T07:34:10.000Z"
+              "date": "2026-10-07T07:34:10.000Z",
+              "ogTried": true
             },
             {
               "source": "thehindu",
               "headline": "CEC row LIVE: SC to examine plea for recall of split verdict on law governing appointment of CEC, ECs",
               "url": "https://www.thehindu.com/news/national/cec-row-gyanesh-kumar-india-bloc-march-election-commission-sir-delhi-police-cjp-jantar-mantar-protest-live-updates-october-7-2026/article71554188.ece",
-              "date": "2026-10-07T08:39:29.000Z"
+              "date": "2026-10-07T08:39:29.000Z",
+              "ogTried": true
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/maxresdefault_live_1791187881655_Uqit_1791187888573_dwmc_55a32ca6-274b-4eef-8e74-e5ec0faed827_Nzbe.jpg"
         },
         {
           "id": "s1lwnfbc",
@@ -2567,21 +2678,26 @@
               "source": "mint",
               "headline": "Meet Justices Sunita Agarwal, DK Upadhyay, Aparesh Singh: Centre notifies appointment of 3 judges to Supreme Court",
               "url": "https://www.livemint.com/news/india/meet-justices-sunita-agarwal-dk-upadhyay-aparesh-singh-centre-notifies-appointment-of-3-judges-to-supreme-court-11791201406043.html",
-              "date": "2026-10-05T13:12:12.000Z"
+              "date": "2026-10-05T13:12:12.000Z",
+              "ogTried": true,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/Untitled_design_1791204887882_0XIk_1791204891252_0cbd_ca51a737-7215-4ad3-966f-f89400697639_McyR.png"
             },
             {
               "source": "thehindu",
               "headline": "Centre elevates three Chief Justices to Supreme Court",
               "url": "https://www.thehindu.com/news/national/centre-elevates-three-chief-justices-to-supreme-court/article71548242.ece",
-              "date": "2026-10-06T03:28:39.000Z"
+              "date": "2026-10-06T03:28:39.000Z",
+              "ogTried": true
             },
             {
               "source": "thehindu",
               "headline": "CJI Surya Kant administers oath to three new judges, judges count now 37 in Supreme Court",
               "url": "https://www.thehindu.com/news/national/cji-surya-kant-administers-oath-to-three-new-judges-judges-count-now-37-in-supreme-court/article71551291.ece",
-              "date": "2026-10-06T12:06:17.000Z"
+              "date": "2026-10-06T12:06:17.000Z",
+              "ogTried": true
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/Untitled_design_1791204887882_0XIk_1791204891252_0cbd_ca51a737-7215-4ad3-966f-f89400697639_McyR.png"
         },
         {
           "id": "s7j35ni",
@@ -2600,15 +2716,20 @@
               "source": "thehindu",
               "headline": "Panel on simultaneous elections Bills meets media personalities and economists",
               "url": "https://www.thehindu.com/news/national/panel-on-simultaneous-elections-bills-meets-media-personalities-and-economists/article71547172.ece",
-              "date": "2026-10-05T16:53:39.000Z"
+              "date": "2026-10-05T16:53:39.000Z",
+              "ogTried": true,
+              "image": "https://th-i.thgim.com/public/incoming/oty7du/article71547567.ece/alternates/LANDSCAPE_1200/01_Sagarikha_Ghose_14_05_Delhi.jpg"
             },
             {
               "source": "thehindu",
               "headline": "DMK MP defends the simultaneous polls panel’s plan to meet CJI",
               "url": "https://www.thehindu.com/news/national/dmk-mp-defends-the-simultaneous-polls-panels-plan-to-meet-cji/article71548610.ece",
-              "date": "2026-10-05T17:29:33.000Z"
+              "date": "2026-10-05T17:29:33.000Z",
+              "ogTried": true,
+              "image": "https://th-i.thgim.com/public/incoming/2zi4fo/article71548687.ece/alternates/LANDSCAPE_1200/10214_5_6_2026_14_9_58_4__SAT9034.JPG"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/oty7du/article71547567.ece/alternates/LANDSCAPE_1200/01_Sagarikha_Ghose_14_05_Delhi.jpg"
         },
         {
           "id": "s1ccvcrv",
@@ -2666,9 +2787,12 @@
               "source": "thehindu",
               "headline": "Health groups seek regulation of private hospital charges, medicine margins",
               "url": "https://www.thehindu.com/sci-tech/health/health-groups-seek-regulation-of-private-hospital-charges-medicine-margins/article71547153.ece",
-              "date": "2026-10-05T14:56:20.000Z"
+              "date": "2026-10-05T14:56:20.000Z",
+              "ogTried": true,
+              "image": "https://th-i.thgim.com/public/incoming/id8wme/article71548127.ece/alternates/LANDSCAPE_1200/iStock-1387686246.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/id8wme/article71548127.ece/alternates/LANDSCAPE_1200/iStock-1387686246.jpg"
         },
         {
           "id": "sped6ol",
@@ -2688,9 +2812,12 @@
               "source": "mint",
               "headline": "Aadhaar name correction new rules 2026: Which document do you need for spelling mistake, marriage or major name change?",
               "url": "https://www.livemint.com/news/india/aadhaar-name-correction-new-rules-2026-which-document-do-you-need-for-spelling-mistake-marriage-or-major-name-change-11791199334968.html",
-              "date": "2026-10-05T12:04:10.000Z"
+              "date": "2026-10-05T12:04:10.000Z",
+              "ogTried": true,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/Untitled_design_-_2026-10-05T170114.878_1791199862918_RM6l_1791199870166_6wEX_b2ccc1d3-06c4-4440-be19-8e4ee4cb5c4c_3uUy.png"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/Untitled_design_-_2026-10-05T170114.878_1791199862918_RM6l_1791199870166_6wEX_b2ccc1d3-06c4-4440-be19-8e4ee4cb5c4c_3uUy.png"
         },
         {
           "id": "s24g8zp",
@@ -2734,9 +2861,12 @@
               "source": "mint",
               "headline": "IndiaTech seeks rethink of turnover-linked gig worker social security levy",
               "url": "https://www.livemint.com/companies/indiatech-seeks-rethink-of-turnover-linked-gig-worker-social-security-levy-11791099731540.html",
-              "date": "2026-10-04T13:39:17.000Z"
+              "date": "2026-10-04T13:39:17.000Z",
+              "ogTried": true,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/Swiggy_Seal_customers_news_business_India_restaura_1729742744042_1791120913994_oOes_af7f6f3c-453d-4913-a66d-3bc0bceb7f6e_eHhm.JPG"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/Swiggy_Seal_customers_news_business_India_restaura_1729742744042_1791120913994_oOes_af7f6f3c-453d-4913-a66d-3bc0bceb7f6e_eHhm.JPG"
         }
       ]
     }
@@ -2757,10 +2887,10 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 2,
+    "analysed": 1,
     "added": 0,
     "merged": 0,
-    "rejected": 2,
+    "rejected": 1,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
@@ -2773,6 +2903,10 @@
         "feedsFailed": 0,
         "items": 210
       }
+    },
+    "shareImages": {
+      "tried": 54,
+      "found": 43
     }
   }
 }
