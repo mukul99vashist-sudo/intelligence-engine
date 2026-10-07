@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-07T15:26:02.502Z",
+  "updatedAt": "2026-10-07T16:35:18.709Z",
   "sectors": [
     {
       "id": "energy",
@@ -373,6 +373,27 @@
       "name": "Logistics & Shipping",
       "items": [
         {
+          "id": "sh9gabj",
+          "headline": "Railways to recruit 5,664 staff and scrap 10,939 posts",
+          "url": "https://www.thehindu.com/news/national/telangana/railways-to-recruit-5664-staff-and-scrap-10939-posts/article71555971.ece",
+          "source": "thehindu",
+          "date": "2026-10-07T15:32:21.000Z",
+          "relevance": "medium",
+          "why": "Railways' plan to recruit 5,664 staff while scrapping 10,939 posts signals a net cut in staffing at the national rail network.",
+          "implications": [
+            "Net loss of posts may reduce government job openings in railways for job seekers.",
+            "Leaner staffing could affect service delivery or workloads across the rail network, depending on which posts go."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Railways to recruit 5,664 staff and scrap 10,939 posts",
+              "url": "https://www.thehindu.com/news/national/telangana/railways-to-recruit-5664-staff-and-scrap-10939-posts/article71555971.ece",
+              "date": "2026-10-07T15:32:21.000Z"
+            }
+          ]
+        },
+        {
           "id": "s1io1kv0",
           "headline": "Govt scrambles to resolve Mumbai airport Terminal-1 shift",
           "url": "https://www.livemint.com/industry/govt-scrambles-to-resolve-mumbai-airport-terminal-1-shift-11791110756932.html",
@@ -636,6 +657,33 @@
       "id": "economy",
       "name": "Economy & Trade",
       "items": [
+        {
+          "id": "s1yug9lb",
+          "headline": "Industrial marketplace Pneucons disables UPI on orders from Oct 10, co-founder says ‘MDR ate 94% of our margins’",
+          "url": "https://www.livemint.com/companies/news/industrial-marketplace-pneucons-disables-upi-on-orders-from-oct-10-co-founder-says-mdr-ate-94-of-our-margins-11791079493499.html",
+          "source": "mint",
+          "date": "2026-10-04T03:26:33.000Z",
+          "relevance": "high",
+          "why": "A 0.4% merchant discount rate on larger UPI orders signals a shift in the cost of India's free-to-merchant digital payments system.",
+          "implications": [
+            "Businesses facing the charge on orders over ₹2,000 may cut UPI acceptance or pass costs to buyers.",
+            "Thin-margin B2B sellers could see higher payment costs, which may raise prices or push customers to other payment modes."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Industrial marketplace Pneucons disables UPI on orders from Oct 10, co-founder says ‘MDR ate 94% of our margins’",
+              "url": "https://www.livemint.com/companies/news/industrial-marketplace-pneucons-disables-upi-on-orders-from-oct-10-co-founder-says-mdr-ate-94-of-our-margins-11791079493499.html",
+              "date": "2026-10-04T03:26:33.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Textile merchants stage protest against UPI charge move in Kochi",
+              "url": "https://www.thehindu.com/news/national/kerala/textile-merchants-stage-protest-against-upi-charge-move-in-kochi/article71556183.ece",
+              "date": "2026-10-07T15:31:17.000Z"
+            }
+          ]
+        },
         {
           "id": "s1oem4n8",
           "headline": "RBI says NBFC ban on revolving credit is a clarification, not a new rule",
@@ -1361,27 +1409,6 @@
           ]
         },
         {
-          "id": "s1yug9lb",
-          "headline": "Industrial marketplace Pneucons disables UPI on orders from Oct 10, co-founder says ‘MDR ate 94% of our margins’",
-          "url": "https://www.livemint.com/companies/news/industrial-marketplace-pneucons-disables-upi-on-orders-from-oct-10-co-founder-says-mdr-ate-94-of-our-margins-11791079493499.html",
-          "source": "mint",
-          "date": "2026-10-04T03:26:33.000Z",
-          "relevance": "medium",
-          "why": "A 0.4% merchant discount rate on larger UPI orders signals a shift in the cost of India's free-to-merchant digital payments system.",
-          "implications": [
-            "Businesses facing the charge on orders over ₹2,000 may cut UPI acceptance or pass costs to buyers.",
-            "Thin-margin B2B sellers could see higher payment costs, which may raise prices or push customers to other payment modes."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "Industrial marketplace Pneucons disables UPI on orders from Oct 10, co-founder says ‘MDR ate 94% of our margins’",
-              "url": "https://www.livemint.com/companies/news/industrial-marketplace-pneucons-disables-upi-on-orders-from-oct-10-co-founder-says-mdr-ate-94-of-our-margins-11791079493499.html",
-              "date": "2026-10-04T03:26:33.000Z"
-            }
-          ]
-        },
-        {
           "id": "sf6w83h",
           "headline": "RBI chief lays down 5 key priorities to maintain financial stability amidst emerging risks",
           "url": "https://www.thehindu.com/business/rbi-chief-lays-down-5-key-priorities-to-maintain-financial-stability-amidst-emerging-risks/article71540523.ece",
@@ -1849,6 +1876,28 @@
       "name": "Manufacturing",
       "items": [
         {
+          "id": "suoxye3",
+          "headline": "Revised SOP eases defence industry access to proof ranges, test facilities",
+          "url": "https://www.thehindu.com/news/national/revised-sop-eases-defence-industry-access-to-proof-ranges-test-facilities/article71556406.ece",
+          "source": "thehindu",
+          "date": "2026-10-07T15:58:18.000Z",
+          "relevance": "medium",
+          "why": "Easier, cheaper access to test and proof facilities may speed up indigenous defence production and help startups and smaller firms across the sector.",
+          "implications": [
+            "Startups and MSMEs in iDEX and Make projects may save testing costs and get reserved proof-firing slots.",
+            "Faster testing could shorten development timelines for indigenous defence equipment in coming quarters.",
+            "Wider participation by smaller firms may deepen the domestic defence supply base over time."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Revised SOP eases defence industry access to proof ranges, test facilities",
+              "url": "https://www.thehindu.com/news/national/revised-sop-eases-defence-industry-access-to-proof-ranges-test-facilities/article71556406.ece",
+              "date": "2026-10-07T15:58:18.000Z"
+            }
+          ]
+        },
+        {
           "id": "sf4u507",
           "headline": "Defence Minister Rajnath Singh pitches indigenous aero-engine capability for AMCA",
           "url": "https://www.thehindu.com/news/national/defence-minister-rajnath-singh-pitches-indigenous-aero-engine-capability-for-amca/article71552354.ece",
@@ -2058,6 +2107,28 @@
       "id": "agriculture",
       "name": "Agriculture & Food",
       "items": [
+        {
+          "id": "sz2qhnw",
+          "headline": "Southwest monsoon withdrawal advances, rainfall to continue in several states",
+          "url": "https://www.livemint.com/news/southwest-monsoon-withdrawal-advances-rainfall-to-continue-in-several-states-11791379826460.html",
+          "source": "mint",
+          "date": "2026-10-07T16:20:11.000Z",
+          "relevance": "medium",
+          "why": "The pace of monsoon withdrawal shapes late-season rainfall, soil moisture and harvest conditions across much of India's farm belt.",
+          "implications": [
+            "Continued rain may delay harvesting of some kharif crops in affected states.",
+            "Added soil moisture could help rabi sowing preparations in some regions.",
+            "Prolonged rain could disrupt crop handling and may affect local food supply."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Southwest monsoon withdrawal advances, rainfall to continue in several states",
+              "url": "https://www.livemint.com/news/southwest-monsoon-withdrawal-advances-rainfall-to-continue-in-several-states-11791379826460.html",
+              "date": "2026-10-07T16:20:11.000Z"
+            }
+          ]
+        },
         {
           "id": "s3w84zn",
           "headline": "Why is the price of rice rising across the country? | Explained",
@@ -2498,10 +2569,10 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 104,
-    "added": 7,
-    "merged": 13,
-    "rejected": 84,
+    "analysed": 43,
+    "added": 3,
+    "merged": 1,
+    "rejected": 39,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {

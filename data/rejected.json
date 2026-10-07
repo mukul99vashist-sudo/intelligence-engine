@@ -1,5 +1,93 @@
 [
   {
+    "source": "abc",
+    "headline": "'Birthday gift to Putin': At least 20 killed in Russian strikes on Ukraine",
+    "url": "https://www.abc.net.au/news/2026-10-08/russia-strikes-kill-20-birthday-putin/107241102",
+    "date": "2026-10-07T16:24:35.000Z",
+    "reason": "Russian strikes on Ukrainian civilians, no stated trade or energy route link to India.",
+    "checkedAt": "2026-10-07T16:34:51.366Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "LA officials document first case of a rabid raccoon in more than 50 years",
+    "url": "https://www.theguardian.com/us-news/2026/oct/07/rabid-raccoon-case-los-angeles",
+    "date": "2026-10-07T16:16:30.000Z",
+    "reason": "Local Los Angeles public health case, no India link.",
+    "checkedAt": "2026-10-07T16:34:51.366Z"
+  },
+  {
+    "source": "bbc",
+    "headline": "Blue Planet III ventures into darkest depths of ocean",
+    "url": "https://www.bbc.co.uk/news/articles/c5pvgzvlepr1o",
+    "date": "2026-10-07T16:07:21.000Z",
+    "reason": "A nature documentary, no India relevance.",
+    "checkedAt": "2026-10-07T16:34:51.366Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Japan's beer brewers raided over claims they colluded to hike prices",
+    "url": "https://www.abc.net.au/news/2026-10-08/japan-raids-biggest-beer-brewers-over-price-collusion-claims/107241114",
+    "date": "2026-10-07T16:01:31.000Z",
+    "reason": "Japanese domestic price-fixing probe on beer, no India link.",
+    "checkedAt": "2026-10-07T16:34:51.366Z"
+  },
+  {
+    "source": "bbc",
+    "headline": "Israelis demand accountability over 7 October failures three years after attacks",
+    "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o",
+    "date": "2026-10-07T16:00:18.000Z",
+    "reason": "Israeli domestic accountability debate over 7 October, no India path described.",
+    "checkedAt": "2026-10-07T16:34:51.366Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "OpenAI’s release of mathematical findings draws concerns from experts",
+    "url": "https://www.theguardian.com/technology/2026/oct/07/openai-mathematical-findings-concerns",
+    "date": "2026-10-07T15:40:51.000Z",
+    "reason": "AI research release and expert concerns, no direct near-term India effect.",
+    "checkedAt": "2026-10-07T16:34:51.366Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "French wine industry facing historic low harvest after extreme summer heat",
+    "url": "https://www.theguardian.com/food/2026/oct/07/french-wine-industry-historic-low-harvest-extreme-summer-heat",
+    "date": "2026-10-07T15:40:11.000Z",
+    "reason": "France's domestic wine harvest, with no clear India trade or supply path.",
+    "checkedAt": "2026-10-07T16:34:51.366Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "Artists including Noel Gallagher show support for Garvaghy Road residents",
+    "url": "https://www.theguardian.com/uk-news/2026/oct/07/noel-gallagher-garvaghy-road-drumcree-parade-dispute",
+    "date": "2026-10-07T15:15:43.000Z",
+    "reason": "Northern Ireland local parade dispute, no link to India.",
+    "checkedAt": "2026-10-07T16:34:51.366Z"
+  },
+  {
+    "source": "aljazeera",
+    "headline": "How Israel’s genocide in Gaza pulled Britons into the Palestine movement",
+    "url": "https://www.aljazeera.com/news/2026/10/7/how-israels-genocide-in-gaza-pulled-britons-into-the-palestine-movement",
+    "date": "2026-10-07T15:13:21.000Z",
+    "reason": "About UK public activism over Gaza, with no direct path to India.",
+    "checkedAt": "2026-10-07T16:34:51.366Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "Tories accused of prioritising rich voters as Badenoch lays out inheritance tax cut plan",
+    "url": "https://www.theguardian.com/politics/2026/oct/07/tories-prioritising-rich-voters-inheritance-tax-cut-badenoch-conference-speech",
+    "date": "2026-10-07T14:19:22.000Z",
+    "reason": "UK domestic party tax policy proposal, no trade or foreign-policy link to India.",
+    "checkedAt": "2026-10-07T16:34:51.366Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "Millionaire tax no more? Rightwing groups lead effort to repeal Washington state law",
+    "url": "https://www.theguardian.com/us-news/2026/oct/07/washington-state-millionaire-tax",
+    "date": "2026-10-07T11:00:09.000Z",
+    "reason": "A US state tax ballot initiative with no clear path to India.",
+    "checkedAt": "2026-10-07T16:34:51.366Z"
+  },
+  {
     "source": "guardian",
     "headline": "Ex-Barclays traders jailed for rigging interest rates have convictions quashed",
     "url": "https://www.theguardian.com/business/2026/oct/07/former-barclays-traders-rigging-interest-rates-convictions-quashed-libor",
@@ -1110,93 +1198,5 @@
     "date": "2026-10-07T03:53:02.000Z",
     "reason": "Australian military training accident; no India path.",
     "checkedAt": "2026-10-07T09:10:01.080Z"
-  },
-  {
-    "source": "abc",
-    "headline": "What Paramount's Warner Bros takeover means for what we watch",
-    "url": "https://www.abc.net.au/news/2026-10-07/what-the-paramount-merger-could-mean-for-audiences/107238808",
-    "date": "2026-10-07T03:38:58.000Z",
-    "reason": "US media merger; no clear path to India.",
-    "checkedAt": "2026-10-07T09:10:01.080Z"
-  },
-  {
-    "source": "aljazeera",
-    "headline": "US stock market hits all-time high as investors continue to bet on AI",
-    "url": "https://www.aljazeera.com/economy/2026/10/7/us-stock-market-hits-all-time-high-as-investors-bet-big-on-ai",
-    "date": "2026-10-07T03:27:20.000Z",
-    "reason": "Framed around US equity market performance; no direct India path.",
-    "checkedAt": "2026-10-07T09:10:01.080Z"
-  },
-  {
-    "source": "abc",
-    "headline": "Sydney constable killed in car crash posthumously awarded honours, funeral told",
-    "url": "https://www.abc.net.au/news/2026-10-07/nsw-police-constable-mia-lay-funeral-service-sydney/107237288",
-    "date": "2026-10-07T03:26:31.000Z",
-    "reason": "Local Australian police news; no India path.",
-    "checkedAt": "2026-10-07T09:10:01.080Z"
-  },
-  {
-    "source": "abc",
-    "headline": "Family leaves court as detective describes finding bodies",
-    "url": "https://www.abc.net.au/news/2026-10-07/police-officer-discovers-bodies-beau-lamarre-condon-trial/107237650",
-    "date": "2026-10-07T03:17:48.000Z",
-    "reason": "Australian murder trial; no India path.",
-    "checkedAt": "2026-10-07T09:10:01.080Z"
-  },
-  {
-    "source": "abc",
-    "headline": "Long-serving Catholic bishop who sexually abused young Indigenous men jailed",
-    "url": "https://www.abc.net.au/news/2026-10-07/ex-broome-bishop-christopher-saunders-sentenced-for-sexual-abuse/107236542",
-    "date": "2026-10-07T02:30:23.000Z",
-    "reason": "Australian criminal sentencing; no India path.",
-    "checkedAt": "2026-10-07T09:10:01.080Z"
-  },
-  {
-    "source": "bbc",
-    "headline": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
-    "url": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo",
-    "date": "2026-10-06T20:40:01.000Z",
-    "reason": "US domestic sexual assault law debate; no India path.",
-    "checkedAt": "2026-10-07T09:10:01.080Z"
-  },
-  {
-    "source": "bbc",
-    "headline": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
-    "url": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo",
-    "date": "2026-10-06T19:53:45.000Z",
-    "reason": "US criminal case with no link to India.",
-    "checkedAt": "2026-10-07T09:10:01.080Z"
-  },
-  {
-    "source": "bbc",
-    "headline": "What is pneumonic plague and how does it spread?",
-    "url": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o",
-    "date": "2026-10-06T15:35:22.000Z",
-    "reason": "Single death at a Russian lab; no stated path to India.",
-    "checkedAt": "2026-10-07T09:10:01.080Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "Friends of Nolan Wells sue NFL Hall of Famer Terrell Owens for defamation",
-    "url": "https://www.theguardian.com/us-news/2026/oct/06/nolan-wells-friends-terrell-owens-defamation",
-    "date": "2026-10-07T02:04:38.000Z",
-    "reason": "US defamation lawsuit involving private individuals with no India link.",
-    "checkedAt": "2026-10-07T02:28:48.984Z"
-  },
-  {
-    "source": "abc",
-    "headline": "News anchor Richard Morecroft remembered as a 'great Australian'",
-    "url": "https://www.abc.net.au/news/2026-10-07/nsw-journalists-pay-tribute-to-news-anchor-richard-morecroft/107237684",
-    "date": "2026-10-07T02:00:20.000Z",
-    "reason": "Obituary of an Australian TV presenter with no India link.",
-    "checkedAt": "2026-10-07T02:28:48.984Z"
-  },
-  {
-    "source": "bbc",
-    "headline": "From 'woke' ridicule to real car - new electric Jaguar unveiled",
-    "url": "https://www.bbc.co.uk/news/articles/c6je50ydld31o",
-    "date": "2026-10-07T01:59:24.000Z",
-    "reason": "Car model launch story with no clear economy-wide path to India.",
-    "checkedAt": "2026-10-07T02:28:48.984Z"
   }
 ]
