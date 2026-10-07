@@ -310,6 +310,8 @@ var OWNER="mukul99vashist-sudo", REPO="intelligence-engine";
 var REFRESH_MS=2*60*1000, GRID_SHOW=12;
 // Publisher images are linked from each outlet's own servers. Set to false to turn them off site-wide.
 var SHOW_IMAGES=true;
+// Sector artwork for stories without a photo. Off: such stories show the text-only card instead.
+var SECTOR_ART=false;
 var VIEWS={
   global:  {data:"india.json",          rejected:"rejected.json",          sub:"How today's world news reaches India.",   why:"Why it reaches India", seen:"ie.seen.v1"},
   domestic:{data:"india-domestic.json", rejected:"rejected-domestic.json", sub:"The developments shaping India today.",    why:"Why it matters",       seen:"ie.seen.domestic.v1"}
@@ -369,13 +371,15 @@ function art(sid){ var w=el("div","thumb art"); w.style.setProperty("--sc","var(
 /* Publisher photo when available; otherwise (or if it fails to load) the sector artwork. */
 function thumb(it, sid){
   var src=SHOW_IMAGES && (it.imageLarge||it.image);
-  if(!src) return art(sid);
+  if(!src) return SECTOR_ART ? art(sid) : null;
   var w=el("div","thumb"), img=document.createElement("img");
   img.alt=""; img.loading="lazy"; img.decoding="async"; img.referrerPolicy="no-referrer";
   img.addEventListener("error",function(){
     if(it.image && img.getAttribute("src")!==it.image){ img.src=it.image; return; }   // larger size unavailable: use the original
     var cap=w.parentNode && w.parentNode.querySelector("figcaption"); if(cap) cap.remove();
-    w.replaceWith(art(sid));
+    if(SECTOR_ART){ w.replaceWith(art(sid)); return; }
+    var c=w.closest(".card"); if(c) c.classList.remove("has-img");
+    var f=w.closest("figure"); (f||w).remove();
   });
   img.src=src; w.appendChild(img); return w;
 }
@@ -387,14 +391,14 @@ function card(e, big){
   var it=e.it, c=el("button","card"); c.type="button";
   c.style.setProperty("--sc","var(--s-"+e.sector.id+")");
   var t=thumb(it, e.sector.id), box=big?el("div","txt"):c;
-  c.classList.add("has-img"); if(!big) c.appendChild(t);
+  if(t){ c.classList.add("has-img"); if(!big) c.appendChild(t); }
   var k=el("span","kicker",(big?"Top story · ":"")+e.sector.name);
   if(!firstVisit && !seenBefore[it.id]) k.appendChild(el("span","new","New"));
   box.appendChild(k);
   box.appendChild(el("h3","head",it.headline));
   if(big && it.why) box.appendChild(el("p","why",it.why));
   box.appendChild(byline(it, true));
-  if(big){ c.appendChild(box); c.appendChild(t); }
+  if(big){ c.appendChild(box); if(t) c.appendChild(t); }
   c.setAttribute("aria-haspopup","dialog");
   c.addEventListener("click",function(){ openSheet(e); });
   return c;
@@ -479,11 +483,12 @@ function render(doc){
 function openSheet(e){
   var it=e.it, d=$("sheet"), body=$("sheetBody"); body.textContent=""; body.scrollTop=0;
   body.style.setProperty("--sc","var(--s-"+e.sector.id+")");
-  var ht=thumb(it, e.sector.id), fig=el("figure","hero"); fig.appendChild(ht);
-  if(!ht.classList.contains("art")){ var cr=imageCredit(it), cap=el("figcaption");
+  var ht=thumb(it, e.sector.id), fig=el("figure","hero");
+  if(ht) fig.appendChild(ht);
+  if(ht && !ht.classList.contains("art")){ var cr=imageCredit(it), cap=el("figcaption");
     cap.appendChild(document.createTextNode("Image via ")); var ca=el("a",null,OUTLET[cr.source]||cr.source); ca.href=cr.url; ca.target="_blank"; ca.rel="noopener"; cap.appendChild(ca);
     fig.appendChild(cap); }
-  body.appendChild(fig);
+  if(ht) body.appendChild(fig);
   var head=el("div","head-area");
   var k=el("span","kicker",e.sector.name); k.style.setProperty("--sc","var(--s-"+e.sector.id+")"); head.appendChild(k);
   var h=el("h2",null,it.headline); h.id="sheetTitle"; head.appendChild(h);
