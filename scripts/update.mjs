@@ -99,6 +99,21 @@ function tag(block, name) {
   const m = new RegExp(`<${name}[^>]*>([\\s\\S]*?)</${name}>`).exec(block);
   return m ? decode(m[1].trim()) : "";
 }
+// The publisher's summary is the FIRST paragraph of the feed description (e.g. the Guardian's subtitle);
+// later paragraphs are the article body, which we don't use.
+export function firstParagraph(html) {
+  const parts = String(html || "").split(/<\/p>|<br\s*\/?>|\n\s*\n/i);
+  for (const p of parts) { const t = plain(p); if (t.length >= 20) return t; }
+  return plain(html);
+}
+export function trimSentence(text, max = 320) {
+  const t = String(text || "").trim();
+  if (t.length <= max) return t;
+  const cut = t.slice(0, max), m = cut.match(/^[\s\S]*[.!?]["'’”)]?(?=\s|$)/);
+  if (m && m[0].length >= 30) return m[0];
+  return cut.replace(/\s+\S*$/, "") + "…";
+}
+const SUMMARY_V = 2;   // bump to re-derive stored publisher summaries
 function plain(s) { return decode(String(s || "").replace(/<[^>]+>/g, " ")).replace(/\s+/g, " ").trim().slice(0, 400); }
 // Skip formats that duplicate an article or aren't reporting: videos, live blogs, opinion, sport, podcasts.
 function skip(title, link) {
@@ -152,8 +167,8 @@ export function imageOf(block) {
   return out;
 }
 // For stories whose feed has no picture: read the article page's share image (og:image / twitter:image).
-const OG_FETCH_LIMIT = 60;     // article pages opened per desk per run
-const OG_CONCURRENCY = 6;
+const OG_FETCH_LIMIT = 250;    // article pages opened per desk per run (high enough to catch up in one run)
+const OG_CONCURRENCY = 8;
 export function ogImageFromHtml(html) {
   const metas = String(html || "").match(/<meta\b[^>]*>/gi) || [];
   const found = {};
@@ -175,7 +190,7 @@ export function ogDescriptionFromHtml(html) {
     const key = (attr(m, "property") || attr(m, "name")).toLowerCase();
     if (key === "og:description" || key === "description" || key === "twitter:description") {
       const c = plain(unescapeHtml(attr(m, "content")));
-      if (c && c.length >= 40) return c.slice(0, 320);
+      if (c && c.length >= 40) return trimSentence(c);
     }
   }
   return null;
@@ -209,7 +224,7 @@ async function fillShareImages(data) {
     r.ogTried = true; r.descTried = true;
     const page = await fetchOgImage(r.url);
     if (!page) return;
-    if (page.description && !r.summary) { r.summary = page.description; summaries++; }
+    if (page.description && !r.summary) { r.summary = page.description; r.summaryV = SUMMARY_V; summaries++; }
     if (page.image && !ev.image && !r.image) { r.image = page.image; ev.image = page.image; found++; }
   });
   return { tried: jobs.length, found, summaries };
@@ -305,7 +320,7 @@ export function parseRss(xml, src) {
   const items = [];
   for (const m of xml.matchAll(/<item>([\s\S]*?)<\/item>/g)) {
     const b = m[1];
-    const title = plain(tag(b, "title")), link = cleanUrl(tag(b, "link")), summary = plain(tag(b, "description"));
+    const title = plain(tag(b, "title")), link = cleanUrl(tag(b, "link")), summary = trimSentence(firstParagraph(tag(b, "description")));
     const pub = Date.parse(tag(b, "pubDate") || tag(b, "dc:date"));
     if (!title || !link || skip(title, link)) continue;
     items.push({ src, headline: title, url: link, summary, date: isNaN(pub) ? null : new Date(pub).toISOString(), ...(imageOf(b) || {}) });
@@ -464,9 +479,10 @@ async function runDesk(desk) {
   const fetched = await fetchFeeds(desk.feeds);
   // Backfill images onto stories already on the desk (no re-analysis needed).
   const imgByUrl = new Map(fetched.filter(i => i.image).map(i => [i.url, i]));
-  const sumByUrl = new Map(fetched.filter(i => i.summary && i.summary.length >= 40).map(i => [i.url, i.summary.slice(0, 320)]));
+  const sumByUrl = new Map(fetched.filter(i => i.summary && i.summary.length >= 40).map(i => [i.url, i.summary]));
   let backfilled = 0;
   const tidy = o => {
+    if (o.summary && o.summaryV !== SUMMARY_V) { delete o.summary; delete o.descTried; }
     if (o.image && isJunkImage(o.image)) { delete o.image; delete o.imageLarge; }
     if (o.image && !o.imageLarge) { const up = imageOf(`<media:content url="${o.image}"/>`); if (up && up.imageLarge) o.imageLarge = up.imageLarge; }
   };
@@ -474,7 +490,7 @@ async function runDesk(desk) {
   for (const sec of data.sectors) for (const ev of sec.items) {
     for (const r of ev.reports || []) {
       const f = imgByUrl.get(r.url); if (f && !r.image) { r.image = f.image; if (f.imageLarge) r.imageLarge = f.imageLarge; }
-      const g = sumByUrl.get(r.url); if (g && !r.summary) r.summary = g;
+      const g = sumByUrl.get(r.url); if (g && !r.summary) { r.summary = g; r.summaryV = SUMMARY_V; }
     }
     if (!ev.image) { const r = (ev.reports || []).find(x => x.image); if (r) { ev.image = r.image; if (r.imageLarge) ev.imageLarge = r.imageLarge; backfilled++; } }
   }
@@ -505,7 +521,7 @@ async function runDesk(desk) {
           reason: typeof r.reason === "string" ? r.reason.slice(0, 160) : "", checkedAt: new Date().toISOString() });
         continue;
       }
-      const report = { source: s.src, headline: s.headline, url: s.url, date: s.date, ...(s.summary && s.summary.length >= 40 ? { summary: s.summary.slice(0, 320) } : {}), ...(s.image ? { image: s.image } : {}), ...(s.imageLarge ? { imageLarge: s.imageLarge } : {}) };
+      const report = { source: s.src, headline: s.headline, url: s.url, date: s.date, ...(s.summary && s.summary.length >= 40 ? { summary: s.summary, summaryV: SUMMARY_V } : {}), ...(s.image ? { image: s.image } : {}), ...(s.imageLarge ? { imageLarge: s.imageLarge } : {}) };
       let target = null;
       if (typeof r.sameAs === "string") {
         target = r.sameAs.startsWith("item:") ? placed[+r.sameAs.slice(5)] : findEvent(r.sameAs);
