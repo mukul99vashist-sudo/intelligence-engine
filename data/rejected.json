@@ -1,5 +1,29 @@
 [
   {
+    "source": "guardian",
+    "headline": "Family of student who took his own life say university ‘will be held to account’",
+    "url": "https://www.theguardian.com/education/2026/oct/07/family-student-ethan-scott-brown-university-glasgow-accountable",
+    "date": "2026-10-07T21:52:59.000Z",
+    "reason": "UK university and personal tragedy story with no clear India link.",
+    "checkedAt": "2026-10-07T22:12:31.756Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Adelaide 36ers coach claims he was 'targeted' by refs in United loss",
+    "url": "https://www.abc.net.au/news/2026-10-08/nbl-adelaide-36ers-trevor-gleeson-referees-melbourne-united/107241520",
+    "date": "2026-10-07T21:50:26.000Z",
+    "reason": "Australian domestic basketball refereeing dispute with no India link.",
+    "checkedAt": "2026-10-07T22:12:31.756Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Woman charged with manslaughter over alleged road rage hit-and-run",
+    "url": "https://www.abc.net.au/news/2026-10-08/woman-charged-with-manslaughter-over-trevor-fleet-death/107241342",
+    "date": "2026-10-07T21:41:35.000Z",
+    "reason": "Local Australian crime story with no path to India.",
+    "checkedAt": "2026-10-07T22:12:31.756Z"
+  },
+  {
     "source": "abc",
     "headline": "Live: Blakey chase intensifies as blockbuster AFL trade looms",
     "url": "https://www.abc.net.au/news/2026-10-08/afl-trade-period-live-blog-thursday-october-8/107239586",
@@ -1173,30 +1197,6 @@
     "url": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry",
     "date": "2026-10-07T10:05:54.000Z",
     "reason": "Science prize announcement with no economic or policy path to India.",
-    "checkedAt": "2026-10-07T15:24:13.574Z"
-  },
-  {
-    "source": "bbc",
-    "headline": "How did Christa Pike survive two lethal injections - and what happens now?",
-    "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo",
-    "date": "2026-10-07T10:01:47.000Z",
-    "reason": "US criminal justice story with no India link.",
-    "checkedAt": "2026-10-07T15:24:13.574Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "Skepticism mires Trump’s Iowa steel plant project: ‘Promises are not the same as jobs’",
-    "url": "https://www.theguardian.com/business/2026/oct/07/trump-steel-plant-iowa-skepticism",
-    "date": "2026-10-07T10:00:40.000Z",
-    "reason": "US domestic industrial project; no stated trade or tariff shift affecting India.",
-    "checkedAt": "2026-10-07T15:24:13.574Z"
-  },
-  {
-    "source": "bbc",
-    "headline": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
-    "url": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o",
-    "date": "2026-10-07T09:49:31.000Z",
-    "reason": "Sri Lankan domestic criminal case; no trade, energy or policy shift described.",
     "checkedAt": "2026-10-07T15:24:13.574Z"
   }
 ]
