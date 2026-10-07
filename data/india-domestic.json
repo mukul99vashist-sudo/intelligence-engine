@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-07T02:29:16.207Z",
+  "updatedAt": "2026-10-07T09:12:34.044Z",
   "sectors": [
     {
       "id": "energy",
@@ -391,6 +391,52 @@
               "headline": "‘Longer but safer’ routes may beat speed: France says IMEC ‘more necessary amid Gaza, Iran, Hormuz crises’",
               "url": "https://www.livemint.com/news/world/longer-but-safer-routes-may-beat-speed-france-says-imec-more-necessary-amid-gaza-iran-hormuz-crises-11791303247567.html",
               "date": "2026-10-06T17:12:21.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "‘Cannot compare’: French envoy on why IMEC’s financing model is ‘very different’ from China’s BRI | Exclusive",
+              "url": "https://www.livemint.com/news/world/cannot-compare-french-envoy-on-why-imec-s-financing-model-is-very-different-from-china-s-bri-exclusive-11791343053450.html",
+              "date": "2026-10-07T04:18:40.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Egypt, Lebanon, Oman, Cyprus keen to join: ‘Multiple routes’ key for IMEC amid Hormuz crisis, says French envoy",
+              "url": "https://www.livemint.com/news/world/egypt-lebanon-oman-cyprus-keen-to-join-multiple-routes-key-for-imec-amid-hormuz-crisis-says-french-envoy-11791352889250.html",
+              "date": "2026-10-07T07:07:02.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1jctn2o",
+          "headline": "Indians favour two-wheelers, but buses and trains dominate overnight travel: NSO survey",
+          "url": "https://www.livemint.com/news/india/twowheelers-dominate-work-commute-buses-and-rail-drive-overnight-travel-nso-survey-11791202775009.html",
+          "source": "mint",
+          "date": "2026-10-05T14:19:40.000Z",
+          "relevance": "medium",
+          "why": "The first national travel survey gives official data on how Indians commute and travel, which can guide transport planning and public investment.",
+          "implications": [
+            "Findings on buses and trains for overnight travel may shape public transport and rail capacity planning.",
+            "Dominance of two-wheelers could influence fuel demand, road and urban mobility policy over time.",
+            "Better travel data may help states and operators plan services for work and education journeys."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Indians favour two-wheelers, but buses and trains dominate overnight travel: NSO survey",
+              "url": "https://www.livemint.com/news/india/twowheelers-dominate-work-commute-buses-and-rail-drive-overnight-travel-nso-survey-11791202775009.html",
+              "date": "2026-10-05T14:19:40.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Buses carry most overnight travellers, two-wheelers dominate the daily work commute",
+              "url": "https://www.thehindu.com/news/national/buses-carry-most-overnight-travellers-two-wheelers-dominate-the-daily-work-commute/article71551659.ece",
+              "date": "2026-10-06T13:48:21.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Your gender dictates your path to work: men use two-wheelers, women walk or take a bus",
+              "url": "https://www.livemint.com/news/national-household-travel-survey-workplace-mobility-women-gender-gap-commute-to-work-public-transport-11791344761602.html",
+              "date": "2026-10-07T05:15:17.000Z"
             }
           ]
         },
@@ -449,34 +495,6 @@
               "headline": "Govt pauses Adani plan to move Mumbai international flights, gives airlines more time",
               "url": "https://www.livemint.com/industry/govt-pauses-adani-plan-to-move-mumbai-international-flights-gives-airlines-more-time-11791294877943.html",
               "date": "2026-10-06T15:16:39.000Z"
-            }
-          ]
-        },
-        {
-          "id": "s1jctn2o",
-          "headline": "Indians favour two-wheelers, but buses and trains dominate overnight travel: NSO survey",
-          "url": "https://www.livemint.com/news/india/twowheelers-dominate-work-commute-buses-and-rail-drive-overnight-travel-nso-survey-11791202775009.html",
-          "source": "mint",
-          "date": "2026-10-05T14:19:40.000Z",
-          "relevance": "medium",
-          "why": "The first national travel survey gives official data on how Indians commute and travel, which can guide transport planning and public investment.",
-          "implications": [
-            "Findings on buses and trains for overnight travel may shape public transport and rail capacity planning.",
-            "Dominance of two-wheelers could influence fuel demand, road and urban mobility policy over time.",
-            "Better travel data may help states and operators plan services for work and education journeys."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "Indians favour two-wheelers, but buses and trains dominate overnight travel: NSO survey",
-              "url": "https://www.livemint.com/news/india/twowheelers-dominate-work-commute-buses-and-rail-drive-overnight-travel-nso-survey-11791202775009.html",
-              "date": "2026-10-05T14:19:40.000Z"
-            },
-            {
-              "source": "thehindu",
-              "headline": "Buses carry most overnight travellers, two-wheelers dominate the daily work commute",
-              "url": "https://www.thehindu.com/news/national/buses-carry-most-overnight-travellers-two-wheelers-dominate-the-daily-work-commute/article71551659.ece",
-              "date": "2026-10-06T13:48:21.000Z"
             }
           ]
         },
@@ -637,6 +655,169 @@
               "headline": "GST Council may weigh wider data sharing, rare disease tax relief on Thursday",
               "url": "https://www.livemint.com/economy/gst-council-may-open-tax-data-for-wider-economic-use-consider-rare-disease-relief-11791293979209.html",
               "date": "2026-10-07T00:35:54.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Mint Explainer | GST Council meeting: what could change for refunds, enforcement and rate changes",
+              "url": "https://www.livemint.com/news/india/gst-council-meeting-proposals-refunds-itc-enforcement-11791358522734.html",
+              "date": "2026-10-07T08:59:26.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sba6wbd",
+          "headline": "RBI raises repo rate by 25 basis points to 5.50%, shifts stance to ‘calibrated tightening’",
+          "url": "https://www.thehindu.com/business/Economy/rbi-hikes-repo-rate-by-25-basis-points-to-55/article71554369.ece",
+          "source": "thehindu",
+          "date": "2026-10-07T07:01:08.000Z",
+          "relevance": "high",
+          "why": "The first repo rate hike in about three and a half years, with a tightening stance, signals the RBI is moving to contain inflation.",
+          "implications": [
+            "Home, auto and business loan EMIs linked to the repo rate may rise in coming weeks.",
+            "Bank deposit rates could edge up, helping savers.",
+            "Higher borrowing costs may slow credit-driven spending and investment."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "RBI raises repo rate by 25 basis points to 5.50%, shifts stance to ‘calibrated tightening’",
+              "url": "https://www.thehindu.com/business/Economy/rbi-hikes-repo-rate-by-25-basis-points-to-55/article71554369.ece",
+              "date": "2026-10-07T07:01:08.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "RBI MPC meeting highlights: Repo rate hiked to 5.5%; rate cuts off the table in near term, Governor Sanjay Malhotra says",
+              "url": "https://www.thehindu.com/business/rbi-monetary-policy-meeting-decision-on-repo-rate-live-updates-october-7-2026/article71554262.ece",
+              "date": "2026-10-07T07:41:50.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1ne9viz",
+          "headline": "RBI to make account aggregators interoperable; integrate demat and deposit data",
+          "url": "https://www.livemint.com/industry/banking/rbi-account-aggregators-customer-interoperable-demat-deposit-data-11791352175137.html",
+          "source": "mint",
+          "date": "2026-10-07T07:15:56.000Z",
+          "relevance": "medium",
+          "why": "Interoperable account aggregators could make India's consent-based financial data sharing easier across banks and fintech providers.",
+          "implications": [
+            "Customers may access loans and financial services more smoothly regardless of their aggregator.",
+            "Integrating demat and deposit data could speed up credit assessment for borrowers."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "RBI to make account aggregators interoperable; integrate demat and deposit data",
+              "url": "https://www.livemint.com/industry/banking/rbi-account-aggregators-customer-interoperable-demat-deposit-data-11791352175137.html",
+              "date": "2026-10-07T07:15:56.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sq9bww3",
+          "headline": "Why are Indian and U.S. leaders cooling off on a trade deal? | Explained",
+          "url": "https://www.thehindu.com/business/Economy/why-are-indian-and-us-leaders-cooling-off-on-a-trade-deal-explained/article71554453.ece",
+          "source": "thehindu",
+          "date": "2026-10-07T06:24:10.000Z",
+          "relevance": "high",
+          "why": "Stalled India-US trade talks leave uncertainty over tariffs and market access for exporters across the economy.",
+          "implications": [
+            "Exporters in sectors facing US tariffs may see orders and margins stay under pressure.",
+            "Delay could prolong uncertainty for firms planning US-linked investment and hiring.",
+            "Workers in export-heavy industries may face job risks if tariffs persist."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Why are Indian and U.S. leaders cooling off on a trade deal? | Explained",
+              "url": "https://www.thehindu.com/business/Economy/why-are-indian-and-us-leaders-cooling-off-on-a-trade-deal-explained/article71554453.ece",
+              "date": "2026-10-07T06:24:10.000Z"
+            }
+          ]
+        },
+        {
+          "id": "si9sjrx",
+          "headline": "RBI raises FY27 inflation projection to 5.2% amid higher crude oil prices",
+          "url": "https://www.thehindu.com/business/Economy/rbi-raises-fy27-inflation-projection-to-51-amid-higher-crude-oil-prices/article71554389.ece",
+          "source": "thehindu",
+          "date": "2026-10-07T05:59:09.000Z",
+          "relevance": "high",
+          "why": "A higher RBI inflation projection driven by crude prices signals sustained price pressure and shapes the interest rate outlook for the whole economy.",
+          "implications": [
+            "Household costs for fuel, food and transport may stay elevated through FY27.",
+            "Loan EMIs could stay high or rise if the RBI tightens policy.",
+            "Businesses may face higher input costs and pass some on to consumers."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "RBI raises FY27 inflation projection to 5.2% amid higher crude oil prices",
+              "url": "https://www.thehindu.com/business/Economy/rbi-raises-fy27-inflation-projection-to-51-amid-higher-crude-oil-prices/article71554389.ece",
+              "date": "2026-10-07T05:59:09.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sjush0y",
+          "headline": "RBI likely to raise repo rate in October 2026 as West Asia crisis fuels inflation risks",
+          "url": "https://www.livemint.com/economy/rbi-likely-to-raise-repo-rate-in-october-2026-as-west-asia-crisis-fuels-inflation-risks-11791121335600.html",
+          "source": "mint",
+          "date": "2026-10-04T13:53:48.000Z",
+          "relevance": "high",
+          "why": "A possible RBI repo rate hike would change borrowing costs nationwide, driven by inflation risks from the West Asia crisis.",
+          "implications": [
+            "Home, car and business loan EMIs could rise if the repo rate is increased by 0.25 percentage points.",
+            "Higher rates may add to the cost of borrowing for businesses and slow credit demand.",
+            "Fixed deposit rates could edge up for savers if the RBI tightens policy."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "RBI likely to raise repo rate in October 2026 as West Asia crisis fuels inflation risks",
+              "url": "https://www.livemint.com/economy/rbi-likely-to-raise-repo-rate-in-october-2026-as-west-asia-crisis-fuels-inflation-risks-11791121335600.html",
+              "date": "2026-10-04T13:53:48.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "RBI rate hikes back on the table as inflation risks mount",
+              "url": "https://www.livemint.com/economy/rbi-monetary-policy-repo-rate-indian-economy-11791107863686.html",
+              "date": "2026-10-05T00:00:22.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Rate hikes are coming, but don’t count credit growth out just yet",
+              "url": "https://www.livemint.com/economy/india-credit-growth-rate-hike-rbi-monetary-policy-bank-lending-bank-credit-fcnr-b-deposits-financial-deepening-11791139917638.html",
+              "date": "2026-10-05T03:30:45.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Experts’ poll: RBI may hike rates by 0.25% in October policy amid inflationary pressures",
+              "url": "https://www.thehindu.com/business/experts-poll-rbi-may-hike-rates-by-025-in-october-policy-amid-inflationary-pressures/article71543381.ece",
+              "date": "2026-10-04T10:35:22.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Mint Explainer | Why the RBI looks set to hike rates",
+              "url": "https://www.livemint.com/economy/rbi-repo-rate-hike-mpc-october-2026-11791267893186.html",
+              "date": "2026-10-06T07:21:32.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "RBI hikes repo rate for first time since Feb 2023 as inflation bites",
+              "url": "https://www.livemint.com/economy/rising-inflation-risks-rbi-repo-rate-by-25-bps-to-5-50-mpc-policy-11791347773792.html",
+              "date": "2026-10-07T04:42:28.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Mint Explainer | What RBI's rate hike means for retail borrowers and lenders",
+              "url": "https://www.livemint.com/economy/rbi-repo-rate-hike-retail-borrowers-banks-lending-rates-home-11791278888782.html",
+              "date": "2026-10-07T04:45:57.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "RBI MPC speech: Weak monsoon, strong El Niño, rabi season, global crude prices - What Governor Sanjay Malhotra conveyed",
+              "url": "https://www.livemint.com/economy/rbi-mpc-speech-weak-monsoon-strong-el-nino-rabi-season-global-crude-prices-what-governor-sanjay-malhotra-conveyed-11791349667128.html",
+              "date": "2026-10-07T05:29:42.000Z"
             }
           ]
         },
@@ -844,52 +1025,6 @@
               "headline": "India’s services sector growth touches three-month high in September on strong domestic demand: PMI",
               "url": "https://www.thehindu.com/business/indias-services-sector-growth-touches-three-month-high-in-september-on-strong-domestic-demand-pmi/article71550628.ece",
               "date": "2026-10-06T09:29:15.000Z"
-            }
-          ]
-        },
-        {
-          "id": "sjush0y",
-          "headline": "RBI likely to raise repo rate in October 2026 as West Asia crisis fuels inflation risks",
-          "url": "https://www.livemint.com/economy/rbi-likely-to-raise-repo-rate-in-october-2026-as-west-asia-crisis-fuels-inflation-risks-11791121335600.html",
-          "source": "mint",
-          "date": "2026-10-04T13:53:48.000Z",
-          "relevance": "high",
-          "why": "A possible RBI repo rate hike would change borrowing costs nationwide, driven by inflation risks from the West Asia crisis.",
-          "implications": [
-            "Home, car and business loan EMIs could rise if the repo rate is increased by 0.25 percentage points.",
-            "Higher rates may add to the cost of borrowing for businesses and slow credit demand.",
-            "Fixed deposit rates could edge up for savers if the RBI tightens policy."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "RBI likely to raise repo rate in October 2026 as West Asia crisis fuels inflation risks",
-              "url": "https://www.livemint.com/economy/rbi-likely-to-raise-repo-rate-in-october-2026-as-west-asia-crisis-fuels-inflation-risks-11791121335600.html",
-              "date": "2026-10-04T13:53:48.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "RBI rate hikes back on the table as inflation risks mount",
-              "url": "https://www.livemint.com/economy/rbi-monetary-policy-repo-rate-indian-economy-11791107863686.html",
-              "date": "2026-10-05T00:00:22.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "Rate hikes are coming, but don’t count credit growth out just yet",
-              "url": "https://www.livemint.com/economy/india-credit-growth-rate-hike-rbi-monetary-policy-bank-lending-bank-credit-fcnr-b-deposits-financial-deepening-11791139917638.html",
-              "date": "2026-10-05T03:30:45.000Z"
-            },
-            {
-              "source": "thehindu",
-              "headline": "Experts’ poll: RBI may hike rates by 0.25% in October policy amid inflationary pressures",
-              "url": "https://www.thehindu.com/business/experts-poll-rbi-may-hike-rates-by-025-in-october-policy-amid-inflationary-pressures/article71543381.ece",
-              "date": "2026-10-04T10:35:22.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "Mint Explainer | Why the RBI looks set to hike rates",
-              "url": "https://www.livemint.com/economy/rbi-repo-rate-hike-mpc-october-2026-11791267893186.html",
-              "date": "2026-10-06T07:21:32.000Z"
             }
           ]
         },
@@ -1230,6 +1365,76 @@
       "id": "technology",
       "name": "Technology",
       "items": [
+        {
+          "id": "syhti7a",
+          "headline": "Airtel introduces new postpaid plans, hikes prices by 3-11%",
+          "url": "https://www.livemint.com/companies/news/ahead-of-jio-ipo-airtel-introduces-new-postpaid-plans-hikes-prices-by-311-11791352737739.html",
+          "source": "mint",
+          "date": "2026-10-07T07:47:35.000Z",
+          "relevance": "medium",
+          "why": "A major telecom operator raising postpaid prices by 3–11% points to rising mobile costs for many subscribers.",
+          "implications": [
+            "Postpaid subscribers on Airtel may pay 3–11% more from 8 October 2026.",
+            "Other operators may follow with price revisions, which could raise household telecom spending."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Airtel introduces new postpaid plans, hikes prices by 3-11%",
+              "url": "https://www.livemint.com/companies/news/ahead-of-jio-ipo-airtel-introduces-new-postpaid-plans-hikes-prices-by-311-11791352737739.html",
+              "date": "2026-10-07T07:47:35.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sx87ysh",
+          "headline": "Mobile bills may rise again: 12–15% telecom tariff hike likely in 4–5 months. What it means for Jio, Airtel, Vi users",
+          "url": "https://www.livemint.com/companies/news/mobile-bills-may-rise-again-12-15-telecom-tariff-hike-likely-in-4-5-months-what-it-means-for-jio-airtel-vi-users-11791357460014.html",
+          "source": "mint",
+          "date": "2026-10-07T07:35:44.000Z",
+          "relevance": "medium",
+          "why": "A broker forecast of a 12–15% mobile tariff hike, which operators have not confirmed, could raise connectivity costs for most Indian households.",
+          "implications": [
+            "Prepaid and postpaid users may face higher monthly bills if operators revise plans within the next few months.",
+            "Low-income and data-heavy users could cut usage or move to cheaper plans if prices rise."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Mobile bills may rise again: 12–15% telecom tariff hike likely in 4–5 months. What it means for Jio, Airtel, Vi users",
+              "url": "https://www.livemint.com/companies/news/mobile-bills-may-rise-again-12-15-telecom-tariff-hike-likely-in-4-5-months-what-it-means-for-jio-airtel-vi-users-11791357460014.html",
+              "date": "2026-10-07T07:35:44.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s32r3jz",
+          "headline": "SpaceX exec renews Starlink pitch as approvals lay pending",
+          "url": "https://www.thehindu.com/sci-tech/technology/spacex-exec-renews-starlink-pitch-as-approvals-lay-pending/article71554510.ece",
+          "source": "thehindu",
+          "date": "2026-10-07T06:27:49.000Z",
+          "relevance": "medium",
+          "why": "Pending approvals for satellite internet reflect how security conditions are delaying a new broadband option for India.",
+          "implications": [
+            "Rural and remote users may have to wait longer for satellite broadband.",
+            "Operational launch could slip beyond next year if security requirements remain unresolved.",
+            "Telecom competition and pricing in connectivity may be slower to change."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "SpaceX exec renews Starlink pitch as approvals lay pending",
+              "url": "https://www.thehindu.com/sci-tech/technology/spacex-exec-renews-starlink-pitch-as-approvals-lay-pending/article71554510.ece",
+              "date": "2026-10-07T06:27:49.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Starlink says India operations built around security rules as launch awaits government clearance",
+              "url": "https://www.livemint.com/industry/starlink-india-launch-security-clearance-commercial-services-11791354507240.html",
+              "date": "2026-10-07T07:32:39.000Z"
+            }
+          ]
+        },
         {
           "id": "svxz2nc",
           "headline": "Work on Google-Adani data centre can continue at developer's own risk: Andhra HC",
@@ -1608,6 +1813,33 @@
       "name": "Environment & Climate",
       "items": [
         {
+          "id": "s1ha6srs",
+          "headline": "New GRAP Rules in Delhi; Restrictions in NCR October 2026: Petrol vs Diesel vs CNG vs EV — Know car ban guidelines here",
+          "url": "https://www.livemint.com/news/india/new-grap-rules-in-delhi-restrictions-in-ncr-october-2026-petrol-vs-diesel-vs-cng-vs-ev-know-car-ban-guidelines-here-11791207178162.html",
+          "source": "mint",
+          "date": "2026-10-05T15:01:35.000Z",
+          "relevance": "medium",
+          "why": "Revised GRAP curbs on older vehicles and construction across Delhi-NCR, which spans several states, are a major air-pollution policy measure.",
+          "implications": [
+            "Owners of BS-III petrol and BS-IV diesel vehicles in the NCR may face plying restrictions during pollution episodes.",
+            "Interstate bus operations and construction projects in the region could face earlier curbs and tighter monitoring."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "New GRAP Rules in Delhi; Restrictions in NCR October 2026: Petrol vs Diesel vs CNG vs EV — Know car ban guidelines here",
+              "url": "https://www.livemint.com/news/india/new-grap-rules-in-delhi-restrictions-in-ncr-october-2026-petrol-vs-diesel-vs-cng-vs-ev-know-car-ban-guidelines-here-11791207178162.html",
+              "date": "2026-10-05T15:01:35.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "New GRAP Rules in Delhi; restrictions in NCR Oct 2026: These 8 states; older buses to be impacted - Imp for commuters",
+              "url": "https://www.livemint.com/news/india/new-grap-rules-in-delhi-restrictions-in-ncr-oct-2026-these-8-states-older-buses-to-be-impacted-imp-for-commuters-11791350142318.html",
+              "date": "2026-10-07T05:21:29.000Z"
+            }
+          ]
+        },
+        {
           "id": "s1y8cmtc",
           "headline": "No ‘one size fits all’, says Environment Minister at Pre-COP31 climate summit meetings",
           "url": "https://www.thehindu.com/news/national/no-one-size-fits-all-says-environment-minister-at-pre-cop31-climate-summit-meetings/article71552406.ece",
@@ -1661,27 +1893,6 @@
               "date": "2026-10-05T20:01:46.000Z"
             }
           ]
-        },
-        {
-          "id": "s1ha6srs",
-          "headline": "New GRAP Rules in Delhi; Restrictions in NCR October 2026: Petrol vs Diesel vs CNG vs EV — Know car ban guidelines here",
-          "url": "https://www.livemint.com/news/india/new-grap-rules-in-delhi-restrictions-in-ncr-october-2026-petrol-vs-diesel-vs-cng-vs-ev-know-car-ban-guidelines-here-11791207178162.html",
-          "source": "mint",
-          "date": "2026-10-05T15:01:35.000Z",
-          "relevance": "medium",
-          "why": "Revised GRAP curbs on older vehicles and construction across Delhi-NCR, which spans several states, are a major air-pollution policy measure.",
-          "implications": [
-            "Owners of BS-III petrol and BS-IV diesel vehicles in the NCR may face plying restrictions during pollution episodes.",
-            "Interstate bus operations and construction projects in the region could face earlier curbs and tighter monitoring."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "New GRAP Rules in Delhi; Restrictions in NCR October 2026: Petrol vs Diesel vs CNG vs EV — Know car ban guidelines here",
-              "url": "https://www.livemint.com/news/india/new-grap-rules-in-delhi-restrictions-in-ncr-october-2026-petrol-vs-diesel-vs-cng-vs-ev-know-car-ban-guidelines-here-11791207178162.html",
-              "date": "2026-10-05T15:01:35.000Z"
-            }
-          ]
         }
       ]
     },
@@ -1689,6 +1900,27 @@
       "id": "agriculture",
       "name": "Agriculture & Food",
       "items": [
+        {
+          "id": "s12jq6qy",
+          "headline": "Mint Explainer: South India pins hope on northeast monsoon for rainfall relief",
+          "url": "https://www.livemint.com/news/india/northeast-monsoon-south-india-rainfall-deficit-11791350428826.html",
+          "source": "mint",
+          "date": "2026-10-07T07:43:30.000Z",
+          "relevance": "medium",
+          "why": "A significant southwest monsoon rainfall deficit across five southern states makes the northeast monsoon important for crops and water supply.",
+          "implications": [
+            "Weak northeast monsoon rains could hurt crop output and farm incomes in southern states.",
+            "Reservoir and water availability may tighten, which could affect irrigation and drinking supply."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Mint Explainer: South India pins hope on northeast monsoon for rainfall relief",
+              "url": "https://www.livemint.com/news/india/northeast-monsoon-south-india-rainfall-deficit-11791350428826.html",
+              "date": "2026-10-07T07:43:30.000Z"
+            }
+          ]
+        },
         {
           "id": "sjw6lux",
           "headline": "Monster, PepsiCo, Campa get Delhi HC relief against FSSAI ‘energy drink’ label ban",
@@ -1760,6 +1992,82 @@
       "id": "governance",
       "name": "Policy & Governance",
       "items": [
+        {
+          "id": "s1izayod",
+          "headline": "ECI Row: What happens when all three Election Commissioners disagree? Here's what the law says",
+          "url": "https://www.livemint.com/news/india/eci-row-what-happens-when-all-three-election-commissioners-disagree-heres-what-the-law-says-11791182525314.html",
+          "source": "mint",
+          "date": "2026-10-05T06:53:21.000Z",
+          "relevance": "medium",
+          "why": "Public disagreement inside the Election Commission raises questions about how India's poll body would function if its three members cannot agree, which bears on electoral credibility.",
+          "implications": [
+            "Clarity on the legal position may shape confidence in how upcoming electoral roll revisions and elections are run.",
+            "Prolonged internal splits could delay or complicate decisions on poll schedules and roll updates.",
+            "The row may prompt calls for rule changes on how the Election Commission decides contested matters."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "ECI Row: What happens when all three Election Commissioners disagree? Here's what the law says",
+              "url": "https://www.livemint.com/news/india/eci-row-what-happens-when-all-three-election-commissioners-disagree-heres-what-the-law-says-11791182525314.html",
+              "date": "2026-10-05T06:53:21.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "SIR row: Supreme Court refuses to pass interim order on suspending CEC Gyanesh Kumar, issues notices to EC, Centre",
+              "url": "https://www.livemint.com/news/india/plea-in-sc-to-suspend-cec-gyanesh-kumar-supreme-court-issues-notice-ec-centre-what-we-know-so-far-11791186670022.html",
+              "date": "2026-10-05T07:58:17.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Supreme Court notice to ECI, Centre on plea challenging decisions taken by CEC-led poll panel",
+              "url": "https://www.thehindu.com/news/national/supreme-court-notice-to-eci-centre-on-plea-challenging-decisions-taken-by-cec-led-poll-panel/article71546395.ece",
+              "date": "2026-10-05T09:14:57.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "SC declines to suspend CEC Gyanesh Kumar, seeks response on poll body decisions",
+              "url": "https://www.livemint.com/news/india/cec-gyanesh-kumar-sir-voter-list-india-supreme-court-order-on-cec-11791189277401.html",
+              "date": "2026-10-05T09:44:10.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Protest against CEC Gyanesh Kumar LIVE: Supreme Court says changes to Form 6 not made by court, issues notice to ECI, Centre",
+              "url": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-protest-live-updates-supreme-court-hearing-suspension-cjp-congress-delhi-mumbai-india/article71545740.ece",
+              "date": "2026-10-05T10:37:59.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "ECI fact-checks claims on Form 6 following SC observation",
+              "url": "https://www.thehindu.com/news/national/eci-fact-checks-claims-on-form-6-following-sc-observation/article71548392.ece",
+              "date": "2026-10-05T16:27:29.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "CEC Gyanesh Kumar has lost public trust and must be removed, say former bureaucrats, activists",
+              "url": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-has-lost-public-trust-and-must-be-removed-say-former-bureaucrats-activists/article71548097.ece",
+              "date": "2026-10-05T16:27:39.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Key developments in the ECI row: A timeline",
+              "url": "https://www.thehindu.com/news/national/key-developments-in-the-eci-row-a-timeline/article71552265.ece",
+              "date": "2026-10-07T07:21:03.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "CJI agrees to take a call on hearing a plea to recall split verdict in CEC appointments law case",
+              "url": "https://www.thehindu.com/news/national/cji-agrees-to-take-a-call-on-hearing-a-plea-to-recall-split-verdict-in-cec-appointments-law-case/article71554566.ece",
+              "date": "2026-10-07T07:34:10.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "CEC row LIVE: SC to examine plea for recall of split verdict on law governing appointment of CEC, ECs",
+              "url": "https://www.thehindu.com/news/national/cec-row-gyanesh-kumar-india-bloc-march-election-commission-sir-delhi-police-cjp-jantar-mantar-protest-live-updates-october-7-2026/article71554188.ece",
+              "date": "2026-10-07T08:39:29.000Z"
+            }
+          ]
+        },
         {
           "id": "s1lwnfbc",
           "headline": "Meet Justices Sunita Agarwal, DK Upadhyay, Aparesh Singh: Centre notifies appointment of 3 judges to Supreme Court",
@@ -1851,64 +2159,6 @@
               "headline": "GST Council meeting rescheduled for Thursday, says official order",
               "url": "https://www.livemint.com/economy/gst-council-meeting-rescheduled-to-thursday-says-official-order-11791217970800.html",
               "date": "2026-10-05T17:28:37.000Z"
-            }
-          ]
-        },
-        {
-          "id": "s1izayod",
-          "headline": "ECI Row: What happens when all three Election Commissioners disagree? Here's what the law says",
-          "url": "https://www.livemint.com/news/india/eci-row-what-happens-when-all-three-election-commissioners-disagree-heres-what-the-law-says-11791182525314.html",
-          "source": "mint",
-          "date": "2026-10-05T06:53:21.000Z",
-          "relevance": "medium",
-          "why": "Public disagreement inside the Election Commission raises questions about how India's poll body would function if its three members cannot agree, which bears on electoral credibility.",
-          "implications": [
-            "Clarity on the legal position may shape confidence in how upcoming electoral roll revisions and elections are run.",
-            "Prolonged internal splits could delay or complicate decisions on poll schedules and roll updates.",
-            "The row may prompt calls for rule changes on how the Election Commission decides contested matters."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "ECI Row: What happens when all three Election Commissioners disagree? Here's what the law says",
-              "url": "https://www.livemint.com/news/india/eci-row-what-happens-when-all-three-election-commissioners-disagree-heres-what-the-law-says-11791182525314.html",
-              "date": "2026-10-05T06:53:21.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "SIR row: Supreme Court refuses to pass interim order on suspending CEC Gyanesh Kumar, issues notices to EC, Centre",
-              "url": "https://www.livemint.com/news/india/plea-in-sc-to-suspend-cec-gyanesh-kumar-supreme-court-issues-notice-ec-centre-what-we-know-so-far-11791186670022.html",
-              "date": "2026-10-05T07:58:17.000Z"
-            },
-            {
-              "source": "thehindu",
-              "headline": "Supreme Court notice to ECI, Centre on plea challenging decisions taken by CEC-led poll panel",
-              "url": "https://www.thehindu.com/news/national/supreme-court-notice-to-eci-centre-on-plea-challenging-decisions-taken-by-cec-led-poll-panel/article71546395.ece",
-              "date": "2026-10-05T09:14:57.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "SC declines to suspend CEC Gyanesh Kumar, seeks response on poll body decisions",
-              "url": "https://www.livemint.com/news/india/cec-gyanesh-kumar-sir-voter-list-india-supreme-court-order-on-cec-11791189277401.html",
-              "date": "2026-10-05T09:44:10.000Z"
-            },
-            {
-              "source": "thehindu",
-              "headline": "Protest against CEC Gyanesh Kumar LIVE: Supreme Court says changes to Form 6 not made by court, issues notice to ECI, Centre",
-              "url": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-protest-live-updates-supreme-court-hearing-suspension-cjp-congress-delhi-mumbai-india/article71545740.ece",
-              "date": "2026-10-05T10:37:59.000Z"
-            },
-            {
-              "source": "thehindu",
-              "headline": "ECI fact-checks claims on Form 6 following SC observation",
-              "url": "https://www.thehindu.com/news/national/eci-fact-checks-claims-on-form-6-following-sc-observation/article71548392.ece",
-              "date": "2026-10-05T16:27:29.000Z"
-            },
-            {
-              "source": "thehindu",
-              "headline": "CEC Gyanesh Kumar has lost public trust and must be removed, say former bureaucrats, activists",
-              "url": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-has-lost-public-trust-and-must-be-removed-say-former-bureaucrats-activists/article71548097.ece",
-              "date": "2026-10-05T16:27:39.000Z"
             }
           ]
         },
@@ -2019,16 +2269,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 27,
-    "added": 1,
-    "merged": 2,
-    "rejected": 24,
+    "analysed": 104,
+    "added": 8,
+    "merged": 13,
+    "rejected": 83,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 341
+        "items": 338
       },
       "mint": {
         "feedsOk": 6,

@@ -2,12 +2,88 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-07T02:28:48.985Z",
+  "updatedAt": "2026-10-07T09:10:53.424Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "s1ar851p",
+          "headline": "Shell expects refineries to almost double the profit from every barrel of fuel made",
+          "url": "https://www.theguardian.com/business/2026/oct/07/shell-refineries-forecast-to-make-double-the-profit-from-every-barrel-of-fuel",
+          "source": "guardian",
+          "date": "2026-10-07T08:30:16.000Z",
+          "relevance": "medium",
+          "why": "Record global fuel prices and refining margins, driven by war-damaged Middle East and Russian refineries, signal tight supply of refined products that India partly imports.",
+          "implications": [
+            "Tight global refined-fuel supply could keep diesel and petrol product import costs high for India.",
+            "Elevated international fuel prices may add pressure on India's import bill and domestic fuel pricing."
+          ],
+          "reports": [
+            {
+              "source": "guardian",
+              "headline": "Shell expects refineries to almost double the profit from every barrel of fuel made",
+              "url": "https://www.theguardian.com/business/2026/oct/07/shell-refineries-forecast-to-make-double-the-profit-from-every-barrel-of-fuel",
+              "date": "2026-10-07T08:30:16.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sctwrbx",
+          "headline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
+          "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border",
+          "source": "aljazeera",
+          "date": "2026-10-06T10:47:54.000Z",
+          "relevance": "medium",
+          "why": "Houthi strikes on Saudi airports add to instability in a region central to India's oil supply and to its large expatriate community.",
+          "implications": [
+            "Wider Saudi-Yemen escalation could raise oil price risk, which would pressure India's import bill and fuel costs.",
+            "Indian workers in Saudi Arabia may face safety concerns and travel disruption.",
+            "Heightened Red Sea and Gulf tension could raise shipping and insurance costs for Indian trade."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
+              "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border",
+              "date": "2026-10-06T10:47:54.000Z"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
+              "url": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh",
+              "date": "2026-10-07T06:41:11.000Z"
+            },
+            {
+              "source": "abc",
+              "headline": "Tensions escalate in Middle East as Houthis target airports",
+              "url": "https://www.abc.net.au/news/2026-10-07/houthis-attack-airports-as-yemen-conflict-intensifies/107239298",
+              "date": "2026-10-07T06:42:58.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sory8p0",
+          "headline": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?",
+          "url": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia",
+          "source": "aljazeera",
+          "date": "2026-10-07T06:33:54.000Z",
+          "relevance": "medium",
+          "why": "Russian fuel shortages and Iran's blockaded oil exports are reshaping regional crude flows, which can affect global supply and prices.",
+          "implications": [
+            "Tighter Russian fuel supply and constrained Iranian exports could keep global oil prices elevated, raising India's import costs.",
+            "Shifts in Russian and Iranian supply may complicate India's crude sourcing choices."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?",
+              "url": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia",
+              "date": "2026-10-07T06:33:54.000Z"
+            }
+          ]
+        },
         {
           "id": "sbktx77",
           "headline": "Ukraine says South Korean exports helped ease Russia's drone-strike crisis",
@@ -97,28 +173,6 @@
               "headline": "Hormuz ship attacks surge: Are increased oil exports sustainable?",
               "url": "https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable",
               "date": "2026-10-06T14:15:09.000Z"
-            }
-          ]
-        },
-        {
-          "id": "sctwrbx",
-          "headline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
-          "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border",
-          "source": "aljazeera",
-          "date": "2026-10-06T10:47:54.000Z",
-          "relevance": "medium",
-          "why": "Houthi strikes on Saudi airports add to instability in a region central to India's oil supply and to its large expatriate community.",
-          "implications": [
-            "Wider Saudi-Yemen escalation could raise oil price risk, which would pressure India's import bill and fuel costs.",
-            "Indian workers in Saudi Arabia may face safety concerns and travel disruption.",
-            "Heightened Red Sea and Gulf tension could raise shipping and insurance costs for Indian trade."
-          ],
-          "reports": [
-            {
-              "source": "aljazeera",
-              "headline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
-              "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border",
-              "date": "2026-10-06T10:47:54.000Z"
             }
           ]
         },
@@ -248,6 +302,33 @@
       "name": "Logistics & Shipping",
       "items": [
         {
+          "id": "s1sjpz83",
+          "headline": "Black Sea tanker attack off Russia's Olympic city sparks 'fire of oil'",
+          "url": "https://www.abc.net.au/news/2026-10-07/oil-tanker-attack-in-black-sea-off-sochi-sparks-giant-fire/107238536",
+          "source": "abc",
+          "date": "2026-10-07T02:52:23.000Z",
+          "relevance": "medium",
+          "why": "Attacks on tankers in the Black Sea raise risks for shipping and oil cargoes on routes that affect India's trade.",
+          "implications": [
+            "Higher war-risk insurance and freight costs may follow for vessels trading in the Black Sea region.",
+            "Disruption to Black Sea energy shipments could add upward pressure on global oil prices India pays."
+          ],
+          "reports": [
+            {
+              "source": "abc",
+              "headline": "Black Sea tanker attack off Russia's Olympic city sparks 'fire of oil'",
+              "url": "https://www.abc.net.au/news/2026-10-07/oil-tanker-attack-in-black-sea-off-sochi-sparks-giant-fire/107238536",
+              "date": "2026-10-07T02:52:23.000Z"
+            },
+            {
+              "source": "guardian",
+              "headline": "Naval drone hits oil tanker off Russian resort city Sochi, triggering massive blaze",
+              "url": "https://www.theguardian.com/world/2026/oct/07/ukraine-drone-hits-oil-tanker-russia-sochi",
+              "date": "2026-10-07T04:39:01.000Z"
+            }
+          ]
+        },
+        {
           "id": "s1j2msqq",
           "headline": "Yemen's government announces all-out war to reclaim land from Houthis",
           "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o",
@@ -337,6 +418,33 @@
               "headline": "Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz",
               "url": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz",
               "date": "2026-10-07T00:35:57.000Z"
+            },
+            {
+              "source": "guardian",
+              "headline": "Yemen civil war: what sparked latest escalation and who is involved?",
+              "url": "https://www.theguardian.com/world/2026/oct/07/yemen-civil-war-what-sparked-latest-escalation-and-who-is-involved",
+              "date": "2026-10-07T04:00:34.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s24yvao",
+          "headline": "Oman evacuates injured crew from attacked tanker in Strait of Hormuz",
+          "url": "https://www.aljazeera.com/news/2026/10/7/oman-evacuates-injured-crew-from-attacked-tanker-in-strait-of-hormuz",
+          "source": "aljazeera",
+          "date": "2026-10-07T03:16:32.000Z",
+          "relevance": "high",
+          "why": "A tanker attack in the Strait of Hormuz injured crew, 11 of them Indian nationals, on a key route for India's oil.",
+          "implications": [
+            "Indian seafarers' safety and consular support are an immediate concern for the government.",
+            "Hormuz shipping risks could raise freight and insurance costs and may unsettle India's crude supplies."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Oman evacuates injured crew from attacked tanker in Strait of Hormuz",
+              "url": "https://www.aljazeera.com/news/2026/10/7/oman-evacuates-injured-crew-from-attacked-tanker-in-strait-of-hormuz",
+              "date": "2026-10-07T03:16:32.000Z"
             }
           ]
         },
@@ -767,21 +875,21 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 25,
-    "added": 0,
-    "merged": 1,
-    "rejected": 24,
+    "analysed": 81,
+    "added": 4,
+    "merged": 4,
+    "rejected": 73,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 164
+        "items": 157
       },
       "guardian": {
         "feedsOk": 7,
         "feedsFailed": 0,
-        "items": 204
+        "items": 202
       },
       "npr": {
         "feedsOk": 4,
@@ -791,12 +899,12 @@
       "aljazeera": {
         "feedsOk": 1,
         "feedsFailed": 0,
-        "items": 13
+        "items": 15
       },
       "mercopress": {
-        "feedsOk": 2,
-        "feedsFailed": 1,
-        "items": 20
+        "feedsOk": 3,
+        "feedsFailed": 0,
+        "items": 30
       },
       "abc": {
         "feedsOk": 3,
