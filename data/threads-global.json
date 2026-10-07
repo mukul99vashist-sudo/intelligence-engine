@@ -1,0 +1,495 @@
+{
+ "desk": "global",
+ "updatedAt": "2026-10-07T21:45:10.470Z",
+ "threads": {
+  "t2ogxay": {
+   "id": "t2ogxay",
+   "name": "US-Iran war and Hormuz",
+   "sector": "energy",
+   "created": "2026-10-02T01:17:37.000Z",
+   "updated": "2026-10-07T10:58:23.000Z",
+   "latestHeadline": "US sets new demands for Iran deal: What are they?",
+   "summary": "On 2 October, The Guardian reported that the US had sent a third aircraft carrier to the Middle East amid a stalemate in its war against Iran, with US midterm elections approaching. On 5 October, Al Jazeera reported that Middle East oil exports had surpassed pre-war levels, while an IRGC commander called oil flows through a US-supervised route in Hormuz 'negligible'. The Guardian reported the same day that Iran's oil minister had resigned amid a large drop in oil receipts, rampant inflation and a shrinking economy. On 7 October, India's Foreign Ministry said 11 of the 12 injured crew members evacuated by Oman from an attacked tanker, the On Peace, in the Strait of Hormuz were Indian nationals, and Al Jazeera reported that US Vice President Vance had called for reduced nuclear enrichment as part of new US demands for a deal.",
+   "summaryCount": 8,
+   "summaryAt": "2026-10-07T21:45:00.922Z",
+   "events": [
+    {
+     "id": "s1o9hx0z",
+     "date": "2026-10-02T01:17:37.000Z",
+     "headline": "US sends third aircraft carrier to Middle East amid stalemate in Iran war",
+     "source": "guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/02/us-third-aircraft-carrier-middle-east-iran",
+     "sector": "energy",
+     "month": "2026-10"
+    },
+    {
+     "id": "scj21pm",
+     "date": "2026-10-05T05:20:57.000Z",
+     "headline": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows",
+     "sector": "energy",
+     "month": "2026-10"
+    },
+    {
+     "id": "sf440ic",
+     "date": "2026-10-05T13:11:42.000Z",
+     "headline": "Is Iran charging a toll to allow oil traffic through Hormuz?",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz",
+     "sector": "energy",
+     "month": "2026-10"
+    },
+    {
+     "id": "s13jo9jk",
+     "date": "2026-10-05T14:16:14.000Z",
+     "headline": "Iran’s oil minister resigns as country’s economic crisis worsens",
+     "source": "guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/05/iran-oil-minister-resigns-economic-crisis",
+     "sector": "energy",
+     "month": "2026-10"
+    },
+    {
+     "id": "s12jhjw8",
+     "date": "2026-10-06T14:38:09.000Z",
+     "headline": "Saudi Arabia says East-West pipeline pumping 5.8 million bpd",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-east-west-pipeline-pumping-5-8-million-bpd",
+     "sector": "energy",
+     "month": "2026-10"
+    },
+    {
+     "id": "s1sxjihn",
+     "date": "2026-10-06T14:42:33.000Z",
+     "headline": "What new measures is Iran taking to counter US economic pressure?",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/6/what-new-measures-is-iran-taking-to-counter-us-economic-pressure",
+     "sector": "energy",
+     "month": "2026-10"
+    },
+    {
+     "id": "s24yvao",
+     "date": "2026-10-07T03:16:32.000Z",
+     "headline": "Oman evacuates injured crew from attacked tanker in Strait of Hormuz",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/7/oman-evacuates-injured-crew-from-attacked-tanker-in-strait-of-hormuz",
+     "sector": "logistics",
+     "month": "2026-10"
+    },
+    {
+     "id": "sb9ft7l",
+     "date": "2026-10-07T10:58:23.000Z",
+     "headline": "US sets new demands for Iran deal: What are they?",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they",
+     "sector": "energy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 8,
+   "first": "2026-10-02T01:17:37.000Z"
+  },
+  "t1kqejni": {
+   "id": "t1kqejni",
+   "name": "Protests over India election chief",
+   "sector": "governance",
+   "created": "2026-10-02T04:25:54.000Z",
+   "updated": "2026-10-06T10:05:22.000Z",
+   "latestHeadline": "Indian opposition MPs detained in protest against election chief",
+   "summary": "On 2 October, thousands of people attended a protest in Mumbai called by the Cockroach Janta Party, asking the election chief to resign. By 4 October, police had detained dozens of protesters demanding his resignation over changes to voter rolls, and police were accused of sexually harassing journalists at the protest. On 6 October, opposition MPs were detained in a protest against the election chief, with opposition leaders alleging that CEC Gyanesh Kumar manipulated voter rolls to favour PM Narendra Modi's party.",
+   "summaryCount": 3,
+   "summaryAt": "2026-10-07T21:45:10.467Z",
+   "events": [
+    {
+     "id": "sqjwff2",
+     "date": "2026-10-02T04:25:54.000Z",
+     "headline": "India's 'cockroach' protesters are back - this time asking poll chief to resign",
+     "source": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/ck62mped4rz9o",
+     "sector": "governance",
+     "month": "2026-10"
+    },
+    {
+     "id": "safoyq8",
+     "date": "2026-10-04T17:01:19.000Z",
+     "headline": "Indian police accused of sexually harassing journalists at protest",
+     "source": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o",
+     "sector": "governance",
+     "month": "2026-10"
+    },
+    {
+     "id": "s185yeqj",
+     "date": "2026-10-06T10:05:22.000Z",
+     "headline": "Indian opposition MPs detained in protest against election chief",
+     "source": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 3,
+   "first": "2026-10-02T04:25:54.000Z"
+  },
+  "t1v4r5hg": {
+   "id": "t1v4r5hg",
+   "name": "flydubai cockpit attack",
+   "sector": "logistics",
+   "created": "2026-10-02T08:39:40.000Z",
+   "updated": "2026-10-02T08:39:40.000Z",
+   "latestHeadline": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
+   "events": [
+    {
+     "id": "s1yu8mst",
+     "date": "2026-10-02T08:39:40.000Z",
+     "headline": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
+     "source": "guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
+     "sector": "logistics",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-02T08:39:40.000Z"
+  },
+  "t1uohici": {
+   "id": "t1uohici",
+   "name": "Diesel reserves and US export ban",
+   "sector": "energy",
+   "created": "2026-10-02T08:54:00.000Z",
+   "updated": "2026-10-07T08:30:16.000Z",
+   "latestHeadline": "Shell expects refineries to almost double the profit from every barrel of fuel made",
+   "summary": "In early October, President Donald Trump threatened to ban diesel exports to ease prices in the US ahead of the November elections, and the US pressed Europe to release its diesel reserves. A couple of days later, G7 nations agreed to release large amounts of diesel fuel, though European countries were not entirely happy about the agreement. In the days after that, Shell said it expected its refineries to make record profits on each barrel of fuel produced, as shortages linked to the shutdown of war-damaged refineries in the Middle East and Russia pushed pump prices around the world to all-time highs.",
+   "summaryCount": 3,
+   "summaryAt": "2026-10-07T21:45:02.937Z",
+   "events": [
+    {
+     "id": "si8i521",
+     "date": "2026-10-02T08:54:00.000Z",
+     "headline": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+     "source": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
+     "sector": "energy",
+     "month": "2026-10"
+    },
+    {
+     "id": "s1g99b56",
+     "date": "2026-10-04T12:29:38.000Z",
+     "headline": "G7 countries reluctantly agree to tap their fuel reserves to help the U.S.",
+     "source": "npr",
+     "url": "https://www.npr.org/2026/10/04/nx-s1-5989670/g7-countries-reluctantly-agree-to-tap-their-fuel-reserves-to-help-the-u-s",
+     "sector": "energy",
+     "month": "2026-10"
+    },
+    {
+     "id": "s1ar851p",
+     "date": "2026-10-07T08:30:16.000Z",
+     "headline": "Shell expects refineries to almost double the profit from every barrel of fuel made",
+     "source": "guardian",
+     "url": "https://www.theguardian.com/business/2026/oct/07/shell-refineries-forecast-to-make-double-the-profit-from-every-barrel-of-fuel",
+     "sector": "energy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 3,
+   "first": "2026-10-02T08:54:00.000Z"
+  },
+  "t139atn9": {
+   "id": "t139atn9",
+   "name": "US chip server smuggling to China",
+   "sector": "technology",
+   "created": "2026-10-02T18:46:29.000Z",
+   "updated": "2026-10-02T18:46:29.000Z",
+   "latestHeadline": "US arrests California man for allegedly smuggling $300m worth of computer servers to China",
+   "events": [
+    {
+     "id": "s1evd0ij",
+     "date": "2026-10-02T18:46:29.000Z",
+     "headline": "US arrests California man for allegedly smuggling $300m worth of computer servers to China",
+     "source": "guardian",
+     "url": "https://www.theguardian.com/us-news/2026/oct/02/arrest-smuggled-computer-servers-china",
+     "sector": "technology",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-02T18:46:29.000Z"
+  },
+  "t1j5n1me": {
+   "id": "t1j5n1me",
+   "name": "Yemen war and Houthi strikes",
+   "sector": "logistics",
+   "created": "2026-10-04T16:51:30.000Z",
+   "updated": "2026-10-06T10:47:54.000Z",
+   "latestHeadline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
+   "summary": "In early October, Yemen's president announced an all-out war to reclaim land from the Houthis, a move that came amid an exchange of strikes between the Houthis and the Saudi-led coalition. A couple of days later, Saudi Arabia said three people were wounded in attacks on Jazan and Najran airports near the Yemen border. The Saudi aviation authority reported severe injuries and damage following Houthi strikes on the two airports.",
+   "summaryCount": 2,
+   "summaryAt": "2026-10-07T21:45:08.626Z",
+   "events": [
+    {
+     "id": "s1j2msqq",
+     "date": "2026-10-04T16:51:30.000Z",
+     "headline": "Yemen's government announces all-out war to reclaim land from Houthis",
+     "source": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o",
+     "sector": "logistics",
+     "month": "2026-10"
+    },
+    {
+     "id": "sctwrbx",
+     "date": "2026-10-06T10:47:54.000Z",
+     "headline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border",
+     "sector": "energy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 2,
+   "first": "2026-10-04T16:51:30.000Z"
+  },
+  "t1crla7m": {
+   "id": "t1crla7m",
+   "name": "Brazil election and trade ties",
+   "sector": "economy",
+   "created": "2026-10-04T21:53:15.000Z",
+   "updated": "2026-10-04T21:53:15.000Z",
+   "latestHeadline": "Brazil's election could shift its ties with the U.S. and China",
+   "events": [
+    {
+     "id": "sbvxmgm",
+     "date": "2026-10-04T21:53:15.000Z",
+     "headline": "Brazil's election could shift its ties with the U.S. and China",
+     "source": "npr",
+     "url": "https://www.npr.org/2026/10/04/nx-s1-5989593/brazils-election-could-shift-its-ties-with-the-u-s-and-china",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-04T21:53:15.000Z"
+  },
+  "t4bizt": {
+   "id": "t4bizt",
+   "name": "India-China trade dependence",
+   "sector": "economy",
+   "created": "2026-10-05T01:42:11.000Z",
+   "updated": "2026-10-05T01:42:11.000Z",
+   "latestHeadline": "How India became dangerously addicted to Chinese imports",
+   "events": [
+    {
+     "id": "sqnr518",
+     "date": "2026-10-05T01:42:11.000Z",
+     "headline": "How India became dangerously addicted to Chinese imports",
+     "source": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c5pve834grpno",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-05T01:42:11.000Z"
+  },
+  "t1rn1bq5": {
+   "id": "t1rn1bq5",
+   "name": "Eurozone political and debt uncertainty",
+   "sector": "economy",
+   "created": "2026-10-05T11:18:20.000Z",
+   "updated": "2026-10-05T11:18:20.000Z",
+   "latestHeadline": "Euro falls to 17-month low against dollar amid French debt fears",
+   "events": [
+    {
+     "id": "s1haxzqq",
+     "date": "2026-10-05T11:18:20.000Z",
+     "headline": "Euro falls to 17-month low against dollar amid French debt fears",
+     "source": "guardian",
+     "url": "https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-05T11:18:20.000Z"
+  },
+  "t14axxk2": {
+   "id": "t14axxk2",
+   "name": "Black Sea shipping attacks",
+   "sector": "logistics",
+   "created": "2026-10-05T15:17:23.000Z",
+   "updated": "2026-10-07T02:52:23.000Z",
+   "latestHeadline": "Black Sea tanker attack off Russia's Olympic city sparks 'fire of oil'",
+   "summary": "In early October, Ukraine's leader Zelensky condemned a Russian strike on a Turkish-owned boat carrying corn in the Black Sea, in which the captain was killed and 11 crew members were rescued. The next day, Bulgaria launched a search for missing crew after drones hit two ships in the Black Sea and the Togo-flagged Alfa Watan sank at the scene of the attack. On October 7, Russian authorities said an attack by \"unmanned boats\" on a Liberian-flagged tanker off the coast of Sochi sparked a giant \"fire of oil\".",
+   "summaryCount": 3,
+   "summaryAt": "2026-10-07T21:45:06.733Z",
+   "events": [
+    {
+     "id": "s1k8znwq",
+     "date": "2026-10-05T15:17:23.000Z",
+     "headline": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+     "source": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o",
+     "sector": "logistics",
+     "month": "2026-10"
+    },
+    {
+     "id": "s18vq9q9",
+     "date": "2026-10-06T14:50:01.000Z",
+     "headline": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters",
+     "sector": "logistics",
+     "month": "2026-10"
+    },
+    {
+     "id": "s1sjpz83",
+     "date": "2026-10-07T02:52:23.000Z",
+     "headline": "Black Sea tanker attack off Russia's Olympic city sparks 'fire of oil'",
+     "source": "abc",
+     "url": "https://www.abc.net.au/news/2026-10-07/oil-tanker-attack-in-black-sea-off-sochi-sparks-giant-fire/107238536",
+     "sector": "logistics",
+     "month": "2026-10"
+    }
+   ],
+   "count": 3,
+   "first": "2026-10-05T15:17:23.000Z"
+  },
+  "t1jm9880": {
+   "id": "t1jm9880",
+   "name": "Indian stock market underperformance",
+   "sector": "economy",
+   "created": "2026-10-05T23:13:11.000Z",
+   "updated": "2026-10-05T23:13:11.000Z",
+   "latestHeadline": "Five reasons India's stock market is sinking even when its economy is growing",
+   "events": [
+    {
+     "id": "s1c0c575",
+     "date": "2026-10-05T23:13:11.000Z",
+     "headline": "Five reasons India's stock market is sinking even when its economy is growing",
+     "source": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-05T23:13:11.000Z"
+  },
+  "twvf35t": {
+   "id": "twvf35t",
+   "name": "India's Asian Games performance",
+   "sector": "governance",
+   "created": "2026-10-06T06:30:04.000Z",
+   "updated": "2026-10-06T06:30:04.000Z",
+   "latestHeadline": "From competing for food to a gold medal: the stories behind India’s Asian Games winners",
+   "events": [
+    {
+     "id": "s59a90g",
+     "date": "2026-10-06T06:30:04.000Z",
+     "headline": "From competing for food to a gold medal: the stories behind India’s Asian Games winners",
+     "source": "guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/05/this-is-india-asian-games-winners-success",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-06T06:30:04.000Z"
+  },
+  "ty1g5xv": {
+   "id": "ty1g5xv",
+   "name": "Australia migration plan and India FTA",
+   "sector": "economy",
+   "created": "2026-10-06T14:00:16.000Z",
+   "updated": "2026-10-06T14:00:16.000Z",
+   "latestHeadline": "Coalition’s migration plan risks breaching India free trade agreement and damaging economy, advocates warn",
+   "events": [
+    {
+     "id": "s75qgnw",
+     "date": "2026-10-06T14:00:16.000Z",
+     "headline": "Coalition’s migration plan risks breaching India free trade agreement and damaging economy, advocates warn",
+     "source": "guardian",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/07/coalition-migration-policy-reaction-universities-students-economy-india-ntwnfb",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-06T14:00:16.000Z"
+  },
+  "t1ibmsov": {
+   "id": "t1ibmsov",
+   "name": "Russia fuel crisis and refinery strikes",
+   "sector": "energy",
+   "created": "2026-10-06T22:49:40.000Z",
+   "updated": "2026-10-07T06:33:54.000Z",
+   "latestHeadline": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?",
+   "summary": "In early October, Ukraine's top sanctions official said Russia had imported fuel from South Korean ports, which eased the impact of a fuel crisis caused by Ukrainian drone strikes on Russian oil refineries. The next day, Al Jazeera reported that Iran's oil exports have struggled amid a US blockade, and that the Russian energy crisis resulting from the Ukrainian attacks could help Iran.",
+   "summaryCount": 2,
+   "summaryAt": "2026-10-07T21:45:04.706Z",
+   "events": [
+    {
+     "id": "sbktx77",
+     "date": "2026-10-06T22:49:40.000Z",
+     "headline": "Ukraine says South Korean exports helped ease Russia's drone-strike crisis",
+     "source": "abc",
+     "url": "https://www.abc.net.au/news/2026-10-07/south-korea-weapons-to-russia-ukraine-says-easing-crisis/107237356",
+     "sector": "energy",
+     "month": "2026-10"
+    },
+    {
+     "id": "sory8p0",
+     "date": "2026-10-07T06:33:54.000Z",
+     "headline": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia",
+     "sector": "energy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 2,
+   "first": "2026-10-06T22:49:40.000Z"
+  },
+  "t12s750z": {
+   "id": "t12s750z",
+   "name": "Global debt and bond yields",
+   "sector": "economy",
+   "created": "2026-10-07T10:14:35.000Z",
+   "updated": "2026-10-07T10:14:35.000Z",
+   "latestHeadline": "IMF chief urges governments to tighten belts as global debt levels soar",
+   "events": [
+    {
+     "id": "s1ei81q7",
+     "date": "2026-10-07T10:14:35.000Z",
+     "headline": "IMF chief urges governments to tighten belts as global debt levels soar",
+     "source": "guardian",
+     "url": "https://www.theguardian.com/business/2026/oct/07/imf-chief-kristalina-georgieva-urges-governments-tighten-belts-global-debt-levels-soar",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-07T10:14:35.000Z"
+  },
+  "t1qk19hr": {
+   "id": "t1qk19hr",
+   "name": "RBI interest rate decisions",
+   "sector": "economy",
+   "created": "2026-10-07T10:44:02.000Z",
+   "updated": "2026-10-07T10:44:02.000Z",
+   "latestHeadline": "India's first bank rate hike since 2023 signals growing inflation concerns",
+   "events": [
+    {
+     "id": "siruljh",
+     "date": "2026-10-07T10:44:02.000Z",
+     "headline": "India's first bank rate hike since 2023 signals growing inflation concerns",
+     "source": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c5j9kngz3j1go",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-07T10:44:02.000Z"
+  }
+ }
+}

@@ -1,0 +1,1677 @@
+{
+ "desk": "domestic",
+ "updatedAt": "2026-10-07T21:46:19.670Z",
+ "threads": {
+  "t1weh1f1": {
+   "id": "t1weh1f1",
+   "name": "PNG and city gas network expansion",
+   "sector": "energy",
+   "created": "2026-10-02T01:23:55.000Z",
+   "updated": "2026-10-02T01:23:55.000Z",
+   "latestHeadline": "PNG Drive 3.0 targets 50 lakh new connections, shifts focus to gas network utilisation",
+   "events": [
+    {
+     "id": "s8m2cr7",
+     "date": "2026-10-02T01:23:55.000Z",
+     "headline": "PNG Drive 3.0 targets 50 lakh new connections, shifts focus to gas network utilisation",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/Industry/png-drive-30-targets-50-lakh-new-connections-shifts-focus-to-gas-network-utilisation/article71533572.ece",
+     "sector": "energy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-02T01:23:55.000Z"
+  },
+  "t8nzveu": {
+   "id": "t8nzveu",
+   "name": "Iran conflict and oil supply",
+   "sector": "energy",
+   "created": "2026-10-02T05:36:53.000Z",
+   "updated": "2026-10-06T12:14:05.000Z",
+   "latestHeadline": "Iran war: Shell sees Middle East oil flows at 80% as Saudi Aramco warns inventories may take 2 years to rebuild",
+   "summary": "On October 2, Mint reported that crude shipments through the Strait of Hormuz were back to pre-war levels, at a seven-day average of 13.5 million barrels per day, though refined-fuel supplies remained low. The same day, it reported that India could face higher LNG costs this winter as Qatar supply disruptions tighten global gas markets and increase competition with Europe for alternative cargoes. On October 3, Nayara Energy raised petrol prices by ₹5 and diesel by ₹3, while by October 5 the other oil marketing companies had kept fuel rates steady. On October 6, The Hindu reported that 11 Indian crew were injured when the Panama-flagged MT On Peace was hit in the Strait of Hormuz, and India condemned the attack and urged a ceasefire. The same day, Shell's chief executive said Middle East oil flows were at about 80% of pre-conflict volumes, and Mint reported that India has been increasing ",
+   "summaryCount": 7,
+   "summaryAt": "2026-10-07T21:46:03.619Z",
+   "events": [
+    {
+     "id": "s1mfr46p",
+     "date": "2026-10-02T05:36:53.000Z",
+     "headline": "Hormuz crude flows return to pre-war levels, yet oil may still stay at $90–$100 | Here's why",
+     "source": "mint",
+     "url": "https://www.livemint.com/economy/hormuz-crude-flows-return-to-pre-war-levels-yet-oil-may-still-stay-at-90-100-heres-why-11790915242219.html",
+     "sector": "energy",
+     "month": "2026-10"
+    },
+    {
+     "id": "s1hdnpeq",
+     "date": "2026-10-02T10:54:38.000Z",
+     "headline": "India to face tougher competition for gas this winter? Here's what expert said",
+     "source": "mint",
+     "url": "https://www.livemint.com/economy/india-to-face-tougher-competition-for-gas-this-winter-heres-what-expert-said-11790934521396.html",
+     "sector": "energy",
+     "month": "2026-10"
+    },
+    {
+     "id": "s1syvph9",
+     "date": "2026-10-03T08:26:34.000Z",
+     "headline": "US-Iran war impact: Nayara Energy hikes fuel prices in India with immediate effect; petrol up by ₹5, diesel by ₹3",
+     "source": "mint",
+     "url": "https://www.livemint.com/companies/news/usiran-war-impact-nayara-energy-raises-fuel-prices-in-india-with-immediate-effect-check-new-rates-here-11791015607025.html",
+     "sector": "energy",
+     "month": "2026-10"
+    },
+    {
+     "id": "slvj25g",
+     "date": "2026-10-05T01:35:57.000Z",
+     "headline": "Petrol and diesel prices today, October 5: Check fuel cost in Delhi, Mumbai, Bengaluru",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-5-check-fuel-cost-in-delhi-mumbai-bengaluru-11791162475833.html",
+     "sector": "energy",
+     "month": "2026-10"
+    },
+    {
+     "id": "s1gk5jcm",
+     "date": "2026-10-06T06:35:13.000Z",
+     "headline": "Ecuador in talks with India for sale of crude oil, critical minerals, copper: ambassador Buchelli",
+     "source": "mint",
+     "url": "https://www.livemint.com/economy/ecuador-india-talks-crude-oil-critical-minerals-copper-trade-11791257129841.html",
+     "sector": "energy",
+     "month": "2026-10"
+    },
+    {
+     "id": "s1su96hr",
+     "date": "2026-10-06T11:23:32.000Z",
+     "headline": "11 Indian crew injured after ship hit by projectile in Strait of Hormuz; India condemns attack",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/national/indian-crew-attacked-in-mt-on-peace-vessel-attack-strait-of-hormuz/article71551158.ece",
+     "sector": "logistics",
+     "month": "2026-10"
+    },
+    {
+     "id": "sc90y8g",
+     "date": "2026-10-06T12:14:05.000Z",
+     "headline": "Iran war: Shell sees Middle East oil flows at 80% as Saudi Aramco warns inventories may take 2 years to rebuild",
+     "source": "mint",
+     "url": "https://www.livemint.com/economy/iran-war-shell-sees-middle-east-oil-flows-at-80-per-cent-as-saudi-aramco-warns-inventories-may-take-2-years-to-rebuild-11791286140675.html",
+     "sector": "energy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 7,
+   "first": "2026-10-02T05:36:53.000Z"
+  },
+  "t1ka6u13": {
+   "id": "t1ka6u13",
+   "name": "India–US trade talks and tariffs",
+   "sector": "economy",
+   "created": "2026-10-02T06:10:51.000Z",
+   "updated": "2026-10-07T06:24:10.000Z",
+   "latestHeadline": "Why are Indian and U.S. leaders cooling off on a trade deal? | Explained",
+   "summary": "On 2 October, US Trade Representative Greer said he did not think \"something is imminent\" on a trade deal with India, after a meeting with Commerce Minister Piyush Goyal. He said the two sides had identified the sticking points and were working to address them. The same day, Goyal defended India against US forced labour and excess capacity investigations, with the USTR having already levied a 10% 'forced labour' tariff on Indian imports and investigating structural excess capacity, which could result in further tariffs. On 5 October, Finance Minister Nirmala Sitharaman called the proposed Indo-US agreement \"a hard and very rigorously negotiated agreement\" and said further concessions were proving difficult as the US seeks to narrow its trade deficit with India. By 7 October, The Hindu reported that both the interim trade agreement and the wider Bilateral Trade Agreement were heavily dela",
+   "summaryCount": 5,
+   "summaryAt": "2026-10-07T21:45:53.100Z",
+   "events": [
+    {
+     "id": "s1x03nlg",
+     "date": "2026-10-02T06:10:51.000Z",
+     "headline": "USTR Greer says he does not think “something is imminent” on trade deal with India",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/Economy/ustr-greer-says-he-does-not-think-something-is-imminent-on-trade-deal-with-india/article71535944.ece",
+     "sector": "economy",
+     "month": "2026-10"
+    },
+    {
+     "id": "s5ptggk",
+     "date": "2026-10-02T09:21:14.000Z",
+     "headline": "Commerce Minister Goyal defends India against U.S. forced labour and excess capacity investigations",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/Economy/commerce-minister-goyal-defends-india-against-us-forced-labour-and-excess-capacity-investigations/article71536326.ece",
+     "sector": "economy",
+     "month": "2026-10"
+    },
+    {
+     "id": "s1mycfju",
+     "date": "2026-10-05T05:09:52.000Z",
+     "headline": "FM Sitharaman hails India-EU trade deal at Munich Leaders Meeting",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/Economy/fm-sitharaman-hails-india-eu-trade-deal-at-munich-leaders-meeting/article71545912.ece",
+     "sector": "economy",
+     "month": "2026-10"
+    },
+    {
+     "id": "s1jftzf",
+     "date": "2026-10-05T09:12:44.000Z",
+     "headline": "Trade talks need different templates for different partners, says FM Sitharaman",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/trade-talks-need-different-templates-for-different-partners-says-fm-sitharaman-11791185501564.html",
+     "sector": "economy",
+     "month": "2026-10"
+    },
+    {
+     "id": "sq9bww3",
+     "date": "2026-10-07T06:24:10.000Z",
+     "headline": "Why are Indian and U.S. leaders cooling off on a trade deal? | Explained",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/Economy/why-are-indian-and-us-leaders-cooling-off-on-a-trade-deal-explained/article71554453.ece",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 5,
+   "first": "2026-10-02T06:10:51.000Z"
+  },
+  "trhztte": {
+   "id": "trhztte",
+   "name": "Biogas and GOBARdhan energy push",
+   "sector": "energy",
+   "created": "2026-10-02T06:12:27.000Z",
+   "updated": "2026-10-02T06:12:27.000Z",
+   "latestHeadline": "Mint Explainer | How the GOBARdhan scheme helps in achieving energy security and transition",
+   "events": [
+    {
+     "id": "s16766tt",
+     "date": "2026-10-02T06:12:27.000Z",
+     "headline": "Mint Explainer | How the GOBARdhan scheme helps in achieving energy security and transition",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/energy/gobardhan-scheme-cbg-biogas-production-india-energy-security-explained-11790917492548.html",
+     "sector": "energy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-02T06:12:27.000Z"
+  },
+  "t1m4ex1p": {
+   "id": "t1m4ex1p",
+   "name": "Trai service quality rules",
+   "sector": "technology",
+   "created": "2026-10-02T08:31:34.000Z",
+   "updated": "2026-10-02T08:31:34.000Z",
+   "latestHeadline": "Mint Explainer | Why state-owned BSNL is wary of Trai's proposed service quality rules",
+   "events": [
+    {
+     "id": "so7v3df",
+     "date": "2026-10-02T08:31:34.000Z",
+     "headline": "Mint Explainer | Why state-owned BSNL is wary of Trai's proposed service quality rules",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/telecom/bsnl-trai-quality-of-service-rules-objections-explained-11790925221858.html",
+     "sector": "technology",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-02T08:31:34.000Z"
+  },
+  "tgjo5ge": {
+   "id": "tgjo5ge",
+   "name": "MSE government procurement",
+   "sector": "economy",
+   "created": "2026-10-02T08:34:24.000Z",
+   "updated": "2026-10-02T08:34:24.000Z",
+   "latestHeadline": "Government procurement from MSEs hits ₹48,635 crore in H1 FY27, H2 seen stronger",
+   "events": [
+    {
+     "id": "sm2sfn4",
+     "date": "2026-10-02T08:34:24.000Z",
+     "headline": "Government procurement from MSEs hits ₹48,635 crore in H1 FY27, H2 seen stronger",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/government-procurement-from-mses-hits-48-635-crore-in-h1-fy27-h2-seen-stronger-11790918187467.html",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-02T08:34:24.000Z"
+  },
+  "t5sqh80": {
+   "id": "t5sqh80",
+   "name": "Rupee pressure and forex reserves",
+   "sector": "economy",
+   "created": "2026-10-02T16:27:21.000Z",
+   "updated": "2026-10-05T05:25:15.000Z",
+   "latestHeadline": "Rupee trades in narrow range against U.S. dollar in early trade",
+   "summary": "On October 2, data showed India's forex reserves fell a record $18.34 billion to $747.56 billion in the week of Sept. 25, the biggest weekly drop on record, as the RBI stepped in to support the rupee. On October 5, the rupee traded in a narrow range against the U.S. dollar, hovering around 96, ahead of the RBI's monetary policy decision later that week.",
+   "summaryCount": 2,
+   "summaryAt": "2026-10-07T21:46:16.275Z",
+   "events": [
+    {
+     "id": "s1ujyb86",
+     "date": "2026-10-02T16:27:21.000Z",
+     "headline": "Forex reserves plunge record $18.3 billion as RBI steps in to support rupee",
+     "source": "mint",
+     "url": "https://www.livemint.com/economy/forex-reserves-plunge-record-18-3-billion-as-rbi-steps-in-to-support-rupee-11790953518458.html",
+     "sector": "economy",
+     "month": "2026-10"
+    },
+    {
+     "id": "s935ivj",
+     "date": "2026-10-05T05:25:15.000Z",
+     "headline": "Rupee trades in narrow range against U.S. dollar in early trade",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/rupee-trades-in-narrow-range-against-us-dollar-in-early-trade/article71545911.ece",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 2,
+   "first": "2026-10-02T16:27:21.000Z"
+  },
+  "t1m3ppj6": {
+   "id": "t1m3ppj6",
+   "name": "UPI growth and merchant costs",
+   "sector": "technology",
+   "created": "2026-10-02T17:33:37.000Z",
+   "updated": "2026-10-05T18:56:14.000Z",
+   "latestHeadline": "There should be no GST on MDR for UPI transactions: C. Rangarajan",
+   "summary": "On 2 October, The Hindu reported National Payments Corporation of India data showing UPI volume rose 27% to 145 billion in the first half of the financial year, against 114 billion in April-September of the previous year. Two days later, Mint reported that the industrial marketplace Pneucons would disable UPI on orders from 10 October, with a co-founder saying the merchant discount rate (MDR) \"ate 94% of our margins\". On 5 October, The Hindu reported that C. Rangarajan said there should be no GST on MDR for UPI transactions, and that the GST Council should state clearly that no GST applies to MDR fees on UPI transactions above ₹2,000.",
+   "summaryCount": 3,
+   "summaryAt": "2026-10-07T21:46:11.906Z",
+   "events": [
+    {
+     "id": "s13qgq0e",
+     "date": "2026-10-02T17:33:37.000Z",
+     "headline": "UPI volume jumps 27% to touch 145 bn in first half",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/upi-volume-jumps-27-to-touch-145-bn-in-first-half/article71538372.ece",
+     "sector": "technology",
+     "month": "2026-10"
+    },
+    {
+     "id": "s1yug9lb",
+     "date": "2026-10-04T03:26:33.000Z",
+     "headline": "Industrial marketplace Pneucons disables UPI on orders from Oct 10, co-founder says ‘MDR ate 94% of our margins’",
+     "source": "mint",
+     "url": "https://www.livemint.com/companies/news/industrial-marketplace-pneucons-disables-upi-on-orders-from-oct-10-co-founder-says-mdr-ate-94-of-our-margins-11791079493499.html",
+     "sector": "economy",
+     "month": "2026-10"
+    },
+    {
+     "id": "sexalie",
+     "date": "2026-10-05T18:56:14.000Z",
+     "headline": "There should be no GST on MDR for UPI transactions: C. Rangarajan",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/national/tamil-nadu/there-should-be-no-gst-on-mdr-for-upi-transactions-c-rangarajan/article71548512.ece",
+     "sector": "technology",
+     "month": "2026-10"
+    }
+   ],
+   "count": 3,
+   "first": "2026-10-02T17:33:37.000Z"
+  },
+  "t1ehfi7c": {
+   "id": "t1ehfi7c",
+   "name": "AI impact on IT jobs",
+   "sector": "technology",
+   "created": "2026-10-02T21:47:55.000Z",
+   "updated": "2026-10-03T03:19:16.000Z",
+   "latestHeadline": "White-collar hiring shifts towards specialised AI skills, experienced professionals in September: Report",
+   "summary": "On 2 October, The Hindu reported that the Indian IT bench, once a strategic buffer against fluctuating project demand, is becoming a more tightly managed pool of talent. It said this was shaped by utilisation, changing demand and a growing premium on specialised skills. The next day, Mint reported that the white-collar job market was becoming more selective in September, with hiring driven by demand for specialised AI skills and experienced professionals.",
+   "summaryCount": 2,
+   "summaryAt": "2026-10-07T21:46:19.668Z",
+   "events": [
+    {
+     "id": "sxssrch",
+     "date": "2026-10-02T21:47:55.000Z",
+     "headline": "What is happening to the Indian IT bench? | Explained",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/Industry/what-is-happening-to-the-indian-it-bench-explained/article71536828.ece",
+     "sector": "technology",
+     "month": "2026-10"
+    },
+    {
+     "id": "sdvnmtt",
+     "date": "2026-10-03T03:19:16.000Z",
+     "headline": "White-collar hiring shifts towards specialised AI skills, experienced professionals in September: Report",
+     "source": "mint",
+     "url": "https://www.livemint.com/economy/whitecollar-hiring-shifts-towards-specialised-ai-skills-experienced-professionals-in-september-report-11790995506265.html",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 2,
+   "first": "2026-10-02T21:47:55.000Z"
+  },
+  "t1tqo310": {
+   "id": "t1tqo310",
+   "name": "AI data centre expansion",
+   "sector": "technology",
+   "created": "2026-10-03T00:00:42.000Z",
+   "updated": "2026-10-06T14:13:36.000Z",
+   "latestHeadline": "Work on Google-Adani data centre can continue at developer's own risk: Andhra HC",
+   "summary": "In early October, Mint reported that data centre pre-leasing had doubled amid rising AI demand. On 6 October, the World Bank was reported as placing India among the top 10 emerging markets in AI readiness. The same day, the Andhra Pradesh High Court allowed construction of the Google-Adani data centre to continue at the developer's own risk. The court's order is pending a review of environmental concerns raised in a public interest litigation, including land use and proximity to protected areas.",
+   "summaryCount": 3,
+   "summaryAt": "2026-10-07T21:45:56.815Z",
+   "events": [
+    {
+     "id": "s191nii8",
+     "date": "2026-10-03T00:00:42.000Z",
+     "headline": "Data centre pre-leasing doubles amid rising AI demand",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/infotech/data-centre-pre-leasing-doubles-amid-rising-ai-demand-11790836267049.html",
+     "sector": "technology",
+     "month": "2026-10"
+    },
+    {
+     "id": "syst6ip",
+     "date": "2026-10-06T10:45:56.000Z",
+     "headline": "India among top 10 emerging markets in AI readiness; private AI investment triples: World Bank",
+     "source": "mint",
+     "url": "https://www.livemint.com/technology/india-among-top-10-emerging-markets-in-ai-readiness-private-ai-investment-triples-world-bank-11791283557375.html",
+     "sector": "technology",
+     "month": "2026-10"
+    },
+    {
+     "id": "svxz2nc",
+     "date": "2026-10-06T14:13:36.000Z",
+     "headline": "Work on Google-Adani data centre can continue at developer's own risk: Andhra HC",
+     "source": "mint",
+     "url": "https://www.livemint.com/companies/news/work-on-google-adani-data-centre-can-continue-at-developers-own-risk-andhra-hc-11791289938948.html",
+     "sector": "technology",
+     "month": "2026-10"
+    }
+   ],
+   "count": 3,
+   "first": "2026-10-03T00:00:42.000Z"
+  },
+  "t1ftgdvx": {
+   "id": "t1ftgdvx",
+   "name": "RBI crypto and financial stability",
+   "sector": "economy",
+   "created": "2026-10-03T10:15:48.000Z",
+   "updated": "2026-10-03T15:43:33.000Z",
+   "latestHeadline": "RBI chief lays down 5 key priorities to maintain financial stability amidst emerging risks",
+   "summary": "On 3 October 2026, The Hindu reported that RBI Governor Malhotra said the central bank remains cautious on crypto while backing the underlying technology. The same day, The Hindu also reported that the RBI chief laid down five key priorities to maintain financial stability amid emerging risks.",
+   "summaryCount": 2,
+   "summaryAt": "2026-10-07T21:46:17.842Z",
+   "events": [
+    {
+     "id": "s1h6wut9",
+     "date": "2026-10-03T10:15:48.000Z",
+     "headline": "RBI remains cautious on crypto, backs underlying technology: Governor Malhotra",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/rbi-remains-cautious-on-crypto-backs-underlying-technology-governor-malhotra/article71540258.ece",
+     "sector": "economy",
+     "month": "2026-10"
+    },
+    {
+     "id": "sf6w83h",
+     "date": "2026-10-03T15:43:33.000Z",
+     "headline": "RBI chief lays down 5 key priorities to maintain financial stability amidst emerging risks",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/rbi-chief-lays-down-5-key-priorities-to-maintain-financial-stability-amidst-emerging-risks/article71540523.ece",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 2,
+   "first": "2026-10-03T10:15:48.000Z"
+  },
+  "t1k3koa6": {
+   "id": "t1k3koa6",
+   "name": "Bitchat removal from India app store",
+   "sector": "technology",
+   "created": "2026-10-03T15:44:22.000Z",
+   "updated": "2026-10-03T15:44:22.000Z",
+   "latestHeadline": "Apple removes Bitchat from app store in India; Twitter co-founder Jack Dorsey reacts",
+   "events": [
+    {
+     "id": "s14kr73a",
+     "date": "2026-10-03T15:44:22.000Z",
+     "headline": "Apple removes Bitchat from app store in India; Twitter co-founder Jack Dorsey reacts",
+     "source": "mint",
+     "url": "https://www.livemint.com/technology/apple-removes-bitchat-from-app-store-in-india-twitter-co-founder-jack-dorsey-reacts-11791042262743.html",
+     "sector": "technology",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-03T15:44:22.000Z"
+  },
+  "tsazjf9": {
+   "id": "tsazjf9",
+   "name": "Domestic gas pricing reforms",
+   "sector": "energy",
+   "created": "2026-10-04T07:00:31.000Z",
+   "updated": "2026-10-04T07:00:31.000Z",
+   "latestHeadline": "Government raises deepwater gas price ceiling to $9.89/MMBtu; APM gas cap at $7",
+   "events": [
+    {
+     "id": "s138aue9",
+     "date": "2026-10-04T07:00:31.000Z",
+     "headline": "Government raises deepwater gas price ceiling to $9.89/MMBtu; APM gas cap at $7",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/government-raises-deepwater-gas-price-ceiling-to-989mmbtu-apm-gas-cap-at-7/article71543103.ece",
+     "sector": "energy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-04T07:00:31.000Z"
+  },
+  "t1rn5wwj": {
+   "id": "t1rn5wwj",
+   "name": "GST decriminalisation and arrest powers",
+   "sector": "governance",
+   "created": "2026-10-04T12:48:16.000Z",
+   "updated": "2026-10-04T12:48:16.000Z",
+   "latestHeadline": "GST arrest powers may be removed? Council to discuss decriminalisation on Wednesday; law change likely in Winter Session",
+   "events": [
+    {
+     "id": "s1ccvcrv",
+     "date": "2026-10-04T12:48:16.000Z",
+     "headline": "GST arrest powers may be removed? Council to discuss decriminalisation on Wednesday; law change likely in Winter Session",
+     "source": "mint",
+     "url": "https://www.livemint.com/economy/gst-arrest-powers-may-be-removed-council-to-discuss-decriminalisation-on-wednesday-law-change-likely-in-winter-session-11791112867891.html",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-04T12:48:16.000Z"
+  },
+  "td0id7j": {
+   "id": "td0id7j",
+   "name": "Gig worker social security rules",
+   "sector": "governance",
+   "created": "2026-10-04T13:39:17.000Z",
+   "updated": "2026-10-05T07:45:55.000Z",
+   "latestHeadline": "Mint Explainer | Why Karnataka’s gig worker law has put platforms and workers at odds",
+   "summary": "In early October, Mint reported that IndiaTech was seeking a rethink of the turnover-linked levy for gig worker social security. Under the Code on Social Security, 2020, aggregators are required to contribute 1-2% of annual turnover towards social security for gig and platform workers, subject to a cap of 5% of the amount paid or payable to such workers. A day later, a Mint explainer said Karnataka's gig worker law had put platforms and workers at odds, with the central question being whether states can create their own social-security regimes for gig workers when Parliament has already enacted a national law covering them.",
+   "summaryCount": 2,
+   "summaryAt": "2026-10-07T21:46:14.556Z",
+   "events": [
+    {
+     "id": "s12y27rh",
+     "date": "2026-10-04T13:39:17.000Z",
+     "headline": "IndiaTech seeks rethink of turnover-linked gig worker social security levy",
+     "source": "mint",
+     "url": "https://www.livemint.com/companies/indiatech-seeks-rethink-of-turnover-linked-gig-worker-social-security-levy-11791099731540.html",
+     "sector": "governance",
+     "month": "2026-10"
+    },
+    {
+     "id": "s24g8zp",
+     "date": "2026-10-05T07:45:55.000Z",
+     "headline": "Mint Explainer | Why Karnataka’s gig worker law has put platforms and workers at odds",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/karnataka-gig-worker-law-social-security-platform-companies-11791175740941.html",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 2,
+   "first": "2026-10-04T13:39:17.000Z"
+  },
+  "t1nf6bbl": {
+   "id": "t1nf6bbl",
+   "name": "RBI repo rate decision October",
+   "sector": "economy",
+   "created": "2026-10-04T13:53:48.000Z",
+   "updated": "2026-10-07T07:01:08.000Z",
+   "latestHeadline": "RBI raises repo rate by 25 basis points to 5.50%, shifts stance to ‘calibrated tightening’",
+   "summary": "In early October, a Mint experts poll suggested the RBI might raise rates by 0.25 percentage points at its October policy, citing inflationary pressures linked to the West Asia crisis. On October 7, The Hindu reported that the RBI raised its FY27 inflation projection to 5.2% amid higher crude oil prices, noting that consumer inflation in August had accelerated to 4.82% from a year earlier, above the RBI's 4% medium-term target for a third consecutive month. The same day, the RBI raised the repo rate by 25 basis points to 5.50%, its first hike in nearly three-and-a-half years, and changed its policy stance from 'neutral' to 'calibrated tightening'.",
+   "summaryCount": 3,
+   "summaryAt": "2026-10-07T21:45:50.418Z",
+   "events": [
+    {
+     "id": "sjush0y",
+     "date": "2026-10-04T13:53:48.000Z",
+     "headline": "RBI likely to raise repo rate in October 2026 as West Asia crisis fuels inflation risks",
+     "source": "mint",
+     "url": "https://www.livemint.com/economy/rbi-likely-to-raise-repo-rate-in-october-2026-as-west-asia-crisis-fuels-inflation-risks-11791121335600.html",
+     "sector": "economy",
+     "month": "2026-10"
+    },
+    {
+     "id": "si9sjrx",
+     "date": "2026-10-07T05:59:09.000Z",
+     "headline": "RBI raises FY27 inflation projection to 5.2% amid higher crude oil prices",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/Economy/rbi-raises-fy27-inflation-projection-to-51-amid-higher-crude-oil-prices/article71554389.ece",
+     "sector": "economy",
+     "month": "2026-10"
+    },
+    {
+     "id": "sba6wbd",
+     "date": "2026-10-07T07:01:08.000Z",
+     "headline": "RBI raises repo rate by 25 basis points to 5.50%, shifts stance to ‘calibrated tightening’",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/Economy/rbi-hikes-repo-rate-by-25-basis-points-to-55/article71554369.ece",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 3,
+   "first": "2026-10-04T13:53:48.000Z"
+  },
+  "t1b7ry38": {
+   "id": "t1b7ry38",
+   "name": "FSSAI spice safety recalls",
+   "sector": "agriculture",
+   "created": "2026-10-04T17:37:35.000Z",
+   "updated": "2026-10-06T13:08:57.000Z",
+   "latestHeadline": "Monster, PepsiCo, Campa get Delhi HC relief against FSSAI ‘energy drink’ label ban",
+   "summary": "In early October, FSSAI ordered Everest Food Products to withdraw its unsafe pre-packed cumin powder from the market, stressing strict enforcement of food safety regulations to protect consumers. A couple of days later, in the first week of October, reports said the regulator had stepped up scrutiny of major food brands over unsafe products and misleading claims, with nutritionists saying consumers need clearer labels. Around the same time, Monster Energy, PepsiCo and Reliance Consumer Products won interim relief from the Delhi High Court against FSSAI's move to stop beverage makers from using the term 'energy drink' on certain caffeinated products.",
+   "summaryCount": 3,
+   "summaryAt": "2026-10-07T21:46:00.732Z",
+   "events": [
+    {
+     "id": "s1etlc9i",
+     "date": "2026-10-04T17:37:35.000Z",
+     "headline": "FSSAI flags Everest cumin powder as unsafe, orders immediate market recall: What food analyst report found",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/fssai-flags-everest-cumin-powder-as-unsafe-orders-immediate-market-recall-what-food-analyst-report-found-11791132343201.html",
+     "sector": "agriculture",
+     "month": "2026-10"
+    },
+    {
+     "id": "s142sfes",
+     "date": "2026-10-06T03:35:16.000Z",
+     "headline": "FSSAI steps up action against brands over unsafe products, misleading claims: Do consumers need simpler food labels?",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/retail/fssai-steps-up-action-against-brands-over-unsafe-products-misleading-claims-do-consumers-need-simpler-food-labels-11791255727134.html",
+     "sector": "agriculture",
+     "month": "2026-10"
+    },
+    {
+     "id": "sjw6lux",
+     "date": "2026-10-06T13:08:57.000Z",
+     "headline": "Monster, PepsiCo, Campa get Delhi HC relief against FSSAI ‘energy drink’ label ban",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/retail/monster-pepsico-campa-get-delhi-hc-relief-against-fssai-energy-drink-label-ban-11791286344573.html",
+     "sector": "agriculture",
+     "month": "2026-10"
+    }
+   ],
+   "count": 3,
+   "first": "2026-10-04T17:37:35.000Z"
+  },
+  "tcren7x": {
+   "id": "tcren7x",
+   "name": "Oil shock and manufacturing",
+   "sector": "manufacturing",
+   "created": "2026-10-04T18:02:22.000Z",
+   "updated": "2026-10-04T18:02:22.000Z",
+   "latestHeadline": "The oil shock hasn’t stopped the factory boom. It may be changing what factories make | Explained",
+   "events": [
+    {
+     "id": "s139nthu",
+     "date": "2026-10-04T18:02:22.000Z",
+     "headline": "The oil shock hasn’t stopped the factory boom. It may be changing what factories make | Explained",
+     "source": "mint",
+     "url": "https://www.livemint.com/economy/the-oil-shock-hasn-t-stopped-the-factory-boom-it-may-be-changing-what-factories-make-11791124337610.html",
+     "sector": "manufacturing",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-04T18:02:22.000Z"
+  },
+  "tvfs937": {
+   "id": "tvfs937",
+   "name": "Next-Gen GST rate rationalisation",
+   "sector": "economy",
+   "created": "2026-10-04T18:47:22.000Z",
+   "updated": "2026-10-04T18:47:22.000Z",
+   "latestHeadline": "Next-Gen GST and India’s next phase of growth",
+   "events": [
+    {
+     "id": "sxukokm",
+     "date": "2026-10-04T18:47:22.000Z",
+     "headline": "Next-Gen GST and India’s next phase of growth",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/Economy/next-gen-gst-and-indias-next-phase-of-growth/article71541678.ece",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-04T18:47:22.000Z"
+  },
+  "t1319i5l": {
+   "id": "t1319i5l",
+   "name": "Semiconductor fabs and supply chains",
+   "sector": "technology",
+   "created": "2026-10-05T00:30:22.000Z",
+   "updated": "2026-10-05T00:30:22.000Z",
+   "latestHeadline": "Tata's Assam chip unit is almost ready, and a non-China supply chain is in place",
+   "events": [
+    {
+     "id": "so2g6h9",
+     "date": "2026-10-05T00:30:22.000Z",
+     "headline": "Tata's Assam chip unit is almost ready, and a non-China supply chain is in place",
+     "source": "mint",
+     "url": "https://www.livemint.com/companies/news/tata-electronics-assam-semiconductor-chip-plant-11791089738819.html",
+     "sector": "technology",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-05T00:30:22.000Z"
+  },
+  "t1vpxdh2": {
+   "id": "t1vpxdh2",
+   "name": "Mumbai airport Terminal-1 shift",
+   "sector": "logistics",
+   "created": "2026-10-05T00:31:02.000Z",
+   "updated": "2026-10-05T00:31:02.000Z",
+   "latestHeadline": "Govt scrambles to resolve Mumbai airport Terminal-1 shift",
+   "events": [
+    {
+     "id": "s1io1kv0",
+     "date": "2026-10-05T00:31:02.000Z",
+     "headline": "Govt scrambles to resolve Mumbai airport Terminal-1 shift",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/govt-scrambles-to-resolve-mumbai-airport-terminal-1-shift-11791110756932.html",
+     "sector": "logistics",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-05T00:31:02.000Z"
+  },
+  "t1feg7hm": {
+   "id": "t1feg7hm",
+   "name": "Renewable energy transmission and green corridors",
+   "sector": "energy",
+   "created": "2026-10-05T06:20:27.000Z",
+   "updated": "2026-10-05T06:20:27.000Z",
+   "latestHeadline": "GEC III: Bridging geographic and temporal mismatch",
+   "events": [
+    {
+     "id": "serr6er",
+     "date": "2026-10-05T06:20:27.000Z",
+     "headline": "GEC III: Bridging geographic and temporal mismatch",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/Industry/gec-iii-bridging-geographic-and-temporal-mismatch/article71546014.ece",
+     "sector": "energy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-05T06:20:27.000Z"
+  },
+  "t14fyeji": {
+   "id": "t14fyeji",
+   "name": "Election Commission internal rift",
+   "sector": "governance",
+   "created": "2026-10-05T06:53:21.000Z",
+   "updated": "2026-10-07T09:10:18.000Z",
+   "latestHeadline": "CEC appointment law row: SC to examine plea seeking recall of September split verdict",
+   "summary": "In early October, Mint reported that the Election Commission of India was facing scrutiny over internal differences, and it explained what the law says if the three Election Commissioners are stuck in a 1-1-1 split. On Wednesday, October 7, a Supreme Court bench of the Chief Justice of India and Justices Joymalya Bagchi and V Mohana was told about a recall application by senior advocate Gopal Sankaranarayanan. The application seeks recall of a September split verdict in the CEC appointment law row, and the court is set to examine the plea.",
+   "summaryCount": 2,
+   "summaryAt": "2026-10-07T21:45:44.382Z",
+   "events": [
+    {
+     "id": "s1izayod",
+     "date": "2026-10-05T06:53:21.000Z",
+     "headline": "ECI Row: What happens when all three Election Commissioners disagree? Here's what the law says",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/eci-row-what-happens-when-all-three-election-commissioners-disagree-heres-what-the-law-says-11791182525314.html",
+     "sector": "governance",
+     "month": "2026-10"
+    },
+    {
+     "id": "s5x99w1",
+     "date": "2026-10-07T09:10:18.000Z",
+     "headline": "CEC appointment law row: SC to examine plea seeking recall of September split verdict",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/cec-appointment-law-row-sc-to-examine-plea-seeking-recall-of-september-split-verdict-11791360017671.html",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 2,
+   "first": "2026-10-05T06:53:21.000Z"
+  },
+  "t70vqt6": {
+   "id": "t70vqt6",
+   "name": "Great Nicobar project challenges",
+   "sector": "environment",
+   "created": "2026-10-05T09:10:49.000Z",
+   "updated": "2026-10-05T09:10:49.000Z",
+   "latestHeadline": "Supreme Court allows Great Nicobar project challenge to proceed in Calcutta HC",
+   "events": [
+    {
+     "id": "s1pikzq4",
+     "date": "2026-10-05T09:10:49.000Z",
+     "headline": "Supreme Court allows Great Nicobar project challenge to proceed in Calcutta HC",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/supreme-court-allows-great-nicobar-project-challenge-to-proceed-in-calcutta-hc-11791187657524.html",
+     "sector": "environment",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-05T09:10:49.000Z"
+  },
+  "t5lw2yx": {
+   "id": "t5lw2yx",
+   "name": "Electric bus and truck adoption",
+   "sector": "energy",
+   "created": "2026-10-05T11:40:04.000Z",
+   "updated": "2026-10-05T11:40:04.000Z",
+   "latestHeadline": "India records highest e-bus sales in April-September period, adoption jumps to 8.55%",
+   "events": [
+    {
+     "id": "ss3t8t6",
+     "date": "2026-10-05T11:40:04.000Z",
+     "headline": "India records highest e-bus sales in April-September period, adoption jumps to 8.55%",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/india-electric-bus-sales-surge-55-percent-h1-fy27-11791191122581.html",
+     "sector": "energy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-05T11:40:04.000Z"
+  },
+  "tc25y0e": {
+   "id": "tc25y0e",
+   "name": "Aadhaar update rules",
+   "sector": "governance",
+   "created": "2026-10-05T12:04:10.000Z",
+   "updated": "2026-10-05T12:04:10.000Z",
+   "latestHeadline": "Aadhaar name correction new rules 2026: Which document do you need for spelling mistake, marriage or major name change?",
+   "events": [
+    {
+     "id": "sped6ol",
+     "date": "2026-10-05T12:04:10.000Z",
+     "headline": "Aadhaar name correction new rules 2026: Which document do you need for spelling mistake, marriage or major name change?",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/aadhaar-name-correction-new-rules-2026-which-document-do-you-need-for-spelling-mistake-marriage-or-major-name-change-11791199334968.html",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-05T12:04:10.000Z"
+  },
+  "t1ll41nt": {
+   "id": "t1ll41nt",
+   "name": "State government borrowing",
+   "sector": "economy",
+   "created": "2026-10-05T12:10:46.000Z",
+   "updated": "2026-10-05T12:10:46.000Z",
+   "latestHeadline": "State borrowing to rise 26% to ₹3.6 tn in Q3 under new issuance strategy: ICRA",
+   "events": [
+    {
+     "id": "silfvmn",
+     "date": "2026-10-05T12:10:46.000Z",
+     "headline": "State borrowing to rise 26% to ₹3.6 tn in Q3 under new issuance strategy: ICRA",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/state-borrowing-set-to-rise-26-in-q3-as-26-states-adopt-new-issuance-strategy-icra-11791195674179.html",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-05T12:10:46.000Z"
+  },
+  "t1kz1pjp": {
+   "id": "t1kz1pjp",
+   "name": "Supreme Court judge appointments",
+   "sector": "governance",
+   "created": "2026-10-05T13:12:12.000Z",
+   "updated": "2026-10-05T13:12:12.000Z",
+   "latestHeadline": "Meet Justices Sunita Agarwal, DK Upadhyay, Aparesh Singh: Centre notifies appointment of 3 judges to Supreme Court",
+   "events": [
+    {
+     "id": "s1lwnfbc",
+     "date": "2026-10-05T13:12:12.000Z",
+     "headline": "Meet Justices Sunita Agarwal, DK Upadhyay, Aparesh Singh: Centre notifies appointment of 3 judges to Supreme Court",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/meet-justices-sunita-agarwal-dk-upadhyay-aparesh-singh-centre-notifies-appointment-of-3-judges-to-supreme-court-11791201406043.html",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-05T13:12:12.000Z"
+  },
+  "twx930a": {
+   "id": "twx930a",
+   "name": "India growth and inflation outlook",
+   "sector": "economy",
+   "created": "2026-10-05T13:55:07.000Z",
+   "updated": "2026-10-06T07:17:42.000Z",
+   "latestHeadline": "World Bank raises India FY27 growth forecast to 7.1% from 6.6% on stronger-than-expected activity",
+   "summary": "In early October, a BCG monitor covering September described a less even expansion in India, with strong investment and services offsetting softer manufacturing, consumer sentiment and parts of demand. On 6 October, a PMI survey showed services sector growth reaching a three-month high, with companies reporting improved sales on increased demand in areas such as digital solutions, food, insurance, loans, software, transportation, and tours and travel. The same day, the World Bank raised its FY27 growth forecast for India to 7.1 per cent from 6.6 per cent, citing stronger-than-expected growth supported by robust domestic demand and exports, while warning that global risks remain elevated.",
+   "summaryCount": 3,
+   "summaryAt": "2026-10-07T21:46:07.981Z",
+   "events": [
+    {
+     "id": "s7xz9ce",
+     "date": "2026-10-05T13:55:07.000Z",
+     "headline": "India’s growth momentum holds, but inflation and weak industrial activity weigh, says BCG report",
+     "source": "mint",
+     "url": "https://www.livemint.com/economy/india-growth-momentum-holds-but-inflation-and-industrial-activity-pose-risks-bcg-11791200956716.html",
+     "sector": "economy",
+     "month": "2026-10"
+    },
+    {
+     "id": "syq0rhi",
+     "date": "2026-10-06T06:29:54.000Z",
+     "headline": "India’s services sector growth hits three-month high: PMI survey",
+     "source": "mint",
+     "url": "https://www.livemint.com/economy/india-services-economy-pmi-survey-business-consumer-services-11791265040418.html",
+     "sector": "economy",
+     "month": "2026-10"
+    },
+    {
+     "id": "s880gcz",
+     "date": "2026-10-06T07:17:42.000Z",
+     "headline": "World Bank raises India FY27 growth forecast to 7.1% from 6.6% on stronger-than-expected activity",
+     "source": "mint",
+     "url": "https://www.livemint.com/economy/world-bank-raises-india-fy27-growth-forecast-to-7-1-from-6-6-on-stronger-than-expected-activity-11791270536568.html",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 3,
+   "first": "2026-10-05T13:55:07.000Z"
+  },
+  "t799ig4": {
+   "id": "t799ig4",
+   "name": "NSO national travel survey",
+   "sector": "logistics",
+   "created": "2026-10-05T14:19:40.000Z",
+   "updated": "2026-10-05T14:19:40.000Z",
+   "latestHeadline": "Indians favour two-wheelers, but buses and trains dominate overnight travel: NSO survey",
+   "events": [
+    {
+     "id": "s1jctn2o",
+     "date": "2026-10-05T14:19:40.000Z",
+     "headline": "Indians favour two-wheelers, but buses and trains dominate overnight travel: NSO survey",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/twowheelers-dominate-work-commute-buses-and-rail-drive-overnight-travel-nso-survey-11791202775009.html",
+     "sector": "logistics",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-05T14:19:40.000Z"
+  },
+  "t14a3bf6": {
+   "id": "t14a3bf6",
+   "name": "Airline fuel costs and liquidity strain",
+   "sector": "logistics",
+   "created": "2026-10-05T14:34:13.000Z",
+   "updated": "2026-10-06T08:25:20.000Z",
+   "latestHeadline": "Centre revisits ATF price stabilisation fund amid rising costs",
+   "summary": "On 5 October, The Hindu reported that IndiGo had revised its fuel surcharge for the third time. The increase was only a partial pass-through of higher fuel costs, and a full pass-through would have required a significantly steeper rise. The same day, Mint reported that the Federation of Indian Airlines had urged the ministry to give \"appropriate guidance and reassurance\" to participating banks, so that the remaining sanctioned amounts could be released, starting with the first tranche under ECLGS 5.0. On 6 October, Mint reported that civil aviation minister K. Ram Mohan Naidu said the government was in talks with airlines and oil marketing companies on streamlining the ATF price stabilisation mechanism.",
+   "summaryCount": 3,
+   "summaryAt": "2026-10-07T21:46:05.812Z",
+   "events": [
+    {
+     "id": "setgw22",
+     "date": "2026-10-05T14:34:13.000Z",
+     "headline": "IndiGo revises fuel surcharge for the third time",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/Industry/indigo-revises-fuel-surcharge-for-the-third-time/article71547656.ece",
+     "sector": "logistics",
+     "month": "2026-10"
+    },
+    {
+     "id": "s1d4ioxx",
+     "date": "2026-10-05T16:49:17.000Z",
+     "headline": "Airlines seek faster release of govt-backed credit amid liquidity strain",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/airlines-seek-faster-release-of-govt-backed-credit-amid-liquidity-strain-11791209419083.html",
+     "sector": "logistics",
+     "month": "2026-10"
+    },
+    {
+     "id": "sb3lbi4",
+     "date": "2026-10-06T08:25:20.000Z",
+     "headline": "Centre revisits ATF price stabilisation fund amid rising costs",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/atf-price-stabilisation-fund-airlines-india-11791268222479.html",
+     "sector": "logistics",
+     "month": "2026-10"
+    }
+   ],
+   "count": 3,
+   "first": "2026-10-05T14:34:13.000Z"
+  },
+  "t1b1fx2z": {
+   "id": "t1b1fx2z",
+   "name": "Infrastructure investment and project preparation",
+   "sector": "economy",
+   "created": "2026-10-05T14:40:07.000Z",
+   "updated": "2026-10-05T14:40:07.000Z",
+   "latestHeadline": "India’s infrastructure challenge shifts from raising capital to making projects investable, says Deloitte",
+   "events": [
+    {
+     "id": "s1yuvx84",
+     "date": "2026-10-05T14:40:07.000Z",
+     "headline": "India’s infrastructure challenge shifts from raising capital to making projects investable, says Deloitte",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/indias-infrastructure-challenge-shifts-from-raising-capital-to-making-projects-investable-says-deloitte-11791203958309.html",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-05T14:40:07.000Z"
+  },
+  "t1tznfex": {
+   "id": "t1tznfex",
+   "name": "Private hospital charge regulation",
+   "sector": "governance",
+   "created": "2026-10-05T14:56:20.000Z",
+   "updated": "2026-10-05T14:56:20.000Z",
+   "latestHeadline": "Health groups seek regulation of private hospital charges, medicine margins",
+   "events": [
+    {
+     "id": "s1oojmmp",
+     "date": "2026-10-05T14:56:20.000Z",
+     "headline": "Health groups seek regulation of private hospital charges, medicine margins",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/sci-tech/health/health-groups-seek-regulation-of-private-hospital-charges-medicine-margins/article71547153.ece",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-05T14:56:20.000Z"
+  },
+  "tmr6af7": {
+   "id": "tmr6af7",
+   "name": "Delhi-NCR GRAP pollution restrictions",
+   "sector": "environment",
+   "created": "2026-10-05T15:01:35.000Z",
+   "updated": "2026-10-05T15:01:35.000Z",
+   "latestHeadline": "New GRAP Rules in Delhi; Restrictions in NCR October 2026: Petrol vs Diesel vs CNG vs EV — Know car ban guidelines here",
+   "events": [
+    {
+     "id": "s1ha6srs",
+     "date": "2026-10-05T15:01:35.000Z",
+     "headline": "New GRAP Rules in Delhi; Restrictions in NCR October 2026: Petrol vs Diesel vs CNG vs EV — Know car ban guidelines here",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/new-grap-rules-in-delhi-restrictions-in-ncr-october-2026-petrol-vs-diesel-vs-cng-vs-ev-know-car-ban-guidelines-here-11791207178162.html",
+     "sector": "environment",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-05T15:01:35.000Z"
+  },
+  "t1cxtyq2": {
+   "id": "t1cxtyq2",
+   "name": "Rural-urban migration and informal jobs",
+   "sector": "economy",
+   "created": "2026-10-05T16:42:19.000Z",
+   "updated": "2026-10-05T16:42:19.000Z",
+   "latestHeadline": "Most of rural agricultural workers landed in non-productive, informal urban jobs in 25 years: study",
+   "events": [
+    {
+     "id": "s1s4wjmk",
+     "date": "2026-10-05T16:42:19.000Z",
+     "headline": "Most of rural agricultural workers landed in non-productive, informal urban jobs in 25 years: study",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/national/most-of-rural-agricultural-workers-landed-in-non-productive-informal-urban-jobs-in-25-years-study/article71548198.ece",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-05T16:42:19.000Z"
+  },
+  "td4w4g1": {
+   "id": "td4w4g1",
+   "name": "Simultaneous elections Bills panel",
+   "sector": "governance",
+   "created": "2026-10-05T16:53:39.000Z",
+   "updated": "2026-10-05T16:53:39.000Z",
+   "latestHeadline": "Panel on simultaneous elections Bills meets media personalities and economists",
+   "events": [
+    {
+     "id": "s7j35ni",
+     "date": "2026-10-05T16:53:39.000Z",
+     "headline": "Panel on simultaneous elections Bills meets media personalities and economists",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/national/panel-on-simultaneous-elections-bills-meets-media-personalities-and-economists/article71547172.ece",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-05T16:53:39.000Z"
+  },
+  "t1oe0u8d": {
+   "id": "t1oe0u8d",
+   "name": "Brahmaputra waterway cargo corridor",
+   "sector": "logistics",
+   "created": "2026-10-05T21:48:23.000Z",
+   "updated": "2026-10-05T21:48:23.000Z",
+   "latestHeadline": "First international cargo vessel leaves eastern Assam since 1947",
+   "events": [
+    {
+     "id": "s1myyjke",
+     "date": "2026-10-05T21:48:23.000Z",
+     "headline": "First international cargo vessel leaves eastern Assam since 1947",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/national/assam/first-international-cargo-vessel-leaves-eastern-assam-since-1947/article71547112.ece",
+     "sector": "logistics",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-05T21:48:23.000Z"
+  },
+  "t8axmbh": {
+   "id": "t8axmbh",
+   "name": "Telecom PLI scheme",
+   "sector": "manufacturing",
+   "created": "2026-10-06T00:20:53.000Z",
+   "updated": "2026-10-06T00:20:53.000Z",
+   "latestHeadline": "Beyond assembly: how India’s next telecom PLI wants to build the supply chain from within",
+   "events": [
+    {
+     "id": "s1yaccvu",
+     "date": "2026-10-06T00:20:53.000Z",
+     "headline": "Beyond assembly: how India’s next telecom PLI wants to build the supply chain from within",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india-new-telecom-pli-scheme-11791199089014.html",
+     "sector": "manufacturing",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-06T00:20:53.000Z"
+  },
+  "t1em1ivr": {
+   "id": "t1em1ivr",
+   "name": "SME Growth Fund and infra authority",
+   "sector": "economy",
+   "created": "2026-10-06T05:03:39.000Z",
+   "updated": "2026-10-06T05:03:39.000Z",
+   "latestHeadline": "Union Cabinet to take up ₹10,000 crore SME Growth Fund, centralised infra authority",
+   "events": [
+    {
+     "id": "s12pay30",
+     "date": "2026-10-06T05:03:39.000Z",
+     "headline": "Union Cabinet to take up ₹10,000 crore SME Growth Fund, centralised infra authority",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/Economy/union-cabinet-to-take-up-10000-crore-sme-growth-fund-centralised-infra-authority/article71550009.ece",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-06T05:03:39.000Z"
+  },
+  "tnefp45": {
+   "id": "tnefp45",
+   "name": "Auto sales and festive demand",
+   "sector": "manufacturing",
+   "created": "2026-10-06T05:55:45.000Z",
+   "updated": "2026-10-06T05:55:45.000Z",
+   "latestHeadline": "‘Best ever September’: Auto retail sales surge 32% year-on-year",
+   "events": [
+    {
+     "id": "sftf1gm",
+     "date": "2026-10-06T05:55:45.000Z",
+     "headline": "‘Best ever September’: Auto retail sales surge 32% year-on-year",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/Industry/best-ever-september-auto-retail-sales-surge-32-year-on-year/article71550095.ece",
+     "sector": "manufacturing",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-06T05:55:45.000Z"
+  },
+  "t1hteq7b": {
+   "id": "t1hteq7b",
+   "name": "Smartphone prices and memory costs",
+   "sector": "technology",
+   "created": "2026-10-06T07:14:58.000Z",
+   "updated": "2026-10-06T14:12:04.000Z",
+   "latestHeadline": "Tablet shipments decline 3.8 pc YoY, hit by memory price inflation: Report",
+   "summary": "On October 6, 2026, Mint reported that HMD India CEO Ravi Kunwar said rising memory and component costs, partly driven by AI demand, could keep smartphone prices elevated through the end of 2027. The company expects the price pressure to be particularly significant in India's sub-₹20,000 segment. Mint also reported the same day that tablet shipments declined 3.8 percent year on year, hit by memory price inflation.",
+   "summaryCount": 2,
+   "summaryAt": "2026-10-07T21:45:58.624Z",
+   "events": [
+    {
+     "id": "s10310hy",
+     "date": "2026-10-06T07:14:58.000Z",
+     "headline": "Is era of affordable smartphones ending? HMD India CEO warns prices may stay high till 2027",
+     "source": "mint",
+     "url": "https://www.livemint.com/technology/is-era-of-affordable-smartphones-ending-hmd-india-ceo-warns-prices-may-stay-high-till-2027-11791268377725.html",
+     "sector": "technology",
+     "month": "2026-10"
+    },
+    {
+     "id": "shn0uuc",
+     "date": "2026-10-06T14:12:04.000Z",
+     "headline": "Tablet shipments decline 3.8 pc YoY, hit by memory price inflation: Report",
+     "source": "mint",
+     "url": "https://www.livemint.com/technology/tablet-shipments-decline-3-8-pc-yoy-hit-by-memory-price-inflation-report-11791295924492.html",
+     "sector": "technology",
+     "month": "2026-10"
+    }
+   ],
+   "count": 2,
+   "first": "2026-10-06T07:14:58.000Z"
+  },
+  "t11tvf36": {
+   "id": "t11tvf36",
+   "name": "GST Council reform agenda",
+   "sector": "economy",
+   "created": "2026-10-06T12:42:22.000Z",
+   "updated": "2026-10-06T12:42:22.000Z",
+   "latestHeadline": "Centre to propose five-pronged reform plan at GST Council meeting on October 8",
+   "events": [
+    {
+     "id": "sdancio",
+     "date": "2026-10-06T12:42:22.000Z",
+     "headline": "Centre to propose five-pronged reform plan at GST Council meeting on October 8",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/centre-to-propose-five-pronged-reform-plan-at-gst-council-meeting-on-october-8/article71551328.ece",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-06T12:42:22.000Z"
+  },
+  "t1yqwl4w": {
+   "id": "t1yqwl4w",
+   "name": "Siang Upper Multipurpose Project protests",
+   "sector": "energy",
+   "created": "2026-10-06T12:57:55.000Z",
+   "updated": "2026-10-06T12:57:55.000Z",
+   "latestHeadline": "Anti-dam protests: Withdraw forces from Siang belt, demands Arunachal youth body",
+   "events": [
+    {
+     "id": "s3n9hxu",
+     "date": "2026-10-06T12:57:55.000Z",
+     "headline": "Anti-dam protests: Withdraw forces from Siang belt, demands Arunachal youth body",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/national/arunachal-pradesh/anti-dam-protests-withdraw-forces-from-siang-belt-demands-arunachal-youth-body/article71551362.ece",
+     "sector": "energy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-06T12:57:55.000Z"
+  },
+  "t7kc6cb": {
+   "id": "t7kc6cb",
+   "name": "Statistical indices and data coverage",
+   "sector": "economy",
+   "created": "2026-10-06T13:19:03.000Z",
+   "updated": "2026-10-06T13:19:03.000Z",
+   "latestHeadline": "Govt plans to expand services index to cover 80% of sector output",
+   "events": [
+    {
+     "id": "szovftg",
+     "date": "2026-10-06T13:19:03.000Z",
+     "headline": "Govt plans to expand services index to cover 80% of sector output",
+     "source": "mint",
+     "url": "https://www.livemint.com/economy/govt-services-index-expand-80-sector-output-11791288455058.html",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-06T13:19:03.000Z"
+  },
+  "t4pzl9v": {
+   "id": "t4pzl9v",
+   "name": "Textile traceability and Kasturi Cotton",
+   "sector": "manufacturing",
+   "created": "2026-10-06T13:39:10.000Z",
+   "updated": "2026-10-06T13:39:10.000Z",
+   "latestHeadline": "Kasturi Cotton gains traction as India puts traceability on the textile map",
+   "events": [
+    {
+     "id": "sqhnzu3",
+     "date": "2026-10-06T13:39:10.000Z",
+     "headline": "Kasturi Cotton gains traction as India puts traceability on the textile map",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/kasturi-cotton-gains-traction-as-india-puts-traceability-on-the-textile-map/article71551334.ece",
+     "sector": "manufacturing",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-06T13:39:10.000Z"
+  },
+  "tezuf8": {
+   "id": "tezuf8",
+   "name": "Bank digital lending and inclusion push",
+   "sector": "economy",
+   "created": "2026-10-06T14:44:34.000Z",
+   "updated": "2026-10-06T14:44:34.000Z",
+   "latestHeadline": "Banks told to expand digital lending, financial inclusion outreach: DFS secretary",
+   "events": [
+    {
+     "id": "ssazkbl",
+     "date": "2026-10-06T14:44:34.000Z",
+     "headline": "Banks told to expand digital lending, financial inclusion outreach: DFS secretary",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/banks-told-to-expand-digital-lending-financial-inclusion-outreach-dfs-secretary-11791292801526.html",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-06T14:44:34.000Z"
+  },
+  "t74rvp3": {
+   "id": "t74rvp3",
+   "name": "Irdai insurance commission caps",
+   "sector": "economy",
+   "created": "2026-10-06T15:33:03.000Z",
+   "updated": "2026-10-06T15:33:03.000Z",
+   "latestHeadline": "Irdai commission caps: Brokers to seek more time to submit feedback on Friday",
+   "events": [
+    {
+     "id": "sf8nc9e",
+     "date": "2026-10-06T15:33:03.000Z",
+     "headline": "Irdai commission caps: Brokers to seek more time to submit feedback on Friday",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/irdai-commission-caps-brokers-to-seek-more-time-to-submit-feedback-on-friday-11791288222095.html",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-06T15:33:03.000Z"
+  },
+  "tav9jcb": {
+   "id": "tav9jcb",
+   "name": "AMCA indigenous aero-engine push",
+   "sector": "manufacturing",
+   "created": "2026-10-06T15:52:25.000Z",
+   "updated": "2026-10-06T15:52:25.000Z",
+   "latestHeadline": "Defence Minister Rajnath Singh pitches indigenous aero-engine capability for AMCA",
+   "events": [
+    {
+     "id": "sf4u507",
+     "date": "2026-10-06T15:52:25.000Z",
+     "headline": "Defence Minister Rajnath Singh pitches indigenous aero-engine capability for AMCA",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/national/defence-minister-rajnath-singh-pitches-indigenous-aero-engine-capability-for-amca/article71552354.ece",
+     "sector": "manufacturing",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-06T15:52:25.000Z"
+  },
+  "t3zu783": {
+   "id": "t3zu783",
+   "name": "Uranium output and nuclear fuel",
+   "sector": "energy",
+   "created": "2026-10-06T16:10:48.000Z",
+   "updated": "2026-10-06T16:10:48.000Z",
+   "latestHeadline": "UCIL bets on greenfield mines, copper residue to double uranium output by 2036",
+   "events": [
+    {
+     "id": "sqzcca6",
+     "date": "2026-10-06T16:10:48.000Z",
+     "headline": "UCIL bets on greenfield mines, copper residue to double uranium output by 2036",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/Industry/ucil-bets-on-greenfield-mines-copper-residue-to-double-uranium-output-by-2036/article71552246.ece",
+     "sector": "energy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-06T16:10:48.000Z"
+  },
+  "t10lfyq9": {
+   "id": "t10lfyq9",
+   "name": "Pre-COP31 climate negotiations",
+   "sector": "environment",
+   "created": "2026-10-06T16:40:31.000Z",
+   "updated": "2026-10-06T16:40:31.000Z",
+   "latestHeadline": "No ‘one size fits all’, says Environment Minister at Pre-COP31 climate summit meetings",
+   "events": [
+    {
+     "id": "s1y8cmtc",
+     "date": "2026-10-06T16:40:31.000Z",
+     "headline": "No ‘one size fits all’, says Environment Minister at Pre-COP31 climate summit meetings",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/national/no-one-size-fits-all-says-environment-minister-at-pre-cop31-climate-summit-meetings/article71552406.ece",
+     "sector": "environment",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-06T16:40:31.000Z"
+  },
+  "t5diw6y": {
+   "id": "t5diw6y",
+   "name": "IMEC corridor and alternative routes",
+   "sector": "logistics",
+   "created": "2026-10-06T17:12:21.000Z",
+   "updated": "2026-10-06T17:12:21.000Z",
+   "latestHeadline": "‘Longer but safer’ routes may beat speed: France says IMEC ‘more necessary amid Gaza, Iran, Hormuz crises’",
+   "events": [
+    {
+     "id": "spd98hj",
+     "date": "2026-10-06T17:12:21.000Z",
+     "headline": "‘Longer but safer’ routes may beat speed: France says IMEC ‘more necessary amid Gaza, Iran, Hormuz crises’",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/world/longer-but-safer-routes-may-beat-speed-france-says-imec-more-necessary-amid-gaza-iran-hormuz-crises-11791303247567.html",
+     "sector": "logistics",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-06T17:12:21.000Z"
+  },
+  "tw75e4z": {
+   "id": "tw75e4z",
+   "name": "Coal supply and power demand",
+   "sector": "energy",
+   "created": "2026-10-06T17:26:54.000Z",
+   "updated": "2026-10-06T17:26:54.000Z",
+   "latestHeadline": "NTPC to buy 10 million tonnes of coal from commercial mines in H2 FY27 as power demand rises",
+   "events": [
+    {
+     "id": "sga3vnf",
+     "date": "2026-10-06T17:26:54.000Z",
+     "headline": "NTPC to buy 10 million tonnes of coal from commercial mines in H2 FY27 as power demand rises",
+     "source": "mint",
+     "url": "https://www.livemint.com/companies/ntpc-to-buy-10-million-tonnes-of-coal-from-commercial-mines-in-h2-fy27-as-power-demand-rises-11791300287123.html",
+     "sector": "energy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-06T17:26:54.000Z"
+  },
+  "t1wry2eb": {
+   "id": "t1wry2eb",
+   "name": "Solar manufacturing and storage bottlenecks",
+   "sector": "energy",
+   "created": "2026-10-07T00:30:53.000Z",
+   "updated": "2026-10-07T00:30:53.000Z",
+   "latestHeadline": "US tariffs, missing cells, evening power gaps: inside India’s solar energy bottlenecks",
+   "events": [
+    {
+     "id": "s577zy8",
+     "date": "2026-10-07T00:30:53.000Z",
+     "headline": "US tariffs, missing cells, evening power gaps: inside India’s solar energy bottlenecks",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india-solar-power-capacity-cell-panel-manufacturing-us-solar-tariffs-11791279430659.html",
+     "sector": "energy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-07T00:30:53.000Z"
+  },
+  "t1ad3bzi": {
+   "id": "t1ad3bzi",
+   "name": "Starlink satellite internet approvals",
+   "sector": "technology",
+   "created": "2026-10-07T06:27:49.000Z",
+   "updated": "2026-10-07T06:27:49.000Z",
+   "latestHeadline": "SpaceX exec renews Starlink pitch as approvals lay pending",
+   "events": [
+    {
+     "id": "s32r3jz",
+     "date": "2026-10-07T06:27:49.000Z",
+     "headline": "SpaceX exec renews Starlink pitch as approvals lay pending",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/sci-tech/technology/spacex-exec-renews-starlink-pitch-as-approvals-lay-pending/article71554510.ece",
+     "sector": "technology",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-07T06:27:49.000Z"
+  },
+  "tjj3il9": {
+   "id": "tjj3il9",
+   "name": "RBI account aggregator framework",
+   "sector": "economy",
+   "created": "2026-10-07T07:15:56.000Z",
+   "updated": "2026-10-07T07:15:56.000Z",
+   "latestHeadline": "RBI to make account aggregators interoperable; integrate demat and deposit data",
+   "events": [
+    {
+     "id": "s1ne9viz",
+     "date": "2026-10-07T07:15:56.000Z",
+     "headline": "RBI to make account aggregators interoperable; integrate demat and deposit data",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/banking/rbi-account-aggregators-customer-interoperable-demat-deposit-data-11791352175137.html",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-07T07:15:56.000Z"
+  },
+  "t1krkq69": {
+   "id": "t1krkq69",
+   "name": "Telecom tariff hikes",
+   "sector": "technology",
+   "created": "2026-10-07T07:35:44.000Z",
+   "updated": "2026-10-07T07:47:35.000Z",
+   "latestHeadline": "Airtel introduces new postpaid plans, hikes prices by 3-11%",
+   "summary": "In early October 2026, on the 7th, Mint reported that Centrum Institutional Research said Indian mobile tariffs could rise by 12–15% within four to five months, while Jio, Airtel and Vi had not confirmed any hike. The same day, Airtel introduced new postpaid plans with prices raised by 3–11%, which it said include free roaming for an international trip every year along with all existing benefits. The new Airtel plans take effect on 8 October 2026.",
+   "summaryCount": 2,
+   "summaryAt": "2026-10-07T21:45:48.264Z",
+   "events": [
+    {
+     "id": "sx87ysh",
+     "date": "2026-10-07T07:35:44.000Z",
+     "headline": "Mobile bills may rise again: 12–15% telecom tariff hike likely in 4–5 months. What it means for Jio, Airtel, Vi users",
+     "source": "mint",
+     "url": "https://www.livemint.com/companies/news/mobile-bills-may-rise-again-12-15-telecom-tariff-hike-likely-in-4-5-months-what-it-means-for-jio-airtel-vi-users-11791357460014.html",
+     "sector": "technology",
+     "month": "2026-10"
+    },
+    {
+     "id": "syhti7a",
+     "date": "2026-10-07T07:47:35.000Z",
+     "headline": "Airtel introduces new postpaid plans, hikes prices by 3-11%",
+     "source": "mint",
+     "url": "https://www.livemint.com/companies/news/ahead-of-jio-ipo-airtel-introduces-new-postpaid-plans-hikes-prices-by-311-11791352737739.html",
+     "sector": "technology",
+     "month": "2026-10"
+    }
+   ],
+   "count": 2,
+   "first": "2026-10-07T07:35:44.000Z"
+  },
+  "t25dibr": {
+   "id": "t25dibr",
+   "name": "Monsoon rainfall and food prices",
+   "sector": "agriculture",
+   "created": "2026-10-07T07:43:30.000Z",
+   "updated": "2026-10-07T16:20:11.000Z",
+   "latestHeadline": "Southwest monsoon withdrawal advances, rainfall to continue in several states",
+   "summary": "In June, Agriculture Minister Shivraj Singh Chouhan said changing crop strategy in rain-fed areas had become \"the need of the hour\". The central government also issued an advisory to States asking farmers to shift to short-duration or less-water-intensive crops such as pulses and millets. The southwest monsoon left Andhra Pradesh, Karnataka, Kerala, Tamil Nadu and Telangana with a significant rainfall deficit. In early October, reports said the southwest monsoon's withdrawal was advancing with rainfall continuing in several states, South India was looking to the northeast monsoon to make up the shortfall, and The Hindu published an explainer on why rice prices are rising across the country.",
+   "summaryCount": 3,
+   "summaryAt": "2026-10-07T21:45:42.111Z",
+   "events": [
+    {
+     "id": "s12jq6qy",
+     "date": "2026-10-07T07:43:30.000Z",
+     "headline": "Mint Explainer: South India pins hope on northeast monsoon for rainfall relief",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/northeast-monsoon-south-india-rainfall-deficit-11791350428826.html",
+     "sector": "agriculture",
+     "month": "2026-10"
+    },
+    {
+     "id": "s3w84zn",
+     "date": "2026-10-07T12:01:18.000Z",
+     "headline": "Why is the price of rice rising across the country? | Explained",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/national/why-is-the-price-of-rice-rising-across-the-country-explained/article71555312.ece",
+     "sector": "agriculture",
+     "month": "2026-10"
+    },
+    {
+     "id": "sz2qhnw",
+     "date": "2026-10-07T16:20:11.000Z",
+     "headline": "Southwest monsoon withdrawal advances, rainfall to continue in several states",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/southwest-monsoon-withdrawal-advances-rainfall-to-continue-in-several-states-11791379826460.html",
+     "sector": "agriculture",
+     "month": "2026-10"
+    }
+   ],
+   "count": 3,
+   "first": "2026-10-07T07:43:30.000Z"
+  },
+  "t13vnby": {
+   "id": "t13vnby",
+   "name": "RBI forex reporting norms",
+   "sector": "economy",
+   "created": "2026-10-07T12:31:21.000Z",
+   "updated": "2026-10-07T12:31:21.000Z",
+   "latestHeadline": "RBI to clarify forex reporting rules soon",
+   "events": [
+    {
+     "id": "sj12pqf",
+     "date": "2026-10-07T12:31:21.000Z",
+     "headline": "RBI to clarify forex reporting rules soon",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/rbi-to-clarify-forex-reporting-rules-soon-11791369703116.html",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-07T12:31:21.000Z"
+  },
+  "tidp1qs": {
+   "id": "tidp1qs",
+   "name": "India-EFTA trade pact implementation",
+   "sector": "economy",
+   "created": "2026-10-07T13:29:19.000Z",
+   "updated": "2026-10-07T13:29:19.000Z",
+   "latestHeadline": "India-EFTA trade pact covers 99.6% of Indian exports: commerce secretary",
+   "events": [
+    {
+     "id": "sknsv68",
+     "date": "2026-10-07T13:29:19.000Z",
+     "headline": "India-EFTA trade pact covers 99.6% of Indian exports: commerce secretary",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/india-efta-trade-pact-covers-99-6-exports-commerce-secretary-rajesh-agrawal-tepa-exporters-11791375022839.html",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-07T13:29:19.000Z"
+  },
+  "t1bym71z": {
+   "id": "t1bym71z",
+   "name": "GIFT IFSC cross-border listings",
+   "sector": "economy",
+   "created": "2026-10-07T13:39:25.000Z",
+   "updated": "2026-10-07T13:39:25.000Z",
+   "latestHeadline": "India, UK agree to explore cross-border equity, bond listings through GIFT IFSC",
+   "events": [
+    {
+     "id": "sct34p6",
+     "date": "2026-10-07T13:39:25.000Z",
+     "headline": "India, UK agree to explore cross-border equity, bond listings through GIFT IFSC",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/india-uk-agree-to-explore-cross-border-equity-bond-listings-through-gift-ifsc-11791376410985.html",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-07T13:39:25.000Z"
+  },
+  "t1b9ymz8": {
+   "id": "t1b9ymz8",
+   "name": "SC beneficiaries in bank schemes",
+   "sector": "governance",
+   "created": "2026-10-07T14:58:05.000Z",
+   "updated": "2026-10-07T14:58:05.000Z",
+   "latestHeadline": "State, UT-level Bankers’ Committees asked to report share of SC beneficiaries in jobs, loan subsidy schemes",
+   "events": [
+    {
+     "id": "sbpfk1m",
+     "date": "2026-10-07T14:58:05.000Z",
+     "headline": "State, UT-level Bankers’ Committees asked to report share of SC beneficiaries in jobs, loan subsidy schemes",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/national/state-ut-level-bankers-committees-asked-to-report-share-of-sc-beneficiaries-in-jobs-loan-subsidy-schemes/article71555856.ece",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-07T14:58:05.000Z"
+  },
+  "t1kujjku": {
+   "id": "t1kujjku",
+   "name": "RBI NBFC lending rules",
+   "sector": "economy",
+   "created": "2026-10-07T15:13:34.000Z",
+   "updated": "2026-10-07T15:13:34.000Z",
+   "latestHeadline": "RBI says NBFC ban on revolving credit is a clarification, not a new rule",
+   "events": [
+    {
+     "id": "s1oem4n8",
+     "date": "2026-10-07T15:13:34.000Z",
+     "headline": "RBI says NBFC ban on revolving credit is a clarification, not a new rule",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/banking/rbi-says-nbfc-ban-on-revolving-credit-is-a-clarification-not-a-new-rule-11791378140568.html",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-07T15:13:34.000Z"
+  },
+  "t9hjz4m": {
+   "id": "t9hjz4m",
+   "name": "Railways recruitment and post cuts",
+   "sector": "logistics",
+   "created": "2026-10-07T15:32:21.000Z",
+   "updated": "2026-10-07T15:32:21.000Z",
+   "latestHeadline": "Railways to recruit 5,664 staff and scrap 10,939 posts",
+   "events": [
+    {
+     "id": "sh9gabj",
+     "date": "2026-10-07T15:32:21.000Z",
+     "headline": "Railways to recruit 5,664 staff and scrap 10,939 posts",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/national/telangana/railways-to-recruit-5664-staff-and-scrap-10939-posts/article71555971.ece",
+     "sector": "logistics",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-07T15:32:21.000Z"
+  },
+  "tkhmh8q": {
+   "id": "tkhmh8q",
+   "name": "Defence industry testing access",
+   "sector": "manufacturing",
+   "created": "2026-10-07T15:58:18.000Z",
+   "updated": "2026-10-07T15:58:18.000Z",
+   "latestHeadline": "Revised SOP eases defence industry access to proof ranges, test facilities",
+   "events": [
+    {
+     "id": "suoxye3",
+     "date": "2026-10-07T15:58:18.000Z",
+     "headline": "Revised SOP eases defence industry access to proof ranges, test facilities",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/national/revised-sop-eases-defence-industry-access-to-proof-ranges-test-facilities/article71556406.ece",
+     "sector": "manufacturing",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-07T15:58:18.000Z"
+  }
+ }
+}

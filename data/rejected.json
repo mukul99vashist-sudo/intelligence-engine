@@ -1,5 +1,13 @@
 [
   {
+    "source": "abc",
+    "headline": "Live: Blakey chase intensifies as blockbuster AFL trade looms",
+    "url": "https://www.abc.net.au/news/2026-10-08/afl-trade-period-live-blog-thursday-october-8/107239586",
+    "date": "2026-10-07T21:23:07.000Z",
+    "reason": "Australian football trade news with no path to India's economy, trade, energy or policy.",
+    "checkedAt": "2026-10-07T21:44:37.749Z"
+  },
+  {
     "source": "npr",
     "headline": "What is the pneumonic plague?",
     "url": "https://www.npr.org/2026/10/07/g-s1-146952/pneumonic-plague-russia-siberia-lab-death",
@@ -1189,14 +1197,6 @@
     "url": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o",
     "date": "2026-10-07T09:49:31.000Z",
     "reason": "Sri Lankan domestic criminal case; no trade, energy or policy shift described.",
-    "checkedAt": "2026-10-07T15:24:13.574Z"
-  },
-  {
-    "source": "bbc",
-    "headline": "California pair charged with abusing at least 14 surrogate-born children",
-    "url": "https://www.bbc.co.uk/news/articles/crx23dvnp8vxo",
-    "date": "2026-10-07T09:38:00.000Z",
-    "reason": "US criminal case with no India link.",
     "checkedAt": "2026-10-07T15:24:13.574Z"
   }
 ]
