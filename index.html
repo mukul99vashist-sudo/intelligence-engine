@@ -376,7 +376,10 @@ var REGION={bbc:"Europe",guardian:"Europe",npr:"North America",aljazeera:"Asia",
 function learnSources(doc){ (doc.sources||[]).forEach(function(x){ OUTLET[x.id]=x.name; if(x.region) REGION[x.id]=x.region; }); }
 function regionsOf(it){ var r=[]; outletsOf(it).forEach(function(o){ var g=REGION[o]; if(g && r.indexOf(g)<0) r.push(g); }); return r; }
 var $=function(id){return document.getElementById(id);};
-function el(tag,cls,text){var n=document.createElement(tag);if(cls)n.className=cls;if(text!=null)n.textContent=text;return n;}
+/* Safety net: turn any leftover HTML character codes (&#x27; &amp; …) into real characters before display */
+function tidyText(t){ return String(t).replace(/&#x([0-9a-f]+);/gi,function(_,h){return String.fromCodePoint(parseInt(h,16));}).replace(/&#(\d+);/g,function(_,n){return String.fromCodePoint(+n);})
+  .replace(/&quot;/g,'"').replace(/&apos;/g,"'").replace(/&lt;/g,"<").replace(/&gt;/g,">").replace(/&nbsp;/g," ").replace(/&amp;/g,"&"); }
+function el(tag,cls,text){var n=document.createElement(tag);if(cls)n.className=cls;if(text!=null)n.textContent=tidyText(text);return n;}
 var MON=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
 function sourcesFor(f){ return ["https://raw.githubusercontent.com/"+OWNER+"/"+REPO+"/main/data/"+f, "data/"+f]; }
 function ago(iso){ var d=Date.parse(iso); if(isNaN(d)) return ""; var m=Math.round((Date.now()-d)/6e4); if(m<1) return "just now"; if(m<60) return m+"m ago"; var h=Math.round(m/60); if(h<24) return h+"h ago"; return Math.round(h/24)+"d ago"; }
