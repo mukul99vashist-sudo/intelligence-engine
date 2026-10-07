@@ -1,5 +1,493 @@
 [
   {
+    "source": "mint",
+    "headline": "FBI arrests teen after alleged ISIS-inspired Mall of America terror plot: Inside the undercover sting",
+    "url": "https://www.livemint.com/news/us-news/fbi-arrests-teen-after-alleged-isis-inspired-mall-of-america-terror-plot-inside-the-undercover-sting-11791402029892.html",
+    "date": "2026-10-07T19:56:24.000Z",
+    "reason": "US crime and terror case, not a development inside India.",
+    "checkedAt": "2026-10-07T20:03:45.894Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Odisha govt. forms panel to study SEBC political backwardness",
+    "url": "https://www.thehindu.com/news/national/odisha/odisha-govt-forms-panel-to-study-sebc-political-backwardness/article71557071.ece",
+    "date": "2026-10-07T19:53:31.000Z",
+    "reason": "State-level panel in Odisha on local body reservations, not national.",
+    "checkedAt": "2026-10-07T20:03:45.894Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Bombay High Court asks Maharashtra to restore trust of MPSC aspirants, students to return to classes",
+    "url": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-asks-maharashtra-to-restore-trust-of-mpsc-aspirants-students-to-return-to-classes/article71556539.ece",
+    "date": "2026-10-07T19:36:44.000Z",
+    "reason": "State-level court matter on Maharashtra recruitment exams, no national impact.",
+    "checkedAt": "2026-10-07T20:03:45.894Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Civil Supplies officials seize one tonne of PDS rice in Ranipet",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/civil-supplies-officials-seizeone-tonne-of-pds-rice-in-ranipet/article71555700.ece",
+    "date": "2026-10-07T19:34:11.000Z",
+    "reason": "Local PDS rice seizure in one district; enforcement story without national impact.",
+    "checkedAt": "2026-10-07T20:03:45.894Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "CMC to organise conference on gene therapy in Vellore",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/cmc-to-organise-conference-on-gene-therapy-in-vellore/article71555717.ece",
+    "date": "2026-10-07T19:33:18.000Z",
+    "reason": "Local medical conference in Vellore, not a national policy or sector development.",
+    "checkedAt": "2026-10-07T20:03:45.894Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "INDIA bloc leaders in Bihar take out Aakrosh March against ECI",
+    "url": "https://www.thehindu.com/news/national/bihar/india-bloc-leaders-in-bihar-take-out-aakrosh-march-against-eci/article71556245.ece",
+    "date": "2026-10-07T19:32:36.000Z",
+    "reason": "Opposition party protest march; political sparring.",
+    "checkedAt": "2026-10-07T20:03:42.891Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "State govt. relaxes domicile clause for gold ring scheme",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/state-govt-relaxes-domicile-clause-for-gold-ring-scheme/article71556250.ece",
+    "date": "2026-10-07T19:30:40.000Z",
+    "reason": "State welfare scheme eligibility tweak; not national.",
+    "checkedAt": "2026-10-07T20:03:42.891Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Villagers block key stretch, demand relocation of Tasmac outlet",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/villagers-block-key-stretch-demand-relocation-of-tasmac-outlet/article71555710.ece",
+    "date": "2026-10-07T19:28:03.000Z",
+    "reason": "Local village protest over a liquor outlet.",
+    "checkedAt": "2026-10-07T20:03:42.891Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Paperless registration mandatory for some family arrangement deeds from Nov. 2",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/paperless-registration-mandatory-for-some-family-arrangement-deeds-from-nov-2/article71555688.ece",
+    "date": "2026-10-07T19:27:44.000Z",
+    "reason": "State-level registration rule change; no clear national impact.",
+    "checkedAt": "2026-10-07T20:03:42.891Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "SC pulls up Delhi civic body, ASI over ‘lackadaisical approach’ to preservation of heritage sites",
+    "url": "https://www.thehindu.com/news/national/sc-pulls-up-delhi-civic-body-asi-over-lackadaisical-approach-to-preservation-of-heritage-sites/article71556190.ece",
+    "date": "2026-10-07T19:25:04.000Z",
+    "reason": "Court hearing on Delhi heritage sites; city-level matter.",
+    "checkedAt": "2026-10-07T20:03:42.891Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "GCC, MSSRF discuss measures to strengthen waste management",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/gcc-mssrf-discuss-measures-to-strengthen-waste-management/article71557026.ece",
+    "date": "2026-10-07T19:24:38.000Z",
+    "reason": "City-level waste management discussion without national impact.",
+    "checkedAt": "2026-10-07T20:03:42.891Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "ECI special drive till Oct 9 to enrol young, first-time eligible voters",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/eci-special-drive-till-oct-9-to-enrol-young-first-time-eligible-voters/article71556142.ece",
+    "date": "2026-10-07T19:23:15.000Z",
+    "reason": "State-level voter enrolment drive; routine and not nationally significant.",
+    "checkedAt": "2026-10-07T20:03:42.891Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Congress to observe Black Day over ‘manhandling’ of top Opposition leaders by Delhi Police",
+    "url": "https://www.thehindu.com/news/national/congress-to-observe-black-day-over-manhandling-of-top-opposition-leaders-by-delhi-police/article71557203.ece",
+    "date": "2026-10-07T19:21:16.000Z",
+    "reason": "Party political sparring over police conduct.",
+    "checkedAt": "2026-10-07T20:03:42.891Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Yaduveer backs ‘grand’ Dasara, says festival vital to Mysuru’s tourism economy",
+    "url": "https://www.thehindu.com/news/national/karnataka/yaduveer-backs-grand-dasara-says-festival-vital-to-mysurus-tourism-economy/article71555415.ece",
+    "date": "2026-10-07T19:19:12.000Z",
+    "reason": "Local festival and tourism comment in one city.",
+    "checkedAt": "2026-10-07T20:03:42.891Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "CREDAI Tamil Nadu expands network, to add five new chapters",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/credai-tamil-nadu-expands-network-to-add-five-new-chapters/article71555520.ece",
+    "date": "2026-10-07T19:18:57.000Z",
+    "reason": "State-level industry body expansion and expo; not nationally significant.",
+    "checkedAt": "2026-10-07T20:03:42.891Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "54 victims lose ₹4.5 crore in property fraud",
+    "url": "https://www.thehindu.com/news/national/telangana/54-victims-lose-45-crore-in-property-fraud/article71555286.ece",
+    "date": "2026-10-07T19:15:36.000Z",
+    "reason": "Local property fraud case; crime story without national impact.",
+    "checkedAt": "2026-10-07T20:03:42.891Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Dr. Agarwals Eye Hospital holds campaign to mark World Sight Day",
+    "url": "https://www.thehindu.com/news/cities/chennai/dragarwals-eye-hospital-holds-campaign-to-mark-world-sight-day/article71556916.ece",
+    "date": "2026-10-07T19:14:52.000Z",
+    "reason": "Hospital awareness campaign; no national policy or sector impact.",
+    "checkedAt": "2026-10-07T20:03:42.891Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "480 Chinese manja bobbins worth ₹7.5 lakh seized in Hyderabad",
+    "url": "https://www.thehindu.com/news/national/telangana/480-chinese-manja-bobbins-worth-75-lakh-seized-in-hyderabad/article71555991.ece",
+    "date": "2026-10-07T19:12:17.000Z",
+    "reason": "City-level seizure of banned manja; a local law-enforcement matter.",
+    "checkedAt": "2026-10-07T20:03:42.891Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Visakha Government Degree College for Women holds workshop on quantum communication",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/visakha-government-degree-college-for-women-holds-workshop-on-quantum-communication/article71556886.ece",
+    "date": "2026-10-07T19:11:29.000Z",
+    "reason": "Local college workshop; no national significance.",
+    "checkedAt": "2026-10-07T20:03:42.891Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Take tough stance on encroachers of temple properties: Minister",
+    "url": "https://www.thehindu.com/news/cities/chennai/take-tough-stance-on-encroachers-of-temple-properties-minister/article71556625.ece",
+    "date": "2026-10-07T19:07:40.000Z",
+    "reason": "State-level temple property issue; no national sector impact.",
+    "checkedAt": "2026-10-07T20:03:42.891Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Three youths arrested for possession of narcotic tablets in Arakkonam",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/three-youths-arrested-for-possession-of-narcotic-tablets-in-arakkonam/article71555714.ece",
+    "date": "2026-10-07T19:05:32.000Z",
+    "reason": "Local crime arrest.",
+    "checkedAt": "2026-10-07T20:03:36.804Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Health Minister accuses DMK of playing ‘cheap politics’",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/health-minister-accuses-dmk-of-playing-cheap-politics/article71556740.ece",
+    "date": "2026-10-07T19:05:19.000Z",
+    "reason": "Party political sparring at state level.",
+    "checkedAt": "2026-10-07T20:03:36.804Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Bengaluru Skill Summit will focus on workforce transformation, says Minister",
+    "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-skill-summit-will-focus-on-workforce-transformation-says-minister/article71555616.ece",
+    "date": "2026-10-07T19:04:58.000Z",
+    "reason": "State-level event announcement with no national impact.",
+    "checkedAt": "2026-10-07T20:03:36.804Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Tourism Minister directs officials to accelerate eco-tourism development works at Roerich-Devika Rani estate",
+    "url": "https://www.thehindu.com/news/national/karnataka/tourism-minister-directs-officials-to-accelerate-eco-tourism-development-works-at-roerich-devika-rani-estate/article71555891.ece",
+    "date": "2026-10-07T19:04:41.000Z",
+    "reason": "State-level tourism project directive.",
+    "checkedAt": "2026-10-07T20:03:36.804Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Gas cylinder blast: Mother and minor daughter dead, five seriously injured in Bengaluru",
+    "url": "https://www.thehindu.com/news/national/karnataka/gas-cylinder-blast-mother-and-minor-daughter-dead-four-seriously-injured-in-bengaluru/article71555325.ece",
+    "date": "2026-10-07T19:04:31.000Z",
+    "reason": "Local accident.",
+    "checkedAt": "2026-10-07T20:03:36.804Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Two cheetahs released into tiger reserve, their third habitat in Madhya Pradesh",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/two-cheetahs-released-into-tiger-reserve-their-third-habitat-in-madhya-pradesh/article71556825.ece",
+    "date": "2026-10-07T19:02:11.000Z",
+    "reason": "State-level wildlife habitat release, limited national impact.",
+    "checkedAt": "2026-10-07T20:03:36.804Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Hertz Lenders Team Up With Advisers as Possible Debt Fight Looms",
+    "url": "https://www.livemint.com/companies/hertz-lenders-team-up-with-advisers-as-possible-debt-fight-looms-11791399696387.html",
+    "date": "2026-10-07T19:01:35.000Z",
+    "reason": "Foreign single-company debt story.",
+    "checkedAt": "2026-10-07T20:03:36.804Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Pointing to Indus Waters Treaty, Karnataka signals intent to revisit Cauvery water allocation",
+    "url": "https://www.thehindu.com/news/national/karnataka/pointing-to-indus-water-treaty-karnataka-signals-intent-to-reopen-cauvery-water-consensus/article71556952.ece",
+    "date": "2026-10-07T18:58:40.000Z",
+    "reason": "Inter-state water dispute stance by one state; no clear national-level decision.",
+    "checkedAt": "2026-10-07T20:03:36.804Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Kashmir-born filmmaker held in U.S. likely to be freed soon, says family",
+    "url": "https://www.thehindu.com/news/national/kashmir-born-filmmaker-held-in-us-likely-to-be-freed-soon-says-family/article71556733.ece",
+    "date": "2026-10-07T18:49:26.000Z",
+    "reason": "Individual's detention case and entertainment story.",
+    "checkedAt": "2026-10-07T20:03:36.804Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Anglo-Teck merger, nickel sale are test cases for navigating geopolitical complexities, CEO says",
+    "url": "https://www.livemint.com/companies/angloteck-merger-nickel-sale-are-test-cases-for-navigating-geopolitical-complexities-ceo-says-11791398518343.html",
+    "date": "2026-10-07T18:41:57.000Z",
+    "reason": "Single-company merger and asset sale commentary.",
+    "checkedAt": "2026-10-07T20:03:36.804Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Foreign workers building US consulate in Milan sign compensation deals over alleged abuses",
+    "url": "https://www.livemint.com/companies/foreign-workers-building-us-consulate-in-milan-sign-compensation-deals-over-alleged-abuses-11791398457761.html",
+    "date": "2026-10-07T18:40:57.000Z",
+    "reason": "Foreign labour dispute in Italy, no India-specific national impact.",
+    "checkedAt": "2026-10-07T20:03:36.804Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Navratri 2026: Day-wise colours this year, significance, key dates, Navadurga celebrations and more",
+    "url": "https://www.livemint.com/news/trends/navratri-2026-day-wise-colours-this-year-significance-key-dates-navadurga-celebrations-and-more-11791397580716.html",
+    "date": "2026-10-07T18:33:27.000Z",
+    "reason": "Religious festival explainer.",
+    "checkedAt": "2026-10-07T20:03:36.804Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Andhra Pradesh has put technology at the heart of tourism, says Minister Kandula Durgesh",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-has-put-technology-at-the-heart-of-tourism-says-minister-kandula-durgesh/article71556776.ece",
+    "date": "2026-10-07T18:32:46.000Z",
+    "reason": "State-level tourism promotion with no national impact.",
+    "checkedAt": "2026-10-07T20:03:36.804Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Protests will continue until CEC Gyanesh Kumar resigns, says Rahul Gandhi",
+    "url": "https://www.thehindu.com/news/national/protests-will-continue-until-cec-gyanesh-kumar-resigns-says-rahul-gandhi/article71556968.ece",
+    "date": "2026-10-07T18:28:02.000Z",
+    "reason": "Party political sparring and opposition protest over an individual official's resignation demand.",
+    "checkedAt": "2026-10-07T20:03:36.804Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Trump administration proposes huge OPT fee hike from $500 to $70,000 for F-1 students seeking to work in US",
+    "url": "https://www.livemint.com/news/us-news/trump-administration-proposes-70-000-opt-fee-for-f-1-students-seeking-work-11791396616705.html",
+    "date": "2026-10-07T18:24:27.000Z",
+    "reason": "US government proposal, not a development inside India or Indian policy.",
+    "checkedAt": "2026-10-07T20:03:28.034Z"
+  },
+  {
+    "source": "mint",
+    "headline": "HSBC Layoffs: Bank to cut half of UK wealth management jobs as AI use expands",
+    "url": "https://www.livemint.com/companies/news/hsbc-layoffs-bank-to-cut-half-of-uk-wealth-management-jobs-as-ai-use-expands-11791394722537.html",
+    "date": "2026-10-07T18:13:13.000Z",
+    "reason": "Foreign bank's UK job cuts; not a development inside India.",
+    "checkedAt": "2026-10-07T20:03:28.034Z"
+  },
+  {
+    "source": "mint",
+    "headline": "AI cloud firm CoreWeave to launch first India data centres with AdaniConneX in Navi Mumbai",
+    "url": "https://www.livemint.com/companies/news/ai-cloud-firm-coreweave-to-launch-first-india-data-centres-with-adaniconnex-in-navi-mumbai-11791395574606.html",
+    "date": "2026-10-07T18:11:04.000Z",
+    "reason": "Single-company data centre deal; not clearly sector-wide policy or national impact.",
+    "checkedAt": "2026-10-07T20:03:28.034Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Edtech firm byteXL raises $9 million",
+    "url": "https://www.thehindu.com/news/cities/Hyderabad/edtech-firm-bytexl-raises-9-million/article71555603.ece",
+    "date": "2026-10-07T18:06:13.000Z",
+    "reason": "Single startup funding round; no sector-wide effect.",
+    "checkedAt": "2026-10-07T20:03:28.034Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Layoff news: Porsche to terminate 9,000 jobs, management positions face 40% cuts; car prices to go up 20%",
+    "url": "https://www.livemint.com/companies/news/layoff-news-porsche-to-terminate-9-000-jobs-management-positions-face-40-cuts-car-prices-to-go-up-20-11791395563763.html",
+    "date": "2026-10-07T18:02:25.000Z",
+    "reason": "Foreign company layoffs; not a development inside India.",
+    "checkedAt": "2026-10-07T20:03:28.034Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "AIIMS: Murali flays Centre’s adamant stance",
+    "url": "https://www.thehindu.com/news/national/kerala/aiims-murali-flays-centres-adamant-stance/article71556887.ece",
+    "date": "2026-10-07T18:00:55.000Z",
+    "reason": "Political sparring over a state-level hospital issue; no national detail given.",
+    "checkedAt": "2026-10-07T20:03:28.034Z"
+  },
+  {
+    "source": "mint",
+    "headline": "IndiGo flight hit by lightning at 17,000 feet, aircraft's nose damaged; all 110 on board safe - What we know so far",
+    "url": "https://www.livemint.com/news/india/indigo-flight-hit-by-lightning-at-17-000-feet-aircrafts-nose-damaged-all-110-on-board-safe-what-we-know-so-far-11791395052647.html",
+    "date": "2026-10-07T17:59:42.000Z",
+    "reason": "Single flight incident with no injuries; an accident story, not national policy.",
+    "checkedAt": "2026-10-07T20:03:28.034Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "State Central Library branch opened at Technopark",
+    "url": "https://www.thehindu.com/news/national/kerala/state-central-library-branch-opened-at-technopark/article71556065.ece",
+    "date": "2026-10-07T17:57:23.000Z",
+    "reason": "Local library opening in one city; no national impact.",
+    "checkedAt": "2026-10-07T20:03:28.034Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Hemant Soren’s mother passes away at 80, Jharkhand CM says: ‘Maa was my greatest shelter’ | All about Rupi Soren",
+    "url": "https://www.livemint.com/news/india/hemant-soren-s-mother-passes-away-at-80-jharkhand-cm-says-maa-was-my-greatest-shelter-all-about-rupi-soren-11791393920884.html",
+    "date": "2026-10-07T17:44:31.000Z",
+    "reason": "Personal bereavement of a state chief minister's family; not national policy.",
+    "checkedAt": "2026-10-07T20:03:28.034Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Jharkhand CM Hemant Soren’s mother Roopi Soren dies",
+    "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-cm-hemant-sorens-mother-roopi-soren-dies/article71557123.ece",
+    "date": "2026-10-07T17:42:34.000Z",
+    "reason": "Personal bereavement of a state chief minister's family; not national policy.",
+    "checkedAt": "2026-10-07T20:03:28.034Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Pfizer partners with GITAM to train rural women for pharmaceutical careers",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/pfizer-partners-with-gitam-to-train-rural-women-for-pharmaceutical-careers/article71556743.ece",
+    "date": "2026-10-07T17:39:49.000Z",
+    "reason": "Single-company training partnership with limited national impact.",
+    "checkedAt": "2026-10-07T20:03:28.034Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Five ‘terrorist associates’ held, hideout busted in Kashmir: police",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/five-terrorist-associates-held-hideout-busted-in-kashmir-police/article71556989.ece",
+    "date": "2026-10-07T17:30:29.000Z",
+    "reason": "Local security operation and arrests; crime and security story, not sector policy.",
+    "checkedAt": "2026-10-07T20:03:28.034Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Entire texture of CM Vijay’s election case changed, says Madras High Court Judge",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/entire-texture-of-cm-vijays-election-case-changed-says-madras-high-court-judge/article71556542.ece",
+    "date": "2026-10-07T17:25:33.000Z",
+    "reason": "Court case about an individual's election; no national sector impact.",
+    "checkedAt": "2026-10-07T20:03:28.034Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "CCG urges serving civil servants to uphold Constitution, resist 'partisan objectives'",
+    "url": "https://www.thehindu.com/news/national/ccg-urges-serving-civil-servants-to-uphold-constitution-resist-partisan-objectives/article71556580.ece",
+    "date": "2026-10-07T17:20:51.000Z",
+    "reason": "Open letter by a civil society group; advocacy statement, not a concrete national policy development.",
+    "checkedAt": "2026-10-07T20:03:28.034Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Gen Z gives ‘Dilli Chalo’ call to fix ‘broken system’",
+    "url": "https://www.thehindu.com/news/national/gen-z-gives-dilli-chalo-call-to-fix-broken-system/article71556496.ece",
+    "date": "2026-10-07T17:13:25.000Z",
+    "reason": "Political protest call with party-linked sparring; no concrete national policy development.",
+    "checkedAt": "2026-10-07T20:03:16.707Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Seemapuri building collapse: Three dead, including pregnant woman and child, eight injured in Delhi – everything we know",
+    "url": "https://www.livemint.com/news/india/seemapuri-building-collapse-three-dead-including-pregnant-woman-and-child-eight-injured-in-delhi-11791392072837.html",
+    "date": "2026-10-07T17:12:01.000Z",
+    "reason": "Local building collapse accident in Delhi.",
+    "checkedAt": "2026-10-07T20:03:16.707Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "L-G enforces major administrative reshuffle in J&K, ruffles feathers with elected government",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/l-g-enforces-major-administrative-reshuffle-in-jk-ruffles-feathers-with-elected-government/article71556915.ece",
+    "date": "2026-10-07T17:03:21.000Z",
+    "reason": "Administrative reshuffle in one Union Territory; regional political friction.",
+    "checkedAt": "2026-10-07T20:03:16.707Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Human activity is forcing this Himalayan bird to change its 'vocal frequency and address'",
+    "url": "https://www.livemint.com/news/trends/human-activity-is-forcing-this-himalayan-bird-to-change-its-vocal-frequency-and-address-11791390614095.html",
+    "date": "2026-10-07T16:56:23.000Z",
+    "reason": "Wildlife research on one bird species; not a wide-impact climate event.",
+    "checkedAt": "2026-10-07T20:03:16.707Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "SFI protests against Keralam Higher Education Minister",
+    "url": "https://www.thehindu.com/news/national/kerala/sfi-protests-against-keralam-higher-education-minister/article71556057.ece",
+    "date": "2026-10-07T16:54:40.000Z",
+    "reason": "State-level student political protest; no national impact.",
+    "checkedAt": "2026-10-07T20:03:16.707Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Orientation held for first-year B.Tech. students at Bullayya College",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/orientation-held-for-first-year-btech-students-at-bullayya-college/article71556800.ece",
+    "date": "2026-10-07T16:52:45.000Z",
+    "reason": "College orientation event; local and routine.",
+    "checkedAt": "2026-10-07T20:03:16.707Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "TDP, allies back 34% reservation for BCs, says Palla Srinivasa Rao",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-allies-back-34-reservation-for-bcs-says-palla-srinivasa-rao/article71556882.ece",
+    "date": "2026-10-07T16:45:49.000Z",
+    "reason": "State-level party statement on reservation; political and regional.",
+    "checkedAt": "2026-10-07T20:03:16.707Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Contract health employees’ strike enters second day in Visakhapatnam",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/contract-health-employees-strike-enters-second-day-in-visakhapatnam/article71556658.ece",
+    "date": "2026-10-07T16:44:25.000Z",
+    "reason": "Local strike in one city; no national impact.",
+    "checkedAt": "2026-10-07T20:03:16.707Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "AU inaugurates test and validation centre; defends revised estimates for centenary projects",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/au-inaugurates-test-and-validation-centre-defends-revised-estimates-for-centenary-projects/article71556395.ece",
+    "date": "2026-10-07T16:40:23.000Z",
+    "reason": "University campus news; local institutional story.",
+    "checkedAt": "2026-10-07T20:03:16.707Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "TGSRTC to deploy 7,000 special buses for Dasara",
+    "url": "https://www.thehindu.com/news/national/telangana/7000-rtc-buses-deployed-for-dasara/article71555934.ece",
+    "date": "2026-10-07T16:39:59.000Z",
+    "reason": "State transport corporation festival buses; state-level story without national impact.",
+    "checkedAt": "2026-10-07T20:03:16.707Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "BC Commission warns village development committees against social boycotts",
+    "url": "https://www.thehindu.com/news/national/telangana/bc-commission-warns-village-development-committees-against-social-boycotts/article71556297.ece",
+    "date": "2026-10-07T16:38:09.000Z",
+    "reason": "State-level commission warning about local village committees; no national impact.",
+    "checkedAt": "2026-10-07T20:03:16.706Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Tap space-tech start-ups’ capabilities for major projects of Indian space programme: G. Madhavan Nair",
+    "url": "https://www.thehindu.com/news/national/kerala/tap-space-tech-start-ups-capabilities-for-major-projects-of-indian-space-programme-g-madhavan-nair/article71556620.ece",
+    "date": "2026-10-07T16:35:21.000Z",
+    "reason": "Opinion remarks by a former official; no policy decision or concrete sector development.",
+    "checkedAt": "2026-10-07T20:03:16.706Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Beant Singh assassination: Centre opposes commutation of Balwant Singh Rajoana’s death sentence",
+    "url": "https://www.thehindu.com/news/national/punjab/beant-singh-assassination-centre-opposes-commutation-of-balwant-singh-rajoanas-death-sentence/article71556315.ece",
+    "date": "2026-10-07T16:30:31.000Z",
+    "reason": "Court case and mercy petition about an individual convict; no wider national policy effect.",
+    "checkedAt": "2026-10-07T20:03:16.706Z"
+  },
+  {
     "source": "thehindu",
     "headline": "Asha Kirana facilitates over 2.5 lakh cataract surgeries in Karnataka",
     "url": "https://www.thehindu.com/news/national/karnataka/asha-kirana-facilitates-over-25-lakh-cataract-surgeries-in-karnataka/article71556898.ece",
@@ -710,493 +1198,5 @@
     "date": "2026-10-07T14:19:25.000Z",
     "reason": "Party political sparring over a state-level case.",
     "checkedAt": "2026-10-07T15:25:38.468Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Keralam’s favourite bar snacks reinterpreted in refreshing ways at Repeat, Kochi’s newest restobar",
-    "url": "https://www.thehindu.com/food/dining/keralams-favourite-bar-snacks-reinterpreted-in-refreshing-ways-at-repeat-kochis-newest-restobar/article71532298.ece",
-    "date": "2026-10-07T14:17:38.000Z",
-    "reason": "Restaurant lifestyle story with no national significance.",
-    "checkedAt": "2026-10-07T15:25:38.468Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Youth Congress stages protest against CEC in Belagavi",
-    "url": "https://www.thehindu.com/news/national/karnataka//article71556182.ece",
-    "date": "2026-10-07T14:15:57.000Z",
-    "reason": "Party political protest in one city.",
-    "checkedAt": "2026-10-07T15:25:38.468Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Supreme Court to examine plea that systemic blind spots in aviation boom left disabled travellers stranded",
-    "url": "https://www.thehindu.com/news/national/supreme-court-to-examine-plea-that-systemic-blind-spots-in-aviation-boom-left-disabled-travellers-stranded/article71555374.ece",
-    "date": "2026-10-07T14:14:17.000Z",
-    "reason": "A court plea yet to be examined; no policy change or confirmed national effect.",
-    "checkedAt": "2026-10-07T15:25:38.468Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "World leaders greet Modi on completing 25 years as an elected head of government",
-    "url": "https://www.thehindu.com/news/international/world-leaders-greet-modi-on-completing-25-years-as-an-elected-head-of-government/article71555740.ece",
-    "date": "2026-10-07T14:12:53.000Z",
-    "reason": "Ceremonial greetings to a leader; no sector impact or policy development.",
-    "checkedAt": "2026-10-07T15:25:38.468Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "KIMS doctors in Visakhapatnam remove sharp metallic hook from 22-month-old boy’s airway",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/kims-doctors-in-visakhapatnam-remove-sharp-metallic-hook-from-22-month-old-boys-airway/article71554739.ece",
-    "date": "2026-10-07T14:11:20.000Z",
-    "reason": "Single local medical case with no national significance.",
-    "checkedAt": "2026-10-07T15:25:38.468Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Russia plague scare: 200 quarantined, 5,000 tests, no confirmed cases, no epidemic risk — latest updates",
-    "url": "https://www.livemint.com/news/world/russia-plague-scare-200-quarantined-5-000-tests-no-confirmed-cases-no-epidemic-risk-latest-updates-11791380973135.html",
-    "date": "2026-10-07T14:10:59.000Z",
-    "reason": "Foreign health scare in Russia with no stated impact on India.",
-    "checkedAt": "2026-10-07T15:25:38.468Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Cabinet panel to probe alleged lapses in Jagananna colonies in Andhra Pradesh",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/cabinet-panel-to-probe-alleged-lapses-in-jagananna-colonies-in-andhra-pradesh/article71555585.ece",
-    "date": "2026-10-07T14:09:54.000Z",
-    "reason": "State-level probe in Andhra Pradesh; no national impact.",
-    "checkedAt": "2026-10-07T15:25:32.059Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Overpricing complaints prompt inspections in Payyoli, Perambra",
-    "url": "https://www.thehindu.com/news/national/kerala/overpricing-complaints-prompt-inspections-in-payyoli-perambra/article71555289.ece",
-    "date": "2026-10-07T14:09:21.000Z",
-    "reason": "Local price inspections in two Kerala towns; no national impact.",
-    "checkedAt": "2026-10-07T15:25:32.059Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Opposition vs Gyanesh Kumar: Rahul, Priyanka Gandhi forcibly removed, detained during INDIA bloc protest in Delhi",
-    "url": "https://www.livemint.com/news/india/opposition-vs-gyanesh-kumar-rahul-priyanka-gandhi-forcibly-removed-detained-during-india-bloc-protest-in-delhi-11791379000026.html",
-    "date": "2026-10-07T14:08:35.000Z",
-    "reason": "Party political protest and sparring over the Election Commission.",
-    "checkedAt": "2026-10-07T15:25:32.059Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Goenkas' RPSG bets on energy, chemicals, ITeS as its growth engines",
-    "url": "https://www.livemint.com/companies/goenkas-rpsg-energy-chemicals-ites-bpo-growth-engines-firstsource-11791368668295.html",
-    "date": "2026-10-07T13:37:19.000Z",
-    "reason": "Single business group strategy profile; no sector-wide national impact.",
-    "checkedAt": "2026-10-07T15:25:32.059Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Isaias landfall forecast: Tropical storm heads for US Gulf Coast; Florida declares emergency",
-    "url": "https://www.livemint.com/news/us-news/isaias-landfall-forecast-tropical-storm-heads-for-us-gulf-coast-florida-declares-emergency-11791377507090.html",
-    "date": "2026-10-07T13:32:12.000Z",
-    "reason": "US weather event with no stated impact on India.",
-    "checkedAt": "2026-10-07T15:25:32.059Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Trump vows $5,000 cheques to woo voters: Inside Republicans' move to save midterms amid Iran war woes",
-    "url": "https://www.livemint.com/news/us-news/trump-vows-5-000-cheques-to-woo-voters-inside-republicans-move-to-save-midterms-amid-iran-war-woes-11791362644919.html",
-    "date": "2026-10-07T13:30:11.000Z",
-    "reason": "US domestic politics; no direct India-specific national development.",
-    "checkedAt": "2026-10-07T15:25:32.059Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Ericsson to export India-made antennas to Europe: How the country's 5G success is powering the leap to 6G",
-    "url": "https://www.livemint.com/industry/telecom/ericsson-to-export-india-made-antennas-to-europe-how-the-countrys-5g-success-is-powering-the-leap-to-6g-11791374444345.html",
-    "date": "2026-10-07T13:25:09.000Z",
-    "reason": "Single-company export plan; limited national impact shown in summary.",
-    "checkedAt": "2026-10-07T15:25:32.059Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Brookfield enters Indian logistics with 10.5 million sq ft ESR portfolio buyout",
-    "url": "https://www.livemint.com/companies/brookfield-enters-indian-logistics-with-10-5-million-sq-ft-esr-portfolio-buyout-11791375694489.html",
-    "date": "2026-10-07T13:18:15.000Z",
-    "reason": "Single-company asset buyout; no sector-wide policy or national effect described.",
-    "checkedAt": "2026-10-07T15:25:32.059Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Apple to hold event on October 13? New Smart Home Hub, HomePod Mini and Apple TV expected",
-    "url": "https://www.livemint.com/technology/apple-to-hold-event-on-october-13-new-smart-home-hub-homepod-mini-and-apple-tv-expected-11791375338832.html",
-    "date": "2026-10-07T13:04:53.000Z",
-    "reason": "Consumer gadget launch speculation; no national significance.",
-    "checkedAt": "2026-10-07T15:25:21.666Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Aragen Life Sciences begins operations at a high-potency development manufacturing platform in Hyderabad",
-    "url": "https://www.thehindu.com/news/cities/Hyderabad/aragen-life-sciences-begins-operations-at-a-high-potency-development-manufacturing-platform-in-hyderabad/article71555030.ece",
-    "date": "2026-10-07T12:40:33.000Z",
-    "reason": "Single-company facility opening in Hyderabad; not nationally significant.",
-    "checkedAt": "2026-10-07T15:25:21.666Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "CDK Global appoints Sudhakar Ramakrishna CEO",
-    "url": "https://www.thehindu.com/business/Industry/cdk-global-appoints-sudhakar-ramakrishna-ceo/article71552370.ece",
-    "date": "2026-10-07T12:29:36.000Z",
-    "reason": "Corporate executive appointment; not nationally significant.",
-    "checkedAt": "2026-10-07T15:25:21.666Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Lupin launches fixed dose triple combo inhaler for COPD in India",
-    "url": "https://www.thehindu.com/business/Industry/lupin-launches-fixed-dose-triple-combo-inhaler-for-copd-in-india/article71552465.ece",
-    "date": "2026-10-07T12:18:39.000Z",
-    "reason": "Single-company product launch; no sector-wide national impact.",
-    "checkedAt": "2026-10-07T15:25:21.666Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Hindustan Unilever detergent price hike: Surf Excel Easy Wash, Rin and Wheel prices revised; check new rates here",
-    "url": "https://www.livemint.com/industry/retail/hindustan-unilever-detergent-price-hike-surf-excel-easy-wash-rin-and-wheel-prices-revised-check-new-rates-here-11791373708047.html",
-    "date": "2026-10-07T11:58:33.000Z",
-    "reason": "Single-company price hike; not a whole-sector development.",
-    "checkedAt": "2026-10-07T15:25:21.666Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Four-storey building collapses in Delhi's Seemapuri, several feared trapped",
-    "url": "https://www.livemint.com/news/india/fourstorey-housing-building-collapse-in-delhis-seemapuri-several-feared-trapped-11791372532197.html",
-    "date": "2026-10-07T11:58:24.000Z",
-    "reason": "Local building collapse accident in Delhi; no national impact.",
-    "checkedAt": "2026-10-07T15:25:21.666Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Chevron CEO warns ‘unwise’ US diesel export ban could worsen global fuel crunch | What it means",
-    "url": "https://www.livemint.com/news/us-news/chevron-ceo-warns-unwise-us-diesel-export-ban-could-worsen-global-fuel-crunch-what-it-means-11791370993360.html",
-    "date": "2026-10-07T11:45:31.000Z",
-    "reason": "US corporate CEO commentary on a potential US policy; no direct Indian development.",
-    "checkedAt": "2026-10-07T15:25:21.666Z"
-  },
-  {
-    "source": "mint",
-    "headline": "From first sale to ₹100 crore: The new playbooks building consumer brands in India",
-    "url": "https://www.livemint.com/industry/india-consumer-brands-new-playbooks-11791369712087.html",
-    "date": "2026-10-07T11:37:25.000Z",
-    "reason": "Feature on consumer brand startups; no national policy or sector development.",
-    "checkedAt": "2026-10-07T15:25:21.666Z"
-  },
-  {
-    "source": "mint",
-    "headline": "After Samsung, Google hikes Pixel 10a price; Here's how much it costs now in India",
-    "url": "https://www.livemint.com/technology/after-samsung-google-hikes-pixel-10a-price-heres-how-much-it-costs-now-in-india-11791369410178.html",
-    "date": "2026-10-07T11:26:03.000Z",
-    "reason": "Single-company smartphone price change; no national sector impact.",
-    "checkedAt": "2026-10-07T15:25:21.666Z"
-  },
-  {
-    "source": "mint",
-    "headline": "5 gaming smartphones under ₹50,000: Best phones for BGMI, COD Mobile and more",
-    "url": "https://www.livemint.com/technology/5-gaming-smartphones-under-50-000-best-phones-for-bgmi-cod-mobile-and-more-11791369001556.html",
-    "date": "2026-10-07T11:20:32.000Z",
-    "reason": "Consumer gadget listicle with no national significance.",
-    "checkedAt": "2026-10-07T15:25:11.962Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Cashfree in talks to raise $80-100 million",
-    "url": "https://www.livemint.com/companies/start-ups/cashfree-in-talks-to-raise-80-100-million-11791298397253.html",
-    "date": "2026-10-07T11:16:29.000Z",
-    "reason": "Single-company fundraising talks; no sector-wide effect.",
-    "checkedAt": "2026-10-07T15:25:11.962Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Gradiant bets big on India, secures five contracts, including semiconductor fab",
-    "url": "https://www.thehindu.com/business/Industry/gradiant-bets-big-on-india-secures-five-contracts-including-semiconductor-fab/article71555160.ece",
-    "date": "2026-10-07T11:11:29.000Z",
-    "reason": "Single-company contract wins and appointment.",
-    "checkedAt": "2026-10-07T15:25:11.962Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Flipkart's ex-employees press Walmart for ‘fair’ ESOP treatment ahead of IPO: Report",
-    "url": "https://www.livemint.com/companies/news/flipkart-employees-press-walmart-for-fair-esop-treatment-ahead-of-ipo-report-11791367371832.html",
-    "date": "2026-10-07T11:10:18.000Z",
-    "reason": "Single-company employee stock option dispute ahead of an IPO.",
-    "checkedAt": "2026-10-07T15:25:11.962Z"
-  },
-  {
-    "source": "mint",
-    "headline": "HubSpot lays off 660 workers, offers 20 weeks’ base pay and job-search support",
-    "url": "https://www.livemint.com/companies/hubspot-lays-off-660-workers-offers-20-weeks-base-pay-and-job-search-support-11791368967592.html",
-    "date": "2026-10-07T10:55:33.000Z",
-    "reason": "Layoffs at a foreign single company; no national significance.",
-    "checkedAt": "2026-10-07T15:25:11.962Z"
-  },
-  {
-    "source": "mint",
-    "headline": "India slams OIC's ‘willful blindness’ at UN, defends action against terror infrastructure in Pakistan, PoK",
-    "url": "https://www.livemint.com/news/world/india-slams-oics-willful-blindness-at-un-defends-action-against-terror-infrastructure-in-pakistan-pok-11791363874618.html",
-    "date": "2026-10-07T10:54:27.000Z",
-    "reason": "Foreign policy and security sparring at the UN; not a sector development.",
-    "checkedAt": "2026-10-07T15:25:11.962Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Alcobev value growth hinges on what people drink, not just how much: ISWAI’s Sanjit Padhi",
-    "url": "https://www.livemint.com/companies/news/india-alcohol-market-growth-beer-spirits-premiumization-iswai-sanjit-padhi-11791363726826.html",
-    "date": "2026-10-07T10:47:13.000Z",
-    "reason": "Industry body commentary on one segment; no national policy development.",
-    "checkedAt": "2026-10-07T15:25:11.962Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Granules eyes first to file status, 180 days exclusivity on generic cancer drug Ruxolitinib in U.S.",
-    "url": "https://www.thehindu.com/business/Industry/granules-eyes-first-to-file-status-180-days-exclusivity-on-generic-cancer-drug-ruxolitinib-in-us/article71554891.ece",
-    "date": "2026-10-07T10:27:21.000Z",
-    "reason": "Single-company regulatory filing that does not affect a whole sector.",
-    "checkedAt": "2026-10-07T15:25:11.962Z"
-  },
-  {
-    "source": "mint",
-    "headline": "‘I saw him as an avatar of Vishnu’: Bhutan PM Tshering Tobgay lauds 'elder brother' PM Modi’s 25 years in public office",
-    "url": "https://www.livemint.com/news/india/i-saw-him-as-an-avatar-of-vishnu-bhutan-pm-tshering-tobgay-lauds-elder-brother-pm-modi-s-25-years-in-public-service-11791364050620.html",
-    "date": "2026-10-07T10:10:51.000Z",
-    "reason": "Diplomatic praise for the PM; no policy or sector impact.",
-    "checkedAt": "2026-10-07T15:25:11.962Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Vivek Agnihotri sparks ‘tax religion’ row, VHP seeks apology from Kashmir Files director",
-    "url": "https://www.livemint.com/news/india/vivek-agnihotri-sparks-tax-religion-row-vhp-seeks-apology-from-the-kashmir-files-director-kainchi-dham-11791365763047.html",
-    "date": "2026-10-07T09:53:21.000Z",
-    "reason": "Celebrity and religious controversy; not a national sector development.",
-    "checkedAt": "2026-10-07T15:25:11.962Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Nobel Prize 2026: How JNU scientist Suneel Kateriya helped lay the groundwork for optogenetics",
-    "url": "https://www.livemint.com/news/india/nobel-prize-2026-how-jnu-scientist-suneel-kateriya-helped-lay-the-groundwork-for-optogenetics-11791363836146.html",
-    "date": "2026-10-07T09:21:04.000Z",
-    "reason": "Scientific recognition story with no direct sectoral or policy effect nationally.",
-    "checkedAt": "2026-10-07T15:25:11.962Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "GPS study on elephant movements aims to mitigate conflicts in Assam",
-    "url": "https://www.thehindu.com/news/national/assam/gps-study-on-elephant-movements-aims-to-mitigate-conflicts-in-assam/article71551820.ece",
-    "date": "2026-10-07T09:08:24.000Z",
-    "reason": "Regional wildlife tracking study in Assam without national impact.",
-    "checkedAt": "2026-10-07T09:12:34.044Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Piyush Goyal courts US firms for investments across key sectors",
-    "url": "https://www.livemint.com/news/india/piyush-goyal-us-firms-india-investment-trade-ties-11791361915952.html",
-    "date": "2026-10-07T09:06:07.000Z",
-    "reason": "Ministerial meetings with US executives; no concrete policy or trade outcome reported.",
-    "checkedAt": "2026-10-07T09:12:34.044Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Modi gave people confidence in a crisis, says Satya Kumar Yadav",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/modi-gave-people-confidence-in-a-crisis-says-satya-kumar-yadav/article71554485.ece",
-    "date": "2026-10-07T08:58:12.000Z",
-    "reason": "Political praise for the Prime Minister by a state minister; party political messaging.",
-    "checkedAt": "2026-10-07T09:12:34.044Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Sexual abuse of boys: 62 POCSO cases recorded in Telangana in nine months",
-    "url": "https://www.thehindu.com/news/national/telangana/sexual-abuse-of-boys-62-pocso-cases-recorded-in-telangana-in-nine-months/article71554785.ece",
-    "date": "2026-10-07T08:57:49.000Z",
-    "reason": "State-level crime statistics from Telangana.",
-    "checkedAt": "2026-10-07T09:12:34.044Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Manipur CM cites historical hill outreach to pitch for lasting peace",
-    "url": "https://www.thehindu.com/news/national/manipur/manipur-cm-cites-historical-hill-outreach-to-pitch-for-lasting-peace/article71554813.ece",
-    "date": "2026-10-07T08:56:07.000Z",
-    "reason": "State-level statement by Manipur CM, no national policy impact.",
-    "checkedAt": "2026-10-07T09:12:34.044Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Komatireddy extends ₹2 lakh aid for child’s treatment to develop speech",
-    "url": "https://www.thehindu.com/news/national/telangana/komatireddy-extends-2-lakh-aid-for-childs-treatment-to-develop-speech/article71554877.ece",
-    "date": "2026-10-07T08:52:27.000Z",
-    "reason": "Individual aid case in Telangana, no national significance.",
-    "checkedAt": "2026-10-07T09:12:34.044Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "170 kg of ghee allegedly made with palm oil and vanaspati seized at Ongole dairy",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/170-kg-of-ghee-allegedly-made-with-palm-oil-and-vanaspati-seized-at-ongole-dairy/article71554305.ece",
-    "date": "2026-10-07T08:38:39.000Z",
-    "reason": "Local food adulteration seizure at a single dairy.",
-    "checkedAt": "2026-10-07T09:12:34.044Z"
-  },
-  {
-    "source": "mint",
-    "headline": "3 years of October 7 attack: ‘Never take the enemy lightly’ — What went wrong for Israel? Expert weighs in",
-    "url": "https://www.livemint.com/news/world/3-years-of-october-7-attack-never-take-the-enemy-lightly-what-went-wrong-for-israel-expert-weighs-in-11791359489761.html",
-    "date": "2026-10-07T08:35:25.000Z",
-    "reason": "Foreign anniversary commentary about Israel, not a development inside India.",
-    "checkedAt": "2026-10-07T09:12:34.044Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Bhoomi puja performed for 30 projects worth ₹4,249 crore at CII regional conference in Visakhapatnam",
-    "url": "https://www.thehindu.com/news/cities/Visakhapatnam/bhoomi-puja-performed-for-30-projects-worth-4249-crore-at-cii-regional-conference-in-visakhapatnam/article71554425.ece",
-    "date": "2026-10-07T08:26:09.000Z",
-    "reason": "Regional project launches in Andhra Pradesh; state-level story without national impact.",
-    "checkedAt": "2026-10-07T09:12:34.044Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "ED conducts searches at 3 cooperative banks in Keralam",
-    "url": "https://www.thehindu.com/news/national/kerala/ed-conducts-searches-at-3-cooperative-societies-in-keralam/article71554567.ece",
-    "date": "2026-10-07T08:21:58.000Z",
-    "reason": "Enforcement searches in a state-level fraud probe; crime story.",
-    "checkedAt": "2026-10-07T09:12:34.044Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "101 held in TGCSB’s six-State sweep, ₹17 crore cyber fraud trail uncovered",
-    "url": "https://www.thehindu.com/news/national/telangana/101-held-in-tgcsbs-six-state-sweep-17-crore-cyber-fraud-trail-uncovered/article71554622.ece",
-    "date": "2026-10-07T08:12:02.000Z",
-    "reason": "Cybercrime arrests and a fraud probe; crime story without sector-wide policy change.",
-    "checkedAt": "2026-10-07T09:12:34.044Z"
-  },
-  {
-    "source": "mint",
-    "headline": "India Mobile Congress 2026: Delhi Traffic Police issues advisory for Yashobhoomi event; check routes",
-    "url": "https://www.livemint.com/news/india/india-mobile-congress-2026-delhi-traffic-police-issues-advisory-for-yashobhoomi-event-check-routes-11791359401981.html",
-    "date": "2026-10-07T08:08:48.000Z",
-    "reason": "Local traffic advisory for a Delhi event, no national policy impact.",
-    "checkedAt": "2026-10-07T09:12:34.044Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Ex-Telangana home guard working as bike-taxi driver in Andhra held in chain-snatching case",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ex-telangana-home-guard-working-as-bike-taxi-driver-in-andhra-held-in-chain-snatching-case/article71552831.ece",
-    "date": "2026-10-07T08:07:08.000Z",
-    "reason": "Local crime and arrest story.",
-    "checkedAt": "2026-10-07T09:12:23.674Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "No campus, no transport, no proper hostels: GMC Jagtial medical students on indefinite protest over four-year delay",
-    "url": "https://www.thehindu.com/news/national/telangana/no-campus-no-transport-no-proper-hostels-gmc-jagtial-medical-students-on-indefinite-protest-after-four-year-delay/article71554429.ece",
-    "date": "2026-10-07T08:03:46.000Z",
-    "reason": "Local protest by students at a single medical college.",
-    "checkedAt": "2026-10-07T09:12:23.674Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "We Will Do It: PM Modi gives new slogan to make India developed nation by 2047",
-    "url": "https://www.thehindu.com/news/national/we-will-do-it-pm-modi-gives-new-slogan-to-make-india-developed-nation-by-2047/article71554702.ece",
-    "date": "2026-10-07T07:59:53.000Z",
-    "reason": "Political slogan and rhetoric, with no concrete policy development.",
-    "checkedAt": "2026-10-07T09:12:23.674Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "L&T gets initial nod to build main part of 1,600 MW thermal power plant in Jharkhand",
-    "url": "https://www.thehindu.com/business/Industry/lt-gets-initial-nod-to-build-main-part-of-1600-mw-thermal-power-plant-in-jharkhand/article71554766.ece",
-    "date": "2026-10-07T07:48:06.000Z",
-    "reason": "Single-company contract for one state power project; limited national significance.",
-    "checkedAt": "2026-10-07T09:12:23.674Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Highly educated professionals are vulnerable to financial cybercrime, finds IIT-Madras study",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/highly-educated-professionals-are-vulnerable-to-financial-cybercrime-finds-iit-madras-study/article71524692.ece",
-    "date": "2026-10-07T07:46:13.000Z",
-    "reason": "Academic study on cybercrime victims; crime-related, no national policy or sector impact.",
-    "checkedAt": "2026-10-07T09:12:23.674Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Why growing trust in digital payments may be leaving Indians more exposed to cybercrime",
-    "url": "https://www.thehindu.com/news/national/why-growing-trust-in-digital-payments-may-be-leaving-indians-more-exposed-to-cybercrime/article71551481.ece",
-    "date": "2026-10-07T07:45:48.000Z",
-    "reason": "Cybercrime victimisation survey; crime-focused story without a clear national policy or sector development.",
-    "checkedAt": "2026-10-07T09:12:23.674Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "After 14 years, Tamil Nadu records lowest Cauvery realisation",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/after-14-years-tamil-nadu-records-lowest-cauvery-realisation/article71552373.ece",
-    "date": "2026-10-07T07:44:22.000Z",
-    "reason": "State-level story about Cauvery water and paddy area in Tamil Nadu.",
-    "checkedAt": "2026-10-07T09:12:23.674Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Rahul fighting SIR, 'diabolical duo' busy filing FIR: Congress",
-    "url": "https://www.thehindu.com/news/national/congress-slams-modi-govt-as-delhi-police-file-fir-against-rahul-priyanka/article71554540.ece",
-    "date": "2026-10-07T07:40:53.000Z",
-    "reason": "Party political sparring over electoral roll revision.",
-    "checkedAt": "2026-10-07T09:12:23.674Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "GE Aerospace announces shipment of four F404–IN20 engines to HAL for Tejas LCA Mk 1A",
-    "url": "https://www.thehindu.com/business/ge-aerospace-announces-shipment-of-four-f404-engines-to-hal-for-tejas-lca-mk-1a/article71554547.ece",
-    "date": "2026-10-07T07:40:29.000Z",
-    "reason": "Single-company component shipment update with no sector-wide national impact.",
-    "checkedAt": "2026-10-07T09:12:23.674Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Rupee falls 22 paise to 96.57 against U.S. dollar post RBI rate increase",
-    "url": "https://www.thehindu.com/business/markets/rupee-against-dollar-opening-rbi-monetary-policy-decision/article71554511.ece",
-    "date": "2026-10-07T07:38:57.000Z",
-    "reason": "Routine daily currency move, which is market commentary rather than a national policy development.",
-    "checkedAt": "2026-10-07T09:12:23.674Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Muslim bouncers in Hyderabad allege discrimination, denial of work at Dandiya events",
-    "url": "https://www.thehindu.com/news/cities/Hyderabad/muslim-bouncers-in-hyderabad-allege-discrimination-denial-of-work-at-dandiya-events/article71550487.ece",
-    "date": "2026-10-07T07:34:34.000Z",
-    "reason": "Local discrimination allegation at city events; no national policy or sector impact.",
-    "checkedAt": "2026-10-07T09:12:23.674Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "How did a Pakistan-linked spy network target Navy’s Eastern Command, and how was it cracked? | Explained",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/how-did-a-pakistan-linked-spy-network-target-navys-eastern-command-and-how-was-it-cracked-explained/article71554274.ece",
-    "date": "2026-10-07T07:32:35.000Z",
-    "reason": "Espionage and security probe, not a sector development.",
-    "checkedAt": "2026-10-07T09:12:02.327Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Deleted in SIR, four Bengal men now locked at Chhattisgarh detention centre for over a month",
-    "url": "https://www.thehindu.com/news/national/west-bengal/deleted-in-sir-four-bengal-men-now-locked-at-chhattisgarh-detention-centre-for-over-a-month/article71551742.ece",
-    "date": "2026-10-07T07:27:33.000Z",
-    "reason": "Case of specific individuals in a state-level court matter.",
-    "checkedAt": "2026-10-07T09:12:02.327Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Blood-tainted ice cubes and a famine in Madras",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/blood-tainted-ice-cubes-and-a-famine-in-madras/article71550782.ece",
-    "date": "2026-10-07T07:22:22.000Z",
-    "reason": "Historical feature piece with no current national significance.",
-    "checkedAt": "2026-10-07T09:12:02.327Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Mistral unveils ‘Le Chonk’ to compete with Chinese open-weight AI models",
-    "url": "https://www.thehindu.com/sci-tech/technology/mistral-unveils-le-chonk-to-compete-with-chinese-open-weight-ai-models/article71554171.ece",
-    "date": "2026-10-07T07:21:49.000Z",
-    "reason": "Foreign company's AI model launch, no direct India impact.",
-    "checkedAt": "2026-10-07T09:12:02.327Z"
   }
 ]

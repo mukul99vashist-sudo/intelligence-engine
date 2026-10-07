@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-07T16:35:18.709Z",
+  "updatedAt": "2026-10-07T20:03:45.895Z",
   "sectors": [
     {
       "id": "energy",
@@ -658,6 +658,76 @@
       "name": "Economy & Trade",
       "items": [
         {
+          "id": "sjush0y",
+          "headline": "RBI likely to raise repo rate in October 2026 as West Asia crisis fuels inflation risks",
+          "url": "https://www.livemint.com/economy/rbi-likely-to-raise-repo-rate-in-october-2026-as-west-asia-crisis-fuels-inflation-risks-11791121335600.html",
+          "source": "mint",
+          "date": "2026-10-04T13:53:48.000Z",
+          "relevance": "high",
+          "why": "A possible RBI repo rate hike would change borrowing costs nationwide, driven by inflation risks from the West Asia crisis.",
+          "implications": [
+            "Home, car and business loan EMIs could rise if the repo rate is increased by 0.25 percentage points.",
+            "Higher rates may add to the cost of borrowing for businesses and slow credit demand.",
+            "Fixed deposit rates could edge up for savers if the RBI tightens policy."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "RBI likely to raise repo rate in October 2026 as West Asia crisis fuels inflation risks",
+              "url": "https://www.livemint.com/economy/rbi-likely-to-raise-repo-rate-in-october-2026-as-west-asia-crisis-fuels-inflation-risks-11791121335600.html",
+              "date": "2026-10-04T13:53:48.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "RBI rate hikes back on the table as inflation risks mount",
+              "url": "https://www.livemint.com/economy/rbi-monetary-policy-repo-rate-indian-economy-11791107863686.html",
+              "date": "2026-10-05T00:00:22.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Rate hikes are coming, but don’t count credit growth out just yet",
+              "url": "https://www.livemint.com/economy/india-credit-growth-rate-hike-rbi-monetary-policy-bank-lending-bank-credit-fcnr-b-deposits-financial-deepening-11791139917638.html",
+              "date": "2026-10-05T03:30:45.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Experts’ poll: RBI may hike rates by 0.25% in October policy amid inflationary pressures",
+              "url": "https://www.thehindu.com/business/experts-poll-rbi-may-hike-rates-by-025-in-october-policy-amid-inflationary-pressures/article71543381.ece",
+              "date": "2026-10-04T10:35:22.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Mint Explainer | Why the RBI looks set to hike rates",
+              "url": "https://www.livemint.com/economy/rbi-repo-rate-hike-mpc-october-2026-11791267893186.html",
+              "date": "2026-10-06T07:21:32.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "RBI hikes repo rate for first time since Feb 2023 as inflation bites",
+              "url": "https://www.livemint.com/economy/rising-inflation-risks-rbi-repo-rate-by-25-bps-to-5-50-mpc-policy-11791347773792.html",
+              "date": "2026-10-07T04:42:28.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Mint Explainer | What RBI's rate hike means for retail borrowers and lenders",
+              "url": "https://www.livemint.com/economy/rbi-repo-rate-hike-retail-borrowers-banks-lending-rates-home-11791278888782.html",
+              "date": "2026-10-07T04:45:57.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "RBI MPC speech: Weak monsoon, strong El Niño, rabi season, global crude prices - What Governor Sanjay Malhotra conveyed",
+              "url": "https://www.livemint.com/economy/rbi-mpc-speech-weak-monsoon-strong-el-nino-rabi-season-global-crude-prices-what-governor-sanjay-malhotra-conveyed-11791349667128.html",
+              "date": "2026-10-07T05:29:42.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "RBI's next rate hike will be of 0.50%: SBI Economists",
+              "url": "https://www.livemint.com/economy/rbis-next-rate-hike-will-be-of-0-50-sbi-economists-11791393361828.html",
+              "date": "2026-10-07T17:25:01.000Z"
+            }
+          ]
+        },
+        {
           "id": "s1yug9lb",
           "headline": "Industrial marketplace Pneucons disables UPI on orders from Oct 10, co-founder says ‘MDR ate 94% of our margins’",
           "url": "https://www.livemint.com/companies/news/industrial-marketplace-pneucons-disables-upi-on-orders-from-oct-10-co-founder-says-mdr-ate-94-of-our-margins-11791079493499.html",
@@ -976,70 +1046,6 @@
               "headline": "RBI raises FY27 inflation projection to 5.2% amid higher crude oil prices",
               "url": "https://www.thehindu.com/business/Economy/rbi-raises-fy27-inflation-projection-to-51-amid-higher-crude-oil-prices/article71554389.ece",
               "date": "2026-10-07T05:59:09.000Z"
-            }
-          ]
-        },
-        {
-          "id": "sjush0y",
-          "headline": "RBI likely to raise repo rate in October 2026 as West Asia crisis fuels inflation risks",
-          "url": "https://www.livemint.com/economy/rbi-likely-to-raise-repo-rate-in-october-2026-as-west-asia-crisis-fuels-inflation-risks-11791121335600.html",
-          "source": "mint",
-          "date": "2026-10-04T13:53:48.000Z",
-          "relevance": "high",
-          "why": "A possible RBI repo rate hike would change borrowing costs nationwide, driven by inflation risks from the West Asia crisis.",
-          "implications": [
-            "Home, car and business loan EMIs could rise if the repo rate is increased by 0.25 percentage points.",
-            "Higher rates may add to the cost of borrowing for businesses and slow credit demand.",
-            "Fixed deposit rates could edge up for savers if the RBI tightens policy."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "RBI likely to raise repo rate in October 2026 as West Asia crisis fuels inflation risks",
-              "url": "https://www.livemint.com/economy/rbi-likely-to-raise-repo-rate-in-october-2026-as-west-asia-crisis-fuels-inflation-risks-11791121335600.html",
-              "date": "2026-10-04T13:53:48.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "RBI rate hikes back on the table as inflation risks mount",
-              "url": "https://www.livemint.com/economy/rbi-monetary-policy-repo-rate-indian-economy-11791107863686.html",
-              "date": "2026-10-05T00:00:22.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "Rate hikes are coming, but don’t count credit growth out just yet",
-              "url": "https://www.livemint.com/economy/india-credit-growth-rate-hike-rbi-monetary-policy-bank-lending-bank-credit-fcnr-b-deposits-financial-deepening-11791139917638.html",
-              "date": "2026-10-05T03:30:45.000Z"
-            },
-            {
-              "source": "thehindu",
-              "headline": "Experts’ poll: RBI may hike rates by 0.25% in October policy amid inflationary pressures",
-              "url": "https://www.thehindu.com/business/experts-poll-rbi-may-hike-rates-by-025-in-october-policy-amid-inflationary-pressures/article71543381.ece",
-              "date": "2026-10-04T10:35:22.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "Mint Explainer | Why the RBI looks set to hike rates",
-              "url": "https://www.livemint.com/economy/rbi-repo-rate-hike-mpc-october-2026-11791267893186.html",
-              "date": "2026-10-06T07:21:32.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "RBI hikes repo rate for first time since Feb 2023 as inflation bites",
-              "url": "https://www.livemint.com/economy/rising-inflation-risks-rbi-repo-rate-by-25-bps-to-5-50-mpc-policy-11791347773792.html",
-              "date": "2026-10-07T04:42:28.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "Mint Explainer | What RBI's rate hike means for retail borrowers and lenders",
-              "url": "https://www.livemint.com/economy/rbi-repo-rate-hike-retail-borrowers-banks-lending-rates-home-11791278888782.html",
-              "date": "2026-10-07T04:45:57.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "RBI MPC speech: Weak monsoon, strong El Niño, rabi season, global crude prices - What Governor Sanjay Malhotra conveyed",
-              "url": "https://www.livemint.com/economy/rbi-mpc-speech-weak-monsoon-strong-el-nino-rabi-season-global-crude-prices-what-governor-sanjay-malhotra-conveyed-11791349667128.html",
-              "date": "2026-10-07T05:29:42.000Z"
             }
           ]
         },
@@ -1545,6 +1551,73 @@
       "name": "Technology",
       "items": [
         {
+          "id": "s32r3jz",
+          "headline": "SpaceX exec renews Starlink pitch as approvals lay pending",
+          "url": "https://www.thehindu.com/sci-tech/technology/spacex-exec-renews-starlink-pitch-as-approvals-lay-pending/article71554510.ece",
+          "source": "thehindu",
+          "date": "2026-10-07T06:27:49.000Z",
+          "relevance": "medium",
+          "why": "Pending approvals for satellite internet reflect how security conditions are delaying a new broadband option for India.",
+          "implications": [
+            "Rural and remote users may have to wait longer for satellite broadband.",
+            "Operational launch could slip beyond next year if security requirements remain unresolved.",
+            "Telecom competition and pricing in connectivity may be slower to change."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "SpaceX exec renews Starlink pitch as approvals lay pending",
+              "url": "https://www.thehindu.com/sci-tech/technology/spacex-exec-renews-starlink-pitch-as-approvals-lay-pending/article71554510.ece",
+              "date": "2026-10-07T06:27:49.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Starlink says India operations built around security rules as launch awaits government clearance",
+              "url": "https://www.livemint.com/industry/starlink-india-launch-security-clearance-commercial-services-11791354507240.html",
+              "date": "2026-10-07T07:32:39.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Starlink India launch row: Elon Musk says delay is a ‘crime against the people…’ in X post",
+              "url": "https://www.livemint.com/companies/news/starlink-india-launch-stuck-elon-musk-lashes-out-says-delay-is-a-crime-against-the-people-in-x-post-11791390758707.html",
+              "date": "2026-10-07T17:00:35.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Elon Musk alleges “oligarch” interference in Starlink’s India launch",
+              "url": "https://www.thehindu.com/business/Industry/elon-musk-alleges-oligarch-interference-instarlinksindia-launch/article71557189.ece",
+              "date": "2026-10-07T18:36:26.000Z"
+            }
+          ]
+        },
+        {
+          "id": "syhti7a",
+          "headline": "Airtel introduces new postpaid plans, hikes prices by 3-11%",
+          "url": "https://www.livemint.com/companies/news/ahead-of-jio-ipo-airtel-introduces-new-postpaid-plans-hikes-prices-by-311-11791352737739.html",
+          "source": "mint",
+          "date": "2026-10-07T07:47:35.000Z",
+          "relevance": "high",
+          "why": "A major telecom operator raising postpaid prices by 3–11% points to rising mobile costs for many subscribers.",
+          "implications": [
+            "Postpaid subscribers on Airtel may pay 3–11% more from 8 October 2026.",
+            "Other operators may follow with price revisions, which could raise household telecom spending."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Airtel introduces new postpaid plans, hikes prices by 3-11%",
+              "url": "https://www.livemint.com/companies/news/ahead-of-jio-ipo-airtel-introduces-new-postpaid-plans-hikes-prices-by-311-11791352737739.html",
+              "date": "2026-10-07T07:47:35.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Airtel hikes postpaid tariffs after over two years, sets the tone for peers",
+              "url": "https://www.livemint.com/companies/news/airtel-postpaid-tariff-hike-jio-platforms-ipo-11791363255988.html",
+              "date": "2026-10-07T16:39:40.000Z"
+            }
+          ]
+        },
+        {
           "id": "sexalie",
           "headline": "There should be no GST on MDR for UPI transactions: C. Rangarajan",
           "url": "https://www.thehindu.com/news/national/tamil-nadu/there-should-be-no-gst-on-mdr-for-upi-transactions-c-rangarajan/article71548512.ece",
@@ -1572,27 +1645,6 @@
           ]
         },
         {
-          "id": "syhti7a",
-          "headline": "Airtel introduces new postpaid plans, hikes prices by 3-11%",
-          "url": "https://www.livemint.com/companies/news/ahead-of-jio-ipo-airtel-introduces-new-postpaid-plans-hikes-prices-by-311-11791352737739.html",
-          "source": "mint",
-          "date": "2026-10-07T07:47:35.000Z",
-          "relevance": "medium",
-          "why": "A major telecom operator raising postpaid prices by 3–11% points to rising mobile costs for many subscribers.",
-          "implications": [
-            "Postpaid subscribers on Airtel may pay 3–11% more from 8 October 2026.",
-            "Other operators may follow with price revisions, which could raise household telecom spending."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "Airtel introduces new postpaid plans, hikes prices by 3-11%",
-              "url": "https://www.livemint.com/companies/news/ahead-of-jio-ipo-airtel-introduces-new-postpaid-plans-hikes-prices-by-311-11791352737739.html",
-              "date": "2026-10-07T07:47:35.000Z"
-            }
-          ]
-        },
-        {
           "id": "sx87ysh",
           "headline": "Mobile bills may rise again: 12–15% telecom tariff hike likely in 4–5 months. What it means for Jio, Airtel, Vi users",
           "url": "https://www.livemint.com/companies/news/mobile-bills-may-rise-again-12-15-telecom-tariff-hike-likely-in-4-5-months-what-it-means-for-jio-airtel-vi-users-11791357460014.html",
@@ -1610,34 +1662,6 @@
               "headline": "Mobile bills may rise again: 12–15% telecom tariff hike likely in 4–5 months. What it means for Jio, Airtel, Vi users",
               "url": "https://www.livemint.com/companies/news/mobile-bills-may-rise-again-12-15-telecom-tariff-hike-likely-in-4-5-months-what-it-means-for-jio-airtel-vi-users-11791357460014.html",
               "date": "2026-10-07T07:35:44.000Z"
-            }
-          ]
-        },
-        {
-          "id": "s32r3jz",
-          "headline": "SpaceX exec renews Starlink pitch as approvals lay pending",
-          "url": "https://www.thehindu.com/sci-tech/technology/spacex-exec-renews-starlink-pitch-as-approvals-lay-pending/article71554510.ece",
-          "source": "thehindu",
-          "date": "2026-10-07T06:27:49.000Z",
-          "relevance": "medium",
-          "why": "Pending approvals for satellite internet reflect how security conditions are delaying a new broadband option for India.",
-          "implications": [
-            "Rural and remote users may have to wait longer for satellite broadband.",
-            "Operational launch could slip beyond next year if security requirements remain unresolved.",
-            "Telecom competition and pricing in connectivity may be slower to change."
-          ],
-          "reports": [
-            {
-              "source": "thehindu",
-              "headline": "SpaceX exec renews Starlink pitch as approvals lay pending",
-              "url": "https://www.thehindu.com/sci-tech/technology/spacex-exec-renews-starlink-pitch-as-approvals-lay-pending/article71554510.ece",
-              "date": "2026-10-07T06:27:49.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "Starlink says India operations built around security rules as launch awaits government clearance",
-              "url": "https://www.livemint.com/industry/starlink-india-launch-security-clearance-commercial-services-11791354507240.html",
-              "date": "2026-10-07T07:32:39.000Z"
             }
           ]
         },
@@ -2569,16 +2593,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 43,
-    "added": 3,
-    "merged": 1,
-    "rejected": 39,
+    "analysed": 65,
+    "added": 0,
+    "merged": 4,
+    "rejected": 61,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 343
+        "items": 340
       },
       "mint": {
         "feedsOk": 6,

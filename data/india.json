@@ -2,12 +2,52 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-07T16:34:51.367Z",
+  "updatedAt": "2026-10-07T20:03:04.403Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "sctwrbx",
+          "headline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
+          "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border",
+          "source": "aljazeera",
+          "date": "2026-10-06T10:47:54.000Z",
+          "relevance": "medium",
+          "why": "Houthi strikes on Saudi airports add to instability in a region central to India's oil supply and to its large expatriate community.",
+          "implications": [
+            "Wider Saudi-Yemen escalation could raise oil price risk, which would pressure India's import bill and fuel costs.",
+            "Indian workers in Saudi Arabia may face safety concerns and travel disruption.",
+            "Heightened Red Sea and Gulf tension could raise shipping and insurance costs for Indian trade."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
+              "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border",
+              "date": "2026-10-06T10:47:54.000Z"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
+              "url": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh",
+              "date": "2026-10-07T06:41:11.000Z"
+            },
+            {
+              "source": "abc",
+              "headline": "Tensions escalate in Middle East as Houthis target airports",
+              "url": "https://www.abc.net.au/news/2026-10-07/houthis-attack-airports-as-yemen-conflict-intensifies/107239298",
+              "date": "2026-10-07T06:42:58.000Z"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Saudi Arabia says Houthi attacks on airports killed three foreign nationals",
+              "url": "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports",
+              "date": "2026-10-07T18:29:34.000Z"
+            }
+          ]
+        },
         {
           "id": "sb9ft7l",
           "headline": "US sets new demands for Iran deal: What are they?",
@@ -47,40 +87,6 @@
               "headline": "Shell expects refineries to almost double the profit from every barrel of fuel made",
               "url": "https://www.theguardian.com/business/2026/oct/07/shell-refineries-forecast-to-make-double-the-profit-from-every-barrel-of-fuel",
               "date": "2026-10-07T08:30:16.000Z"
-            }
-          ]
-        },
-        {
-          "id": "sctwrbx",
-          "headline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
-          "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border",
-          "source": "aljazeera",
-          "date": "2026-10-06T10:47:54.000Z",
-          "relevance": "medium",
-          "why": "Houthi strikes on Saudi airports add to instability in a region central to India's oil supply and to its large expatriate community.",
-          "implications": [
-            "Wider Saudi-Yemen escalation could raise oil price risk, which would pressure India's import bill and fuel costs.",
-            "Indian workers in Saudi Arabia may face safety concerns and travel disruption.",
-            "Heightened Red Sea and Gulf tension could raise shipping and insurance costs for Indian trade."
-          ],
-          "reports": [
-            {
-              "source": "aljazeera",
-              "headline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
-              "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border",
-              "date": "2026-10-06T10:47:54.000Z"
-            },
-            {
-              "source": "aljazeera",
-              "headline": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
-              "url": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh",
-              "date": "2026-10-07T06:41:11.000Z"
-            },
-            {
-              "source": "abc",
-              "headline": "Tensions escalate in Middle East as Houthis target airports",
-              "url": "https://www.abc.net.au/news/2026-10-07/houthis-attack-airports-as-yemen-conflict-intensifies/107239298",
-              "date": "2026-10-07T06:42:58.000Z"
             }
           ]
         },
@@ -323,66 +329,6 @@
       "name": "Logistics & Shipping",
       "items": [
         {
-          "id": "s18vq9q9",
-          "headline": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
-          "url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters",
-          "source": "aljazeera",
-          "date": "2026-10-06T14:50:01.000Z",
-          "relevance": "medium",
-          "why": "Drone strikes sinking ships in the Black Sea raise risks for shipping on a route carrying grain and edible oils.",
-          "implications": [
-            "Higher shipping risk and insurance costs may disrupt Black Sea cargoes bound for India.",
-            "Disruption could lift global prices of edible oils and grains that India imports."
-          ],
-          "reports": [
-            {
-              "source": "aljazeera",
-              "headline": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
-              "url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters",
-              "date": "2026-10-06T14:50:01.000Z"
-            },
-            {
-              "source": "abc",
-              "headline": "Crew missing after drone sinks ship in Black Sea off Bulgaria",
-              "url": "https://www.abc.net.au/news/2026-10-07/crew-missing-after-drone-sinks-ship-in-black-sea/107235430",
-              "date": "2026-10-06T17:14:47.000Z"
-            },
-            {
-              "source": "aljazeera",
-              "headline": "Bulgaria ends search for missing crew after drone strike sinks cargo ship",
-              "url": "https://www.aljazeera.com/news/2026/10/7/bulgaria-ends-search-for-missing-crew-after-drone-strike-sinks-cargo-ship",
-              "date": "2026-10-07T10:12:04.000Z"
-            }
-          ]
-        },
-        {
-          "id": "s1sjpz83",
-          "headline": "Black Sea tanker attack off Russia's Olympic city sparks 'fire of oil'",
-          "url": "https://www.abc.net.au/news/2026-10-07/oil-tanker-attack-in-black-sea-off-sochi-sparks-giant-fire/107238536",
-          "source": "abc",
-          "date": "2026-10-07T02:52:23.000Z",
-          "relevance": "medium",
-          "why": "Attacks on tankers in the Black Sea raise risks for shipping and oil cargoes on routes that affect India's trade.",
-          "implications": [
-            "Higher war-risk insurance and freight costs may follow for vessels trading in the Black Sea region.",
-            "Disruption to Black Sea energy shipments could add upward pressure on global oil prices India pays."
-          ],
-          "reports": [
-            {
-              "source": "abc",
-              "headline": "Black Sea tanker attack off Russia's Olympic city sparks 'fire of oil'",
-              "url": "https://www.abc.net.au/news/2026-10-07/oil-tanker-attack-in-black-sea-off-sochi-sparks-giant-fire/107238536",
-              "date": "2026-10-07T02:52:23.000Z"
-            },
-            {
-              "source": "guardian",
-              "headline": "Naval drone hits oil tanker off Russian resort city Sochi, triggering massive blaze",
-              "url": "https://www.theguardian.com/world/2026/oct/07/ukraine-drone-hits-oil-tanker-russia-sochi",
-              "date": "2026-10-07T04:39:01.000Z"
-            }
-          ]
-        },
-        {
           "id": "s1j2msqq",
           "headline": "Yemen's government announces all-out war to reclaim land from Houthis",
           "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o",
@@ -478,6 +424,72 @@
               "headline": "Yemen civil war: what sparked latest escalation and who is involved?",
               "url": "https://www.theguardian.com/world/2026/oct/07/yemen-civil-war-what-sparked-latest-escalation-and-who-is-involved",
               "date": "2026-10-07T04:00:34.000Z"
+            },
+            {
+              "source": "guardian",
+              "headline": "Houthi forces appear to make slow advance in south-west Yemen",
+              "url": "https://www.theguardian.com/world/2026/oct/07/houthi-forces-slow-advance-south-west-yemen-taiz-aden-airport",
+              "date": "2026-10-07T19:45:47.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s18vq9q9",
+          "headline": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
+          "url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters",
+          "source": "aljazeera",
+          "date": "2026-10-06T14:50:01.000Z",
+          "relevance": "medium",
+          "why": "Drone strikes sinking ships in the Black Sea raise risks for shipping on a route carrying grain and edible oils.",
+          "implications": [
+            "Higher shipping risk and insurance costs may disrupt Black Sea cargoes bound for India.",
+            "Disruption could lift global prices of edible oils and grains that India imports."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
+              "url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters",
+              "date": "2026-10-06T14:50:01.000Z"
+            },
+            {
+              "source": "abc",
+              "headline": "Crew missing after drone sinks ship in Black Sea off Bulgaria",
+              "url": "https://www.abc.net.au/news/2026-10-07/crew-missing-after-drone-sinks-ship-in-black-sea/107235430",
+              "date": "2026-10-06T17:14:47.000Z"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Bulgaria ends search for missing crew after drone strike sinks cargo ship",
+              "url": "https://www.aljazeera.com/news/2026/10/7/bulgaria-ends-search-for-missing-crew-after-drone-strike-sinks-cargo-ship",
+              "date": "2026-10-07T10:12:04.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1sjpz83",
+          "headline": "Black Sea tanker attack off Russia's Olympic city sparks 'fire of oil'",
+          "url": "https://www.abc.net.au/news/2026-10-07/oil-tanker-attack-in-black-sea-off-sochi-sparks-giant-fire/107238536",
+          "source": "abc",
+          "date": "2026-10-07T02:52:23.000Z",
+          "relevance": "medium",
+          "why": "Attacks on tankers in the Black Sea raise risks for shipping and oil cargoes on routes that affect India's trade.",
+          "implications": [
+            "Higher war-risk insurance and freight costs may follow for vessels trading in the Black Sea region.",
+            "Disruption to Black Sea energy shipments could add upward pressure on global oil prices India pays."
+          ],
+          "reports": [
+            {
+              "source": "abc",
+              "headline": "Black Sea tanker attack off Russia's Olympic city sparks 'fire of oil'",
+              "url": "https://www.abc.net.au/news/2026-10-07/oil-tanker-attack-in-black-sea-off-sochi-sparks-giant-fire/107238536",
+              "date": "2026-10-07T02:52:23.000Z"
+            },
+            {
+              "source": "guardian",
+              "headline": "Naval drone hits oil tanker off Russian resort city Sochi, triggering massive blaze",
+              "url": "https://www.theguardian.com/world/2026/oct/07/ukraine-drone-hits-oil-tanker-russia-sochi",
+              "date": "2026-10-07T04:39:01.000Z"
             }
           ]
         },
@@ -822,6 +834,12 @@
               "headline": "‘Cockroach stir stripped Modi’s carefully confected image’: Arundhati Roy",
               "url": "https://www.aljazeera.com/news/2026/10/6/cockroach-stir-stripped-modis-carefully-confected-image-arundhati-roy",
               "date": "2026-10-06T14:13:55.000Z"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Indian opposition leader Rahul Gandhi detained over election chief protest",
+              "url": "https://www.aljazeera.com/news/2026/10/7/indian-opposition-leader-rahul-gandhi-detained-over-election-chief-protest",
+              "date": "2026-10-07T19:40:07.000Z"
             }
           ]
         },
@@ -945,10 +963,10 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 11,
+    "analysed": 44,
     "added": 0,
-    "merged": 0,
-    "rejected": 11,
+    "merged": 3,
+    "rejected": 41,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
@@ -959,7 +977,7 @@
       "guardian": {
         "feedsOk": 7,
         "feedsFailed": 0,
-        "items": 201
+        "items": 202
       },
       "npr": {
         "feedsOk": 4,
@@ -969,7 +987,7 @@
       "aljazeera": {
         "feedsOk": 1,
         "feedsFailed": 0,
-        "items": 12
+        "items": 16
       },
       "mercopress": {
         "feedsOk": 3,
