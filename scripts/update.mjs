@@ -92,7 +92,7 @@ function decode(s) {
   return String(s || "")
     .replace(/^<!\[CDATA\[([\s\S]*?)\]\]>$/, "$1")
     .replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"')
-    .replace(/&#39;|&apos;/g, "'").replace(/&#(\d+);/g, (_, n) => String.fromCharCode(+n))
+    .replace(/&#39;|&apos;/g, "'").replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16))).replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n))
     .replace(/&amp;/g, "&").trim();
 }
 function tag(block, name) {
@@ -106,6 +106,13 @@ export function firstParagraph(html) {
   for (const p of parts) { const t = plain(p); if (t.length >= 20) return t; }
   return plain(html);
 }
+// The opening paragraph the publisher includes in its feed (after the subtitle), if any.
+export function feedLede(html) {
+  const parts = String(html || "").split(/<\/p>|<br\s*\/?>|\n\s*\n/i).map(p => plain(p)).filter(t => t.length >= 20);
+  const second = parts[1] || "";
+  if (!second || /^continue reading|^read more/i.test(second)) return "";
+  return trimSentence(second.replace(/\s*(continue reading|read more)\W*$/i, ""), 420);
+}
 export function trimSentence(text, max = 320) {
   const t = String(text || "").trim();
   if (t.length <= max) return t;
@@ -113,7 +120,7 @@ export function trimSentence(text, max = 320) {
   if (m && m[0].length >= 30) return m[0];
   return cut.replace(/\s+\S*$/, "") + "…";
 }
-const SUMMARY_V = 2;   // bump to re-derive stored publisher summaries
+const SUMMARY_V = 3;   // v3: subtitle and opening paragraph stored separately; entities fixed   // bump to re-derive stored publisher summaries
 function plain(s) { return decode(String(s || "").replace(/<[^>]+>/g, " ")).replace(/\s+/g, " ").trim().slice(0, 400); }
 // Skip formats that duplicate an article or aren't reporting: videos, live blogs, opinion, sport, podcasts.
 function skip(title, link) {
@@ -129,7 +136,7 @@ function skip(title, link) {
   return /\/sport\/|\/sports\/|\/live\/|\/liveblog\/|\/videos?\/|\/program\/|\/gallery\/|\/podcasts?\/|\/opinions?\/|\/commentisfree\/|\/audio\/|\/football\/|\/lifeandstyle\/|\/culture\/|\/tv-and-radio\/|\/music\/|\/film\/|\/books\//.test(link);
 }
 // Publisher-supplied thumbnail from the feed item (linked, not copied). Prefers the widest rendition.
-function unescapeHtml(s) { return String(s || "").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'").replace(/&amp;/g, "&"); }
+function unescapeHtml(s) { return String(s || "").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'").replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16))).replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n)).replace(/&amp;/g, "&"); }
 function attr(a, name) { const m = new RegExp(`\\b${name}=["']([^"']+)["']`).exec(a); return m ? m[1] : ""; }
 // Tracking pixels and spacers that some feeds embed to count readers.
 export function isJunkImage(u) { return /pixel|tracking|beacon|spacer|1x1|blank\.(gif|png)|feeds\.feedburner/i.test(String(u || "")); }
@@ -216,7 +223,8 @@ async function fillShareImages(data) {
     .sort((a, b) => String(b.date || "").localeCompare(String(a.date || "")));
   const jobs = [];
   for (const ev of events) for (const r of ev.reports || []) {
-    const needImg = !ev.image && !r.image && !r.ogTried, needSum = !r.summary && !r.descTried;
+    // a photo is wanted for the story, and specifically for the article whose headline is shown
+    const needImg = !r.image && !r.ogTried && (!ev.image || r.url === ev.url), needSum = !r.summary && !r.descTried;
     if ((needImg || needSum) && jobs.length < OG_FETCH_LIMIT) jobs.push({ ev, r });
   }
   let found = 0, summaries = 0;
@@ -225,7 +233,10 @@ async function fillShareImages(data) {
     const page = await fetchOgImage(r.url);
     if (!page) return;
     if (page.description && !r.summary) { r.summary = page.description; r.summaryV = SUMMARY_V; summaries++; }
-    if (page.image && !ev.image && !r.image) { r.image = page.image; ev.image = page.image; found++; }
+    if (page.image && !r.image) {
+      r.image = page.image; found++;
+      if (!ev.image || r.url === ev.url) { ev.image = page.image; delete ev.imageLarge; }   // prefer the headline article's own photo
+    }
   });
   return { tried: jobs.length, found, summaries };
 }
@@ -320,10 +331,11 @@ export function parseRss(xml, src) {
   const items = [];
   for (const m of xml.matchAll(/<item>([\s\S]*?)<\/item>/g)) {
     const b = m[1];
-    const title = plain(tag(b, "title")), link = cleanUrl(tag(b, "link")), summary = trimSentence(firstParagraph(tag(b, "description")));
+    const desc = tag(b, "description");
+    const title = plain(tag(b, "title")), link = cleanUrl(tag(b, "link")), summary = trimSentence(firstParagraph(desc)), lede = feedLede(desc);
     const pub = Date.parse(tag(b, "pubDate") || tag(b, "dc:date"));
     if (!title || !link || skip(title, link)) continue;
-    items.push({ src, headline: title, url: link, summary, date: isNaN(pub) ? null : new Date(pub).toISOString(), ...(imageOf(b) || {}) });
+    items.push({ src, headline: title, url: link, summary, ...(lede ? { lede } : {}), date: isNaN(pub) ? null : new Date(pub).toISOString(), ...(imageOf(b) || {}) });
   }
   return items;
 }
@@ -479,18 +491,19 @@ async function runDesk(desk) {
   const fetched = await fetchFeeds(desk.feeds);
   // Backfill images onto stories already on the desk (no re-analysis needed).
   const imgByUrl = new Map(fetched.filter(i => i.image).map(i => [i.url, i]));
-  const sumByUrl = new Map(fetched.filter(i => i.summary && i.summary.length >= 40).map(i => [i.url, i.summary]));
+  const sumByUrl = new Map(fetched.filter(i => i.summary && i.summary.length >= 40).map(i => [i.url, i]));
   let backfilled = 0;
   const tidy = o => {
-    if (o.summary && o.summaryV !== SUMMARY_V) { delete o.summary; delete o.descTried; }
+    if ((o.summary || o.lede) && o.summaryV !== SUMMARY_V) { delete o.summary; delete o.lede; delete o.descTried; }
+    if (o.headline) o.headline = plain(o.headline);
     if (o.image && isJunkImage(o.image)) { delete o.image; delete o.imageLarge; }
     if (o.image && !o.imageLarge) { const up = imageOf(`<media:content url="${o.image}"/>`); if (up && up.imageLarge) o.imageLarge = up.imageLarge; }
   };
-  for (const sec of data.sectors) for (const ev of sec.items) { tidy(ev); (ev.reports || []).forEach(tidy); }
+  for (const sec of data.sectors) for (const ev of sec.items) { tidy(ev); (ev.reports || []).forEach(tidy); if (ev.headline) ev.headline = plain(ev.headline); }
   for (const sec of data.sectors) for (const ev of sec.items) {
     for (const r of ev.reports || []) {
       const f = imgByUrl.get(r.url); if (f && !r.image) { r.image = f.image; if (f.imageLarge) r.imageLarge = f.imageLarge; }
-      const g = sumByUrl.get(r.url); if (g && !r.summary) { r.summary = g; r.summaryV = SUMMARY_V; }
+      const g = sumByUrl.get(r.url); if (g && !r.summary) { r.summary = g.summary; if (g.lede) r.lede = g.lede; r.summaryV = SUMMARY_V; }
     }
     if (!ev.image) { const r = (ev.reports || []).find(x => x.image); if (r) { ev.image = r.image; if (r.imageLarge) ev.imageLarge = r.imageLarge; backfilled++; } }
   }
@@ -521,7 +534,7 @@ async function runDesk(desk) {
           reason: typeof r.reason === "string" ? r.reason.slice(0, 160) : "", checkedAt: new Date().toISOString() });
         continue;
       }
-      const report = { source: s.src, headline: s.headline, url: s.url, date: s.date, ...(s.summary && s.summary.length >= 40 ? { summary: s.summary, summaryV: SUMMARY_V } : {}), ...(s.image ? { image: s.image } : {}), ...(s.imageLarge ? { imageLarge: s.imageLarge } : {}) };
+      const report = { source: s.src, headline: s.headline, url: s.url, date: s.date, ...(s.summary && s.summary.length >= 40 ? { summary: s.summary, summaryV: SUMMARY_V } : {}), ...(s.lede ? { lede: s.lede } : {}), ...(s.image ? { image: s.image } : {}), ...(s.imageLarge ? { imageLarge: s.imageLarge } : {}) };
       let target = null;
       if (typeof r.sameAs === "string") {
         target = r.sameAs.startsWith("item:") ? placed[+r.sameAs.slice(5)] : findEvent(r.sameAs);
