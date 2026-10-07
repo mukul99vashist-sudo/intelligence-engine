@@ -1,5 +1,45 @@
 [
   {
+    "source": "guardian",
+    "headline": "FBI says it thwarted terrorist attack in Minnesota by an 18-year-old it supplied with an AK-47",
+    "url": "https://www.theguardian.com/us-news/2026/oct/07/mall-of-america-thwarted-attack",
+    "date": "2026-10-07T20:27:27.000Z",
+    "reason": "US domestic law-enforcement and terrorism case with no stated path to India.",
+    "checkedAt": "2026-10-07T20:34:27.867Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "Arizona congressional candidate says she was raped while trying to repair campaign sign",
+    "url": "https://www.theguardian.com/us-news/2026/oct/07/bernadette-greene-placentia-house-candidate-allegedly-raped",
+    "date": "2026-10-07T20:21:59.000Z",
+    "reason": "US domestic candidate crime story with no link to India.",
+    "checkedAt": "2026-10-07T20:34:27.867Z"
+  },
+  {
+    "source": "bbc",
+    "headline": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
+    "url": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o",
+    "date": "2026-10-07T20:21:58.000Z",
+    "reason": "Child-safety research on a US AI product; no clear India-specific effect described.",
+    "checkedAt": "2026-10-07T20:34:27.867Z"
+  },
+  {
+    "source": "aljazeera",
+    "headline": "Democratic FCC member warns of AI robocall misinformation risks in US",
+    "url": "https://www.aljazeera.com/economy/2026/10/7/democratic-fcc-member-warns-of-ai-robocall-misinformation-risks-in-us",
+    "date": "2026-10-07T20:14:35.000Z",
+    "reason": "US domestic election misinformation issue; no direct trade, policy or supply link to India.",
+    "checkedAt": "2026-10-07T20:34:27.867Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Live: Labor has 'real concerns' about ATO's credit card payments decision",
+    "url": "https://www.abc.net.au/news/2026-10-08/federal-politics-live-blog-ato-surcharge-oct-8/107240250",
+    "date": "2026-10-07T20:12:45.000Z",
+    "reason": "Australian domestic tax payment policy with no clear path to India.",
+    "checkedAt": "2026-10-07T20:34:27.867Z"
+  },
+  {
     "source": "aljazeera",
     "headline": "Former Catholic bishop sentenced for abusing indigenous men in Australia",
     "url": "https://www.aljazeera.com/news/2026/10/7/former-catholic-bishop-sentenced-for-abusing-indigenous-men-in-australia",
@@ -1158,45 +1198,5 @@
     "date": "2026-10-07T08:00:38.000Z",
     "reason": "Humanitarian conditions in occupied Ukraine; no clear path to India.",
     "checkedAt": "2026-10-07T09:10:50.415Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "UK house prices flatline as rising mortgage costs weigh on market",
-    "url": "https://www.theguardian.com/business/2026/oct/07/uk-house-prices-flatline-as-rising-mortgage-costs-weigh-on-market",
-    "date": "2026-10-07T07:56:02.000Z",
-    "reason": "UK domestic housing market story with no direct path to India.",
-    "checkedAt": "2026-10-07T09:10:50.415Z"
-  },
-  {
-    "source": "abc",
-    "headline": "Joe Hockey issues damning indictment of corruption in US",
-    "url": "https://www.abc.net.au/news/2026-10-07/hockey-calls-out-us-corruption-during-trump-second-presidency/107237782",
-    "date": "2026-10-07T07:52:57.000Z",
-    "reason": "Commentary on US standing and corruption; no clear trade, energy or policy path to India.",
-    "checkedAt": "2026-10-07T09:10:50.415Z"
-  },
-  {
-    "source": "aljazeera",
-    "headline": "Myanmar’s Min Aung Hlaing visits Malaysia amid concerns over repatriations",
-    "url": "https://www.aljazeera.com/news/2026/10/7/myanmars-min-aung-hlaing-visits-malaysia-amid-concerns-over-repatriations",
-    "date": "2026-10-07T07:49:52.000Z",
-    "reason": "Myanmar leader's visit to Malaysia has no clear trade or security path to India.",
-    "checkedAt": "2026-10-07T09:10:36.542Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "Nicolas Ghesquière takes us into the future for Louis Vuitton show in Paris",
-    "url": "https://www.theguardian.com/fashion/2026/oct/07/louis-vuitton-nicolas-ghesquiere-futuristic-show-paris-fashion-week",
-    "date": "2026-10-07T07:49:35.000Z",
-    "reason": "Fashion show coverage with no clear path to India.",
-    "checkedAt": "2026-10-07T09:10:36.542Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "‘Lawyers should be running to courts’ to stop coal approvals after landmark ruling, NSW MP says",
-    "url": "https://www.theguardian.com/australia-news/2026/oct/07/mount-pleasant-hunter-valley-coalmine-high-court-ruling-community-advocates",
-    "date": "2026-10-07T07:24:31.000Z",
-    "reason": "Australian domestic court ruling; the path to India's coal supply is indirect and uncertain.",
-    "checkedAt": "2026-10-07T09:10:36.542Z"
   }
 ]

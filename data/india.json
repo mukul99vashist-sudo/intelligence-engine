@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-07T20:21:01.188Z",
+  "updatedAt": "2026-10-07T20:34:27.867Z",
   "sectors": [
     {
       "id": "energy",
@@ -293,8 +293,7 @@
               "source": "npr",
               "headline": "G7 countries reluctantly agree to tap their fuel reserves to help the U.S.",
               "url": "https://www.npr.org/2026/10/04/nx-s1-5989670/g7-countries-reluctantly-agree-to-tap-their-fuel-reserves-to-help-the-u-s",
-              "date": "2026-10-04T12:29:38.000Z",
-              "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5989670"
+              "date": "2026-10-04T12:29:38.000Z"
             },
             {
               "source": "bbc",
@@ -302,8 +301,7 @@
               "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
               "date": "2026-10-03T04:38:31.000Z"
             }
-          ],
-          "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5989670"
+          ]
         },
         {
           "id": "si8i521",
@@ -1007,10 +1005,10 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 1,
+    "analysed": 5,
     "added": 0,
     "merged": 0,
-    "rejected": 1,
+    "rejected": 5,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
@@ -1021,7 +1019,7 @@
       "guardian": {
         "feedsOk": 7,
         "feedsFailed": 0,
-        "items": 202
+        "items": 203
       },
       "npr": {
         "feedsOk": 4,
