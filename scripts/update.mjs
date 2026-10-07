@@ -148,6 +148,53 @@ export function imageOf(block) {
   if (big !== u) out.imageLarge = big;
   return out;
 }
+// For stories whose feed has no picture: read the article page's share image (og:image / twitter:image).
+const OG_FETCH_LIMIT = 60;     // article pages opened per desk per run
+const OG_CONCURRENCY = 6;
+export function ogImageFromHtml(html) {
+  const metas = String(html || "").match(/<meta\b[^>]*>/gi) || [];
+  const found = {};
+  for (const m of metas) {
+    const key = (attr(m, "property") || attr(m, "name")).toLowerCase();
+    const c = attr(m, "content");
+    if (c && !found[key]) found[key] = c;
+  }
+  let u = found["og:image:secure_url"] || found["og:image"] || found["twitter:image"] || found["twitter:image:src"];
+  if (!u) return null;
+  u = unescapeHtml(u).trim();
+  if (u.startsWith("//")) u = "https:" + u;
+  if (!/^https:\/\//.test(u) || isJunkImage(u)) return null;
+  if (/(default|placeholder|fallback)[-_]?(og|share|social|image)?\.(png|jpe?g|webp)/i.test(u)) return null; // site-wide stock image, not the story's
+  return u;
+}
+async function fetchOgImage(url) {
+  const ctl = new AbortController(), t = setTimeout(() => ctl.abort(), 8000);
+  try {
+    const res = await fetch(url, { signal: ctl.signal, redirect: "follow",
+      headers: { "user-agent": "Mozilla/5.0 (compatible; ContinentConnectBot/1.0)", accept: "text/html" } });
+    if (!res.ok) return null;
+    return ogImageFromHtml((await res.text()).slice(0, 400000));
+  } catch { return null; } finally { clearTimeout(t); }
+}
+async function pool(items, n, fn) {
+  let i = 0;
+  await Promise.all(Array.from({ length: Math.min(n, items.length) }, async () => { while (i < items.length) await fn(items[i++]); }));
+}
+async function fillShareImages(data) {
+  // newest stories first; each report is tried once (ogTried) so failures aren't refetched every run
+  const events = data.sectors.flatMap(s => s.items).filter(e => !e.image)
+    .sort((a, b) => String(b.date || "").localeCompare(String(a.date || "")));
+  const jobs = [];
+  for (const ev of events) for (const r of ev.reports || []) if (!r.image && !r.ogTried && jobs.length < OG_FETCH_LIMIT) jobs.push({ ev, r });
+  let found = 0;
+  await pool(jobs, OG_CONCURRENCY, async ({ ev, r }) => {
+    r.ogTried = true;
+    if (ev.image) return;                        // another report already supplied one
+    const img = await fetchOgImage(r.url);
+    if (img) { r.image = img; ev.image = img; found++; }
+  });
+  return { tried: jobs.length, found };
+}
 function cleanUrl(u) { try { const x = new URL(u); x.search = ""; x.hash = ""; return x.toString(); } catch { return u; } }
 function idFor(url) { let h = 0; for (const c of url) h = (h * 31 + c.charCodeAt(0)) >>> 0; return "s" + h.toString(36); }
 
@@ -366,12 +413,15 @@ async function runDesk(desk) {
     batch.forEach(s => seen.add(s.url));
   }
 
+  const og = await fillShareImages(data);
+  if (og.tried) console.log(`Share images: found ${og.found} of ${og.tried} article pages tried`);
+
   for (const s of data.sectors) {
     const uniq = new Map(s.items.map(i => [i.id, i]));
     s.items = [...uniq.values()].sort((a, b) => latest(b).localeCompare(latest(a))).slice(0, MAX_PER_SECTOR);
   }
   data.updatedAt = new Date().toISOString();
-  data.lastRun = { analysed: fresh.length, added, merged, rejected: fresh.length && !failures ? fresh.length - added - merged : undefined, failedBatches: failures, feeds: feedHealth };
+  data.lastRun = { analysed: fresh.length, added, merged, rejected: fresh.length && !failures ? fresh.length - added - merged : undefined, failedBatches: failures, feeds: feedHealth, shareImages: og };
 
   await fs.writeFile(desk.data, JSON.stringify(data, null, 2) + "\n");
   await fs.writeFile(desk.seen, JSON.stringify([...seen].slice(-MAX_SEEN)) + "\n");
