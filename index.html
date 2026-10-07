@@ -166,7 +166,31 @@ h1{font:800 clamp(34px,5vw,46px)/1 var(--sans);letter-spacing:-.025em;margin:0}
 .top .art svg{width:120px;height:120px;stroke-width:1.2}
 .sheet .hero .art{aspect-ratio:auto;height:200px}
 .sheet .hero .art svg{width:96px;height:96px}
-.sheet .hero{grid-column:1/-1;margin:0}
+.sheet .hero{margin:0;min-width:0}
+/* Photo + publisher brief side by side */
+.hero-row{grid-column:1/-1;display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:24px;align-items:stretch}
+.hero-row.solo{grid-template-columns:minmax(0,1fr)}
+.brief{display:flex;flex-direction:column;justify-content:center;gap:14px;background:color-mix(in srgb,var(--card) 84%,transparent);border:1px solid color-mix(in srgb,var(--rule) 70%,transparent);border-radius:20px;padding:24px 26px}
+.brief .from{font:700 12px/1 var(--sans);letter-spacing:.07em;text-transform:uppercase;color:var(--ink-3)}
+.brief blockquote{margin:0;font-size:18px;line-height:1.55;color:var(--ink);border-left:3px solid var(--sc,var(--accent));padding-left:14px}
+.brief .cta{align-self:flex-start;display:inline-flex;align-items:center;gap:8px;text-decoration:none;font-weight:700;font-size:15px;color:#fff;background:var(--ink);border-radius:999px;padding:11px 18px}
+.brief .cta:hover{opacity:.9}
+@media (max-width:900px){.hero-row{grid-template-columns:minmax(0,1fr)}}
+/* The story so far */
+.sofar{grid-column:1/-1}
+.sofar .tname{font:800 20px/1.25 var(--sans);letter-spacing:-.01em;margin:2px 0 4px}
+.sofar .tmeta{font-size:13px;color:var(--ink-3);margin:0 0 12px}
+.sofar .how{font-size:16.5px;line-height:1.6;margin:0 0 6px;color:var(--ink-2)}
+.sofar .howlbl{font-size:12px;color:var(--ink-3);margin:0 0 16px}
+.tl{list-style:none;margin:0;padding:0 0 0 18px;border-left:2px solid var(--rule)}
+.tl li{position:relative;padding:0 0 14px 14px}
+.tl li::before{content:"";position:absolute;left:-25px;top:6px;width:10px;height:10px;border-radius:50%;background:var(--card);border:2px solid var(--ink-3)}
+.tl li.now::before{background:var(--sc,var(--accent));border-color:var(--sc,var(--accent))}
+.tl .td{display:block;font-size:12.5px;font-weight:600;color:var(--ink-3)}
+.tl a{color:var(--ink);text-decoration:none;font-weight:600}
+.tl a:hover{text-decoration:underline}
+.tl .here{font-size:12px;font-weight:700;color:var(--sc,var(--accent));margin-left:6px}
+.tlmore{margin:0 0 12px;border:0;background:transparent;color:var(--accent);font-weight:700;cursor:pointer;padding:0}
 .sheet .hero .thumb{border-radius:20px;max-height:420px;aspect-ratio:16/9}
 .sheet .hero figcaption{margin-top:6px;font-size:12px;color:var(--ink-3)}
 .sheet .hero figcaption a{color:inherit}
@@ -313,11 +337,11 @@ var SHOW_IMAGES=true;
 // Sector artwork for stories without a photo. Off: such stories show the text-only card instead.
 var SECTOR_ART=false;
 var VIEWS={
-  global:  {data:"india.json",          rejected:"rejected.json",          sub:"How today's world news reaches India.",   why:"Why it reaches India", seen:"ie.seen.v1"},
-  domestic:{data:"india-domestic.json", rejected:"rejected-domestic.json", sub:"The developments shaping India today.",    why:"Why it matters",       seen:"ie.seen.domestic.v1"}
+  global:  {data:"india.json",          rejected:"rejected.json",          threads:"threads-global.json",   archive:"archive/global/",          sub:"How today's world news reaches India.",   why:"Why it reaches India", seen:"ie.seen.v1"},
+  domestic:{data:"india-domestic.json", rejected:"rejected-domestic.json", threads:"threads-domestic.json", archive:"archive/domestic/", sub:"The developments shaping India today.",    why:"Why it matters",       seen:"ie.seen.domestic.v1"}
 };
 var view = location.hash==="#inside" ? "domestic" : "global";
-var docs={}, rejectedByView={}, lastUpdatedByView={};
+var docs={}, rejectedByView={}, lastUpdatedByView={}, threadsByView={}, archiveByView={};
 var OUTLET={bbc:"BBC News",guardian:"The Guardian",npr:"NPR",aljazeera:"Al Jazeera",mercopress:"MercoPress",abc:"ABC News",thehindu:"The Hindu",mint:"Mint"};
 var REGION={bbc:"Europe",guardian:"Europe",npr:"North America",aljazeera:"Asia",mercopress:"South America",abc:"Australia",thehindu:"India",mint:"India"};
 function learnSources(doc){ (doc.sources||[]).forEach(function(x){ OUTLET[x.id]=x.name; if(x.region) REGION[x.id]=x.region; }); }
@@ -387,6 +411,44 @@ function imageCredit(it){
   var src=it.image; var r=reportsOf(it).filter(function(x){return x.image===src;})[0] || reportsOf(it)[0];
   return r;
 }
+/* The publisher's own summary of the article, with a link to the full story */
+function brief(it){
+  var reps=reportsOf(it), withSum=reps.filter(function(r){return r.summary;});
+  var r=withSum.filter(function(x){return x.image && x.image===it.image;})[0] || withSum[0] || reps[0];
+  var b=el("div","brief"), name=OUTLET[r.source]||r.source;
+  b.appendChild(el("span","from", r.summary ? "From "+name : VIEWS[view].why));
+  b.appendChild(el("blockquote",null, r.summary || it.why || it.headline));
+  var a=el("a","cta","Read the full story on "+name+" →"); a.href=r.url; a.target="_blank"; a.rel="noopener"; b.appendChild(a);
+  return b;
+}
+/* Earlier developments in the same storyline, with the sourced "How we got here" summary */
+function storySoFar(it){
+  var th=it.thread && threadsByView[view] && threadsByView[view].threads && threadsByView[view].threads[it.thread];
+  if(!th || !th.events || th.events.length<2) return null;
+  var evs=th.events.slice().sort(function(a,b){return String(a.date||"").localeCompare(String(b.date||""));});
+  var p=el("section","panel sofar"); p.setAttribute("aria-label","The story so far");
+  p.appendChild(el("h3",null,"The story so far"));
+  p.appendChild(el("p","tname",th.name));
+  var first=evs[0].date, last=evs[evs.length-1].date;
+  p.appendChild(el("p","tmeta",evs.length+" reports"+(first?" · "+day(first)+(last&&day(last)!==day(first)?" – "+day(last):""):"")));
+  if(th.summary){ p.appendChild(el("p","how",th.summary)); p.appendChild(el("p","howlbl","How we got here · written only from the "+(th.summaryCount||evs.length)+" reports in this thread")); }
+  var LIMIT=8, ol=el("ol","tl"), showAllTl=false;
+  function draw(){
+    ol.textContent="";
+    var list=showAllTl?evs:evs.slice(-LIMIT);
+    list.forEach(function(x){
+      var li=el("li", x.id===it.id?"now":null);
+      li.appendChild(el("span","td",(x.date?day(x.date):"")+" · "+(OUTLET[x.source]||x.source)));
+      var a=el("a",null,x.headline); a.href=x.url; a.target="_blank"; a.rel="noopener"; li.appendChild(a);
+      if(x.id===it.id) li.appendChild(el("span","here","This story"));
+      ol.appendChild(li);
+    });
+  }
+  draw();
+  if(evs.length>LIMIT){ var m=el("button","tlmore","Show all "+evs.length+" reports"); m.type="button"; m.addEventListener("click",function(){ showAllTl=!showAllTl; m.textContent=showAllTl?"Show latest "+LIMIT:"Show all "+evs.length+" reports"; draw(); }); p.appendChild(m); }
+  p.appendChild(ol);
+  return p;
+}
 function card(e, big){
   var it=e.it, c=el("button","card"); c.type="button";
   c.style.setProperty("--sc","var(--s-"+e.sector.id+")");
@@ -452,7 +514,7 @@ function render(doc){
   var main=$("main"); main.textContent="";
   if(allEvents.length && !events.length){
     var st=el("div","state"); st.appendChild(document.createTextNode("No stories in "+(RANGE_TEXT[range]||"this range")+". "));
-    var all=el("button","more","Show all stories"); all.type="button"; all.style.marginTop="12px"; all.addEventListener("click",function(){ range=0; $("range").value="0"; try{localStorage.setItem(RANGE_KEY,"0");}catch(e){} render(current); });
+    var all=el("button","more","Show all stories"); all.type="button"; all.style.marginTop="12px"; all.addEventListener("click",function(){ range=0; $("range").value="0"; try{localStorage.setItem(RANGE_KEY,"0");}catch(e){} loadArchive(view).then(function(){ show(view); }).catch(function(){ show(view); }); });
     st.appendChild(el("br")); st.appendChild(all); main.appendChild(st); return;
   }
   if(!allEvents.length){ main.appendChild(el("div","state", view==="global" ? "No India-relevant stories yet. The desk checks its outlets throughout the day, and new stories will appear here automatically." : "No stories of national significance yet. The desk checks The Hindu and Mint throughout the day, and new stories will appear here automatically.")); return; }
@@ -483,12 +545,14 @@ function render(doc){
 function openSheet(e){
   var it=e.it, d=$("sheet"), body=$("sheetBody"); body.textContent=""; body.scrollTop=0;
   body.style.setProperty("--sc","var(--s-"+e.sector.id+")");
-  var ht=thumb(it, e.sector.id), fig=el("figure","hero");
+  var ht=thumb(it, e.sector.id), fig=el("figure","hero"), row=el("div","hero-row"+(ht?"":" solo"));
   if(ht) fig.appendChild(ht);
   if(ht && !ht.classList.contains("art")){ var cr=imageCredit(it), cap=el("figcaption");
     cap.appendChild(document.createTextNode("Image via ")); var ca=el("a",null,OUTLET[cr.source]||cr.source); ca.href=cr.url; ca.target="_blank"; ca.rel="noopener"; cap.appendChild(ca);
     fig.appendChild(cap); }
-  if(ht) body.appendChild(fig);
+  if(ht) row.appendChild(fig);
+  row.appendChild(brief(it));
+  body.appendChild(row);
   var head=el("div","head-area");
   var k=el("span","kicker",e.sector.name); k.style.setProperty("--sc","var(--s-"+e.sector.id+")"); head.appendChild(k);
   var h=el("h2",null,it.headline); h.id="sheetTitle"; head.appendChild(h);
@@ -508,6 +572,7 @@ function openSheet(e){
     if(dev && i===0) a.appendChild(el("span","latest","Latest"));
     a.appendChild(el("span","o",(OUTLET[r.source]||r.source)+(view==="global"&&REGION[r.source]?" · "+REGION[r.source]:"")+(r.date?" · "+when(r.date):""))); a.appendChild(el("span","t",r.headline)); a.appendChild(el("span","go","Open story →")); rd.appendChild(a); });
   rb.appendChild(rd); right.appendChild(rb); body.appendChild(right);
+  var so=storySoFar(it); if(so) body.appendChild(so);
 
   if(typeof d.showModal==="function") d.showModal(); else d.setAttribute("open","");
   $("sheetClose").focus();
@@ -530,6 +595,23 @@ function loadFrom(urls,i){
   return fetch(urls[i]+"?t="+Date.now(),{cache:"no-store"}).then(function(r){ if(!r.ok) throw new Error(String(r.status)); return r.json(); })
     .catch(function(){ return loadFrom(urls,i+1); });
 }
+function mergeArchive(doc, events){
+  var out=JSON.parse(JSON.stringify(doc)), have={};
+  (out.sectors||[]).forEach(function(s){ (s.items||[]).forEach(function(i){ have[i.id]=1; }); });
+  events.forEach(function(ev){ if(have[ev.id]) return; var s=(out.sectors||[]).filter(function(x){return x.id===ev.sector;})[0]; if(!s) return; have[ev.id]=1; s.items.push(ev); });
+  return out;
+}
+function loadArchive(v){
+  if(archiveByView[v]) return Promise.resolve(archiveByView[v]);
+  return loadFrom(sourcesFor(VIEWS[v].archive+"index.json")).then(function(idx){
+    return Promise.all((idx.months||[]).map(function(m){ return loadFrom(sourcesFor(VIEWS[v].archive+m.month+".json")).catch(function(){ return {events:[]}; }); }));
+  }).then(function(files){ var all=[]; files.forEach(function(f){ all=all.concat(f.events||[]); }); archiveByView[v]=all; return all; });
+}
+function docFor(v){
+  var d=docs[v]; if(!d) return null;
+  return (range===0 && archiveByView[v]) ? mergeArchive(d, archiveByView[v]) : d;
+}
+function show(v){ var d=docFor(v); if(d){ render(d); remember(); } }
 function setView(v, push){
   view=v; tab="all"; showAll=false;
   $("viewLabel").textContent = v==="global" ? "🌍 Global impact" : "🇮🇳 Inside India";
@@ -538,7 +620,7 @@ function setView(v, push){
   document.title=(v==="global"?"Global impact":"Inside India")+" · The Continent Connect";
   if(push) history.replaceState(null,"", v==="domestic" ? "#inside" : location.pathname+location.search);
   loadSeen();
-  if(docs[v]){ render(docs[v]); remember(); } else { current=null; $("main").textContent=""; $("main").appendChild(el("div","state","Loading…")); $("status").textContent=""; }
+  if(docs[v]){ show(v); } else { current=null; $("main").textContent=""; $("main").appendChild(el("div","state","Loading…")); $("status").textContent=""; }
   renderAudit(rejectedByView[v]||[]);
   refresh();
 }
@@ -577,13 +659,18 @@ $("scrim").addEventListener("click",closeDrawer);
 window.addEventListener("resize",function(){ if(!isPhone()) closeDrawer(); });
 
 /* How-recent filter */
-$("range").addEventListener("change",function(){ range=+this.value; try{ localStorage.setItem(RANGE_KEY,String(range)); }catch(e){} showAll=false; if(current) render(current); });
+$("range").addEventListener("change",function(){
+  range=+this.value; try{ localStorage.setItem(RANGE_KEY,String(range)); }catch(e){} showAll=false;
+  if(range===0){ loadArchive(view).then(function(){ show(view); }).catch(function(){ show(view); }); } else show(view);
+});
 function refresh(){
   var v=view;
   loadFrom(sourcesFor(VIEWS[v].rejected)).then(function(list){ rejectedByView[v]=list; if(v===view) renderAudit(list); }).catch(function(){ if(v===view) renderAudit([]); });
+  loadFrom(sourcesFor(VIEWS[v].threads)).then(function(t){ threadsByView[v]=t; }).catch(function(){});
+  if(range===0) loadArchive(v).then(function(){ if(v===view && docs[v]) show(v); }).catch(function(){});
   loadFrom(sourcesFor(VIEWS[v].data)).then(function(doc){
     docs[v]=doc; if(v!==view) return;
-    if(doc.updatedAt!==lastUpdatedByView[v]){ lastUpdatedByView[v]=doc.updatedAt; render(doc); remember(); } else renderStatus(doc);
+    if(doc.updatedAt!==lastUpdatedByView[v]){ lastUpdatedByView[v]=doc.updatedAt; archiveByView[v]=null; if(range===0) loadArchive(v).then(function(){ if(v===view) show(v); }).catch(function(){}); show(v); } else renderStatus(doc);
   }).catch(function(){
     if(v===view && !docs[v]){ $("main").textContent=""; $("main").appendChild(el("div","state", v==="domestic" ? "The Inside India desk hasn't published yet. Its stories will appear here automatically after the next update." : "The desk hasn't published any stories yet. They will appear here automatically after its first update.")); }
   });
