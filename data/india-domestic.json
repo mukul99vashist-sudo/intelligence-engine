@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-07T20:03:45.895Z",
+  "updatedAt": "2026-10-07T20:21:04.943Z",
   "sectors": [
     {
       "id": "energy",
@@ -82,9 +82,11 @@
               "source": "mint",
               "headline": "NTPC to buy 10 million tonnes of coal from commercial mines in H2 FY27 as power demand rises",
               "url": "https://www.livemint.com/companies/ntpc-to-buy-10-million-tonnes-of-coal-from-commercial-mines-in-h2-fy27-as-power-demand-rises-11791300287123.html",
-              "date": "2026-10-06T17:26:54.000Z"
+              "date": "2026-10-06T17:26:54.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/2-0-89849667-Coal-4C--0_1681732321720_1791306777124_dxoO_d60c6be8-2398-4db1-aadc-75d1b50e9712_K8t9.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/2-0-89849667-Coal-4C--0_1681732321720_1791306777124_dxoO_d60c6be8-2398-4db1-aadc-75d1b50e9712_K8t9.jpg"
         },
         {
           "id": "sqzcca6",
@@ -104,9 +106,11 @@
               "source": "thehindu",
               "headline": "UCIL bets on greenfield mines, copper residue to double uranium output by 2036",
               "url": "https://www.thehindu.com/business/Industry/ucil-bets-on-greenfield-mines-copper-residue-to-double-uranium-output-by-2036/article71552246.ece",
-              "date": "2026-10-06T16:10:48.000Z"
+              "date": "2026-10-06T16:10:48.000Z",
+              "image": "https://th-i.thgim.com/public/business/6dzfsm/article71552621.ece/alternates/LANDSCAPE_1200/IMG_2263.JPG.jpeg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/business/6dzfsm/article71552621.ece/alternates/LANDSCAPE_1200/IMG_2263.JPG.jpeg"
         },
         {
           "id": "s3n9hxu",
@@ -147,9 +151,11 @@
               "source": "mint",
               "headline": "Iran war: Shell sees Middle East oil flows at 80% as Saudi Aramco warns inventories may take 2 years to rebuild",
               "url": "https://www.livemint.com/economy/iran-war-shell-sees-middle-east-oil-flows-at-80-per-cent-as-saudi-aramco-warns-inventories-may-take-2-years-to-rebuild-11791286140675.html",
-              "date": "2026-10-06T12:14:05.000Z"
+              "date": "2026-10-06T12:14:05.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/maxresdefault_1791401671876_EmOc_1791401676785_zjTs_c0e0654d-a198-410a-a0b2-875c83cef5fb_EfRb.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/maxresdefault_1791401671876_EmOc_1791401676785_zjTs_c0e0654d-a198-410a-a0b2-875c83cef5fb_EfRb.jpg"
         },
         {
           "id": "s1gk5jcm",
@@ -169,9 +175,11 @@
               "source": "mint",
               "headline": "Ecuador in talks with India for sale of crude oil, critical minerals, copper: ambassador Buchelli",
               "url": "https://www.livemint.com/economy/ecuador-india-talks-crude-oil-critical-minerals-copper-trade-11791257129841.html",
-              "date": "2026-10-06T06:35:13.000Z"
+              "date": "2026-10-06T06:35:13.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/Ambassador_photo_1791261820551_SbjI_1791261820667_9gtM_302b3639-7901-4786-8cd2-a808ff1125e5_53DM.jpeg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/Ambassador_photo_1791261820551_SbjI_1791261820667_9gtM_302b3639-7901-4786-8cd2-a808ff1125e5_53DM.jpeg"
         },
         {
           "id": "ss3t8t6",
@@ -191,9 +199,11 @@
               "source": "mint",
               "headline": "India records highest e-bus sales in April-September period, adoption jumps to 8.55%",
               "url": "https://www.livemint.com/industry/india-electric-bus-sales-surge-55-percent-h1-fy27-11791191122581.html",
-              "date": "2026-10-05T11:40:04.000Z"
+              "date": "2026-10-05T11:40:04.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/ANI-20230920351-0_1699641968638_1791200096483_40VP_48ae9853-4788-4fed-9caf-8a0fab3c5963_2pcR.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/ANI-20230920351-0_1699641968638_1791200096483_40VP_48ae9853-4788-4fed-9caf-8a0fab3c5963_2pcR.jpg"
         },
         {
           "id": "serr6er",
@@ -213,9 +223,11 @@
               "source": "thehindu",
               "headline": "GEC III: Bridging geographic and temporal mismatch",
               "url": "https://www.thehindu.com/business/Industry/gec-iii-bridging-geographic-and-temporal-mismatch/article71546014.ece",
-              "date": "2026-10-05T06:20:27.000Z"
+              "date": "2026-10-05T06:20:27.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/d8l4lg/article71546084.ece/alternates/LANDSCAPE_1200/2024-10-14T083612Z_65478578_RC2V47AEI2RY_RTRMADP_3_INDIA-RENEWABLES.JPG"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/d8l4lg/article71546084.ece/alternates/LANDSCAPE_1200/2024-10-14T083612Z_65478578_RC2V47AEI2RY_RTRMADP_3_INDIA-RENEWABLES.JPG"
         },
         {
           "id": "s138aue9",
@@ -263,9 +275,11 @@
               "source": "thehindu",
               "headline": "Nayara Energy hikes petrol by ₹5, diesel by ₹3",
               "url": "https://www.thehindu.com/business/Industry/nayara-energy-hikes-petrol-by-5-diesel-by-3/article71540153.ece",
-              "date": "2026-10-03T09:01:18.000Z"
+              "date": "2026-10-03T09:01:18.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/npxk5e/article71540171.ece/alternates/LANDSCAPE_1200/iStock-1393810665.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/npxk5e/article71540171.ece/alternates/LANDSCAPE_1200/iStock-1393810665.jpg"
         },
         {
           "id": "s16766tt",
@@ -291,9 +305,11 @@
               "source": "thehindu",
               "headline": "GOBARdhan eyes 10-fold increase in CBG output: Hardeep Singh Puri",
               "url": "https://www.thehindu.com/business/Industry/gobardhan-cbg-output-hardeep-singh-puri/article71538308.ece",
-              "date": "2026-10-02T17:01:45.000Z"
+              "date": "2026-10-02T17:01:45.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/d7ons2/article71538319.ece/alternates/LANDSCAPE_1200/PTI10_01_2026_000373B.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/d7ons2/article71538319.ece/alternates/LANDSCAPE_1200/PTI10_01_2026_000373B.jpg"
         },
         {
           "id": "s1hdnpeq",
@@ -313,9 +329,11 @@
               "source": "mint",
               "headline": "India to face tougher competition for gas this winter? Here's what expert said",
               "url": "https://www.livemint.com/economy/india-to-face-tougher-competition-for-gas-this-winter-heres-what-expert-said-11790934521396.html",
-              "date": "2026-10-02T10:54:38.000Z"
+              "date": "2026-10-02T10:54:38.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/LNG_1790938164183_J6g7_1790938164308_artY_45be9b01-68b5-4123-9613-dfa470e8c38b_CmX2.png"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/LNG_1790938164183_J6g7_1790938164308_artY_45be9b01-68b5-4123-9613-dfa470e8c38b_CmX2.png"
         },
         {
           "id": "s8m2cr7",
@@ -334,15 +352,18 @@
               "source": "thehindu",
               "headline": "PNG Drive 3.0 targets 50 lakh new connections, shifts focus to gas network utilisation",
               "url": "https://www.thehindu.com/business/Industry/png-drive-30-targets-50-lakh-new-connections-shifts-focus-to-gas-network-utilisation/article71533572.ece",
-              "date": "2026-10-02T01:23:55.000Z"
+              "date": "2026-10-02T01:23:55.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/9zy4j3/article71533895.ece/alternates/LANDSCAPE_1200/PNGRB-authoriseG5CGE6PEJ.6.jpg.jpg"
             },
             {
               "source": "thehindu",
               "headline": "What are the objectives of the National PNG Drive 3.0? | Explained",
               "url": "https://www.thehindu.com/business/Economy/what-are-the-objectives-of-the-national-png-drive-30-explained/article71536448.ece",
-              "date": "2026-10-02T10:33:35.000Z"
+              "date": "2026-10-02T10:33:35.000Z",
+              "image": "https://th-i.thgim.com/public/news/national/4vo0n1/article71536518.ece/alternates/LANDSCAPE_1200/PNGRB-authoriseG5CGE6PEJ.6.jpg.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/9zy4j3/article71533895.ece/alternates/LANDSCAPE_1200/PNGRB-authoriseG5CGE6PEJ.6.jpg.jpg"
         },
         {
           "id": "s1mfr46p",
@@ -362,9 +383,11 @@
               "source": "mint",
               "headline": "Hormuz crude flows return to pre-war levels, yet oil may still stay at $90–$100 | Here's why",
               "url": "https://www.livemint.com/economy/hormuz-crude-flows-return-to-pre-war-levels-yet-oil-may-still-stay-at-90-100-heres-why-11790915242219.html",
-              "date": "2026-10-02T05:36:53.000Z"
+              "date": "2026-10-02T05:36:53.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/oil_1790919326972_jA8z_1790919327160_6UOi_16c005f9-248b-4743-8de5-cce44687bfd8_fY7I.png"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/oil_1790919326972_jA8z_1790919327160_6UOi_16c005f9-248b-4743-8de5-cce44687bfd8_fY7I.png"
         }
       ]
     },
@@ -411,13 +434,15 @@
               "source": "mint",
               "headline": "Govt scrambles to resolve Mumbai airport Terminal-1 shift",
               "url": "https://www.livemint.com/industry/govt-scrambles-to-resolve-mumbai-airport-terminal-1-shift-11791110756932.html",
-              "date": "2026-10-05T00:31:02.000Z"
+              "date": "2026-10-05T00:31:02.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/2-0-161984375-DSC-0067--0_1681100673289_1791124602068_4t4Q_7a3cda22-37b3-4e70-bf08-c4c3583d616c_Qk2m.JPG"
             },
             {
               "source": "mint",
               "headline": "Mint Explainer | Why Adani’s Mumbai airport redevelopment has triggered a row",
               "url": "https://www.livemint.com/industry/infrastructure/adani-mumbai-airport-international-flight-slots-navi-mumbai-airport-11791173693718.html",
-              "date": "2026-10-05T05:31:12.000Z"
+              "date": "2026-10-05T05:31:12.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/5_NAVI_Mumbai_2025_1759769438449_1759769445343_1791177110751_QA6q_5f081c7a-c718-4658-98d5-3b593017eacd_l09t.JPG"
             },
             {
               "source": "mint",
@@ -447,21 +472,25 @@
               "source": "mint",
               "headline": "Govt pauses Adani plan to move Mumbai international flights, gives airlines more time",
               "url": "https://www.livemint.com/industry/govt-pauses-adani-plan-to-move-mumbai-international-flights-gives-airlines-more-time-11791294877943.html",
-              "date": "2026-10-06T15:16:39.000Z"
+              "date": "2026-10-06T15:16:39.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/5_NAVI_Mumbai_2025_1759769438449_1759769445343_1791299431834_I2db_feaa0f43-2460-4ea2-9b94-b00c7d77049e_3kLh.JPG"
             },
             {
               "source": "thehindu",
               "headline": "Foreign airlines grouping urges for alternatives to flight cuts at Mumbai airport",
               "url": "https://www.thehindu.com/business/Industry/foreign-airlines-grouping-urges-for-alternatives-to-flight-cuts-at-mumbai-airport/article71555683.ece",
-              "date": "2026-10-07T13:35:54.000Z"
+              "date": "2026-10-07T13:35:54.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/y4zcbt/article71556006.ece/alternates/LANDSCAPE_1200/2026-06-05T200720Z_2018903778_RC28YKA6WF5Y_RTRMADP_3_AIRLINES-IATA.JPG"
             },
             {
               "source": "mint",
               "headline": "IATA asks airlines to negotiate Mumbai slot cuts, seek longer transition period",
               "url": "https://www.livemint.com/industry/iata-airlines-negotiate-mumbai-slot-cuts-seek-longer-transition-period-csmia-navi-mumbai-international-operations-adani-11791375283449.html",
-              "date": "2026-10-07T14:02:23.000Z"
+              "date": "2026-10-07T14:02:23.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/2-0-161984375-DSC-0067--0_1681100673289_1791381352174_zRsw_8bf79017-e9d7-4a37-8733-3d6064748207_O4Sz.JPG"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/2-0-161984375-DSC-0067--0_1681100673289_1791124602068_4t4Q_7a3cda22-37b3-4e70-bf08-c4c3583d616c_Qk2m.JPG"
         },
         {
           "id": "sb3lbi4",
@@ -481,15 +510,18 @@
               "source": "mint",
               "headline": "Centre revisits ATF price stabilisation fund amid rising costs",
               "url": "https://www.livemint.com/industry/atf-price-stabilisation-fund-airlines-india-11791268222479.html",
-              "date": "2026-10-06T08:25:20.000Z"
+              "date": "2026-10-06T08:25:20.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/naidu_1740227991844_1791274880573_P5kP_946c9f01-2e2d-4ae8-a8a4-055a86c68e50_jl3x.jpg"
             },
             {
               "source": "mint",
               "headline": "Jet fuel shock: Govt explores price stabilisation fund relief for airlines as ATF prices climb",
               "url": "https://www.livemint.com/industry/energy/jet-fuel-shock-govt-explores-price-stabilisation-fund-relief-for-airlines-as-atf-prices-climb-11791372277654.html",
-              "date": "2026-10-07T11:38:31.000Z"
+              "date": "2026-10-07T11:38:31.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/naidu_1791372884335_ggW3_1791372887821_BiSL_c62aa074-7ac4-48b1-b9c4-0e1f770fb8d9_KzsD.png"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/naidu_1740227991844_1791274880573_P5kP_946c9f01-2e2d-4ae8-a8a4-055a86c68e50_jl3x.jpg"
         },
         {
           "id": "spd98hj",
@@ -521,9 +553,11 @@
               "source": "mint",
               "headline": "Egypt, Lebanon, Oman, Cyprus keen to join: ‘Multiple routes’ key for IMEC amid Hormuz crisis, says French envoy",
               "url": "https://www.livemint.com/news/world/egypt-lebanon-oman-cyprus-keen-to-join-multiple-routes-key-for-imec-amid-hormuz-crisis-says-french-envoy-11791352889250.html",
-              "date": "2026-10-07T07:07:02.000Z"
+              "date": "2026-10-07T07:07:02.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/IMECINDIA_179130517948_1791353254192_fNWD_1791353254301_k3ax_75daab32-9bd3-4e70-aa47-1dede68a0d22_hyXd.png"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/IMECINDIA_179130517948_1791353254192_fNWD_1791353254301_k3ax_75daab32-9bd3-4e70-aa47-1dede68a0d22_hyXd.png"
         },
         {
           "id": "s1jctn2o",
@@ -625,9 +659,11 @@
               "source": "mint",
               "headline": "Airlines seek faster release of govt-backed credit amid liquidity strain",
               "url": "https://www.livemint.com/industry/airlines-seek-faster-release-of-govt-backed-credit-amid-liquidity-strain-11791209419083.html",
-              "date": "2026-10-05T16:49:17.000Z"
+              "date": "2026-10-05T16:49:17.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/INDIA-MUMBAI-AIRPORT-13_1767108128268_1767108135824_1791218854004_YFyl_b6e80ea6-1521-4669-a8c8-e974bd32bdf3_5KyV.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/INDIA-MUMBAI-AIRPORT-13_1767108128268_1767108135824_1791218854004_YFyl_b6e80ea6-1521-4669-a8c8-e974bd32bdf3_5KyV.jpg"
         },
         {
           "id": "setgw22",
@@ -647,9 +683,11 @@
               "source": "thehindu",
               "headline": "IndiGo revises fuel surcharge for the third time",
               "url": "https://www.thehindu.com/business/Industry/indigo-revises-fuel-surcharge-for-the-third-time/article71547656.ece",
-              "date": "2026-10-05T14:34:13.000Z"
+              "date": "2026-10-05T14:34:13.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/dtrbxm/article71547862.ece/alternates/LANDSCAPE_1200/IndiGo-steps-upGBDGF5ENC.4.jpg.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/dtrbxm/article71547862.ece/alternates/LANDSCAPE_1200/IndiGo-steps-upGBDGF5ENC.4.jpg.jpg"
         }
       ]
     },
@@ -675,19 +713,22 @@
               "source": "mint",
               "headline": "RBI likely to raise repo rate in October 2026 as West Asia crisis fuels inflation risks",
               "url": "https://www.livemint.com/economy/rbi-likely-to-raise-repo-rate-in-october-2026-as-west-asia-crisis-fuels-inflation-risks-11791121335600.html",
-              "date": "2026-10-04T13:53:48.000Z"
+              "date": "2026-10-04T13:53:48.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/maxresdefault_1791201368734_Rf38_1791201374024_Plle_b1ccdac5-d45a-4fed-9a5d-66d4dbede676_ySDh.jpg"
             },
             {
               "source": "mint",
               "headline": "RBI rate hikes back on the table as inflation risks mount",
               "url": "https://www.livemint.com/economy/rbi-monetary-policy-repo-rate-indian-economy-11791107863686.html",
-              "date": "2026-10-05T00:00:22.000Z"
+              "date": "2026-10-05T00:00:22.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/2-0-1307053791-rbi5--1--0_1679556450341_1791124378835_vY3k_e530d082-a196-4a63-8c82-d2c2d2b4ec04_0Ww4.jpg"
             },
             {
               "source": "mint",
               "headline": "Rate hikes are coming, but don’t count credit growth out just yet",
               "url": "https://www.livemint.com/economy/india-credit-growth-rate-hike-rbi-monetary-policy-bank-lending-bank-credit-fcnr-b-deposits-financial-deepening-11791139917638.html",
-              "date": "2026-10-05T03:30:45.000Z"
+              "date": "2026-10-05T03:30:45.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/pexels-photo-33813215_1778425788011_1778425799324_1791165915173_boQb_e0ab38de-268e-4738-8ffe-e8e808ae1205_6iBz.jpeg"
             },
             {
               "source": "thehindu",
@@ -699,33 +740,39 @@
               "source": "mint",
               "headline": "Mint Explainer | Why the RBI looks set to hike rates",
               "url": "https://www.livemint.com/economy/rbi-repo-rate-hike-mpc-october-2026-11791267893186.html",
-              "date": "2026-10-06T07:21:32.000Z"
+              "date": "2026-10-06T07:21:32.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/2-0-1307053791-rbi5--1--0_1679556450341_1791271006652_ICQN_a0ffc7a4-0126-45ea-87d9-e39934aca680_8bZc.jpg"
             },
             {
               "source": "mint",
               "headline": "RBI hikes repo rate for first time since Feb 2023 as inflation bites",
               "url": "https://www.livemint.com/economy/rising-inflation-risks-rbi-repo-rate-by-25-bps-to-5-50-mpc-policy-11791347773792.html",
-              "date": "2026-10-07T04:42:28.000Z"
+              "date": "2026-10-07T04:42:28.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/maxresdefault_1791373618306_RJTt_1791373626127_jfl8_7e455994-f558-42cc-99f7-007b9214c2ff_TNyA.jpg"
             },
             {
               "source": "mint",
               "headline": "Mint Explainer | What RBI's rate hike means for retail borrowers and lenders",
               "url": "https://www.livemint.com/economy/rbi-repo-rate-hike-retail-borrowers-banks-lending-rates-home-11791278888782.html",
-              "date": "2026-10-07T04:45:57.000Z"
+              "date": "2026-10-07T04:45:57.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/PTI12-05-2025-000128A-0_1766067239753_1766067264057_1791348483454_psIV_04cc15c2-e956-4788-baab-f23cabb14d69_addk.jpg"
             },
             {
               "source": "mint",
               "headline": "RBI MPC speech: Weak monsoon, strong El Niño, rabi season, global crude prices - What Governor Sanjay Malhotra conveyed",
               "url": "https://www.livemint.com/economy/rbi-mpc-speech-weak-monsoon-strong-el-nino-rabi-season-global-crude-prices-what-governor-sanjay-malhotra-conveyed-11791349667128.html",
-              "date": "2026-10-07T05:29:42.000Z"
+              "date": "2026-10-07T05:29:42.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/maxresdefault_1791361182306_Qw12_1791361186503_ALum_c07ab99e-247a-4d43-8405-5f460ad71eaf_5ELH.jpg"
             },
             {
               "source": "mint",
               "headline": "RBI's next rate hike will be of 0.50%: SBI Economists",
               "url": "https://www.livemint.com/economy/rbis-next-rate-hike-will-be-of-0-50-sbi-economists-11791393361828.html",
-              "date": "2026-10-07T17:25:01.000Z"
+              "date": "2026-10-07T17:25:01.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/2-0-1307053791-rbi5--1--0_1679556450341_1791393639421_ngm9_b1e7609b-adda-4bed-91c1-595d8a039993_bC2a.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/maxresdefault_1791201368734_Rf38_1791201374024_Plle_b1ccdac5-d45a-4fed-9a5d-66d4dbede676_ySDh.jpg"
         },
         {
           "id": "s1yug9lb",
@@ -772,9 +819,11 @@
               "source": "mint",
               "headline": "RBI says NBFC ban on revolving credit is a clarification, not a new rule",
               "url": "https://www.livemint.com/industry/banking/rbi-says-nbfc-ban-on-revolving-credit-is-a-clarification-not-a-new-rule-11791378140568.html",
-              "date": "2026-10-07T15:13:34.000Z"
+              "date": "2026-10-07T15:13:34.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/INDIA-FINTECH-FEST-71_1791385273508_ritY_1791385281171_SUNe_aeff56f5-43e8-4178-85a2-1a7806780e93_bwD9.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/INDIA-FINTECH-FEST-71_1791385273508_ritY_1791385281171_SUNe_aeff56f5-43e8-4178-85a2-1a7806780e93_bwD9.jpg"
         },
         {
           "id": "sq9bww3",
@@ -794,15 +843,18 @@
               "source": "thehindu",
               "headline": "Why are Indian and U.S. leaders cooling off on a trade deal? | Explained",
               "url": "https://www.thehindu.com/business/Economy/why-are-indian-and-us-leaders-cooling-off-on-a-trade-deal-explained/article71554453.ece",
-              "date": "2026-10-07T06:24:10.000Z"
+              "date": "2026-10-07T06:24:10.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/8ovzwk/article71554520.ece/alternates/LANDSCAPE_1200/iStock-1091439016%201.jpg"
             },
             {
               "source": "thehindu",
               "headline": "Failure to finalise US trade deal may hurt India, but new FTAs can cushion tariff blow: RBI chief",
               "url": "https://www.thehindu.com/business/Economy/failure-to-finalise-us-trade-deal-may-hurt-india-but-new-ftas-can-cushion-tariff-blow-rbi-chief/article71556248.ece",
-              "date": "2026-10-07T14:41:09.000Z"
+              "date": "2026-10-07T14:41:09.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/jz5t26/article71556388.ece/alternates/LANDSCAPE_1200/20261007065L.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/8ovzwk/article71554520.ece/alternates/LANDSCAPE_1200/iStock-1091439016%201.jpg"
         },
         {
           "id": "sj12pqf",
@@ -821,15 +873,18 @@
               "source": "mint",
               "headline": "RBI to clarify forex reporting rules soon",
               "url": "https://www.livemint.com/news/india/rbi-to-clarify-forex-reporting-rules-soon-11791369703116.html",
-              "date": "2026-10-07T12:31:21.000Z"
+              "date": "2026-10-07T12:31:21.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/PTI08-06-2025-000137A-0_1759491574933_175949159060_1791376079143_wNF7_1791376079256_1L9Q_fb48b7a1-ff23-4034-a7fe-7895231bcdca_HaDV.jpg"
             },
             {
               "source": "thehindu",
               "headline": "Individuals spared from new FEMA reporting requirement: RBI clarifies",
               "url": "https://www.thehindu.com/business/Economy/individuals-spared-from-new-fema-reporting-requirement-rbi-clarifies/article71556019.ece",
-              "date": "2026-10-07T13:55:28.000Z"
+              "date": "2026-10-07T13:55:28.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/kncls5/article71556145.ece/alternates/LANDSCAPE_1200/2026-10-07T042152Z_1192052188_RC24YNAPF807_RTRMADP_3_INDIA-ECONOMY-RATES.JPG"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/PTI08-06-2025-000137A-0_1759491574933_175949159060_1791376079143_wNF7_1791376079256_1L9Q_fb48b7a1-ff23-4034-a7fe-7895231bcdca_HaDV.jpg"
         },
         {
           "id": "sba6wbd",
@@ -849,7 +904,8 @@
               "source": "thehindu",
               "headline": "RBI raises repo rate by 25 basis points to 5.50%, shifts stance to ‘calibrated tightening’",
               "url": "https://www.thehindu.com/business/Economy/rbi-hikes-repo-rate-by-25-basis-points-to-55/article71554369.ece",
-              "date": "2026-10-07T07:01:08.000Z"
+              "date": "2026-10-07T07:01:08.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/e1ln0d/article71554378.ece/alternates/LANDSCAPE_1200/2026-09-11T091743Z_109916859_RC26SMAYJ264_RTRMADP_3_INDIA-RBI-LIQUIDITY.JPG"
             },
             {
               "source": "thehindu",
@@ -861,21 +917,25 @@
               "source": "thehindu",
               "headline": "RBI has done what it can with interest rates for now, but heavy lifting on inflation will fall on government",
               "url": "https://www.thehindu.com/business/Economy/rbi-has-done-what-it-can-with-interest-rates-but-heavy-lifting-on-inflation-will-fall-on-government/article71555013.ece",
-              "date": "2026-10-07T10:49:31.000Z"
+              "date": "2026-10-07T10:49:31.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/ovccuf/article71555063.ece/alternates/LANDSCAPE_1200/20261007062L.jpg"
             },
             {
               "source": "mint",
               "headline": "RBI hikes rates, but banks may hold off on raising deposit rates",
               "url": "https://www.livemint.com/industry/banking/rbi-hikes-rates-but-banks-may-hold-off-on-raising-deposit-rates-11791371695597.html",
-              "date": "2026-10-07T12:47:14.000Z"
+              "date": "2026-10-07T12:47:14.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/maxresdefault_1791385478645_8chk_1791385483746_qcgI_07600367-778c-4f0f-b314-c0d135787db6_fqRL.jpg"
             },
             {
               "source": "mint",
               "headline": "RBI turns hawkish on inflation, but rate hikes could test growth momentum",
               "url": "https://www.livemint.com/industry/banking/rbi-turns-hawkish-on-inflation-but-rate-hikes-could-test-growth-momentum-11791371106641.html",
-              "date": "2026-10-07T13:43:29.000Z"
+              "date": "2026-10-07T13:43:29.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/INDIA-RBI-9_1791377532022_iMdY_1791377540923_zBi3__1791380259795_P1jR_1791380259924_1zAV_cb83c47e-0d11-4d42-9ab6-09b951550eca_WqIo.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/e1ln0d/article71554378.ece/alternates/LANDSCAPE_1200/2026-09-11T091743Z_109916859_RC26SMAYJ264_RTRMADP_3_INDIA-RBI-LIQUIDITY.JPG"
         },
         {
           "id": "sct34p6",
@@ -894,9 +954,11 @@
               "source": "mint",
               "headline": "India, UK agree to explore cross-border equity, bond listings through GIFT IFSC",
               "url": "https://www.livemint.com/news/india/india-uk-agree-to-explore-cross-border-equity-bond-listings-through-gift-ifsc-11791376410985.html",
-              "date": "2026-10-07T13:39:25.000Z"
+              "date": "2026-10-07T13:39:25.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/2-0-1417242434-430XSGW-FDC4F2UWB-mc-wmbm-0_1679751571517_1791380018199_06yk_e5023730-9e5c-4b9e-91a4-090b4383cf49_HTEb.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/2-0-1417242434-430XSGW-FDC4F2UWB-mc-wmbm-0_1679751571517_1791380018199_06yk_e5023730-9e5c-4b9e-91a4-090b4383cf49_HTEb.jpg"
         },
         {
           "id": "sknsv68",
@@ -916,9 +978,11 @@
               "source": "mint",
               "headline": "India-EFTA trade pact covers 99.6% of Indian exports: commerce secretary",
               "url": "https://www.livemint.com/news/india/india-efta-trade-pact-covers-99-6-exports-commerce-secretary-rajesh-agrawal-tepa-exporters-11791375022839.html",
-              "date": "2026-10-07T13:29:19.000Z"
+              "date": "2026-10-07T13:29:19.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/CHINA-ECONOMY-AUTO-3_1791379608342_IrWi_1791379623583_q6dM_bd0de957-b378-4803-ae3f-050c219f4989_IdHf.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/CHINA-ECONOMY-AUTO-3_1791379608342_IrWi_1791379623583_q6dM_bd0de957-b378-4803-ae3f-050c219f4989_IdHf.jpg"
         },
         {
           "id": "s1ne9viz",
@@ -937,15 +1001,18 @@
               "source": "mint",
               "headline": "RBI to make account aggregators interoperable; integrate demat and deposit data",
               "url": "https://www.livemint.com/industry/banking/rbi-account-aggregators-customer-interoperable-demat-deposit-data-11791352175137.html",
-              "date": "2026-10-07T07:15:56.000Z"
+              "date": "2026-10-07T07:15:56.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/RBI_1791357158700_fzt3_1791357158846_whlb_1a6c95a5-f818-48a0-a4cd-80a34fc79c29_Rmpz.jpg"
             },
             {
               "source": "thehindu",
               "headline": "RBI to allow inter-operability among account aggregators; integrate bank deposits with CAS",
               "url": "https://www.thehindu.com/business/rbi-to-allow-inter-operability-among-account-aggregators-integrate-bank-deposits-with-cas/article71555668.ece",
-              "date": "2026-10-07T13:18:00.000Z"
+              "date": "2026-10-07T13:18:00.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/a1nion/article71555886.ece/alternates/LANDSCAPE_1200/20261007069L.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/RBI_1791357158700_fzt3_1791357158846_whlb_1a6c95a5-f818-48a0-a4cd-80a34fc79c29_Rmpz.jpg"
         },
         {
           "id": "sdancio",
@@ -971,33 +1038,39 @@
               "source": "thehindu",
               "headline": "Centre to propose five-pronged reform plan at GST Council meeting on October 8",
               "url": "https://www.thehindu.com/business/Economy/centre-to-propose-five-pronged-reform-plan-at-gst-council-meeting-on-october-8/article71551328.ece",
-              "date": "2026-10-06T14:07:08.000Z"
+              "date": "2026-10-06T14:07:08.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/g2fvai/article71551422.ece/alternates/LANDSCAPE_1200/iStock-1387975877.jpg"
             },
             {
               "source": "mint",
               "headline": "GST Council aims to ease compliance, expedite refunds, curb frequent rate tweaks",
               "url": "https://www.livemint.com/economy/gst-council-aims-to-ease-compliance-expedite-refunds-curb-frequent-rate-tweaks-11791297868065.html",
-              "date": "2026-10-06T16:53:11.000Z"
+              "date": "2026-10-06T16:53:11.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/INDIA-ECONOMY-1_1763996541446_1763996550962_1791305384940_aBwu_d0010f7b-27fe-4e77-9a9f-739219f54e81_UNOX.jpg"
             },
             {
               "source": "mint",
               "headline": "GST Council may weigh wider data sharing, rare disease tax relief on Thursday",
               "url": "https://www.livemint.com/economy/gst-council-may-open-tax-data-for-wider-economic-use-consider-rare-disease-relief-11791293979209.html",
-              "date": "2026-10-07T00:35:54.000Z"
+              "date": "2026-10-07T00:35:54.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/This-is-the-fifth-time-GST-revenue-collection-has-_1690907701382_1791298541279_KgWt_ed523c32-e397-4731-bc53-404e92b47df7_pPLv.jpg"
             },
             {
               "source": "mint",
               "headline": "Mint Explainer | GST Council meeting: what could change for refunds, enforcement and rate changes",
               "url": "https://www.livemint.com/news/india/gst-council-meeting-proposals-refunds-itc-enforcement-11791358522734.html",
-              "date": "2026-10-07T08:59:26.000Z"
+              "date": "2026-10-07T08:59:26.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/GST_1791363281512_mfMp_1791363281682_q3vu_5719e1e1-a569-46c8-9047-26c4a39820b6_0lat.jpg"
             },
             {
               "source": "thehindu",
               "headline": "GST Council meets tomorrow, tax experts say reforms must move beyond rates to processes, compliance",
               "url": "https://www.thehindu.com/business/Economy/gst-council-meets-tomorrow-tax-experts-say-reforms-must-move-beyond-rates-to-processes-compliance/article71555446.ece",
-              "date": "2026-10-07T12:14:28.000Z"
+              "date": "2026-10-07T12:14:28.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/bsbp7i/article71555475.ece/alternates/LANDSCAPE_1200/IMG_iStock-2256615351_2_1_LJGJU0EG.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/g2fvai/article71551422.ece/alternates/LANDSCAPE_1200/iStock-1387975877.jpg"
         },
         {
           "id": "sf8nc9e",
@@ -1017,15 +1090,18 @@
               "source": "mint",
               "headline": "Irdai commission caps: Brokers to seek more time to submit feedback on Friday",
               "url": "https://www.livemint.com/industry/irdai-commission-caps-brokers-to-seek-more-time-to-submit-feedback-on-friday-11791288222095.html",
-              "date": "2026-10-06T15:33:03.000Z"
+              "date": "2026-10-06T15:33:03.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/8812aaa2-2fea-11ed-b999-718f354f2123_1662783365300_1704449729689_1791302261725_10Ml_b0b7e197-1917-4568-826d-cf9c53939e0e_nVrs.jpg"
             },
             {
               "source": "mint",
               "headline": "RBI to share views on Irdai’s proposed insurance distribution overhaul",
               "url": "https://www.livemint.com/industry/rbi-to-share-views-on-irdai-proposed-insurance-distribution-overhaul-11791367805932.html",
-              "date": "2026-10-07T11:09:35.000Z"
+              "date": "2026-10-07T11:09:35.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/AP10-15-2025-000442B-0_1767957593073_1767957617524_1791371196240_AEKZ_00c060fc-b707-4a9a-930e-43c2ea896a10_SGwl.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/8812aaa2-2fea-11ed-b999-718f354f2123_1662783365300_1704449729689_1791302261725_10Ml_b0b7e197-1917-4568-826d-cf9c53939e0e_nVrs.jpg"
         },
         {
           "id": "si9sjrx",
@@ -1045,9 +1121,11 @@
               "source": "thehindu",
               "headline": "RBI raises FY27 inflation projection to 5.2% amid higher crude oil prices",
               "url": "https://www.thehindu.com/business/Economy/rbi-raises-fy27-inflation-projection-to-51-amid-higher-crude-oil-prices/article71554389.ece",
-              "date": "2026-10-07T05:59:09.000Z"
+              "date": "2026-10-07T05:59:09.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/pryjo0/article71554388.ece/alternates/LANDSCAPE_1200/2026-10-07T042156Z_593725133_RC25GJA5O81V_RTRMADP_3_INDIA-ECONOMY-RATES.JPG"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/pryjo0/article71554388.ece/alternates/LANDSCAPE_1200/2026-10-07T042156Z_593725133_RC25GJA5O81V_RTRMADP_3_INDIA-ECONOMY-RATES.JPG"
         },
         {
           "id": "s880gcz",
@@ -1066,21 +1144,25 @@
               "source": "mint",
               "headline": "World Bank raises India FY27 growth forecast to 7.1% from 6.6% on stronger-than-expected activity",
               "url": "https://www.livemint.com/economy/world-bank-raises-india-fy27-growth-forecast-to-7-1-from-6-6-on-stronger-than-expected-activity-11791270536568.html",
-              "date": "2026-10-06T07:17:42.000Z"
+              "date": "2026-10-06T07:17:42.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/maxresdefault_live_1791282235842_IB6v_1791282240939_RbkZ_ef861831-11a0-4c61-8ccb-cc1ad2ccedff_ZLiA.jpg"
             },
             {
               "source": "mint",
               "headline": "World Bank raises India FY27 growth forecast to 7.1% on resilient demand, exports",
               "url": "https://www.livemint.com/economy/world-bank-raises-india-fy27-growth-forecast-to-7-1-on-resilient-demand-exports-11791288081027.html",
-              "date": "2026-10-06T13:29:20.000Z"
+              "date": "2026-10-06T13:29:20.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/World_Bank_1791293040638_0aJn_1791293040818_uff9_cf80cf0b-318a-4c13-891d-d5c77f065631_vNzv.JPG"
             },
             {
               "source": "thehindu",
               "headline": "World Bank ups India's GDP growth projection to 7.1% for FY27",
               "url": "https://www.thehindu.com/business/Economy/world-bank-ups-indias-gdp-growth-projection-to-71-for-fy27/article71552011.ece",
-              "date": "2026-10-06T15:13:06.000Z"
+              "date": "2026-10-06T15:13:06.000Z",
+              "image": "https://th-i.thgim.com/public/todays-paper/tp-business/7hmkgt/article53407032.ece/alternates/LANDSCAPE_1200/29thARUN01NOTEG951QM3LQ3jpgjpg-4aprth"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/maxresdefault_live_1791282235842_IB6v_1791282240939_RbkZ_ef861831-11a0-4c61-8ccb-cc1ad2ccedff_ZLiA.jpg"
         },
         {
           "id": "ssazkbl",
@@ -1122,9 +1204,11 @@
               "source": "mint",
               "headline": "Govt plans to expand services index to cover 80% of sector output",
               "url": "https://www.livemint.com/economy/govt-services-index-expand-80-sector-output-11791288455058.html",
-              "date": "2026-10-06T13:19:03.000Z"
+              "date": "2026-10-06T13:19:03.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/MoSPI_1791292521332_0Gzh_1791292521548_xHPn_23af02bd-6b75-465a-aa2d-836bf2fb012a_jJSI.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/MoSPI_1791292521332_0Gzh_1791292521548_xHPn_23af02bd-6b75-465a-aa2d-836bf2fb012a_jJSI.jpg"
         },
         {
           "id": "s12pay30",
@@ -1144,7 +1228,8 @@
               "source": "thehindu",
               "headline": "Union Cabinet to take up ₹10,000 crore SME Growth Fund, centralised infra authority",
               "url": "https://www.thehindu.com/business/Economy/union-cabinet-to-take-up-10000-crore-sme-growth-fund-centralised-infra-authority/article71550009.ece",
-              "date": "2026-10-06T05:03:39.000Z"
+              "date": "2026-10-06T05:03:39.000Z",
+              "image": "https://th-i.thgim.com/public/news/national/ddsidg/article71550024.ece/alternates/LANDSCAPE_1200/iStock-1287899462.jpg"
             },
             {
               "source": "thehindu",
@@ -1156,7 +1241,8 @@
               "source": "thehindu",
               "headline": "Union Cabinet approves ₹10,000-cr SME growth fund to boost manufacturing",
               "url": "https://www.thehindu.com/business/Economy/union-cabinet-approves-10000-cr-sme-growth-fund-to-boost-manufacturing/article71551392.ece",
-              "date": "2026-10-06T12:17:27.000Z"
+              "date": "2026-10-06T12:17:27.000Z",
+              "image": "https://th-i.thgim.com/public/news/international/6o56yg/article71551416.ece/alternates/LANDSCAPE_1200/SMEs.jpg"
             },
             {
               "source": "mint",
@@ -1164,7 +1250,8 @@
               "url": "https://www.livemint.com/news/india/cabinet-okays-integrated-transport-planning-authority-10-000-crore-sme-fund-11791285220408.html",
               "date": "2026-10-06T12:46:15.000Z"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/news/national/ddsidg/article71550024.ece/alternates/LANDSCAPE_1200/iStock-1287899462.jpg"
         },
         {
           "id": "s935ivj",
@@ -1196,15 +1283,18 @@
               "source": "thehindu",
               "headline": "Rupee slips 4 paise to 96.39 against U.S. dollar in early trade",
               "url": "https://www.thehindu.com/business/rupee-slips-4-paise-to-9639-against-us-dollar-in-early-trade/article71550012.ece",
-              "date": "2026-10-06T05:24:48.000Z"
+              "date": "2026-10-06T05:24:48.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/kjfnqm/article71550058.ece/alternates/LANDSCAPE_1200/2026-10-05T074221Z_1163884370_RC26SMAAR15N_RTRMADP_3_INDIA-RUPEE-CORPORATE-HEDGING.JPG"
             },
             {
               "source": "thehindu",
               "headline": "Rupee falls 8 paise to close at 96.43 against U.S. dollar",
               "url": "https://www.thehindu.com/business/markets/rupee-falls-8-paise-to-close-at-9643-against-us-dollar/article71551166.ece",
-              "date": "2026-10-06T11:14:06.000Z"
+              "date": "2026-10-06T11:14:06.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/t00wsh/article71551196.ece/alternates/LANDSCAPE_1200/iStock-2260029287%204.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/kjfnqm/article71550058.ece/alternates/LANDSCAPE_1200/2026-10-05T074221Z_1163884370_RC26SMAAR15N_RTRMADP_3_INDIA-RUPEE-CORPORATE-HEDGING.JPG"
         },
         {
           "id": "syq0rhi",
@@ -1224,15 +1314,18 @@
               "source": "mint",
               "headline": "India’s services sector growth hits three-month high: PMI survey",
               "url": "https://www.livemint.com/economy/india-services-economy-pmi-survey-business-consumer-services-11791265040418.html",
-              "date": "2026-10-06T06:29:54.000Z"
+              "date": "2026-10-06T06:29:54.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/pexels-photo-8867432_1791267861743_4T1Z_1791267873779_6qpV_f30b8478-a5b8-4f2f-9a5d-a267fbf9feb8_kQBV.jpeg"
             },
             {
               "source": "thehindu",
               "headline": "India’s services sector growth touches three-month high in September on strong domestic demand: PMI",
               "url": "https://www.thehindu.com/business/indias-services-sector-growth-touches-three-month-high-in-september-on-strong-domestic-demand-pmi/article71550628.ece",
-              "date": "2026-10-06T09:29:15.000Z"
+              "date": "2026-10-06T09:29:15.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/658cf5/article71550804.ece/alternates/LANDSCAPE_1200/iStock-1325974528.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/pexels-photo-8867432_1791267861743_4T1Z_1791267873779_6qpV_f30b8478-a5b8-4f2f-9a5d-a267fbf9feb8_kQBV.jpeg"
         },
         {
           "id": "s1s4wjmk",
@@ -1274,9 +1367,11 @@
               "source": "mint",
               "headline": "India’s infrastructure challenge shifts from raising capital to making projects investable, says Deloitte",
               "url": "https://www.livemint.com/industry/indias-infrastructure-challenge-shifts-from-raising-capital-to-making-projects-investable-says-deloitte-11791203958309.html",
-              "date": "2026-10-05T14:40:07.000Z"
+              "date": "2026-10-05T14:40:07.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/infrastructure_1791211039928_vYQe_1791211040114_NzEE_9f2c1a5a-91ab-4433-b6f5-6ad3cc724b91_v1Ly.png"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/infrastructure_1791211039928_vYQe_1791211040114_NzEE_9f2c1a5a-91ab-4433-b6f5-6ad3cc724b91_v1Ly.png"
         },
         {
           "id": "s1x03nlg",
@@ -1295,15 +1390,18 @@
               "source": "thehindu",
               "headline": "USTR Greer says he does not think “something is imminent” on trade deal with India",
               "url": "https://www.thehindu.com/business/Economy/ustr-greer-says-he-does-not-think-something-is-imminent-on-trade-deal-with-india/article71535944.ece",
-              "date": "2026-10-02T06:10:51.000Z"
+              "date": "2026-10-02T06:10:51.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/ol85rz/article71536005.ece/alternates/LANDSCAPE_1200/G2__Trade_Ministerial_962_6.jpg"
             },
             {
               "source": "thehindu",
               "headline": "India-U.S. trade deal talks have plateaued; further demands, concessions will be very difficult: FinMin",
               "url": "https://www.thehindu.com/business/Economy/india-us-deal-has-reached-plateau-where-further-demands-concessions-will-be-very-difficult-sitharaman/article71547084.ece",
-              "date": "2026-10-05T14:32:55.000Z"
+              "date": "2026-10-05T14:32:55.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/agk8yu/article71547265.ece/alternates/LANDSCAPE_1200/PTI10_03_2026_000448B.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/ol85rz/article71536005.ece/alternates/LANDSCAPE_1200/G2__Trade_Ministerial_962_6.jpg"
         },
         {
           "id": "s7xz9ce",
@@ -1323,9 +1421,11 @@
               "source": "mint",
               "headline": "India’s growth momentum holds, but inflation and weak industrial activity weigh, says BCG report",
               "url": "https://www.livemint.com/economy/india-growth-momentum-holds-but-inflation-and-industrial-activity-pose-risks-bcg-11791200956716.html",
-              "date": "2026-10-05T13:55:07.000Z"
+              "date": "2026-10-05T13:55:07.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/Employees-guide-finished-corrugated-steel-roofing-_1791208353517_OMNR_1791208353645_4mNS_ff59e34f-1211-4022-b541-24ae7ff13b2e_hEFp.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/Employees-guide-finished-corrugated-steel-roofing-_1791208353517_OMNR_1791208353645_4mNS_ff59e34f-1211-4022-b541-24ae7ff13b2e_hEFp.jpg"
         },
         {
           "id": "silfvmn",
@@ -1388,9 +1488,11 @@
               "source": "thehindu",
               "headline": "FM Sitharaman hails India-EU trade deal at Munich Leaders Meeting",
               "url": "https://www.thehindu.com/business/Economy/fm-sitharaman-hails-india-eu-trade-deal-at-munich-leaders-meeting/article71545912.ece",
-              "date": "2026-10-05T05:09:52.000Z"
+              "date": "2026-10-05T05:09:52.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/9qy6zy/article71545860.ece/alternates/LANDSCAPE_1200/PTI10_03_2026_000448B.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/9qy6zy/article71545860.ece/alternates/LANDSCAPE_1200/PTI10_03_2026_000448B.jpg"
         },
         {
           "id": "sxukokm",
@@ -1410,9 +1512,11 @@
               "source": "thehindu",
               "headline": "Next-Gen GST and India’s next phase of growth",
               "url": "https://www.thehindu.com/business/Economy/next-gen-gst-and-indias-next-phase-of-growth/article71541678.ece",
-              "date": "2026-10-04T18:47:22.000Z"
+              "date": "2026-10-04T18:47:22.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/hl6w0v/article71544833.ece/alternates/LANDSCAPE_1200/iStock-1130669886%201.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/hl6w0v/article71544833.ece/alternates/LANDSCAPE_1200/iStock-1130669886%201.jpg"
         },
         {
           "id": "sf6w83h",
@@ -1475,9 +1579,11 @@
               "source": "mint",
               "headline": "White-collar hiring shifts towards specialised AI skills, experienced professionals in September: Report",
               "url": "https://www.livemint.com/economy/whitecollar-hiring-shifts-towards-specialised-ai-skills-experienced-professionals-in-september-report-11790995506265.html",
-              "date": "2026-10-03T03:19:16.000Z"
+              "date": "2026-10-03T03:19:16.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/hiring_trends_1790997420250_PwzN_1790997428121_cQ98_f0b40b7d-64e4-4a3e-a764-a5ba0d653529_Grbe.png"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/hiring_trends_1790997420250_PwzN_1790997428121_cQ98_f0b40b7d-64e4-4a3e-a764-a5ba0d653529_Grbe.png"
         },
         {
           "id": "s1ujyb86",
@@ -1497,9 +1603,11 @@
               "source": "mint",
               "headline": "Forex reserves plunge record $18.3 billion as RBI steps in to support rupee",
               "url": "https://www.livemint.com/economy/forex-reserves-plunge-record-18-3-billion-as-rbi-steps-in-to-support-rupee-11790953518458.html",
-              "date": "2026-10-02T16:27:21.000Z"
+              "date": "2026-10-02T16:27:21.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/Rupee_1790958346094_JEFN_1790958351147_ZWk7_d8408472-aaaa-4f45-a49c-b4e2106db171_fGVO.png"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/Rupee_1790958346094_JEFN_1790958351147_ZWk7_d8408472-aaaa-4f45-a49c-b4e2106db171_fGVO.png"
         },
         {
           "id": "s5ptggk",
@@ -1519,9 +1627,11 @@
               "source": "thehindu",
               "headline": "Commerce Minister Goyal defends India against U.S. forced labour and excess capacity investigations",
               "url": "https://www.thehindu.com/business/Economy/commerce-minister-goyal-defends-india-against-us-forced-labour-and-excess-capacity-investigations/article71536326.ece",
-              "date": "2026-10-02T09:21:14.000Z"
+              "date": "2026-10-02T09:21:14.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/z37uty/article71536391.ece/alternates/LANDSCAPE_1200/PTI10_01_2026_000019B.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/z37uty/article71536391.ece/alternates/LANDSCAPE_1200/PTI10_01_2026_000019B.jpg"
         },
         {
           "id": "sm2sfn4",
@@ -1568,27 +1678,32 @@
               "source": "thehindu",
               "headline": "SpaceX exec renews Starlink pitch as approvals lay pending",
               "url": "https://www.thehindu.com/sci-tech/technology/spacex-exec-renews-starlink-pitch-as-approvals-lay-pending/article71554510.ece",
-              "date": "2026-10-07T06:27:49.000Z"
+              "date": "2026-10-07T06:27:49.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/bkc3f6/article71554523.ece/alternates/LANDSCAPE_1200/BL-Explainer_-WG6BGE1FJ4.4.jpg.jpg"
             },
             {
               "source": "mint",
               "headline": "Starlink says India operations built around security rules as launch awaits government clearance",
               "url": "https://www.livemint.com/industry/starlink-india-launch-security-clearance-commercial-services-11791354507240.html",
-              "date": "2026-10-07T07:32:39.000Z"
+              "date": "2026-10-07T07:32:39.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/maxresdefault_1791364779327_uOGQ_1791364785865_g7lD_a0e6c90b-a79b-474e-a493-b3d3bfb289fb_Ynyc.jpg"
             },
             {
               "source": "mint",
               "headline": "Starlink India launch row: Elon Musk says delay is a ‘crime against the people…’ in X post",
               "url": "https://www.livemint.com/companies/news/starlink-india-launch-stuck-elon-musk-lashes-out-says-delay-is-a-crime-against-the-people-in-x-post-11791390758707.html",
-              "date": "2026-10-07T17:00:35.000Z"
+              "date": "2026-10-07T17:00:35.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/elon_1791391849743_QCwI_1791391853449_rW4Q_c323fe7a-a234-4714-8937-4bfec0dea47a_u6yr.png"
             },
             {
               "source": "thehindu",
               "headline": "Elon Musk alleges “oligarch” interference in Starlink’s India launch",
               "url": "https://www.thehindu.com/business/Industry/elon-musk-alleges-oligarch-interference-instarlinksindia-launch/article71557189.ece",
-              "date": "2026-10-07T18:36:26.000Z"
+              "date": "2026-10-07T18:36:26.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/bipzki/article71557212.ece/alternates/LANDSCAPE_1200/2026-09-30T002232Z_896588131_RC28TNA9YYZZ_RTRMADP_3_USA-AI-WHITEHOUSE.JPG"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/bkc3f6/article71554523.ece/alternates/LANDSCAPE_1200/BL-Explainer_-WG6BGE1FJ4.4.jpg.jpg"
         },
         {
           "id": "syhti7a",
@@ -1607,15 +1722,18 @@
               "source": "mint",
               "headline": "Airtel introduces new postpaid plans, hikes prices by 3-11%",
               "url": "https://www.livemint.com/companies/news/ahead-of-jio-ipo-airtel-introduces-new-postpaid-plans-hikes-prices-by-311-11791352737739.html",
-              "date": "2026-10-07T07:47:35.000Z"
+              "date": "2026-10-07T07:47:35.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/download_1791356268680_JIEj_1791356276683_nClY_97f1e762-8a7b-4a48-b88f-f6a5d1897c8c_YedP.jpeg"
             },
             {
               "source": "mint",
               "headline": "Airtel hikes postpaid tariffs after over two years, sets the tone for peers",
               "url": "https://www.livemint.com/companies/news/airtel-postpaid-tariff-hike-jio-platforms-ipo-11791363255988.html",
-              "date": "2026-10-07T16:39:40.000Z"
+              "date": "2026-10-07T16:39:40.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/maxresdefault_1791391470682_bIKn_1791391479072_duwv_f53df9e7-c6ff-4cf0-b2ee-3496c3d90a8a_DC6z.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/download_1791356268680_JIEj_1791356276683_nClY_97f1e762-8a7b-4a48-b88f-f6a5d1897c8c_YedP.jpeg"
         },
         {
           "id": "sexalie",
@@ -1640,9 +1758,11 @@
               "source": "thehindu",
               "headline": "MDR a small fee, will not have major impact on UPI volumes: RBI Governor Malhotra",
               "url": "https://www.thehindu.com/business/Economy/rbi-governor-sanjay-malhotra-press-conference-rbi-repo-rate-october-7-2026/article71555386.ece",
-              "date": "2026-10-07T12:35:42.000Z"
+              "date": "2026-10-07T12:35:42.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/wne5k8/article71555499.ece/alternates/LANDSCAPE_1200/20261007065L.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/wne5k8/article71555499.ece/alternates/LANDSCAPE_1200/20261007065L.jpg"
         },
         {
           "id": "sx87ysh",
@@ -1661,9 +1781,11 @@
               "source": "mint",
               "headline": "Mobile bills may rise again: 12–15% telecom tariff hike likely in 4–5 months. What it means for Jio, Airtel, Vi users",
               "url": "https://www.livemint.com/companies/news/mobile-bills-may-rise-again-12-15-telecom-tariff-hike-likely-in-4-5-months-what-it-means-for-jio-airtel-vi-users-11791357460014.html",
-              "date": "2026-10-07T07:35:44.000Z"
+              "date": "2026-10-07T07:35:44.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/Mobile-recharge__1791358504069_FmFR_1791358504199_D91h_3f772539-0992-495c-8ec6-175b9b631e00_TWrm.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/Mobile-recharge__1791358504069_FmFR_1791358504199_D91h_3f772539-0992-495c-8ec6-175b9b631e00_TWrm.jpg"
         },
         {
           "id": "svxz2nc",
@@ -1683,9 +1805,11 @@
               "source": "mint",
               "headline": "Work on Google-Adani data centre can continue at developer's own risk: Andhra HC",
               "url": "https://www.livemint.com/companies/news/work-on-google-adani-data-centre-can-continue-at-developers-own-risk-andhra-hc-11791289938948.html",
-              "date": "2026-10-06T14:13:36.000Z"
+              "date": "2026-10-06T14:13:36.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/pexels-photo-4508751_1790307465798_CwOo_1790307477_1791295646847_O5Bz_1791295647124_CnwY_94986607-ef4a-4839-a43a-eeed9f166024_08YF.jpeg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/pexels-photo-4508751_1790307465798_CwOo_1790307477_1791295646847_O5Bz_1791295647124_CnwY_94986607-ef4a-4839-a43a-eeed9f166024_08YF.jpeg"
         },
         {
           "id": "shn0uuc",
@@ -1705,9 +1829,11 @@
               "source": "mint",
               "headline": "Tablet shipments decline 3.8 pc YoY, hit by memory price inflation: Report",
               "url": "https://www.livemint.com/technology/tablet-shipments-decline-3-8-pc-yoy-hit-by-memory-price-inflation-report-11791295924492.html",
-              "date": "2026-10-06T14:12:04.000Z"
+              "date": "2026-10-06T14:12:04.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
         },
         {
           "id": "syst6ip",
@@ -1726,15 +1852,18 @@
               "source": "mint",
               "headline": "India among top 10 emerging markets in AI readiness; private AI investment triples: World Bank",
               "url": "https://www.livemint.com/technology/india-among-top-10-emerging-markets-in-ai-readiness-private-ai-investment-triples-world-bank-11791283557375.html",
-              "date": "2026-10-06T10:45:56.000Z"
+              "date": "2026-10-06T10:45:56.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
             },
             {
               "source": "mint",
               "headline": "World Bank says India should scale small AI applications instead of betting heavily on frontier models",
               "url": "https://www.livemint.com/technology/world-bank-says-india-should-scale-small-ai-applications-instead-of-betting-heavily-on-frontier-models-11791283874808.html",
-              "date": "2026-10-06T10:51:14.000Z"
+              "date": "2026-10-06T10:51:14.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
         },
         {
           "id": "s10310hy",
@@ -1754,9 +1883,11 @@
               "source": "mint",
               "headline": "Is era of affordable smartphones ending? HMD India CEO warns prices may stay high till 2027",
               "url": "https://www.livemint.com/technology/is-era-of-affordable-smartphones-ending-hmd-india-ceo-warns-prices-may-stay-high-till-2027-11791268377725.html",
-              "date": "2026-10-06T07:14:58.000Z"
+              "date": "2026-10-06T07:14:58.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/hrc_1791268806854_xdG7_1791268812343_wnDm_d4ff45ca-741d-4ada-9c40-5dfbc3ac8081_pyBk.png"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/hrc_1791268806854_xdG7_1791268812343_wnDm_d4ff45ca-741d-4ada-9c40-5dfbc3ac8081_pyBk.png"
         },
         {
           "id": "so2g6h9",
@@ -1798,15 +1929,18 @@
               "source": "mint",
               "headline": "Apple removes Bitchat from app store in India; Twitter co-founder Jack Dorsey reacts",
               "url": "https://www.livemint.com/technology/apple-removes-bitchat-from-app-store-in-india-twitter-co-founder-jack-dorsey-reacts-11791042262743.html",
-              "date": "2026-10-03T15:44:22.000Z"
+              "date": "2026-10-03T15:44:22.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
             },
             {
               "source": "mint",
               "headline": "‘Unconstitutional’: Advocacy group condemns BitChat's removal from India App Store on govt order, lists four demands",
               "url": "https://www.livemint.com/technology/unconstitutional-advocacy-group-condemns-bitchats-removal-from-india-app-store-on-govt-order-lists-four-demands-11791092700220.html",
-              "date": "2026-10-04T06:20:32.000Z"
+              "date": "2026-10-04T06:20:32.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/Jack_Dorsey_1791093191174_2wsi_1791093199884_0zTw_3792a3e2-b2bf-451c-b971-705f558281ce_bfn7.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
         },
         {
           "id": "s191nii8",
@@ -1846,9 +1980,11 @@
               "source": "thehindu",
               "headline": "What is happening to the Indian IT bench? | Explained",
               "url": "https://www.thehindu.com/business/Industry/what-is-happening-to-the-indian-it-bench-explained/article71536828.ece",
-              "date": "2026-10-02T21:47:55.000Z"
+              "date": "2026-10-02T21:47:55.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/n4oknb/article71538620.ece/alternates/LANDSCAPE_1200/2026-09-10T093612Z_51762436_RC266GAP3YI9_RTRMADP_3_WIPRO-AI.JPG"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/n4oknb/article71538620.ece/alternates/LANDSCAPE_1200/2026-09-10T093612Z_51762436_RC266GAP3YI9_RTRMADP_3_WIPRO-AI.JPG"
         },
         {
           "id": "s13qgq0e",
@@ -1868,9 +2004,11 @@
               "source": "thehindu",
               "headline": "UPI volume jumps 27% to touch 145 bn in first half",
               "url": "https://www.thehindu.com/business/upi-volume-jumps-27-to-touch-145-bn-in-first-half/article71538372.ece",
-              "date": "2026-10-02T17:33:37.000Z"
+              "date": "2026-10-02T17:33:37.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/8tc122/article71515521.ece/alternates/LANDSCAPE_1200/TH17-Sharad-GovG5RGHT541.5.jpg.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/8tc122/article71515521.ece/alternates/LANDSCAPE_1200/TH17-Sharad-GovG5RGHT541.5.jpg.jpg"
         },
         {
           "id": "so7v3df",
@@ -1961,9 +2099,11 @@
               "source": "thehindu",
               "headline": "Kasturi Cotton gains traction as India puts traceability on the textile map",
               "url": "https://www.thehindu.com/business/kasturi-cotton-gains-traction-as-india-puts-traceability-on-the-textile-map/article71551334.ece",
-              "date": "2026-10-06T13:39:10.000Z"
+              "date": "2026-10-06T13:39:10.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/xjfhzd/article71551903.ece/alternates/LANDSCAPE_1200/CCI-to-continueG2DFKBMGH.3.jpg.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/xjfhzd/article71551903.ece/alternates/LANDSCAPE_1200/CCI-to-continueG2DFKBMGH.3.jpg.jpg"
         },
         {
           "id": "sftf1gm",
@@ -1983,15 +2123,18 @@
               "source": "thehindu",
               "headline": "‘Best ever September’: Auto retail sales surge 32% year-on-year",
               "url": "https://www.thehindu.com/business/Industry/best-ever-september-auto-retail-sales-surge-32-year-on-year/article71550095.ece",
-              "date": "2026-10-06T05:55:45.000Z"
+              "date": "2026-10-06T05:55:45.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/xbffs2/article71550120.ece/alternates/LANDSCAPE_1200/IMG_ola_2_1_TNEVO5CD.jpg"
             },
             {
               "source": "mint",
               "headline": "Dealers flag price hikes as risk to GST-led sales boom",
               "url": "https://www.livemint.com/industry/dealers-car-price-hikes-gst-cuts-festive-season-11791265195880.html",
-              "date": "2026-10-06T07:32:17.000Z"
+              "date": "2026-10-06T07:32:17.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/2-0-648439695-18F07MP002-0_1680244799343_1791271632007_B6Tz_74da3419-03c4-455c-9d6c-5e6f57c335bc_U1ww.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/xbffs2/article71550120.ece/alternates/LANDSCAPE_1200/IMG_ola_2_1_TNEVO5CD.jpg"
         },
         {
           "id": "s1yaccvu",
@@ -2033,9 +2176,11 @@
               "source": "mint",
               "headline": "The oil shock hasn’t stopped the factory boom. It may be changing what factories make | Explained",
               "url": "https://www.livemint.com/economy/the-oil-shock-hasn-t-stopped-the-factory-boom-it-may-be-changing-what-factories-make-11791124337610.html",
-              "date": "2026-10-04T18:02:22.000Z"
+              "date": "2026-10-04T18:02:22.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/factory_1791130819854_Qi70_1791130820015_wrsn_daf2bd7b-330d-45df-b8db-eb33a0398167_tXIC.png"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/factory_1791130819854_Qi70_1791130820015_wrsn_daf2bd7b-330d-45df-b8db-eb33a0398167_tXIC.png"
         }
       ]
     },
@@ -2149,9 +2294,11 @@
               "source": "mint",
               "headline": "Southwest monsoon withdrawal advances, rainfall to continue in several states",
               "url": "https://www.livemint.com/news/southwest-monsoon-withdrawal-advances-rainfall-to-continue-in-several-states-11791379826460.html",
-              "date": "2026-10-07T16:20:11.000Z"
+              "date": "2026-10-07T16:20:11.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/INDIA-WEATHER-RAIN-11_1785311327176_1785311361469_cfdd4b84-7c88-4199-9175-083953c92a88_1791389732574_QLC3_7dfb93c7-06d7-4f6f-9ed6-cefc9f7b3546_TTBV.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/INDIA-WEATHER-RAIN-11_1785311327176_1785311361469_cfdd4b84-7c88-4199-9175-083953c92a88_1791389732574_QLC3_7dfb93c7-06d7-4f6f-9ed6-cefc9f7b3546_TTBV.jpg"
         },
         {
           "id": "s3w84zn",
@@ -2171,9 +2318,11 @@
               "source": "thehindu",
               "headline": "Why is the price of rice rising across the country? | Explained",
               "url": "https://www.thehindu.com/news/national/why-is-the-price-of-rice-rising-across-the-country-explained/article71555312.ece",
-              "date": "2026-10-07T12:01:18.000Z"
+              "date": "2026-10-07T12:01:18.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/lno25h/article71555320.ece/alternates/LANDSCAPE_1200/iStock-886000912.jpg"
             }
-          ]
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/lno25h/article71555320.ece/alternates/LANDSCAPE_1200/iStock-886000912.jpg"
         },
         {
           "id": "sjw6lux",
@@ -2192,15 +2341,18 @@
               "source": "mint",
               "headline": "Monster, PepsiCo, Campa get Delhi HC relief against FSSAI ‘energy drink’ label ban",
               "url": "https://www.livemint.com/industry/retail/monster-pepsico-campa-get-delhi-hc-relief-against-fssai-energy-drink-label-ban-11791286344573.html",
-              "date": "2026-10-06T13:08:57.000Z"
+              "date": "2026-10-06T13:08:57.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/fssai_1789637343885_J1jk_1789637371085_Ramy_2bc016_1791291798461_NfTF_1791291798592_Um4E_6323d07f-1a0a-413d-81ee-da9bac28217b_ZRDj.png"
             },
             {
               "source": "mint",
               "headline": "What happens to 'energy drinks' after Campa, PepsiCo get interim court relief against FSSAI label ban? | Explained",
               "url": "https://www.livemint.com/news/what-happens-to-energy-drinks-after-campa-pepsico-get-interim-court-relief-against-fssai-label-ban-explained-11791360484751.html",
-              "date": "2026-10-07T09:16:30.000Z"
+              "date": "2026-10-07T09:16:30.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/Monster_Campa_FSSAI_1791361399770_SipW_1791361399982_yvRC_cb913530-8e27-4258-908b-341e13af9250_p6WA.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/fssai_1789637343885_J1jk_1789637371085_Ramy_2bc016_1791291798461_NfTF_1791291798592_Um4E_6323d07f-1a0a-413d-81ee-da9bac28217b_ZRDj.png"
         },
         {
           "id": "s12jq6qy",
@@ -2219,9 +2371,11 @@
               "source": "mint",
               "headline": "Mint Explainer: South India pins hope on northeast monsoon for rainfall relief",
               "url": "https://www.livemint.com/news/india/northeast-monsoon-south-india-rainfall-deficit-11791350428826.html",
-              "date": "2026-10-07T07:43:30.000Z"
+              "date": "2026-10-07T07:43:30.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/INDIA-WEATHER-RAIN-11_1785311327176_1785311361469_cfdd4b84-7c88-4199-9175-083953c92a88_1791358710998_JS4B_01e16361-f7bc-49de-a72e-6e4ced4257d0_x9hF.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/INDIA-WEATHER-RAIN-11_1785311327176_1785311361469_cfdd4b84-7c88-4199-9175-083953c92a88_1791358710998_JS4B_01e16361-f7bc-49de-a72e-6e4ced4257d0_x9hF.jpg"
         },
         {
           "id": "s142sfes",
@@ -2241,9 +2395,11 @@
               "source": "mint",
               "headline": "FSSAI steps up action against brands over unsafe products, misleading claims: Do consumers need simpler food labels?",
               "url": "https://www.livemint.com/industry/retail/fssai-steps-up-action-against-brands-over-unsafe-products-misleading-claims-do-consumers-need-simpler-food-labels-11791255727134.html",
-              "date": "2026-10-06T03:35:16.000Z"
+              "date": "2026-10-06T03:35:16.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/FSSAI_food-labels_1791256135364_X7bu_1791256135555_UFbd_fd2f21a9-eba1-4bf2-adcb-048a809e7686_pf86.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/FSSAI_food-labels_1791256135364_X7bu_1791256135555_UFbd_fd2f21a9-eba1-4bf2-adcb-048a809e7686_pf86.jpg"
         },
         {
           "id": "s1etlc9i",
@@ -2312,9 +2468,11 @@
               "source": "mint",
               "headline": "CEC appointment law row: SC to examine plea seeking recall of September split verdict",
               "url": "https://www.livemint.com/news/india/cec-appointment-law-row-sc-to-examine-plea-seeking-recall-of-september-split-verdict-11791360017671.html",
-              "date": "2026-10-07T09:10:18.000Z"
+              "date": "2026-10-07T09:10:18.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/sc_1791364082891_dasx_1791364087514_A28X_8a724dc8-62ea-4b28-9154-94a53e4cdc71_zMaE.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/sc_1791364082891_dasx_1791364087514_A28X_8a724dc8-62ea-4b28-9154-94a53e4cdc71_zMaE.jpg"
         },
         {
           "id": "s1izayod",
@@ -2470,21 +2628,25 @@
               "source": "mint",
               "headline": "GST arrest powers may be removed? Council to discuss decriminalisation on Wednesday; law change likely in Winter Session",
               "url": "https://www.livemint.com/economy/gst-arrest-powers-may-be-removed-council-to-discuss-decriminalisation-on-wednesday-law-change-likely-in-winter-session-11791112867891.html",
-              "date": "2026-10-04T12:48:16.000Z"
+              "date": "2026-10-04T12:48:16.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/gstt_1791117234253_TI22_1791117237829_Tjuy_a40cfa44-2848-4bed-94f9-f6fa93c89eca_9u40.png"
             },
             {
               "source": "mint",
               "headline": "GST Council meeting postponed for second time, rescheduled to October 8",
               "url": "https://www.livemint.com/economy/gst-council-meeting-postponed-for-second-time-rescheduled-to-october-8-11791215422846.html",
-              "date": "2026-10-05T15:53:32.000Z"
+              "date": "2026-10-05T15:53:32.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/Untitled_design_1791216798862_zOCR_1791216802193_l4Xd_3fe0feb9-21c8-4f3a-a847-995852b3714a_1Zo0.png"
             },
             {
               "source": "mint",
               "headline": "GST Council meeting rescheduled for Thursday, says official order",
               "url": "https://www.livemint.com/economy/gst-council-meeting-rescheduled-to-thursday-says-official-order-11791217970800.html",
-              "date": "2026-10-05T17:28:37.000Z"
+              "date": "2026-10-05T17:28:37.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/INDIA-ECONOMY-1_1760428261295_1760428268739_1791220451894_z5fI_efc10425-5b77-4eb4-8391-a326272b9890_hpTX.jpg"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/gstt_1791117234253_TI22_1791117237829_Tjuy_a40cfa44-2848-4bed-94f9-f6fa93c89eca_9u40.png"
         },
         {
           "id": "s1oojmmp",
@@ -2548,9 +2710,11 @@
               "source": "mint",
               "headline": "Mint Explainer | Why Karnataka’s gig worker law has put platforms and workers at odds",
               "url": "https://www.livemint.com/industry/karnataka-gig-worker-law-social-security-platform-companies-11791175740941.html",
-              "date": "2026-10-05T07:45:55.000Z"
+              "date": "2026-10-05T07:45:55.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/Ankush_Bajaj_Photo_1767860572818_1767860584823_1791186074344_G1QW_4e682c50-6a4c-4937-a7f0-df978b480c36_Uc7C.png"
             }
-          ]
+          ],
+          "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/Ankush_Bajaj_Photo_1767860572818_1767860584823_1791186074344_G1QW_4e682c50-6a4c-4937-a7f0-df978b480c36_Uc7C.png"
         },
         {
           "id": "s12y27rh",
@@ -2593,10 +2757,10 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 65,
+    "analysed": 1,
     "added": 0,
-    "merged": 4,
-    "rejected": 61,
+    "merged": 0,
+    "rejected": 1,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
