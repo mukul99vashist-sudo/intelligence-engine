@@ -110,6 +110,35 @@ function skip(title, link) {
   if (/\/market\/stock-market-news\/|\/market\/live-blog\/|\/astrology\/|\/horoscope/.test(link)) return true;
   return /\/sport\/|\/sports\/|\/live\/|\/liveblog\/|\/videos?\/|\/program\/|\/gallery\/|\/podcasts?\/|\/opinions?\/|\/commentisfree\/|\/audio\/|\/football\/|\/lifeandstyle\/|\/culture\/|\/tv-and-radio\/|\/music\/|\/film\/|\/books\//.test(link);
 }
+// Publisher-supplied thumbnail from the feed item (linked, not copied). Prefers the widest rendition.
+function unescapeHtml(s) { return String(s || "").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'").replace(/&amp;/g, "&"); }
+function attr(a, name) { const m = new RegExp(`\\b${name}=["']([^"']+)["']`).exec(a); return m ? m[1] : ""; }
+export function imageOf(block) {
+  const cands = [];
+  for (const m of block.matchAll(/<media:(?:content|thumbnail)\b([^>]*)>/g)) {
+    const a = m[1], url = attr(a, "url"), medium = attr(a, "medium"), type = attr(a, "type");
+    if (!url || (medium && medium !== "image") || (type && !/^image\//.test(type))) continue;
+    cands.push({ url, w: +(attr(a, "width") || 0) });
+  }
+  for (const m of block.matchAll(/<enclosure\b([^>]*)>/g)) {
+    const url = attr(m[1], "url"), type = attr(m[1], "type");
+    if (url && /^image\//.test(type)) cands.push({ url, w: 0 });
+  }
+  if (!cands.length) {
+    const img = /<img[^>]+src=["']([^"']+)["']/i.exec(unescapeHtml(block.replace(/<!\[CDATA\[|\]\]>/g, "")));
+    if (img) cands.push({ url: img[1], w: 0 });
+  }
+  cands.sort((x, y) => y.w - x.w);
+  let u = cands[0] && unescapeHtml(cands[0].url);
+  if (!u) return null;
+  if (u.startsWith("//")) u = "https:" + u;
+  if (!/^https:\/\//.test(u)) return null;
+  const out = { image: u };
+  // BBC's image service serves the same picture at larger widths; the site falls back to the original if this fails.
+  const big = u.replace(/(ichef\.bbci\.co\.uk\/(?:ace|news)\/(?:standard|ws)\/)\d+\//, "$1976/");
+  if (big !== u) out.imageLarge = big;
+  return out;
+}
 function cleanUrl(u) { try { const x = new URL(u); x.search = ""; x.hash = ""; return x.toString(); } catch { return u; } }
 function idFor(url) { let h = 0; for (const c of url) h = (h * 31 + c.charCodeAt(0)) >>> 0; return "s" + h.toString(36); }
 
@@ -120,7 +149,7 @@ export function parseRss(xml, src) {
     const title = plain(tag(b, "title")), link = cleanUrl(tag(b, "link")), summary = plain(tag(b, "description"));
     const pub = Date.parse(tag(b, "pubDate") || tag(b, "dc:date"));
     if (!title || !link || skip(title, link)) continue;
-    items.push({ src, headline: title, url: link, summary, date: isNaN(pub) ? null : new Date(pub).toISOString() });
+    items.push({ src, headline: title, url: link, summary, date: isNaN(pub) ? null : new Date(pub).toISOString(), ...(imageOf(b) || {}) });
   }
   return items;
 }
@@ -261,7 +290,16 @@ async function runDesk(desk) {
   const allEvents = () => data.sectors.flatMap(s => s.items);
   const findEvent = key => allEvents().find(e => e.id === key);
   const sinceMs = Date.parse(SINCE);
-  const fresh = (await fetchFeeds(desk.feeds))
+  const fetched = await fetchFeeds(desk.feeds);
+  // Backfill images onto stories already on the desk (no re-analysis needed).
+  const imgByUrl = new Map(fetched.filter(i => i.image).map(i => [i.url, i]));
+  let backfilled = 0;
+  for (const sec of data.sectors) for (const ev of sec.items) {
+    for (const r of ev.reports || []) { const f = imgByUrl.get(r.url); if (f && !r.image) { r.image = f.image; if (f.imageLarge) r.imageLarge = f.imageLarge; } }
+    if (!ev.image) { const r = (ev.reports || []).find(x => x.image); if (r) { ev.image = r.image; if (r.imageLarge) ev.imageLarge = r.imageLarge; backfilled++; } }
+  }
+  if (backfilled) console.log(`Added images to ${backfilled} existing stories`);
+  const fresh = fetched
     .filter(it => !it.date || Date.parse(it.date) >= sinceMs)
     .filter(it => !seen.has(it.url))
     .sort((a, b) => (b.date || "").localeCompare(a.date || ""))   // take the newest headlines first...
@@ -287,13 +325,14 @@ async function runDesk(desk) {
           reason: typeof r.reason === "string" ? r.reason.slice(0, 160) : "", checkedAt: new Date().toISOString() });
         continue;
       }
-      const report = { source: s.src, headline: s.headline, url: s.url, date: s.date };
+      const report = { source: s.src, headline: s.headline, url: s.url, date: s.date, ...(s.image ? { image: s.image } : {}), ...(s.imageLarge ? { imageLarge: s.imageLarge } : {}) };
       let target = null;
       if (typeof r.sameAs === "string") {
         target = r.sameAs.startsWith("item:") ? placed[+r.sameAs.slice(5)] : findEvent(r.sameAs);
       }
       if (target) {
         if (!target.reports.some(x => x.url === s.url)) target.reports.push(report);
+        if (!target.image && s.image) { target.image = s.image; if (s.imageLarge) target.imageLarge = s.imageLarge; }
         if (r.relevance === "high") target.relevance = "high";
         placed[r.id] = target; merged++;
         continue;
@@ -303,6 +342,7 @@ async function runDesk(desk) {
       const ev = {
         id: idFor(s.url), headline: s.headline, url: s.url, source: s.src, date: s.date,
         relevance: r.relevance === "high" ? "high" : "medium",
+        ...(s.image ? { image: s.image } : {}), ...(s.imageLarge ? { imageLarge: s.imageLarge } : {}),
         why: typeof r.why === "string" ? r.why : "",
         implications: (r.implications || []).filter(x => typeof x === "string").slice(0, 3),
         reports: [report]
