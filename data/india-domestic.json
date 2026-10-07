@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-07T09:12:34.044Z",
+  "updatedAt": "2026-10-07T15:26:02.502Z",
   "sectors": [
     {
       "id": "energy",
@@ -373,6 +373,104 @@
       "name": "Logistics & Shipping",
       "items": [
         {
+          "id": "s1io1kv0",
+          "headline": "Govt scrambles to resolve Mumbai airport Terminal-1 shift",
+          "url": "https://www.livemint.com/industry/govt-scrambles-to-resolve-mumbai-airport-terminal-1-shift-11791110756932.html",
+          "source": "mint",
+          "date": "2026-10-05T00:31:02.000Z",
+          "relevance": "high",
+          "why": "Shifting international flights from Mumbai's main airport to Navi Mumbai affects a major aviation gateway and airline operations.",
+          "implications": [
+            "Some international departures from Mumbai may be temporarily moved, which could disrupt schedules for travellers.",
+            "Airlines may face rescheduling costs, which could eventually be reflected in fares.",
+            "Air cargo and connecting passengers could face delays if the shift is rushed."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Govt scrambles to resolve Mumbai airport Terminal-1 shift",
+              "url": "https://www.livemint.com/industry/govt-scrambles-to-resolve-mumbai-airport-terminal-1-shift-11791110756932.html",
+              "date": "2026-10-05T00:31:02.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Mint Explainer | Why Adani’s Mumbai airport redevelopment has triggered a row",
+              "url": "https://www.livemint.com/industry/infrastructure/adani-mumbai-airport-international-flight-slots-navi-mumbai-airport-11791173693718.html",
+              "date": "2026-10-05T05:31:12.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Mumbai airport changes from Oct 25: Over 200 weekly international flights to be cut, says report — what flyers must know",
+              "url": "https://www.livemint.com/industry/infrastructure/mumbai-airport-changes-from-oct-25-over-200-weekly-international-flights-to-be-cut-says-report-what-flyers-must-know-11790998781947.html",
+              "date": "2026-10-03T04:31:02.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Adani Airport to go ahead with Mumbai redevelopment; airlines reject proposal",
+              "url": "https://www.livemint.com/companies/news/adani-airport-navi-mumbai-mumbai-airport-redevelopment-india-airlines-11791045126155.html",
+              "date": "2026-10-04T01:57:20.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Mumbai airport T1 redevelopment - how passengers will be affected as 265 international flights move to Navi Mumbai",
+              "url": "https://www.livemint.com/industry/infrastructure/mumbai-airport-t1-redevelopment-how-passengers-will-be-affected-as-265-international-flights-move-to-navi-mumbai-11791098254862.html",
+              "date": "2026-10-04T07:44:00.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Mumbai airport standoff: Govt puts Adani Airports' plan to shift international flights from T2 to Navi Mumbai on hold",
+              "url": "https://www.livemint.com/news/india/mumbai-airport-standoff-govt-pauses-adani-airport-s-plan-to-cut-international-flights-from-t2-11791293307395.html",
+              "date": "2026-10-06T13:41:35.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Govt pauses Adani plan to move Mumbai international flights, gives airlines more time",
+              "url": "https://www.livemint.com/industry/govt-pauses-adani-plan-to-move-mumbai-international-flights-gives-airlines-more-time-11791294877943.html",
+              "date": "2026-10-06T15:16:39.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Foreign airlines grouping urges for alternatives to flight cuts at Mumbai airport",
+              "url": "https://www.thehindu.com/business/Industry/foreign-airlines-grouping-urges-for-alternatives-to-flight-cuts-at-mumbai-airport/article71555683.ece",
+              "date": "2026-10-07T13:35:54.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "IATA asks airlines to negotiate Mumbai slot cuts, seek longer transition period",
+              "url": "https://www.livemint.com/industry/iata-airlines-negotiate-mumbai-slot-cuts-seek-longer-transition-period-csmia-navi-mumbai-international-operations-adani-11791375283449.html",
+              "date": "2026-10-07T14:02:23.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sb3lbi4",
+          "headline": "Centre revisits ATF price stabilisation fund amid rising costs",
+          "url": "https://www.livemint.com/industry/atf-price-stabilisation-fund-airlines-india-11791268222479.html",
+          "source": "mint",
+          "date": "2026-10-06T08:25:20.000Z",
+          "relevance": "medium",
+          "why": "A revived ATF price stabilisation mechanism could affect airline costs and fares across the aviation sector amid rising fuel costs.",
+          "implications": [
+            "Airfares may stay more stable if fuel price swings are smoothed out.",
+            "Airlines facing cost pressure could get some relief on operating costs.",
+            "Final design of the fund is uncertain and could take time."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Centre revisits ATF price stabilisation fund amid rising costs",
+              "url": "https://www.livemint.com/industry/atf-price-stabilisation-fund-airlines-india-11791268222479.html",
+              "date": "2026-10-06T08:25:20.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "Jet fuel shock: Govt explores price stabilisation fund relief for airlines as ATF prices climb",
+              "url": "https://www.livemint.com/industry/energy/jet-fuel-shock-govt-explores-price-stabilisation-fund-relief-for-airlines-as-atf-prices-climb-11791372277654.html",
+              "date": "2026-10-07T11:38:31.000Z"
+            }
+          ]
+        },
+        {
           "id": "spd98hj",
           "headline": "‘Longer but safer’ routes may beat speed: France says IMEC ‘more necessary amid Gaza, Iran, Hormuz crises’",
           "url": "https://www.livemint.com/news/world/longer-but-safer-routes-may-beat-speed-france-says-imec-more-necessary-amid-gaza-iran-hormuz-crises-11791303247567.html",
@@ -441,64 +539,6 @@
           ]
         },
         {
-          "id": "s1io1kv0",
-          "headline": "Govt scrambles to resolve Mumbai airport Terminal-1 shift",
-          "url": "https://www.livemint.com/industry/govt-scrambles-to-resolve-mumbai-airport-terminal-1-shift-11791110756932.html",
-          "source": "mint",
-          "date": "2026-10-05T00:31:02.000Z",
-          "relevance": "high",
-          "why": "Shifting international flights from Mumbai's main airport to Navi Mumbai affects a major aviation gateway and airline operations.",
-          "implications": [
-            "Some international departures from Mumbai may be temporarily moved, which could disrupt schedules for travellers.",
-            "Airlines may face rescheduling costs, which could eventually be reflected in fares.",
-            "Air cargo and connecting passengers could face delays if the shift is rushed."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "Govt scrambles to resolve Mumbai airport Terminal-1 shift",
-              "url": "https://www.livemint.com/industry/govt-scrambles-to-resolve-mumbai-airport-terminal-1-shift-11791110756932.html",
-              "date": "2026-10-05T00:31:02.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "Mint Explainer | Why Adani’s Mumbai airport redevelopment has triggered a row",
-              "url": "https://www.livemint.com/industry/infrastructure/adani-mumbai-airport-international-flight-slots-navi-mumbai-airport-11791173693718.html",
-              "date": "2026-10-05T05:31:12.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "Mumbai airport changes from Oct 25: Over 200 weekly international flights to be cut, says report — what flyers must know",
-              "url": "https://www.livemint.com/industry/infrastructure/mumbai-airport-changes-from-oct-25-over-200-weekly-international-flights-to-be-cut-says-report-what-flyers-must-know-11790998781947.html",
-              "date": "2026-10-03T04:31:02.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "Adani Airport to go ahead with Mumbai redevelopment; airlines reject proposal",
-              "url": "https://www.livemint.com/companies/news/adani-airport-navi-mumbai-mumbai-airport-redevelopment-india-airlines-11791045126155.html",
-              "date": "2026-10-04T01:57:20.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "Mumbai airport T1 redevelopment - how passengers will be affected as 265 international flights move to Navi Mumbai",
-              "url": "https://www.livemint.com/industry/infrastructure/mumbai-airport-t1-redevelopment-how-passengers-will-be-affected-as-265-international-flights-move-to-navi-mumbai-11791098254862.html",
-              "date": "2026-10-04T07:44:00.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "Mumbai airport standoff: Govt puts Adani Airports' plan to shift international flights from T2 to Navi Mumbai on hold",
-              "url": "https://www.livemint.com/news/india/mumbai-airport-standoff-govt-pauses-adani-airport-s-plan-to-cut-international-flights-from-t2-11791293307395.html",
-              "date": "2026-10-06T13:41:35.000Z"
-            },
-            {
-              "source": "mint",
-              "headline": "Govt pauses Adani plan to move Mumbai international flights, gives airlines more time",
-              "url": "https://www.livemint.com/industry/govt-pauses-adani-plan-to-move-mumbai-international-flights-gives-airlines-more-time-11791294877943.html",
-              "date": "2026-10-06T15:16:39.000Z"
-            }
-          ]
-        },
-        {
           "id": "s1su96hr",
           "headline": "11 Indian crew injured after ship hit by projectile in Strait of Hormuz; India condemns attack",
           "url": "https://www.thehindu.com/news/national/indian-crew-attacked-in-mt-on-peace-vessel-attack-strait-of-hormuz/article71551158.ece",
@@ -522,28 +562,6 @@
               "headline": "‘Targeting of commercial shipping must end’: India condemns latest attack on vessels",
               "url": "https://www.thehindu.com/news/national/targeting-of-commercial-shipping-must-end-india-condemns-latest-attack-on-vessels/article71551531.ece",
               "date": "2026-10-06T13:32:21.000Z"
-            }
-          ]
-        },
-        {
-          "id": "sb3lbi4",
-          "headline": "Centre revisits ATF price stabilisation fund amid rising costs",
-          "url": "https://www.livemint.com/industry/atf-price-stabilisation-fund-airlines-india-11791268222479.html",
-          "source": "mint",
-          "date": "2026-10-06T08:25:20.000Z",
-          "relevance": "medium",
-          "why": "A revived ATF price stabilisation mechanism could affect airline costs and fares across the aviation sector amid rising fuel costs.",
-          "implications": [
-            "Airfares may stay more stable if fuel price swings are smoothed out.",
-            "Airlines facing cost pressure could get some relief on operating costs.",
-            "Final design of the fund is uncertain and could take time."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "Centre revisits ATF price stabilisation fund amid rising costs",
-              "url": "https://www.livemint.com/industry/atf-price-stabilisation-fund-airlines-india-11791268222479.html",
-              "date": "2026-10-06T08:25:20.000Z"
             }
           ]
         },
@@ -619,6 +637,199 @@
       "name": "Economy & Trade",
       "items": [
         {
+          "id": "s1oem4n8",
+          "headline": "RBI says NBFC ban on revolving credit is a clarification, not a new rule",
+          "url": "https://www.livemint.com/industry/banking/rbi-says-nbfc-ban-on-revolving-credit-is-a-clarification-not-a-new-rule-11791378140568.html",
+          "source": "mint",
+          "date": "2026-10-07T15:13:34.000Z",
+          "relevance": "medium",
+          "why": "RBI's clarification on NBFC revolving credit shapes how non-bank lenders across India can structure loan products.",
+          "implications": [
+            "NBFC borrowers may find revolving credit lines harder to get if lending is limited to term loans.",
+            "Non-bank lenders may need to redesign credit-line products to follow the final RBI norms.",
+            "Small businesses and consumers using flexible NBFC credit may shift to fixed-tenure loans."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "RBI says NBFC ban on revolving credit is a clarification, not a new rule",
+              "url": "https://www.livemint.com/industry/banking/rbi-says-nbfc-ban-on-revolving-credit-is-a-clarification-not-a-new-rule-11791378140568.html",
+              "date": "2026-10-07T15:13:34.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sq9bww3",
+          "headline": "Why are Indian and U.S. leaders cooling off on a trade deal? | Explained",
+          "url": "https://www.thehindu.com/business/Economy/why-are-indian-and-us-leaders-cooling-off-on-a-trade-deal-explained/article71554453.ece",
+          "source": "thehindu",
+          "date": "2026-10-07T06:24:10.000Z",
+          "relevance": "high",
+          "why": "Stalled India-US trade talks leave uncertainty over tariffs and market access for exporters across the economy.",
+          "implications": [
+            "Exporters in sectors facing US tariffs may see orders and margins stay under pressure.",
+            "Delay could prolong uncertainty for firms planning US-linked investment and hiring.",
+            "Workers in export-heavy industries may face job risks if tariffs persist."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Why are Indian and U.S. leaders cooling off on a trade deal? | Explained",
+              "url": "https://www.thehindu.com/business/Economy/why-are-indian-and-us-leaders-cooling-off-on-a-trade-deal-explained/article71554453.ece",
+              "date": "2026-10-07T06:24:10.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Failure to finalise US trade deal may hurt India, but new FTAs can cushion tariff blow: RBI chief",
+              "url": "https://www.thehindu.com/business/Economy/failure-to-finalise-us-trade-deal-may-hurt-india-but-new-ftas-can-cushion-tariff-blow-rbi-chief/article71556248.ece",
+              "date": "2026-10-07T14:41:09.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sj12pqf",
+          "headline": "RBI to clarify forex reporting rules soon",
+          "url": "https://www.livemint.com/news/india/rbi-to-clarify-forex-reporting-rules-soon-11791369703116.html",
+          "source": "mint",
+          "date": "2026-10-07T12:31:21.000Z",
+          "relevance": "medium",
+          "why": "Unclear RBI forex reporting rules could burden small service exporters and freelancers earning from overseas clients.",
+          "implications": [
+            "Freelancers and small exporters may face extra export declaration paperwork until RBI clarifies.",
+            "Clarification expected soon could reduce compliance uncertainty for overseas payments."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "RBI to clarify forex reporting rules soon",
+              "url": "https://www.livemint.com/news/india/rbi-to-clarify-forex-reporting-rules-soon-11791369703116.html",
+              "date": "2026-10-07T12:31:21.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Individuals spared from new FEMA reporting requirement: RBI clarifies",
+              "url": "https://www.thehindu.com/business/Economy/individuals-spared-from-new-fema-reporting-requirement-rbi-clarifies/article71556019.ece",
+              "date": "2026-10-07T13:55:28.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sba6wbd",
+          "headline": "RBI raises repo rate by 25 basis points to 5.50%, shifts stance to ‘calibrated tightening’",
+          "url": "https://www.thehindu.com/business/Economy/rbi-hikes-repo-rate-by-25-basis-points-to-55/article71554369.ece",
+          "source": "thehindu",
+          "date": "2026-10-07T07:01:08.000Z",
+          "relevance": "high",
+          "why": "The first repo rate hike in about three and a half years, with a tightening stance, signals the RBI is moving to contain inflation.",
+          "implications": [
+            "Home, auto and business loan EMIs linked to the repo rate may rise in coming weeks.",
+            "Bank deposit rates could edge up, helping savers.",
+            "Higher borrowing costs may slow credit-driven spending and investment."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "RBI raises repo rate by 25 basis points to 5.50%, shifts stance to ‘calibrated tightening’",
+              "url": "https://www.thehindu.com/business/Economy/rbi-hikes-repo-rate-by-25-basis-points-to-55/article71554369.ece",
+              "date": "2026-10-07T07:01:08.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "RBI MPC meeting highlights: Repo rate hiked to 5.5%; rate cuts off the table in near term, Governor Sanjay Malhotra says",
+              "url": "https://www.thehindu.com/business/rbi-monetary-policy-meeting-decision-on-repo-rate-live-updates-october-7-2026/article71554262.ece",
+              "date": "2026-10-07T07:41:50.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "RBI has done what it can with interest rates for now, but heavy lifting on inflation will fall on government",
+              "url": "https://www.thehindu.com/business/Economy/rbi-has-done-what-it-can-with-interest-rates-but-heavy-lifting-on-inflation-will-fall-on-government/article71555013.ece",
+              "date": "2026-10-07T10:49:31.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "RBI hikes rates, but banks may hold off on raising deposit rates",
+              "url": "https://www.livemint.com/industry/banking/rbi-hikes-rates-but-banks-may-hold-off-on-raising-deposit-rates-11791371695597.html",
+              "date": "2026-10-07T12:47:14.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "RBI turns hawkish on inflation, but rate hikes could test growth momentum",
+              "url": "https://www.livemint.com/industry/banking/rbi-turns-hawkish-on-inflation-but-rate-hikes-could-test-growth-momentum-11791371106641.html",
+              "date": "2026-10-07T13:43:29.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sct34p6",
+          "headline": "India, UK agree to explore cross-border equity, bond listings through GIFT IFSC",
+          "url": "https://www.livemint.com/news/india/india-uk-agree-to-explore-cross-border-equity-bond-listings-through-gift-ifsc-11791376410985.html",
+          "source": "mint",
+          "date": "2026-10-07T13:39:25.000Z",
+          "relevance": "medium",
+          "why": "Exploring cross-border equity and bond listings through GIFT IFSC could deepen India's international financial links with the UK.",
+          "implications": [
+            "Indian firms may eventually gain easier access to UK capital through GIFT City listings.",
+            "Details are not yet set, so near-term effects on households are likely limited."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "India, UK agree to explore cross-border equity, bond listings through GIFT IFSC",
+              "url": "https://www.livemint.com/news/india/india-uk-agree-to-explore-cross-border-equity-bond-listings-through-gift-ifsc-11791376410985.html",
+              "date": "2026-10-07T13:39:25.000Z"
+            }
+          ]
+        },
+        {
+          "id": "sknsv68",
+          "headline": "India-EFTA trade pact covers 99.6% of Indian exports: commerce secretary",
+          "url": "https://www.livemint.com/news/india/india-efta-trade-pact-covers-99-6-exports-commerce-secretary-rajesh-agrawal-tepa-exporters-11791375022839.html",
+          "source": "mint",
+          "date": "2026-10-07T13:29:19.000Z",
+          "relevance": "medium",
+          "why": "The India-EFTA trade pact covers nearly all Indian exports, widening access to European markets and potential investment.",
+          "implications": [
+            "Exporters may gain easier entry to EFTA markets if they prepare market-specific plans.",
+            "Some of the pledged $100-billion investment could create jobs, though timing is uncertain.",
+            "Smaller exporters may need support to use the pact's tariff benefits."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "India-EFTA trade pact covers 99.6% of Indian exports: commerce secretary",
+              "url": "https://www.livemint.com/news/india/india-efta-trade-pact-covers-99-6-exports-commerce-secretary-rajesh-agrawal-tepa-exporters-11791375022839.html",
+              "date": "2026-10-07T13:29:19.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1ne9viz",
+          "headline": "RBI to make account aggregators interoperable; integrate demat and deposit data",
+          "url": "https://www.livemint.com/industry/banking/rbi-account-aggregators-customer-interoperable-demat-deposit-data-11791352175137.html",
+          "source": "mint",
+          "date": "2026-10-07T07:15:56.000Z",
+          "relevance": "medium",
+          "why": "Interoperable account aggregators could make India's consent-based financial data sharing easier across banks and fintech providers.",
+          "implications": [
+            "Customers may access loans and financial services more smoothly regardless of their aggregator.",
+            "Integrating demat and deposit data could speed up credit assessment for borrowers."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "RBI to make account aggregators interoperable; integrate demat and deposit data",
+              "url": "https://www.livemint.com/industry/banking/rbi-account-aggregators-customer-interoperable-demat-deposit-data-11791352175137.html",
+              "date": "2026-10-07T07:15:56.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "RBI to allow inter-operability among account aggregators; integrate bank deposits with CAS",
+              "url": "https://www.thehindu.com/business/rbi-to-allow-inter-operability-among-account-aggregators-integrate-bank-deposits-with-cas/article71555668.ece",
+              "date": "2026-10-07T13:18:00.000Z"
+            }
+          ]
+        },
+        {
           "id": "sdancio",
           "headline": "Centre to propose five-pronged reform plan at GST Council meeting on October 8",
           "url": "https://www.thehindu.com/business/centre-to-propose-five-pronged-reform-plan-at-gst-council-meeting-on-october-8/article71551328.ece",
@@ -661,77 +872,40 @@
               "headline": "Mint Explainer | GST Council meeting: what could change for refunds, enforcement and rate changes",
               "url": "https://www.livemint.com/news/india/gst-council-meeting-proposals-refunds-itc-enforcement-11791358522734.html",
               "date": "2026-10-07T08:59:26.000Z"
-            }
-          ]
-        },
-        {
-          "id": "sba6wbd",
-          "headline": "RBI raises repo rate by 25 basis points to 5.50%, shifts stance to ‘calibrated tightening’",
-          "url": "https://www.thehindu.com/business/Economy/rbi-hikes-repo-rate-by-25-basis-points-to-55/article71554369.ece",
-          "source": "thehindu",
-          "date": "2026-10-07T07:01:08.000Z",
-          "relevance": "high",
-          "why": "The first repo rate hike in about three and a half years, with a tightening stance, signals the RBI is moving to contain inflation.",
-          "implications": [
-            "Home, auto and business loan EMIs linked to the repo rate may rise in coming weeks.",
-            "Bank deposit rates could edge up, helping savers.",
-            "Higher borrowing costs may slow credit-driven spending and investment."
-          ],
-          "reports": [
-            {
-              "source": "thehindu",
-              "headline": "RBI raises repo rate by 25 basis points to 5.50%, shifts stance to ‘calibrated tightening’",
-              "url": "https://www.thehindu.com/business/Economy/rbi-hikes-repo-rate-by-25-basis-points-to-55/article71554369.ece",
-              "date": "2026-10-07T07:01:08.000Z"
             },
             {
               "source": "thehindu",
-              "headline": "RBI MPC meeting highlights: Repo rate hiked to 5.5%; rate cuts off the table in near term, Governor Sanjay Malhotra says",
-              "url": "https://www.thehindu.com/business/rbi-monetary-policy-meeting-decision-on-repo-rate-live-updates-october-7-2026/article71554262.ece",
-              "date": "2026-10-07T07:41:50.000Z"
+              "headline": "GST Council meets tomorrow, tax experts say reforms must move beyond rates to processes, compliance",
+              "url": "https://www.thehindu.com/business/Economy/gst-council-meets-tomorrow-tax-experts-say-reforms-must-move-beyond-rates-to-processes-compliance/article71555446.ece",
+              "date": "2026-10-07T12:14:28.000Z"
             }
           ]
         },
         {
-          "id": "s1ne9viz",
-          "headline": "RBI to make account aggregators interoperable; integrate demat and deposit data",
-          "url": "https://www.livemint.com/industry/banking/rbi-account-aggregators-customer-interoperable-demat-deposit-data-11791352175137.html",
+          "id": "sf8nc9e",
+          "headline": "Irdai commission caps: Brokers to seek more time to submit feedback on Friday",
+          "url": "https://www.livemint.com/industry/irdai-commission-caps-brokers-to-seek-more-time-to-submit-feedback-on-friday-11791288222095.html",
           "source": "mint",
-          "date": "2026-10-07T07:15:56.000Z",
+          "date": "2026-10-06T15:33:03.000Z",
           "relevance": "medium",
-          "why": "Interoperable account aggregators could make India's consent-based financial data sharing easier across banks and fintech providers.",
+          "why": "Proposed caps on insurance commissions could reshape how insurance is sold and priced across India.",
           "implications": [
-            "Customers may access loans and financial services more smoothly regardless of their aggregator.",
-            "Integrating demat and deposit data could speed up credit assessment for borrowers."
+            "Insurance distribution income may change, which could affect brokers and agents' earnings.",
+            "Premiums or product availability for policyholders could shift if distribution costs change.",
+            "The final rules may be delayed if the feedback deadline is extended."
           ],
           "reports": [
             {
               "source": "mint",
-              "headline": "RBI to make account aggregators interoperable; integrate demat and deposit data",
-              "url": "https://www.livemint.com/industry/banking/rbi-account-aggregators-customer-interoperable-demat-deposit-data-11791352175137.html",
-              "date": "2026-10-07T07:15:56.000Z"
-            }
-          ]
-        },
-        {
-          "id": "sq9bww3",
-          "headline": "Why are Indian and U.S. leaders cooling off on a trade deal? | Explained",
-          "url": "https://www.thehindu.com/business/Economy/why-are-indian-and-us-leaders-cooling-off-on-a-trade-deal-explained/article71554453.ece",
-          "source": "thehindu",
-          "date": "2026-10-07T06:24:10.000Z",
-          "relevance": "high",
-          "why": "Stalled India-US trade talks leave uncertainty over tariffs and market access for exporters across the economy.",
-          "implications": [
-            "Exporters in sectors facing US tariffs may see orders and margins stay under pressure.",
-            "Delay could prolong uncertainty for firms planning US-linked investment and hiring.",
-            "Workers in export-heavy industries may face job risks if tariffs persist."
-          ],
-          "reports": [
+              "headline": "Irdai commission caps: Brokers to seek more time to submit feedback on Friday",
+              "url": "https://www.livemint.com/industry/irdai-commission-caps-brokers-to-seek-more-time-to-submit-feedback-on-friday-11791288222095.html",
+              "date": "2026-10-06T15:33:03.000Z"
+            },
             {
-              "source": "thehindu",
-              "headline": "Why are Indian and U.S. leaders cooling off on a trade deal? | Explained",
-              "url": "https://www.thehindu.com/business/Economy/why-are-indian-and-us-leaders-cooling-off-on-a-trade-deal-explained/article71554453.ece",
-              "date": "2026-10-07T06:24:10.000Z"
+              "source": "mint",
+              "headline": "RBI to share views on Irdai’s proposed insurance distribution overhaul",
+              "url": "https://www.livemint.com/industry/rbi-to-share-views-on-irdai-proposed-insurance-distribution-overhaul-11791367805932.html",
+              "date": "2026-10-07T11:09:35.000Z"
             }
           ]
         },
@@ -818,28 +992,6 @@
               "headline": "RBI MPC speech: Weak monsoon, strong El Niño, rabi season, global crude prices - What Governor Sanjay Malhotra conveyed",
               "url": "https://www.livemint.com/economy/rbi-mpc-speech-weak-monsoon-strong-el-nino-rabi-season-global-crude-prices-what-governor-sanjay-malhotra-conveyed-11791349667128.html",
               "date": "2026-10-07T05:29:42.000Z"
-            }
-          ]
-        },
-        {
-          "id": "sf8nc9e",
-          "headline": "Irdai commission caps: Brokers to seek more time to submit feedback on Friday",
-          "url": "https://www.livemint.com/industry/irdai-commission-caps-brokers-to-seek-more-time-to-submit-feedback-on-friday-11791288222095.html",
-          "source": "mint",
-          "date": "2026-10-06T15:33:03.000Z",
-          "relevance": "medium",
-          "why": "Proposed caps on insurance commissions could reshape how insurance is sold and priced across India.",
-          "implications": [
-            "Insurance distribution income may change, which could affect brokers and agents' earnings.",
-            "Premiums or product availability for policyholders could shift if distribution costs change.",
-            "The final rules may be delayed if the feedback deadline is extended."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "Irdai commission caps: Brokers to seek more time to submit feedback on Friday",
-              "url": "https://www.livemint.com/industry/irdai-commission-caps-brokers-to-seek-more-time-to-submit-feedback-on-friday-11791288222095.html",
-              "date": "2026-10-06T15:33:03.000Z"
             }
           ]
         },
@@ -1366,6 +1518,33 @@
       "name": "Technology",
       "items": [
         {
+          "id": "sexalie",
+          "headline": "There should be no GST on MDR for UPI transactions: C. Rangarajan",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/there-should-be-no-gst-on-mdr-for-upi-transactions-c-rangarajan/article71548512.ece",
+          "source": "thehindu",
+          "date": "2026-10-05T18:56:14.000Z",
+          "relevance": "medium",
+          "why": "A senior economist's view on GST for UPI merchant fees feeds a national debate on the cost of running India's digital payments system.",
+          "implications": [
+            "Any GST on UPI merchant fees could raise acceptance costs for small merchants and businesses.",
+            "Higher costs may lead some merchants to limit UPI or pass charges on to customers."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "There should be no GST on MDR for UPI transactions: C. Rangarajan",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/there-should-be-no-gst-on-mdr-for-upi-transactions-c-rangarajan/article71548512.ece",
+              "date": "2026-10-05T18:56:14.000Z"
+            },
+            {
+              "source": "thehindu",
+              "headline": "MDR a small fee, will not have major impact on UPI volumes: RBI Governor Malhotra",
+              "url": "https://www.thehindu.com/business/Economy/rbi-governor-sanjay-malhotra-press-conference-rbi-repo-rate-october-7-2026/article71555386.ece",
+              "date": "2026-10-07T12:35:42.000Z"
+            }
+          ]
+        },
+        {
           "id": "syhti7a",
           "headline": "Airtel introduces new postpaid plans, hikes prices by 3-11%",
           "url": "https://www.livemint.com/companies/news/ahead-of-jio-ipo-airtel-introduces-new-postpaid-plans-hikes-prices-by-311-11791352737739.html",
@@ -1525,27 +1704,6 @@
               "headline": "Is era of affordable smartphones ending? HMD India CEO warns prices may stay high till 2027",
               "url": "https://www.livemint.com/technology/is-era-of-affordable-smartphones-ending-hmd-india-ceo-warns-prices-may-stay-high-till-2027-11791268377725.html",
               "date": "2026-10-06T07:14:58.000Z"
-            }
-          ]
-        },
-        {
-          "id": "sexalie",
-          "headline": "There should be no GST on MDR for UPI transactions: C. Rangarajan",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/there-should-be-no-gst-on-mdr-for-upi-transactions-c-rangarajan/article71548512.ece",
-          "source": "thehindu",
-          "date": "2026-10-05T18:56:14.000Z",
-          "relevance": "medium",
-          "why": "A senior economist's view on GST for UPI merchant fees feeds a national debate on the cost of running India's digital payments system.",
-          "implications": [
-            "Any GST on UPI merchant fees could raise acceptance costs for small merchants and businesses.",
-            "Higher costs may lead some merchants to limit UPI or pass charges on to customers."
-          ],
-          "reports": [
-            {
-              "source": "thehindu",
-              "headline": "There should be no GST on MDR for UPI transactions: C. Rangarajan",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/there-should-be-no-gst-on-mdr-for-upi-transactions-c-rangarajan/article71548512.ece",
-              "date": "2026-10-05T18:56:14.000Z"
             }
           ]
         },
@@ -1901,23 +2059,24 @@
       "name": "Agriculture & Food",
       "items": [
         {
-          "id": "s12jq6qy",
-          "headline": "Mint Explainer: South India pins hope on northeast monsoon for rainfall relief",
-          "url": "https://www.livemint.com/news/india/northeast-monsoon-south-india-rainfall-deficit-11791350428826.html",
-          "source": "mint",
-          "date": "2026-10-07T07:43:30.000Z",
+          "id": "s3w84zn",
+          "headline": "Why is the price of rice rising across the country? | Explained",
+          "url": "https://www.thehindu.com/news/national/why-is-the-price-of-rice-rising-across-the-country-explained/article71555312.ece",
+          "source": "thehindu",
+          "date": "2026-10-07T12:01:18.000Z",
           "relevance": "medium",
-          "why": "A significant southwest monsoon rainfall deficit across five southern states makes the northeast monsoon important for crops and water supply.",
+          "why": "Rising rice prices and a central advisory to shift crops signal pressure on food supply and cropping patterns nationwide.",
           "implications": [
-            "Weak northeast monsoon rains could hurt crop output and farm incomes in southern states.",
-            "Reservoir and water availability may tighten, which could affect irrigation and drinking supply."
+            "Household food bills may rise if rice prices keep climbing.",
+            "Farmers in rain-fed areas may be pushed toward short-duration crops, pulses and millets.",
+            "Food inflation pressure could persist in coming months."
           ],
           "reports": [
             {
-              "source": "mint",
-              "headline": "Mint Explainer: South India pins hope on northeast monsoon for rainfall relief",
-              "url": "https://www.livemint.com/news/india/northeast-monsoon-south-india-rainfall-deficit-11791350428826.html",
-              "date": "2026-10-07T07:43:30.000Z"
+              "source": "thehindu",
+              "headline": "Why is the price of rice rising across the country? | Explained",
+              "url": "https://www.thehindu.com/news/national/why-is-the-price-of-rice-rising-across-the-country-explained/article71555312.ece",
+              "date": "2026-10-07T12:01:18.000Z"
             }
           ]
         },
@@ -1939,6 +2098,33 @@
               "headline": "Monster, PepsiCo, Campa get Delhi HC relief against FSSAI ‘energy drink’ label ban",
               "url": "https://www.livemint.com/industry/retail/monster-pepsico-campa-get-delhi-hc-relief-against-fssai-energy-drink-label-ban-11791286344573.html",
               "date": "2026-10-06T13:08:57.000Z"
+            },
+            {
+              "source": "mint",
+              "headline": "What happens to 'energy drinks' after Campa, PepsiCo get interim court relief against FSSAI label ban? | Explained",
+              "url": "https://www.livemint.com/news/what-happens-to-energy-drinks-after-campa-pepsico-get-interim-court-relief-against-fssai-label-ban-explained-11791360484751.html",
+              "date": "2026-10-07T09:16:30.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s12jq6qy",
+          "headline": "Mint Explainer: South India pins hope on northeast monsoon for rainfall relief",
+          "url": "https://www.livemint.com/news/india/northeast-monsoon-south-india-rainfall-deficit-11791350428826.html",
+          "source": "mint",
+          "date": "2026-10-07T07:43:30.000Z",
+          "relevance": "medium",
+          "why": "A significant southwest monsoon rainfall deficit across five southern states makes the northeast monsoon important for crops and water supply.",
+          "implications": [
+            "Weak northeast monsoon rains could hurt crop output and farm incomes in southern states.",
+            "Reservoir and water availability may tighten, which could affect irrigation and drinking supply."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Mint Explainer: South India pins hope on northeast monsoon for rainfall relief",
+              "url": "https://www.livemint.com/news/india/northeast-monsoon-south-india-rainfall-deficit-11791350428826.html",
+              "date": "2026-10-07T07:43:30.000Z"
             }
           ]
         },
@@ -1992,6 +2178,49 @@
       "id": "governance",
       "name": "Policy & Governance",
       "items": [
+        {
+          "id": "sbpfk1m",
+          "headline": "State, UT-level Bankers’ Committees asked to report share of SC beneficiaries in jobs, loan subsidy schemes",
+          "url": "https://www.thehindu.com/news/national/state-ut-level-bankers-committees-asked-to-report-share-of-sc-beneficiaries-in-jobs-loan-subsidy-schemes/article71555856.ece",
+          "source": "thehindu",
+          "date": "2026-10-07T14:58:05.000Z",
+          "relevance": "medium",
+          "why": "A national advisory requires bankers' committees to report SC beneficiary data, improving oversight of inclusive access to bank credit and subsidies.",
+          "implications": [
+            "Banks may have to collect and report SC beneficiary data in job and loan subsidy schemes.",
+            "Better data could help regulators spot gaps in credit access for SC borrowers.",
+            "Monitoring of state-level lending performance by the National Commission for SCs may improve."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "State, UT-level Bankers’ Committees asked to report share of SC beneficiaries in jobs, loan subsidy schemes",
+              "url": "https://www.thehindu.com/news/national/state-ut-level-bankers-committees-asked-to-report-share-of-sc-beneficiaries-in-jobs-loan-subsidy-schemes/article71555856.ece",
+              "date": "2026-10-07T14:58:05.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s5x99w1",
+          "headline": "CEC appointment law row: SC to examine plea seeking recall of September split verdict",
+          "url": "https://www.livemint.com/news/india/cec-appointment-law-row-sc-to-examine-plea-seeking-recall-of-september-split-verdict-11791360017671.html",
+          "source": "mint",
+          "date": "2026-10-07T09:10:18.000Z",
+          "relevance": "medium",
+          "why": "The Supreme Court's handling of the CEC appointment law row affects how India's top election officials are chosen and how much trust voters place in them.",
+          "implications": [
+            "A recall hearing could reopen the legal basis for the current appointment process for election commissioners.",
+            "The outcome may shape how elections are overseen and how credible they are seen to be."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "CEC appointment law row: SC to examine plea seeking recall of September split verdict",
+              "url": "https://www.livemint.com/news/india/cec-appointment-law-row-sc-to-examine-plea-seeking-recall-of-september-split-verdict-11791360017671.html",
+              "date": "2026-10-07T09:10:18.000Z"
+            }
+          ]
+        },
         {
           "id": "s1izayod",
           "headline": "ECI Row: What happens when all three Election Commissioners disagree? Here's what the law says",
@@ -2270,15 +2499,15 @@
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
     "analysed": 104,
-    "added": 8,
+    "added": 7,
     "merged": 13,
-    "rejected": 83,
+    "rejected": 84,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 338
+        "items": 343
       },
       "mint": {
         "feedsOk": 6,

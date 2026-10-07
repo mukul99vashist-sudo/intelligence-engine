@@ -2,12 +2,33 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-07T09:10:53.424Z",
+  "updatedAt": "2026-10-07T15:24:51.593Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "sb9ft7l",
+          "headline": "US sets new demands for Iran deal: What are they?",
+          "url": "https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they",
+          "source": "aljazeera",
+          "date": "2026-10-07T10:58:23.000Z",
+          "relevance": "medium",
+          "why": "US terms for an Iran nuclear deal could decide whether Iranian oil and Gulf shipping tensions ease or worsen, affecting India's energy imports.",
+          "implications": [
+            "A deal could ease Gulf tensions and may moderate crude prices that India depends on.",
+            "Failed talks could prolong sanctions uncertainty and Hormuz risk, likely keeping oil import costs elevated."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "US sets new demands for Iran deal: What are they?",
+              "url": "https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they",
+              "date": "2026-10-07T10:58:23.000Z"
+            }
+          ]
+        },
         {
           "id": "s1ar851p",
           "headline": "Shell expects refineries to almost double the profit from every barrel of fuel made",
@@ -302,6 +323,39 @@
       "name": "Logistics & Shipping",
       "items": [
         {
+          "id": "s18vq9q9",
+          "headline": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
+          "url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters",
+          "source": "aljazeera",
+          "date": "2026-10-06T14:50:01.000Z",
+          "relevance": "medium",
+          "why": "Drone strikes sinking ships in the Black Sea raise risks for shipping on a route carrying grain and edible oils.",
+          "implications": [
+            "Higher shipping risk and insurance costs may disrupt Black Sea cargoes bound for India.",
+            "Disruption could lift global prices of edible oils and grains that India imports."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
+              "url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters",
+              "date": "2026-10-06T14:50:01.000Z"
+            },
+            {
+              "source": "abc",
+              "headline": "Crew missing after drone sinks ship in Black Sea off Bulgaria",
+              "url": "https://www.abc.net.au/news/2026-10-07/crew-missing-after-drone-sinks-ship-in-black-sea/107235430",
+              "date": "2026-10-06T17:14:47.000Z"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Bulgaria ends search for missing crew after drone strike sinks cargo ship",
+              "url": "https://www.aljazeera.com/news/2026/10/7/bulgaria-ends-search-for-missing-crew-after-drone-strike-sinks-cargo-ship",
+              "date": "2026-10-07T10:12:04.000Z"
+            }
+          ]
+        },
+        {
           "id": "s1sjpz83",
           "headline": "Black Sea tanker attack off Russia's Olympic city sparks 'fire of oil'",
           "url": "https://www.abc.net.au/news/2026-10-07/oil-tanker-attack-in-black-sea-off-sochi-sparks-giant-fire/107238536",
@@ -449,33 +503,6 @@
           ]
         },
         {
-          "id": "s18vq9q9",
-          "headline": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
-          "url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters",
-          "source": "aljazeera",
-          "date": "2026-10-06T14:50:01.000Z",
-          "relevance": "medium",
-          "why": "Drone strikes sinking ships in the Black Sea raise risks for shipping on a route carrying grain and edible oils.",
-          "implications": [
-            "Higher shipping risk and insurance costs may disrupt Black Sea cargoes bound for India.",
-            "Disruption could lift global prices of edible oils and grains that India imports."
-          ],
-          "reports": [
-            {
-              "source": "aljazeera",
-              "headline": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
-              "url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters",
-              "date": "2026-10-06T14:50:01.000Z"
-            },
-            {
-              "source": "abc",
-              "headline": "Crew missing after drone sinks ship in Black Sea off Bulgaria",
-              "url": "https://www.abc.net.au/news/2026-10-07/crew-missing-after-drone-sinks-ship-in-black-sea/107235430",
-              "date": "2026-10-06T17:14:47.000Z"
-            }
-          ]
-        },
-        {
           "id": "s1k8znwq",
           "headline": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
           "url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o",
@@ -559,6 +586,49 @@
       "id": "economy",
       "name": "Economy & Trade",
       "items": [
+        {
+          "id": "siruljh",
+          "headline": "India's first bank rate hike since 2023 signals growing inflation concerns",
+          "url": "https://www.bbc.co.uk/news/articles/c5j9kngz3j1go",
+          "source": "bbc",
+          "date": "2026-10-07T10:44:02.000Z",
+          "relevance": "high",
+          "why": "India's first rate hike since 2023 reflects inflation pressure linked to the Middle East conflict.",
+          "implications": [
+            "Loan and EMI costs for households and businesses are likely to rise in the coming weeks.",
+            "Higher borrowing costs could slow credit-driven consumption and investment.",
+            "Inflation worries may persist if Middle East conflict keeps energy prices elevated."
+          ],
+          "reports": [
+            {
+              "source": "bbc",
+              "headline": "India's first bank rate hike since 2023 signals growing inflation concerns",
+              "url": "https://www.bbc.co.uk/news/articles/c5j9kngz3j1go",
+              "date": "2026-10-07T10:44:02.000Z"
+            }
+          ]
+        },
+        {
+          "id": "s1ei81q7",
+          "headline": "IMF chief urges governments to tighten belts as global debt levels soar",
+          "url": "https://www.theguardian.com/business/2026/oct/07/imf-chief-kristalina-georgieva-urges-governments-tighten-belts-global-debt-levels-soar",
+          "source": "guardian",
+          "date": "2026-10-07T10:14:35.000Z",
+          "relevance": "medium",
+          "why": "Rising global bond yields and debt strain in major economies can tighten global financing conditions.",
+          "implications": [
+            "Higher global yields could raise borrowing costs for Indian government and firms raising funds abroad.",
+            "Fiscal tightening in big economies may dampen global demand for Indian exports."
+          ],
+          "reports": [
+            {
+              "source": "guardian",
+              "headline": "IMF chief urges governments to tighten belts as global debt levels soar",
+              "url": "https://www.theguardian.com/business/2026/oct/07/imf-chief-kristalina-georgieva-urges-governments-tighten-belts-global-debt-levels-soar",
+              "date": "2026-10-07T10:14:35.000Z"
+            }
+          ]
+        },
         {
           "id": "s75qgnw",
           "headline": "Coalition’s migration plan risks breaching India free trade agreement and damaging economy, advocates warn",
@@ -875,21 +945,21 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 81,
-    "added": 4,
-    "merged": 4,
-    "rejected": 73,
+    "analysed": 78,
+    "added": 3,
+    "merged": 1,
+    "rejected": 74,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 157
+        "items": 155
       },
       "guardian": {
         "feedsOk": 7,
         "feedsFailed": 0,
-        "items": 202
+        "items": 200
       },
       "npr": {
         "feedsOk": 4,
@@ -899,12 +969,12 @@
       "aljazeera": {
         "feedsOk": 1,
         "feedsFailed": 0,
-        "items": 15
+        "items": 13
       },
       "mercopress": {
-        "feedsOk": 3,
-        "feedsFailed": 0,
-        "items": 30
+        "feedsOk": 2,
+        "feedsFailed": 1,
+        "items": 20
       },
       "abc": {
         "feedsOk": 3,
