@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-07T20:43:44.262Z",
+  "updatedAt": "2026-10-07T21:31:54.230Z",
   "sectors": [
     {
       "id": "energy",
@@ -42,7 +42,8 @@
               "headline": "Tensions escalate in Middle East as Houthis target airports",
               "url": "https://www.abc.net.au/news/2026-10-07/houthis-attack-airports-as-yemen-conflict-intensifies/107239298",
               "date": "2026-10-07T06:42:58.000Z",
-              "ogTried": true
+              "ogTried": true,
+              "image": "https://live-production.wcms.abc-cdn.net.au/ae30053f33cb21a1e96de45d2c485d5e?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485"
             },
             {
               "source": "aljazeera",
@@ -1073,21 +1074,21 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 5,
+    "analysed": 15,
     "added": 0,
     "merged": 0,
-    "rejected": 5,
+    "rejected": 15,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 155
+        "items": 156
       },
       "guardian": {
         "feedsOk": 7,
         "feedsFailed": 0,
-        "items": 203
+        "items": 205
       },
       "npr": {
         "feedsOk": 4,
@@ -1097,7 +1098,7 @@
       "aljazeera": {
         "feedsOk": 1,
         "feedsFailed": 0,
-        "items": 16
+        "items": 14
       },
       "mercopress": {
         "feedsOk": 3,
@@ -1111,8 +1112,8 @@
       }
     },
     "shareImages": {
-      "tried": 28,
-      "found": 22
+      "tried": 0,
+      "found": 0
     }
   }
 }

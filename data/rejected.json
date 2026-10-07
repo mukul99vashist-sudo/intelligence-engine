@@ -1,5 +1,125 @@
 [
   {
+    "source": "npr",
+    "headline": "What is the pneumonic plague?",
+    "url": "https://www.npr.org/2026/10/07/g-s1-146952/pneumonic-plague-russia-siberia-lab-death",
+    "date": "2026-10-07T21:06:31.000Z",
+    "reason": "Explainer on plague after a Russian death; no described India path.",
+    "checkedAt": "2026-10-07T21:31:54.230Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "‘Neither war nor peace’: Palestinians in Gaza on existing amid disease, despair and ruins",
+    "url": "https://www.theguardian.com/world/2026/oct/07/palestinians-gaza-existing-amid-disease-despair-ruins",
+    "date": "2026-10-07T21:00:01.000Z",
+    "reason": "Gaza humanitarian account; no trade, energy or policy shift described.",
+    "checkedAt": "2026-10-07T21:31:54.230Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "Labour Send changes at risk as parents rush to secure support, say experts",
+    "url": "https://www.theguardian.com/education/2026/oct/07/labour-send-reforms-ehcp-system-change-england",
+    "date": "2026-10-07T21:00:00.000Z",
+    "reason": "English special education policy story with no India link.",
+    "checkedAt": "2026-10-07T21:31:54.230Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "Texas set to carry out first US execution since botched lethal injection of Christa Pike",
+    "url": "https://www.theguardian.com/us-news/2026/oct/07/texas-execution-jamaal-howard",
+    "date": "2026-10-07T20:58:51.000Z",
+    "reason": "US domestic execution story with no India link.",
+    "checkedAt": "2026-10-07T21:31:54.230Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "María del Carmen Abascal, symbol of Spain’s housing protests, dies aged 87",
+    "url": "https://www.theguardian.com/world/2026/oct/07/maria-del-carmen-abascal-spain-housing-protests-dies",
+    "date": "2026-10-07T20:57:51.000Z",
+    "reason": "Spanish domestic housing protest story with no India link.",
+    "checkedAt": "2026-10-07T21:31:54.230Z"
+  },
+  {
+    "source": "bbc",
+    "headline": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+    "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo",
+    "date": "2026-10-07T20:51:00.000Z",
+    "reason": "Spanish domestic housing protest story with no India link.",
+    "checkedAt": "2026-10-07T21:31:54.230Z"
+  },
+  {
+    "source": "abc",
+    "headline": "LIV Golf loses star over 'unacceptable' terms",
+    "url": "https://www.abc.net.au/news/2026-10-08/liv-golf-jon-rahm-set-to-quit-over-unacceptable-terms/107241410",
+    "date": "2026-10-07T20:48:09.000Z",
+    "reason": "Golf league business story with no India path.",
+    "checkedAt": "2026-10-07T21:31:54.230Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "WHO says it does not have ‘full picture’ from Russia following suspected plague death",
+    "url": "https://www.theguardian.com/world/2026/oct/07/who-says-it-does-not-have-full-picture-from-russia-following-suspected-plague-death",
+    "date": "2026-10-07T20:46:07.000Z",
+    "reason": "Suspected plague death in Russia; no described path to India.",
+    "checkedAt": "2026-10-07T21:31:54.230Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Alarming data shows rental tenants have hit breaking point",
+    "url": "https://www.abc.net.au/news/2026-10-08/tenants-hit-breaking-point-record-rent-costs-according-to-domain/107238110",
+    "date": "2026-10-07T20:36:47.000Z",
+    "reason": "Australian domestic rental market data with no India path.",
+    "checkedAt": "2026-10-07T21:31:54.230Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "Trump backs away from top aides who reportedly advised pro-Russia government",
+    "url": "https://www.theguardian.com/us-news/2026/oct/07/trump-advisers-republika-srpska",
+    "date": "2026-10-07T20:31:37.000Z",
+    "reason": "US domestic political controversy over advisers; no trade or foreign-policy shift described.",
+    "checkedAt": "2026-10-07T21:31:54.230Z"
+  },
+  {
+    "source": "bbc",
+    "headline": "Chinese runner dropped by sponsor after riding bike during marathon",
+    "url": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o",
+    "date": "2026-10-07T20:29:31.000Z",
+    "reason": "Sports sponsorship story about a runner, no India path.",
+    "checkedAt": "2026-10-07T21:31:54.230Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Rural hospital welcomes first student midwives in more than a decade",
+    "url": "https://www.abc.net.au/news/2026-10-08/biloela-hospital-welcomes-midwifery-students-first-in-decade/107232756",
+    "date": "2026-10-07T20:28:07.000Z",
+    "reason": "Local Queensland health service story with no India link.",
+    "checkedAt": "2026-10-07T21:31:54.230Z"
+  },
+  {
+    "source": "bbc",
+    "headline": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+    "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo",
+    "date": "2026-10-07T20:27:03.000Z",
+    "reason": "Memorial anniversary in Israel; no trade, energy or policy shift described.",
+    "checkedAt": "2026-10-07T21:31:54.230Z"
+  },
+  {
+    "source": "abc",
+    "headline": "New armed police unit unveiled after Bondi terror attack",
+    "url": "https://www.abc.net.au/news/2026-10-08/nsw-police-armed-response-command-bondi-terror-attack/107241254",
+    "date": "2026-10-07T19:52:08.000Z",
+    "reason": "Australian domestic policing story with no clear path to India.",
+    "checkedAt": "2026-10-07T21:31:54.230Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "‘Catastrophic wildfire loop’ after colonisation left parts of Australia more at risk from bushfires, study finds",
+    "url": "https://www.theguardian.com/environment/2026/oct/08/colonisation-wildfire-loop-australia-climate-bushfires",
+    "date": "2026-10-07T15:00:53.000Z",
+    "reason": "Australian regional wildfire history study with no clear path to India.",
+    "checkedAt": "2026-10-07T21:31:54.230Z"
+  },
+  {
     "source": "abc",
     "headline": "Major Australian gambling companies face restrictions if NT bill passes",
     "url": "https://www.abc.net.au/news/2026-10-08/online-gambling-regulation-nt-bill-inducements-deposit-caps/107229354",
@@ -1078,125 +1198,5 @@
     "date": "2026-10-07T09:38:00.000Z",
     "reason": "US criminal case with no India link.",
     "checkedAt": "2026-10-07T15:24:13.574Z"
-  },
-  {
-    "source": "bbc",
-    "headline": "Oscar-winning actress Eva Marie Saint dies aged 102",
-    "url": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo",
-    "date": "2026-10-07T07:37:16.000Z",
-    "reason": "Entertainment obituary with no path to India.",
-    "checkedAt": "2026-10-07T15:24:13.574Z"
-  },
-  {
-    "source": "bbc",
-    "headline": "Half the harvest, twice the bills: how drought hit farms",
-    "url": "https://www.bbc.co.uk/news/articles/c5rm9mdm79neo",
-    "date": "2026-10-07T05:22:52.000Z",
-    "reason": "Drought and farm costs appear to be a domestic story, with no stated India link.",
-    "checkedAt": "2026-10-07T15:24:13.574Z"
-  },
-  {
-    "source": "mercopress",
-    "headline": "Messi leaves Argentina's national team after 21 years with a fortune Forbes puts at US$1.1 billion",
-    "url": "https://en.mercopress.com/2026/10/07/messi-leaves-argentina-s-national-team-after-21-years-with-a-fortune-forbes-puts-at-us-1.1-billion",
-    "date": "2026-10-07T10:00:00.000Z",
-    "reason": "Sports and celebrity news about Messi with no link to India.",
-    "checkedAt": "2026-10-07T09:10:53.424Z"
-  },
-  {
-    "source": "npr",
-    "headline": "3 years on, Israelis grapple with reports Netanyahu was warned before Oct. 7 attacks",
-    "url": "https://www.npr.org/2026/10/07/g-s1-146776/israel-gaza-oct-7-attack-netanyahu-warning",
-    "date": "2026-10-07T09:00:00.000Z",
-    "reason": "Israeli domestic political reports about Netanyahu's warnings; no clear path to India.",
-    "checkedAt": "2026-10-07T09:10:53.424Z"
-  },
-  {
-    "source": "npr",
-    "headline": "Here's the latest sticker shock: Borrowing for a mortgage -- or a car",
-    "url": "https://www.npr.org/2026/10/07/nx-s1-5991910/interest-rates-economy-inflation-bonds",
-    "date": "2026-10-07T09:00:00.000Z",
-    "reason": "Framed around borrowing costs for households in another country, not a global shift affecting India.",
-    "checkedAt": "2026-10-07T09:10:53.424Z"
-  },
-  {
-    "source": "aljazeera",
-    "headline": "Fear and a far-right lurch: How October 7 reshaped Israel",
-    "url": "https://www.aljazeera.com/news/2026/10/7/fear-and-a-far-right-lurch-how-october-7-reshaped-israel",
-    "date": "2026-10-07T08:53:23.000Z",
-    "reason": "Analysis of Israeli domestic politics; no stated trade, energy or foreign-policy shift affecting India.",
-    "checkedAt": "2026-10-07T09:10:53.424Z"
-  },
-  {
-    "source": "abc",
-    "headline": "Israelis mourn on October 7 as Palestinians live in devastated Gaza",
-    "url": "https://www.abc.net.au/news/2026-10-07/october-7-israel-palestine-third-anniversary-memorial/107240588",
-    "date": "2026-10-07T08:52:06.000Z",
-    "reason": "Commemoration of the October 7 attack and Gaza's condition; no stated trade or energy link to India.",
-    "checkedAt": "2026-10-07T09:10:53.424Z"
-  },
-  {
-    "source": "npr",
-    "headline": "Thousands protest in France to support students calling for more resources in schools",
-    "url": "https://www.npr.org/2026/10/07/nx-s1-5992967/thousands-protest-in-france-to-support-students-calling-for-more-resources-in-schools",
-    "date": "2026-10-07T08:44:20.000Z",
-    "reason": "France's domestic school-funding protest has no clear path to India.",
-    "checkedAt": "2026-10-07T09:10:53.424Z"
-  },
-  {
-    "source": "npr",
-    "headline": "American teacher based in France discusses the student-led protests",
-    "url": "https://www.npr.org/2026/10/07/nx-s1-5992754/american-teacher-based-in-france-discusses-the-student-led-protests",
-    "date": "2026-10-07T08:44:10.000Z",
-    "reason": "French student protests are domestic; no path to India.",
-    "checkedAt": "2026-10-07T09:10:50.415Z"
-  },
-  {
-    "source": "npr",
-    "headline": "Former German spy chief to face charges of espionage and attempted treason",
-    "url": "https://www.npr.org/2026/10/07/nx-s1-5992954/former-german-spy-chief-to-face-charges-of-espionage-and-attempted-treason",
-    "date": "2026-10-07T08:43:59.000Z",
-    "reason": "German domestic espionage case with no path to India.",
-    "checkedAt": "2026-10-07T09:10:50.415Z"
-  },
-  {
-    "source": "npr",
-    "headline": "3 years after Hamas attack, Israel remembers those killed",
-    "url": "https://www.npr.org/2026/10/07/nx-s1-5989537/3-years-after-hamas-attack-israel-remembers-those-killed",
-    "date": "2026-10-07T08:43:47.000Z",
-    "reason": "Memorial coverage of the Oct. 7 anniversary; no new development affecting India.",
-    "checkedAt": "2026-10-07T09:10:50.415Z"
-  },
-  {
-    "source": "npr",
-    "headline": "Israeli journalist on how Netanyahu's future has changed since the Oct. 7 attacks",
-    "url": "https://www.npr.org/2026/10/07/nx-s1-5992751/israeli-journalist-on-how-netanyahus-future-has-changed-since-the-oct-7-attacks",
-    "date": "2026-10-07T08:43:41.000Z",
-    "reason": "Israeli domestic politics and leadership analysis without a trade or energy shift.",
-    "checkedAt": "2026-10-07T09:10:50.415Z"
-  },
-  {
-    "source": "abc",
-    "headline": "'Special' moment for researchers as rare fin whales photographed",
-    "url": "https://www.abc.net.au/news/2026-10-07/rare-fin-whales-spotted-migrate-north-wa-coast/107236212",
-    "date": "2026-10-07T08:43:32.000Z",
-    "reason": "Wildlife sighting in Western Australia; no path to India.",
-    "checkedAt": "2026-10-07T09:10:50.415Z"
-  },
-  {
-    "source": "bbc",
-    "headline": "'Wear more clothes if it's cold,' schools told as energy bills rise",
-    "url": "https://www.bbc.co.uk/news/articles/cw0k08nnz07go",
-    "date": "2026-10-07T08:40:29.000Z",
-    "reason": "UK school energy bills are a domestic story; the global cause is covered elsewhere.",
-    "checkedAt": "2026-10-07T09:10:50.415Z"
-  },
-  {
-    "source": "aljazeera",
-    "headline": "Advocates decry detention of Kashmiri filmmaker Arfat Sheikh by ICE in US",
-    "url": "https://www.aljazeera.com/news/2026/10/7/advocates-decry-unlawful-detention-of-kashmiri-filmmaker-by-ice-in-us",
-    "date": "2026-10-07T08:35:23.000Z",
-    "reason": "Individual immigration detention in the US; summary does not establish Indian citizenship or a policy shift.",
-    "checkedAt": "2026-10-07T09:10:50.415Z"
   }
 ]

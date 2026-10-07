@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-07T20:43:48.600Z",
+  "updatedAt": "2026-10-07T21:31:58.378Z",
   "sectors": [
     {
       "id": "energy",
@@ -2887,10 +2887,10 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 1,
+    "analysed": 4,
     "added": 0,
     "merged": 0,
-    "rejected": 1,
+    "rejected": 4,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
@@ -2905,8 +2905,8 @@
       }
     },
     "shareImages": {
-      "tried": 54,
-      "found": 43
+      "tried": 0,
+      "found": 0
     }
   }
 }
