@@ -174,7 +174,9 @@ h1{font:800 clamp(34px,5vw,46px)/1 var(--sans);letter-spacing:-.025em;margin:0}
 .hero-row.solo{grid-template-columns:minmax(0,1fr)}
 .brief{display:flex;flex-direction:column;justify-content:center;gap:14px;background:color-mix(in srgb,var(--card) 84%,transparent);border:1px solid color-mix(in srgb,var(--rule) 70%,transparent);border-radius:20px;padding:24px 26px}
 .brief .from{font:700 12px/1 var(--sans);letter-spacing:.07em;text-transform:uppercase;color:var(--ink-3)}
-.brief blockquote{margin:0;font-size:18px;line-height:1.55;color:var(--ink);border-left:3px solid var(--sc,var(--accent));padding-left:14px}
+.brief .pub{border-left:3px solid var(--sc,var(--accent));padding-left:14px;display:flex;flex-direction:column;gap:10px}
+.brief .stand{margin:0;font-size:18px;line-height:1.45;font-weight:700;color:var(--ink)}
+.brief .lede{margin:0;font-size:16.5px;line-height:1.6;color:var(--ink-2)}
 .brief .cta{align-self:flex-start;display:inline-flex;align-items:center;gap:8px;text-decoration:none;font-weight:700;font-size:15px;color:#fff;background:var(--ink);border-radius:999px;padding:11px 18px}
 .brief .cta:hover{opacity:.9}
 @media (max-width:900px){.hero-row{grid-template-columns:minmax(0,1fr)}}
@@ -411,17 +413,24 @@ function thumb(it, sid){
   img.src=src; w.appendChild(img); return w;
 }
 function imageCredit(it){
+  var lr=leadReport(it); if(lr.image) return lr;
   var src=it.image; var r=reportsOf(it).filter(function(x){return x.image===src;})[0] || reportsOf(it)[0];
   return r;
 }
 /* The publisher's own summary of the article, with a link to the full story */
+/* The report whose headline is shown: brief, photo and button all come from this same article */
+function leadReport(it){ var reps=reportsOf(it); return reps.filter(function(r){return r.url===it.url;})[0] || reps[0]; }
+/* The publisher's own feed text for that article (subtitle + opening paragraph), then a link to continue */
 function brief(it){
-  var reps=reportsOf(it), withSum=reps.filter(function(r){return r.summary;});
-  var r=withSum.filter(function(x){return x.image && x.image===it.image;})[0] || withSum[0] || reps[0];
-  var b=el("div","brief"), name=OUTLET[r.source]||r.source;
+  var r=leadReport(it), b=el("div","brief"), name=OUTLET[r.source]||r.source;
   b.appendChild(el("span","from","From "+name));
-  if(r.summary) b.appendChild(el("blockquote",null,r.summary));
-  var a=el("a","cta","Read the full story on "+name+" →"); a.href=r.url; a.target="_blank"; a.rel="noopener"; b.appendChild(a);
+  if(r.summary || r.lede){
+    var pub=el("div","pub");
+    if(r.summary) pub.appendChild(el("p","stand",r.summary));
+    if(r.lede) pub.appendChild(el("p","lede",r.lede));
+    b.appendChild(pub);
+  }
+  var a=el("a","cta",(r.summary||r.lede?"Continue reading on ":"Read the full story on ")+name+" →"); a.href=r.url; a.target="_blank"; a.rel="noopener"; b.appendChild(a);
   return b;
 }
 /* Earlier developments in the same storyline, with the sourced "How we got here" summary */
@@ -548,7 +557,8 @@ function render(doc){
 function openSheet(e){
   var it=e.it, d=$("sheet"), body=$("sheetBody"); body.textContent=""; body.scrollTop=0;
   body.style.setProperty("--sc","var(--s-"+e.sector.id+")");
-  var ht=thumb(it, e.sector.id), fig=el("figure","hero"), row=el("div","hero-row"+(ht?"":" solo"));
+  var lr=leadReport(it), picSrc=(lr.image ? lr : it);
+  var ht=thumb(picSrc, e.sector.id), fig=el("figure","hero"), row=el("div","hero-row"+(ht?"":" solo"));
   if(ht) fig.appendChild(ht);
   if(ht && !ht.classList.contains("art")){ var cr=imageCredit(it), cap=el("figcaption");
     cap.appendChild(document.createTextNode("Image via ")); var ca=el("a",null,OUTLET[cr.source]||cr.source); ca.href=cr.url; ca.target="_blank"; ca.rel="noopener"; cap.appendChild(ca);
