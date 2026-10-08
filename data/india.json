@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-08T19:49:57.864Z",
+  "updatedAt": "2026-10-08T20:14:40.797Z",
   "sectors": [
     {
       "id": "energy",
@@ -1290,6 +1290,81 @@
       "name": "Policy & Governance",
       "items": [
         {
+          "id": "s185yeqj",
+          "headline": "Indian opposition MPs detained in protest against election chief",
+          "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o",
+          "source": "bbc",
+          "date": "2026-10-06T10:05:22.000Z",
+          "relevance": "medium",
+          "why": "Opposition MPs were detained in India over allegations that the chief election commissioner manipulated voter rolls, a domestic political and institutional dispute.",
+          "implications": [
+            "Disputes over voter-roll integrity could deepen political confrontation and disrupt parliamentary business in India.",
+            "Allegations against the election chief may erode public trust in electoral institutions.",
+            "Further protests and detentions are likely if the opposition's demands go unmet."
+          ],
+          "reports": [
+            {
+              "source": "bbc",
+              "headline": "Indian opposition MPs detained in protest against election chief",
+              "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o",
+              "date": "2026-10-06T10:05:22.000Z",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b1/live/bf4abdf0-c21e-11f1-babe-4199b0e7ccea.jpg",
+              "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/40b1/live/bf4abdf0-c21e-11f1-babe-4199b0e7ccea.jpg",
+              "summary": "Opposition leaders allege that CEC Gyanesh Kumar manipulated voter rolls to favour PM Narendra Modi's party.",
+              "summaryV": 3
+            },
+            {
+              "source": "aljazeera",
+              "headline": "India opposition leaders briefly arrested in protest against election chief",
+              "url": "https://www.aljazeera.com/news/2026/10/6/india-opposition-leaders-briefly-arrested-in-protest-against-election-chief",
+              "date": "2026-10-06T11:16:48.000Z",
+              "ogTried": true,
+              "descTried": true,
+              "summary": "Protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.",
+              "summaryV": 3,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac4b24595a4-1791275589.jpg?resize=1920%2C1440"
+            },
+            {
+              "source": "npr",
+              "headline": "What to know about nationwide protests in India over voter list changes",
+              "url": "https://www.npr.org/2026/10/06/g-s1-146636/what-to-know-about-nationwide-protests-in-india-over-voter-list-changes",
+              "date": "2026-10-06T11:44:06.000Z",
+              "ogTried": true,
+              "descTried": true
+            },
+            {
+              "source": "aljazeera",
+              "headline": "‘Cockroach stir stripped Modi’s carefully confected image’: Arundhati Roy",
+              "url": "https://www.aljazeera.com/news/2026/10/6/cockroach-stir-stripped-modis-carefully-confected-image-arundhati-roy",
+              "date": "2026-10-06T14:13:55.000Z",
+              "ogTried": true,
+              "descTried": true,
+              "summary": "Acclaimed Indian author talks to Al Jazeera on the Gen Z-led protests and allegations of vote theft by Modi government.",
+              "summaryV": 3,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/s1-1791277460.jpg?resize=1920%2C1440"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Indian opposition leader Rahul Gandhi detained over election chief protest",
+              "url": "https://www.aljazeera.com/news/2026/10/7/indian-opposition-leader-rahul-gandhi-detained-over-election-chief-protest",
+              "date": "2026-10-07T19:40:07.000Z",
+              "summary": "Rahul Gandhi has been arrested several times at protests demanding the resignation of poll body chief.",
+              "summaryV": 3
+            },
+            {
+              "source": "aljazeera",
+              "headline": "India’s Cockroach movement says members detained as protests continue",
+              "url": "https://www.aljazeera.com/news/2026/10/8/indias-cockroach-movement-says-members-detained-as-protests-continue",
+              "date": "2026-10-08T19:49:03.000Z",
+              "summary": "India's opposition and student-led CJP movement demand election chief's resignation, plan mass demonstration Saturday.",
+              "summaryV": 3
+            }
+          ],
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b1/live/bf4abdf0-c21e-11f1-babe-4199b0e7ccea.jpg",
+          "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/40b1/live/bf4abdf0-c21e-11f1-babe-4199b0e7ccea.jpg",
+          "thread": "t1kqejni"
+        },
+        {
           "id": "sknukp8",
           "headline": "US suspends Microsoft and Adobe from visa programme amid fraud claims",
           "url": "https://www.aljazeera.com/economy/2026/10/8/us-suspends-microsoft-and-adobe-from-visa-programme-amid-fraud-claims",
@@ -1365,73 +1440,6 @@
           ],
           "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac75953-1791449427_498247-1791453911.jpg?resize=1200%2C630&quality=80",
           "thread": "tq9ru94"
-        },
-        {
-          "id": "s185yeqj",
-          "headline": "Indian opposition MPs detained in protest against election chief",
-          "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o",
-          "source": "bbc",
-          "date": "2026-10-06T10:05:22.000Z",
-          "relevance": "medium",
-          "why": "Opposition MPs were detained in India over allegations that the chief election commissioner manipulated voter rolls, a domestic political and institutional dispute.",
-          "implications": [
-            "Disputes over voter-roll integrity could deepen political confrontation and disrupt parliamentary business in India.",
-            "Allegations against the election chief may erode public trust in electoral institutions.",
-            "Further protests and detentions are likely if the opposition's demands go unmet."
-          ],
-          "reports": [
-            {
-              "source": "bbc",
-              "headline": "Indian opposition MPs detained in protest against election chief",
-              "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o",
-              "date": "2026-10-06T10:05:22.000Z",
-              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b1/live/bf4abdf0-c21e-11f1-babe-4199b0e7ccea.jpg",
-              "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/40b1/live/bf4abdf0-c21e-11f1-babe-4199b0e7ccea.jpg",
-              "summary": "Opposition leaders allege that CEC Gyanesh Kumar manipulated voter rolls to favour PM Narendra Modi's party.",
-              "summaryV": 3
-            },
-            {
-              "source": "aljazeera",
-              "headline": "India opposition leaders briefly arrested in protest against election chief",
-              "url": "https://www.aljazeera.com/news/2026/10/6/india-opposition-leaders-briefly-arrested-in-protest-against-election-chief",
-              "date": "2026-10-06T11:16:48.000Z",
-              "ogTried": true,
-              "descTried": true,
-              "summary": "Protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.",
-              "summaryV": 3,
-              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac4b24595a4-1791275589.jpg?resize=1920%2C1440"
-            },
-            {
-              "source": "npr",
-              "headline": "What to know about nationwide protests in India over voter list changes",
-              "url": "https://www.npr.org/2026/10/06/g-s1-146636/what-to-know-about-nationwide-protests-in-india-over-voter-list-changes",
-              "date": "2026-10-06T11:44:06.000Z",
-              "ogTried": true,
-              "descTried": true
-            },
-            {
-              "source": "aljazeera",
-              "headline": "‘Cockroach stir stripped Modi’s carefully confected image’: Arundhati Roy",
-              "url": "https://www.aljazeera.com/news/2026/10/6/cockroach-stir-stripped-modis-carefully-confected-image-arundhati-roy",
-              "date": "2026-10-06T14:13:55.000Z",
-              "ogTried": true,
-              "descTried": true,
-              "summary": "Acclaimed Indian author talks to Al Jazeera on the Gen Z-led protests and allegations of vote theft by Modi government.",
-              "summaryV": 3,
-              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/s1-1791277460.jpg?resize=1920%2C1440"
-            },
-            {
-              "source": "aljazeera",
-              "headline": "Indian opposition leader Rahul Gandhi detained over election chief protest",
-              "url": "https://www.aljazeera.com/news/2026/10/7/indian-opposition-leader-rahul-gandhi-detained-over-election-chief-protest",
-              "date": "2026-10-07T19:40:07.000Z",
-              "summary": "Rahul Gandhi has been arrested several times at protests demanding the resignation of poll body chief.",
-              "summaryV": 3
-            }
-          ],
-          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b1/live/bf4abdf0-c21e-11f1-babe-4199b0e7ccea.jpg",
-          "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/40b1/live/bf4abdf0-c21e-11f1-babe-4199b0e7ccea.jpg",
-          "thread": "t1kqejni"
         },
         {
           "id": "s59a90g",
@@ -1586,16 +1594,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 60,
-    "added": 1,
-    "merged": 3,
-    "rejected": 56,
+    "analysed": 5,
+    "added": 0,
+    "merged": 1,
+    "rejected": 4,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 159
+        "items": 160
       },
       "guardian": {
         "feedsOk": 7,
@@ -1610,7 +1618,7 @@
       "aljazeera": {
         "feedsOk": 1,
         "feedsFailed": 0,
-        "items": 15
+        "items": 16
       },
       "mercopress": {
         "feedsOk": 3,
@@ -1624,13 +1632,13 @@
       }
     },
     "shareImages": {
-      "tried": 1,
-      "found": 1,
+      "tried": 0,
+      "found": 0,
       "summaries": 0
     },
     "threads": {
-      "assigned": 1,
-      "created": 1,
+      "assigned": 0,
+      "created": 0,
       "failedBatches": 0
     },
     "summaries": {

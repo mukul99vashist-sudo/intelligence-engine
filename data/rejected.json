@@ -1,5 +1,37 @@
 [
   {
+    "source": "bbc",
+    "headline": "BBC Inside Science",
+    "url": "https://www.bbc.co.uk/sounds/play/w3ct9788",
+    "date": "2026-10-08T20:00:00.000Z",
+    "reason": "General science podcast on AI and mathematics; no clear India impact.",
+    "checkedAt": "2026-10-08T20:14:40.792Z"
+  },
+  {
+    "source": "aljazeera",
+    "headline": "At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war",
+    "url": "https://www.aljazeera.com/news/2026/10/8/at-least-81-us-aircraft-worth-up-to-3-3bn-lost-or-damaged-in-iran-war",
+    "date": "2026-10-08T19:43:39.000Z",
+    "reason": "US military losses and domestic war-cost criticism; no direct trade or energy path to India.",
+    "checkedAt": "2026-10-08T20:14:40.792Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Katie Lynch wants to see AFL 'harness the momentum' of Pride Round",
+    "url": "https://www.abc.net.au/news/2026-10-09/katie-lynch-aflw-pride-round-gold-coast-suns/107229526",
+    "date": "2026-10-08T18:50:44.000Z",
+    "reason": "Australian domestic sports story with no path to India.",
+    "checkedAt": "2026-10-08T20:14:40.792Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Maduro and wife Flores face new charge of conspiracy to commit torture",
+    "url": "https://www.abc.net.au/news/2026-10-09/maduro-flores-torture-allegations/107245720",
+    "date": "2026-10-08T15:50:03.000Z",
+    "reason": "US legal case against Venezuela's former leader; no clear trade or energy path to India.",
+    "checkedAt": "2026-10-08T20:14:40.792Z"
+  },
+  {
     "source": "abc",
     "headline": "Unique Rite of Passage ritual alive and well in Inala's Indigenous community",
     "url": "https://www.abc.net.au/news/2026-10-09/qld-rite-of-passage-ritual-inala/107242852",
@@ -1165,38 +1197,6 @@
     "url": "https://www.aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east",
     "date": "2026-10-08T06:11:24.000Z",
     "reason": "Retrospective analysis of regional alliances, with no specific new trade or energy shift.",
-    "checkedAt": "2026-10-08T07:28:48.472Z"
-  },
-  {
-    "source": "abc",
-    "headline": "Sam Wood denied bail on DV charges after allegedly choking wife",
-    "url": "https://www.abc.net.au/news/2026-10-08/qld-sam-wood-domestic-violence-court/107239306",
-    "date": "2026-10-08T06:03:13.000Z",
-    "reason": "Australian domestic violence case; no India link.",
-    "checkedAt": "2026-10-08T07:28:48.472Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "University students say procrastination is biggest threat to their academic performance",
-    "url": "https://www.theguardian.com/education/2026/oct/08/university-students-procrastination-biggest-threat-academic-performance",
-    "date": "2026-10-08T06:00:12.000Z",
-    "reason": "US student survey on procrastination; no India link.",
-    "checkedAt": "2026-10-08T07:28:48.472Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "Voting opens in high-stakes Holborn and St Pancras byelection",
-    "url": "https://www.theguardian.com/politics/2026/oct/08/voting-opens-holborn-st-pancras-byelection-green-party-zack-polanksi-labour-sagal-abdi-wali",
-    "date": "2026-10-08T06:00:12.000Z",
-    "reason": "UK local byelection with no trade, tariff or foreign-policy shift mentioned.",
-    "checkedAt": "2026-10-08T07:28:48.472Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "UK’s military needs to focus spending on domestic defence, not overseas missions – report",
-    "url": "https://www.theguardian.com/uk-news/2026/oct/08/uk-military-domestic-defence-overseas-missions-thinktank-report",
-    "date": "2026-10-08T06:00:11.000Z",
-    "reason": "UK domestic defence spending debate; no clear India path.",
     "checkedAt": "2026-10-08T07:28:48.472Z"
   }
 ]
