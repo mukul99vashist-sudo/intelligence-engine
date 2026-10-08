@@ -2,39 +2,12 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-08T01:14:31.113Z",
+  "updatedAt": "2026-10-08T05:46:57.184Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
-        {
-          "id": "s11ae8ai",
-          "headline": "India's battery energy storage push hits a viability wall",
-          "url": "https://www.livemint.com/industry/energy/india-battery-energy-storage-systems-bess-for-wind-solar-power-11791365673898.html",
-          "source": "mint",
-          "date": "2026-10-08T00:30:22.000Z",
-          "relevance": "medium",
-          "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/BluPine-Energy_1787120467762_1787120467909_ae5552c4-5a96-4185-aa47-ce5df302e9fe_1791383333249_8Quw_cbd1e36f-ff81-4cdc-92a8-33c3636183f5_tT7h.jpg",
-          "why": "Cancelled or re-tendered battery storage projects point to viability problems that could slow India's shift to round-the-clock green power.",
-          "implications": [
-            "Delays in storage may limit how much solar and wind power can serve evening demand.",
-            "Power utilities could keep relying on coal and gas to meet peak needs.",
-            "Weak project economics may prompt calls for subsidies or revised tender rules."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "India's battery energy storage push hits a viability wall",
-              "url": "https://www.livemint.com/industry/energy/india-battery-energy-storage-systems-bess-for-wind-solar-power-11791365673898.html",
-              "date": "2026-10-08T00:30:22.000Z",
-              "summary": "Data from the India Energy Storage Alliance (IESA), an industry body of battery makers, shows a total of 24 gigawatt hour BESS projects were cancelled or re-tendered during 2018-2026, highlighting the challenges in transitioning to green power.",
-              "summaryV": 3,
-              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/BluPine-Energy_1787120467762_1787120467909_ae5552c4-5a96-4185-aa47-ce5df302e9fe_1791383333249_8Quw_cbd1e36f-ff81-4cdc-92a8-33c3636183f5_tT7h.jpg"
-            }
-          ],
-          "thread": "t1wry2eb"
-        },
         {
           "id": "slvj25g",
           "headline": "Petrol and diesel prices today, October 5: Check fuel cost in Delhi, Mumbai, Bengaluru",
@@ -81,10 +54,46 @@
               "summary": "Iran has increased the pace of attacks on tankers in the Strait of Hormuz in recent days, just as oil shipments through the world’s most important energy chokepoint approach prewar levels.",
               "summaryV": 3,
               "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/ANI-20260523128-0_1779589143364_1779589273427_142be4b3-363a-4a6b-8f4e-10a81dbb6723_1791335982621_ywDz_69ef1ec2-303e-467e-8b30-621c988b6569_LPY0.jpg"
+            },
+            {
+              "source": "mint",
+              "headline": "Petrol, diesel prices today, October 8: Check rates in Delhi, Mumbai, Bengaluru, Chennai and more",
+              "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-october-8-check-rates-in-delhi-mumbai-bengaluru-chennai-and-more-11791423193485.html",
+              "date": "2026-10-08T01:47:17.000Z",
+              "summary": "Petrol and diesel prices remained unchanged across major cities on October 8 even as global crude oil prices rose amid supply concerns linked to the US-Iran war and disruptions around the Strait of Hormuz.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/2-0-1242954145-Petrol-pump-5-0_1679616097740_1791423454345_N1Lk_81dbc43e-d66f-4688-9286-0e1d6d0d6084_MECo.jpg"
             }
           ],
           "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/INDIA-ECONOMY-ENERGY-FUEL-1_1789954965148_dyX7_178_1791256870241_2Ntn_1791256870409_wZtQ_d30a2a6f-36c4-4ebf-b645-e8e6a179d557_mjD7.jpg",
           "thread": "t8nzveu"
+        },
+        {
+          "id": "s11ae8ai",
+          "headline": "India's battery energy storage push hits a viability wall",
+          "url": "https://www.livemint.com/industry/energy/india-battery-energy-storage-systems-bess-for-wind-solar-power-11791365673898.html",
+          "source": "mint",
+          "date": "2026-10-08T00:30:22.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/BluPine-Energy_1787120467762_1787120467909_ae5552c4-5a96-4185-aa47-ce5df302e9fe_1791383333249_8Quw_cbd1e36f-ff81-4cdc-92a8-33c3636183f5_tT7h.jpg",
+          "why": "Cancelled or re-tendered battery storage projects point to viability problems that could slow India's shift to round-the-clock green power.",
+          "implications": [
+            "Delays in storage may limit how much solar and wind power can serve evening demand.",
+            "Power utilities could keep relying on coal and gas to meet peak needs.",
+            "Weak project economics may prompt calls for subsidies or revised tender rules."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "India's battery energy storage push hits a viability wall",
+              "url": "https://www.livemint.com/industry/energy/india-battery-energy-storage-systems-bess-for-wind-solar-power-11791365673898.html",
+              "date": "2026-10-08T00:30:22.000Z",
+              "summary": "Data from the India Energy Storage Alliance (IESA), an industry body of battery makers, shows a total of 24 gigawatt hour BESS projects were cancelled or re-tendered during 2018-2026, highlighting the challenges in transitioning to green power.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/BluPine-Energy_1787120467762_1787120467909_ae5552c4-5a96-4185-aa47-ce5df302e9fe_1791383333249_8Quw_cbd1e36f-ff81-4cdc-92a8-33c3636183f5_tT7h.jpg"
+            }
+          ],
+          "thread": "t1wry2eb"
         },
         {
           "id": "s577zy8",
@@ -506,6 +515,81 @@
       "name": "Logistics & Shipping",
       "items": [
         {
+          "id": "smlaafg",
+          "headline": "'Cannot afford to depend on single route’: EU backs IMEC to make India-Europe trade more resilient amid Hormuz crisis",
+          "url": "https://www.livemint.com/news/world/cannot-afford-to-depend-on-single-route-eu-backs-imec-to-make-india-europe-trade-more-resilient-amid-hormuz-crisis-11791433725453.html",
+          "source": "mint",
+          "date": "2026-10-08T05:19:37.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/Global_Leaders_a_1791435103143_Nbot_1791435103259_OOVD_eda58559-1ad2-4298-8e0f-3df32e4a98a6_azYG.png",
+          "why": "EU backing for the IMEC corridor could help diversify India-Europe trade routes that are exposed to Strait of Hormuz disruption.",
+          "implications": [
+            "Exporters may gain alternatives to single-chokepoint shipping routes if the corridor progresses.",
+            "Freight costs and delivery times on India-Europe trade could become less volatile over time.",
+            "Corridor benefits are likely to take years, so near-term shipping risks may persist."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "'Cannot afford to depend on single route’: EU backs IMEC to make India-Europe trade more resilient amid Hormuz crisis",
+              "url": "https://www.livemint.com/news/world/cannot-afford-to-depend-on-single-route-eu-backs-imec-to-make-india-europe-trade-more-resilient-amid-hormuz-crisis-11791433725453.html",
+              "date": "2026-10-08T05:19:37.000Z",
+              "summary": "The EU is backing IMEC to diversify India-Europe trade routes amid concerns over Strait of Hormuz disruptions. EU's Apostolos Tzitzikostas said reliance on a single route or chokepoint risks wider supply-chain shocks, while green shipping can strengthen resilient connectivity.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/Global_Leaders_a_1791435103143_Nbot_1791435103259_OOVD_eda58559-1ad2-4298-8e0f-3df32e4a98a6_azYG.png"
+            }
+          ],
+          "thread": "t5diw6y"
+        },
+        {
+          "id": "s1su96hr",
+          "headline": "11 Indian crew injured after ship hit by projectile in Strait of Hormuz; India condemns attack",
+          "url": "https://www.thehindu.com/news/national/indian-crew-attacked-in-mt-on-peace-vessel-attack-strait-of-hormuz/article71551158.ece",
+          "source": "thehindu",
+          "date": "2026-10-06T11:23:32.000Z",
+          "relevance": "high",
+          "why": "An attack on a vessel in the Strait of Hormuz, with Indian crew injured, highlights risk to a key shipping route for India.",
+          "implications": [
+            "Shipping and insurance costs on Gulf routes could rise, adding to import costs.",
+            "Indian seafarers on Gulf routes may face greater safety risks and disruption."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "11 Indian crew injured after ship hit by projectile in Strait of Hormuz; India condemns attack",
+              "url": "https://www.thehindu.com/news/national/indian-crew-attacked-in-mt-on-peace-vessel-attack-strait-of-hormuz/article71551158.ece",
+              "date": "2026-10-06T11:23:32.000Z",
+              "ogTried": true,
+              "image": "https://www.thehindu.com/theme/images/og-image.png",
+              "descTried": true,
+              "summary": "11 Indian crew injured after Panama-flagged MT On Peace hit in Strait of Hormuz; India condemns attack and urges ceasefire and safety of shipping.",
+              "summaryV": 3
+            },
+            {
+              "source": "thehindu",
+              "headline": "‘Targeting of commercial shipping must end’: India condemns latest attack on vessels",
+              "url": "https://www.thehindu.com/news/national/targeting-of-commercial-shipping-must-end-india-condemns-latest-attack-on-vessels/article71551531.ece",
+              "date": "2026-10-06T13:32:21.000Z",
+              "ogTried": true,
+              "image": "https://th-i.thgim.com/public/incoming/k9d71f/article71551848.ece/alternates/LANDSCAPE_1200/Iran_Strait_of_Hormuz_62397.jpg",
+              "descTried": true,
+              "summary": "MEA condemns attacks on commercial shipping and seafarers, urges dialogue to restore safe navigation and end violence.",
+              "summaryV": 3
+            },
+            {
+              "source": "thehindu",
+              "headline": "Strait of Hormuz transits at lowest in over two months after attacks, data shows",
+              "url": "https://www.thehindu.com/business/Economy/strait-of-hormuz-transits-at-lowest-in-over-two-months-after-attacks-data-shows/article71558339.ece",
+              "date": "2026-10-08T04:19:11.000Z",
+              "summary": "Seven commodity vessels passed through the strait on Tuesday (October 6, 2026), for the lowest figure since July 23, data from analytics ‌firm Kpler showed",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/dl7fqp/article71558345.ece/alternates/LANDSCAPE_1200/StraitofHormuz.jpg"
+            }
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/k9d71f/article71551848.ece/alternates/LANDSCAPE_1200/Iran_Strait_of_Hormuz_62397.jpg",
+          "thread": "t8nzveu"
+        },
+        {
           "id": "sh9gabj",
           "headline": "Railways to recruit 5,664 staff and scrap 10,939 posts",
           "url": "https://www.thehindu.com/news/national/telangana/railways-to-recruit-5664-staff-and-scrap-10939-posts/article71555971.ece",
@@ -779,45 +863,6 @@
           "thread": "t799ig4"
         },
         {
-          "id": "s1su96hr",
-          "headline": "11 Indian crew injured after ship hit by projectile in Strait of Hormuz; India condemns attack",
-          "url": "https://www.thehindu.com/news/national/indian-crew-attacked-in-mt-on-peace-vessel-attack-strait-of-hormuz/article71551158.ece",
-          "source": "thehindu",
-          "date": "2026-10-06T11:23:32.000Z",
-          "relevance": "medium",
-          "why": "An attack on a vessel in the Strait of Hormuz, with Indian crew injured, highlights risk to a key shipping route for India.",
-          "implications": [
-            "Shipping and insurance costs on Gulf routes could rise, adding to import costs.",
-            "Indian seafarers on Gulf routes may face greater safety risks and disruption."
-          ],
-          "reports": [
-            {
-              "source": "thehindu",
-              "headline": "11 Indian crew injured after ship hit by projectile in Strait of Hormuz; India condemns attack",
-              "url": "https://www.thehindu.com/news/national/indian-crew-attacked-in-mt-on-peace-vessel-attack-strait-of-hormuz/article71551158.ece",
-              "date": "2026-10-06T11:23:32.000Z",
-              "ogTried": true,
-              "image": "https://www.thehindu.com/theme/images/og-image.png",
-              "descTried": true,
-              "summary": "11 Indian crew injured after Panama-flagged MT On Peace hit in Strait of Hormuz; India condemns attack and urges ceasefire and safety of shipping.",
-              "summaryV": 3
-            },
-            {
-              "source": "thehindu",
-              "headline": "‘Targeting of commercial shipping must end’: India condemns latest attack on vessels",
-              "url": "https://www.thehindu.com/news/national/targeting-of-commercial-shipping-must-end-india-condemns-latest-attack-on-vessels/article71551531.ece",
-              "date": "2026-10-06T13:32:21.000Z",
-              "ogTried": true,
-              "image": "https://th-i.thgim.com/public/incoming/k9d71f/article71551848.ece/alternates/LANDSCAPE_1200/Iran_Strait_of_Hormuz_62397.jpg",
-              "descTried": true,
-              "summary": "MEA condemns attacks on commercial shipping and seafarers, urges dialogue to restore safe navigation and end violence.",
-              "summaryV": 3
-            }
-          ],
-          "image": "https://th-i.thgim.com/public/incoming/k9d71f/article71551848.ece/alternates/LANDSCAPE_1200/Iran_Strait_of_Hormuz_62397.jpg",
-          "thread": "t8nzveu"
-        },
-        {
           "id": "s1myyjke",
           "headline": "First international cargo vessel leaves eastern Assam since 1947",
           "url": "https://www.thehindu.com/news/national/assam/first-international-cargo-vessel-leaves-eastern-assam-since-1947/article71547112.ece",
@@ -905,6 +950,33 @@
       "id": "economy",
       "name": "Economy & Trade",
       "items": [
+        {
+          "id": "sj85f6u",
+          "headline": "India’s trade caught in the middle",
+          "url": "https://www.thehindu.com/business/Economy/indias-trade-caught-in-the-middle/article71555534.ece",
+          "source": "thehindu",
+          "date": "2026-10-08T03:31:33.000Z",
+          "relevance": "medium",
+          "image": "https://th-i.thgim.com/public/news/national/xjvmmk/article71557086.ece/alternates/LANDSCAPE_1200/iStock-1399337469.jpg",
+          "why": "India's surplus with the US offsets its structural deficit with China, so US trade pressure could affect India's overall external balance.",
+          "implications": [
+            "Heavier US tariffs may hurt exporters whose earnings help offset imports from China.",
+            "A weaker trade balance could add pressure on the current account and the rupee.",
+            "Exporters may need to look for alternative markets."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "India’s trade caught in the middle",
+              "url": "https://www.thehindu.com/business/Economy/indias-trade-caught-in-the-middle/article71555534.ece",
+              "date": "2026-10-08T03:31:33.000Z",
+              "summary": "India’s trade surplus with the U.S. is critical as it offsets a structural trade deficit with China, but a heavy U.S.",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/news/national/xjvmmk/article71557086.ece/alternates/LANDSCAPE_1200/iStock-1399337469.jpg"
+            }
+          ],
+          "thread": "t1ka6u13"
+        },
         {
           "id": "sjush0y",
           "headline": "RBI likely to raise repo rate in October 2026 as West Asia crisis fuels inflation risks",
@@ -2132,6 +2204,24 @@
               "image": "https://th-i.thgim.com/public/incoming/bipzki/article71557212.ece/alternates/LANDSCAPE_1200/2026-09-30T002232Z_896588131_RC28TNA9YYZZ_RTRMADP_3_USA-AI-WHITEHOUSE.JPG",
               "summary": "Mr. Musk made the allegation hours after Lauren Dreyer, a SpaceX executive, said she hoped that the service would be operational in India by next year",
               "summaryV": 3
+            },
+            {
+              "source": "mint",
+              "headline": "Starlink row: Govt rubbishes Elon Musk's remarks on ‘oligarchs’ as ‘baseless’, hails India's ‘fair’ framework",
+              "url": "https://www.livemint.com/news/india/starlink-row-govt-responds-elon-musk-on-indian-oligarchs-blocking-starlink-baseless-and-misconceived-11791432321350.html",
+              "date": "2026-10-08T04:13:07.000Z",
+              "summary": "The Ministry of Communications dismissed SpaceX CEO Elon Musk's claim that the Starlink satellite communication service in India is being “blocked by certain oligarchs.”",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/Elon_Musk_1791432362996_6e9a_1791432363107_n72p_bd5b3eab-0cc3-46ff-80a9-933205472a88_qJQl.png"
+            },
+            {
+              "source": "thehindu",
+              "headline": "‘Baseless and misconceived’: Centre rebuts Musk’s ‘blocked entry’ charge on Starlink India",
+              "url": "https://www.thehindu.com/news/national/baseless-and-misconceived-centre-rebuts-musks-blocked-entry-charge-on-starlink-india/article71558404.ece",
+              "date": "2026-10-08T05:14:46.000Z",
+              "summary": "American billionaire Elon Musk alleged that Starlink’s entry into India was being “blocked” by certain “oligarchs” seeking to protect their “monopolistic chokehold”",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/23enjq/article71558464.ece/alternates/LANDSCAPE_1200/iStock-1558220804.jpg"
             }
           ],
           "image": "https://th-i.thgim.com/public/incoming/bkc3f6/article71554523.ece/alternates/LANDSCAPE_1200/BL-Explainer_-WG6BGE1FJ4.4.jpg.jpg",
@@ -2531,6 +2621,33 @@
       "id": "manufacturing",
       "name": "Manufacturing",
       "items": [
+        {
+          "id": "samk3g",
+          "headline": "Apparel makers seek cheaper labour, subsidies in India’s newer hubs",
+          "url": "https://www.livemint.com/industry/apparel-industry-garment-manufacturing-textiles-labour-costs-labour-shortage-11791373737806.html",
+          "source": "mint",
+          "date": "2026-10-08T03:10:15.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/gc7197bc87b1e0f869a0055ac6b49d76d042369b07670d9c48_1791428739940_w7oA_1791428740082_xYgB_13f84122-4fa9-4753-a8c0-c25918241b84_iEZM.jpg",
+          "why": "Garment production shifting to eastern and central states could change where India's labour-intensive textile manufacturing and jobs are located.",
+          "implications": [
+            "Odisha, Bihar, Jharkhand and Madhya Pradesh may see more factory jobs for local workers.",
+            "State incentives could lower production costs for apparel makers.",
+            "Traditional garment hubs may face labour and cost competition."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Apparel makers seek cheaper labour, subsidies in India’s newer hubs",
+              "url": "https://www.livemint.com/industry/apparel-industry-garment-manufacturing-textiles-labour-costs-labour-shortage-11791373737806.html",
+              "date": "2026-10-08T03:10:15.000Z",
+              "summary": "India’s apparel makers are moving east, chasing cheaper labour, better worker availability and state incentives. Can Odisha, Bihar, Jharkhand and Madhya Pradesh emerge as the country’s next garment hubs?",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/gc7197bc87b1e0f869a0055ac6b49d76d042369b07670d9c48_1791428739940_w7oA_1791428740082_xYgB_13f84122-4fa9-4753-a8c0-c25918241b84_iEZM.jpg"
+            }
+          ],
+          "thread": "twsid28"
+        },
         {
           "id": "sit6k7i",
           "headline": "Govt weighs export floor price for cotton yarn to ensure domestic supplies",
@@ -3122,6 +3239,15 @@
               "descTried": true,
               "summary": "Finance Ministry directs SLBCs/UTLBCs to report share of SC beneficiaries in flagship schemes to aid NCSC monitoring and inclusion aims.",
               "summaryV": 3
+            },
+            {
+              "source": "thehindu",
+              "headline": "Why have SLBCs/UTLBCs been asked to report SC beneficiary data for key government schemes for jobs and entrepreneurship? | Explained",
+              "url": "https://www.thehindu.com/news/national/why-have-slbcsutlbcs-been-asked-to-report-sc-beneficiary-data-for-key-government-schemes-for-jobs-and-entrepreneurship-explained/article71558428.ece",
+              "date": "2026-10-08T05:24:43.000Z",
+              "summary": "The primary focus of the SLBS is supposed to be on “policy and strategic issues relating to the flow of priority sector credit and overall financial inclusion in the state”, as per the RBI guidelines governing the functioning of the committees",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/business/Economy/cy2101/article68274928.ece/alternates/LANDSCAPE_1200/NKV-FinanceMinistry.jpg"
             }
           ],
           "image": "https://www.thehindu.com/theme/images/og-image.png",
@@ -3546,16 +3672,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 13,
-    "added": 4,
-    "merged": 0,
-    "rejected": 9,
+    "analysed": 54,
+    "added": 3,
+    "merged": 5,
+    "rejected": 46,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 340
+        "items": 339
       },
       "mint": {
         "feedsOk": 6,
@@ -3569,13 +3695,13 @@
       "summaries": 0
     },
     "threads": {
-      "assigned": 4,
-      "created": 3,
+      "assigned": 3,
+      "created": 1,
       "failedBatches": 0
     },
     "summaries": {
-      "written": 1,
-      "due": 1
+      "written": 2,
+      "due": 2
     }
   },
   "recentDays": 60

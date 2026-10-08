@@ -1,17 +1,17 @@
 {
  "desk": "global",
- "updatedAt": "2026-10-08T01:14:15.986Z",
+ "updatedAt": "2026-10-08T05:46:02.117Z",
  "threads": {
   "t2ogxay": {
    "id": "t2ogxay",
    "name": "US-Iran war and Hormuz",
    "sector": "energy",
    "created": "2026-10-02T01:17:37.000Z",
-   "updated": "2026-10-08T00:33:03.000Z",
-   "latestHeadline": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
-   "summary": "On 2 October, The Guardian reported that the US was sending a third aircraft carrier to the Middle East amid a stalemate in the Iran war. By 5 October, Al Jazeera reported that Middle East oil exports had surpassed pre-war levels, while an IRGC commander called oil flows through a US-supervised route in Hormuz 'negligible'. The same day, The Guardian reported that Iran's oil minister had resigned as its economic crisis worsened. On 6 October, Saudi Arabia said its East-West pipeline was pumping 5.8 million bpd after a major attack the previous month, and on 7 October India's Foreign Ministry said 11 of 12 injured crew on the attacked tanker On Peace in the Strait of Hormuz were Indian nationals.",
-   "summaryCount": 9,
-   "summaryAt": "2026-10-08T01:14:15.984Z",
+   "updated": "2026-10-08T02:48:25.000Z",
+   "latestHeadline": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
+   "summary": "On 2 October, The Guardian reported that the US was sending a third aircraft carrier to the Middle East amid a stalemate in the Iran war. By 5 October, Al Jazeera reported that Middle East oil exports had passed pre-war levels, while an IRGC commander called oil flows through a US-supervised route in Hormuz 'negligible', and The Guardian reported that Iran's oil minister had resigned amid a worsening economic crisis. On 6 October, Saudi Arabia said its East-West pipeline was pumping 5.8 million barrels per day after a major attack the previous month, and on 7 October Oman evacuated injured crew from an attacked tanker in the Strait of Hormuz, with India's Foreign Ministry saying 11 of the 12 injured were Indian nationals. On 7 and 8 October, US Vice President Vance called for reduced nuclear enrichment as part of a deal, and the UK maritime agency UKMTO reported a rise in attacks on vess",
+   "summaryCount": 10,
+   "summaryAt": "2026-10-08T05:46:02.114Z",
    "events": [
     {
      "id": "s1o9hx0z",
@@ -93,9 +93,18 @@
      "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears",
      "sector": "energy",
      "month": "2026-10"
+    },
+    {
+     "id": "s12fj5o5",
+     "date": "2026-10-08T02:48:25.000Z",
+     "headline": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says",
+     "sector": "energy",
+     "month": "2026-10"
     }
    ],
-   "count": 9,
+   "count": 10,
    "first": "2026-10-02T01:17:37.000Z"
   },
   "t1kqejni": {

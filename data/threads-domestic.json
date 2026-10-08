@@ -1,6 +1,6 @@
 {
  "desk": "domestic",
- "updatedAt": "2026-10-08T01:14:31.112Z",
+ "updatedAt": "2026-10-08T05:46:57.183Z",
  "threads": {
   "t1weh1f1": {
    "id": "t1weh1f1",
@@ -106,11 +106,11 @@
    "name": "India–US trade talks and tariffs",
    "sector": "economy",
    "created": "2026-10-02T06:10:51.000Z",
-   "updated": "2026-10-07T06:24:10.000Z",
-   "latestHeadline": "Why are Indian and U.S. leaders cooling off on a trade deal? | Explained",
-   "summary": "On 2 October, US Trade Representative Greer said he did not think \"something is imminent\" on a trade deal with India, after a meeting with Commerce Minister Piyush Goyal. He said the two sides had identified the sticking points and were working to address them. The same day, Goyal defended India against US forced labour and excess capacity investigations, with the USTR having already levied a 10% 'forced labour' tariff on Indian imports and investigating structural excess capacity, which could result in further tariffs. On 5 October, Finance Minister Nirmala Sitharaman called the proposed Indo-US agreement \"a hard and very rigorously negotiated agreement\" and said further concessions were proving difficult as the US seeks to narrow its trade deficit with India. By 7 October, The Hindu reported that both the interim trade agreement and the wider Bilateral Trade Agreement were heavily dela",
-   "summaryCount": 5,
-   "summaryAt": "2026-10-07T21:45:53.100Z",
+   "updated": "2026-10-08T03:31:33.000Z",
+   "latestHeadline": "India’s trade caught in the middle",
+   "summary": "On 2 October, US Trade Representative Greer said he did not think \"something is imminent\" on a trade deal with India, adding that after meeting Commerce Minister Piyush Goyal the two sides had identified the sticking points and were working to address them. The same day, Goyal defended India against US forced labour and excess capacity investigations, as the US had already levied a 10% 'forced labour' tariff on Indian imports and was investigating India for structural excess capacity, which could result in further tariffs. On 5 October, Finance Minister Nirmala Sitharaman described the proposed Indo-US agreement as \"a hard and very rigorously negotiated agreement\" and said further concessions were proving difficult as the US seeks to narrow its trade deficit with India. By 7 October, The Hindu reported that both the interim trade agreement and the wider Bilateral Trade Agreement were hea",
+   "summaryCount": 6,
+   "summaryAt": "2026-10-08T05:46:57.180Z",
    "events": [
     {
      "id": "s1x03nlg",
@@ -156,9 +156,18 @@
      "url": "https://www.thehindu.com/business/Economy/why-are-indian-and-us-leaders-cooling-off-on-a-trade-deal-explained/article71554453.ece",
      "sector": "economy",
      "month": "2026-10"
+    },
+    {
+     "id": "sj85f6u",
+     "date": "2026-10-08T03:31:33.000Z",
+     "headline": "India’s trade caught in the middle",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/Economy/indias-trade-caught-in-the-middle/article71555534.ece",
+     "sector": "economy",
+     "month": "2026-10"
     }
    ],
-   "count": 5,
+   "count": 6,
    "first": "2026-10-02T06:10:51.000Z"
   },
   "trhztte": {
@@ -1351,8 +1360,8 @@
    "name": "IMEC corridor and alternative routes",
    "sector": "logistics",
    "created": "2026-10-06T17:12:21.000Z",
-   "updated": "2026-10-06T17:12:21.000Z",
-   "latestHeadline": "‘Longer but safer’ routes may beat speed: France says IMEC ‘more necessary amid Gaza, Iran, Hormuz crises’",
+   "updated": "2026-10-08T05:19:37.000Z",
+   "latestHeadline": "'Cannot afford to depend on single route’: EU backs IMEC to make India-Europe trade more resilient amid Hormuz crisis",
    "events": [
     {
      "id": "spd98hj",
@@ -1362,10 +1371,22 @@
      "url": "https://www.livemint.com/news/world/longer-but-safer-routes-may-beat-speed-france-says-imec-more-necessary-amid-gaza-iran-hormuz-crises-11791303247567.html",
      "sector": "logistics",
      "month": "2026-10"
+    },
+    {
+     "id": "smlaafg",
+     "date": "2026-10-08T05:19:37.000Z",
+     "headline": "'Cannot afford to depend on single route’: EU backs IMEC to make India-Europe trade more resilient amid Hormuz crisis",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/world/cannot-afford-to-depend-on-single-route-eu-backs-imec-to-make-india-europe-trade-more-resilient-amid-hormuz-crisis-11791433725453.html",
+     "sector": "logistics",
+     "month": "2026-10"
     }
    ],
-   "count": 1,
-   "first": "2026-10-06T17:12:21.000Z"
+   "count": 2,
+   "first": "2026-10-06T17:12:21.000Z",
+   "summary": "In early October, France's IMEC envoy Gérard Mestrallet said tensions around Gaza and Iran, along with risks in the Strait of Hormuz, had made the India-Middle East-Europe Economic Corridor more necessary. He said \"longer but safer\" routes could become preferable, with the corridor evolving into a resilient network of alternative routes. A couple of days later, the EU's Apostolos Tzitzikostas said the EU was backing IMEC to diversify India-Europe trade routes amid concerns over Strait of Hormuz disruptions. He said reliance on a single route or chokepoint risks wider supply-chain shocks, and that green shipping can strengthen resilient connectivity.",
+   "summaryCount": 2,
+   "summaryAt": "2026-10-08T05:46:54.404Z"
   },
   "tw75e4z": {
    "id": "tw75e4z",
@@ -1747,6 +1768,27 @@
    ],
    "count": 1,
    "first": "2026-10-08T00:35:42.000Z"
+  },
+  "twsid28": {
+   "id": "twsid28",
+   "name": "Apparel manufacturing shift to eastern states",
+   "sector": "manufacturing",
+   "created": "2026-10-08T03:10:15.000Z",
+   "updated": "2026-10-08T03:10:15.000Z",
+   "latestHeadline": "Apparel makers seek cheaper labour, subsidies in India’s newer hubs",
+   "events": [
+    {
+     "id": "samk3g",
+     "date": "2026-10-08T03:10:15.000Z",
+     "headline": "Apparel makers seek cheaper labour, subsidies in India’s newer hubs",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/apparel-industry-garment-manufacturing-textiles-labour-costs-labour-shortage-11791373737806.html",
+     "sector": "manufacturing",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T03:10:15.000Z"
   }
  }
 }

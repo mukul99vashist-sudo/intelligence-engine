@@ -2,41 +2,12 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-08T01:14:15.986Z",
+  "updatedAt": "2026-10-08T05:46:02.117Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
-        {
-          "id": "sn16tjg",
-          "headline": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
-          "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears",
-          "source": "aljazeera",
-          "date": "2026-10-08T00:33:03.000Z",
-          "relevance": "medium",
-          "why": "Oil prices are swinging on fears of renewed Iran conflict and possible release of reserves, which matters for India as a major oil importer.",
-          "implications": [
-            "Renewed Iran war fears could push crude prices up, raising India's import bill and fuel costs.",
-            "Release of more reserves could temporarily ease supply worries and cap price spikes.",
-            "Price swings may complicate inflation management and fuel pricing decisions in India."
-          ],
-          "reports": [
-            {
-              "source": "aljazeera",
-              "headline": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
-              "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears",
-              "date": "2026-10-08T00:33:03.000Z",
-              "summary": "Oil prices rose on fresh concerns about Middle East supplies, before falling on the possible release of more reserves.",
-              "summaryV": 3,
-              "ogTried": true,
-              "descTried": true,
-              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-29T153733Z_1630952478_RC21TNAYUIBH_RTRMADP_3_USA-STOCKS-1791415373.jpg?resize=1920%2C1440"
-            }
-          ],
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-29T153733Z_1630952478_RC21TNAYUIBH_RTRMADP_3_USA-STOCKS-1791415373.jpg?resize=1920%2C1440",
-          "thread": "t2ogxay"
-        },
         {
           "id": "sctwrbx",
           "headline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
@@ -91,10 +62,78 @@
               "ogTried": true,
               "summary": "Moroccan, Algerian women killed in Abha, Sudanese national killed in Riyadh.",
               "summaryV": 3
+            },
+            {
+              "source": "bbc",
+              "headline": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+              "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo",
+              "date": "2026-10-08T03:32:35.000Z",
+              "summary": "The Houthis have claimed responsibility for the attacks, which mark an escalation in the conflict.",
+              "summaryV": 3,
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb7a/live/b062fdf0-c2b6-11f1-babe-4199b0e7ccea.jpg",
+              "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bb7a/live/b062fdf0-c2b6-11f1-babe-4199b0e7ccea.jpg"
             }
           ],
           "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-13T080915Z_261669411_RC27INAUFFBL_RTRMADP_3_IRAN-CRISIS-SAUDI-HOUTHIS-1791275673.jpg?resize=1200%2C675",
           "thread": "t1j5n1me"
+        },
+        {
+          "id": "s12fj5o5",
+          "headline": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
+          "url": "https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says",
+          "source": "aljazeera",
+          "date": "2026-10-08T02:48:25.000Z",
+          "relevance": "high",
+          "why": "Rising attacks on tankers in the Strait of Hormuz threaten the Gulf oil route that supplies much of India's crude.",
+          "implications": [
+            "Shipping and insurance costs for Gulf cargoes to India could rise.",
+            "Crude supply disruptions may push up fuel import costs and inflation pressure.",
+            "Indian-crewed vessels in the Gulf could face safety risks."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
+              "url": "https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says",
+              "date": "2026-10-08T02:48:25.000Z",
+              "summary": "The UK maritime agency has reported a rise in attacks on vessels in the vital Strait of Hormuz.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2293771658-1791423375.jpg?resize=1920%2C1440"
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2293771658-1791423375.jpg?resize=1920%2C1440",
+          "thread": "t2ogxay"
+        },
+        {
+          "id": "sn16tjg",
+          "headline": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
+          "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears",
+          "source": "aljazeera",
+          "date": "2026-10-08T00:33:03.000Z",
+          "relevance": "medium",
+          "why": "Oil prices are swinging on fears of renewed Iran conflict and possible release of reserves, which matters for India as a major oil importer.",
+          "implications": [
+            "Renewed Iran war fears could push crude prices up, raising India's import bill and fuel costs.",
+            "Release of more reserves could temporarily ease supply worries and cap price spikes.",
+            "Price swings may complicate inflation management and fuel pricing decisions in India."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
+              "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears",
+              "date": "2026-10-08T00:33:03.000Z",
+              "summary": "Oil prices rose on fresh concerns about Middle East supplies, before falling on the possible release of more reserves.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-29T153733Z_1630952478_RC21TNAYUIBH_RTRMADP_3_USA-STOCKS-1791415373.jpg?resize=1920%2C1440"
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-29T153733Z_1630952478_RC21TNAYUIBH_RTRMADP_3_USA-STOCKS-1791415373.jpg?resize=1920%2C1440",
+          "thread": "t2ogxay"
         },
         {
           "id": "sb9ft7l",
@@ -646,6 +685,23 @@
               "summary": "Group’s fighters hit key airport in Aden with explosive moments before plane from Cairo was due to land",
               "lede": "Houthi forces appeared to be making slow advances on Wednesday in south-west Yemen, approaching the city of Taiz and firing a missile and an explosive towards the airport in Aden, the chief international hub of the Saudi-backed government.",
               "summaryV": 3
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Yemeni government forces claim 1,860 Houthis ‘neutralised’",
+              "url": "https://www.aljazeera.com/news/2026/10/8/yemeni-government-forces-claim-1860-houthis-neutralised",
+              "date": "2026-10-08T01:02:07.000Z",
+              "summary": "Yemeni government forces said in a social media post that they carried out 2,103 'precise targeting operations'.",
+              "summaryV": 3
+            },
+            {
+              "source": "abc",
+              "headline": "Why the world cannot 'afford' the latest Houthi conflict",
+              "url": "https://www.abc.net.au/news/2026-10-08/houthi-advances-on-bab-el-mandeb-strait-explained/107202798",
+              "date": "2026-10-08T02:20:10.000Z",
+              "summary": "The Bab el-Mandeb Strait has become a \"lifeline\" for global trade. But in the battle between Saudi-backed Yemeni forces and the Houthis it's even more important.",
+              "summaryV": 3,
+              "image": "https://live-production.wcms.abc-cdn.net.au/0ce965feba72cd44d96403f76ecbcec5?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485"
             }
           ],
           "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1854/live/b7a564e0-c081-11f1-a64c-550be9e3c66b.jpg",
@@ -1361,21 +1417,21 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 27,
+    "analysed": 53,
     "added": 1,
-    "merged": 0,
-    "rejected": 26,
+    "merged": 3,
+    "rejected": 49,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 157
+        "items": 143
       },
       "guardian": {
         "feedsOk": 7,
         "feedsFailed": 0,
-        "items": 205
+        "items": 206
       },
       "npr": {
         "feedsOk": 4,
@@ -1385,7 +1441,7 @@
       "aljazeera": {
         "feedsOk": 1,
         "feedsFailed": 0,
-        "items": 12
+        "items": 13
       },
       "mercopress": {
         "feedsOk": 3,
