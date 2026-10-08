@@ -2,12 +2,39 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-07T22:12:36.594Z",
+  "updatedAt": "2026-10-08T01:14:31.113Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "s11ae8ai",
+          "headline": "India's battery energy storage push hits a viability wall",
+          "url": "https://www.livemint.com/industry/energy/india-battery-energy-storage-systems-bess-for-wind-solar-power-11791365673898.html",
+          "source": "mint",
+          "date": "2026-10-08T00:30:22.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/BluPine-Energy_1787120467762_1787120467909_ae5552c4-5a96-4185-aa47-ce5df302e9fe_1791383333249_8Quw_cbd1e36f-ff81-4cdc-92a8-33c3636183f5_tT7h.jpg",
+          "why": "Cancelled or re-tendered battery storage projects point to viability problems that could slow India's shift to round-the-clock green power.",
+          "implications": [
+            "Delays in storage may limit how much solar and wind power can serve evening demand.",
+            "Power utilities could keep relying on coal and gas to meet peak needs.",
+            "Weak project economics may prompt calls for subsidies or revised tender rules."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "India's battery energy storage push hits a viability wall",
+              "url": "https://www.livemint.com/industry/energy/india-battery-energy-storage-systems-bess-for-wind-solar-power-11791365673898.html",
+              "date": "2026-10-08T00:30:22.000Z",
+              "summary": "Data from the India Energy Storage Alliance (IESA), an industry body of battery makers, shows a total of 24 gigawatt hour BESS projects were cancelled or re-tendered during 2018-2026, highlighting the challenges in transitioning to green power.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/BluPine-Energy_1787120467762_1787120467909_ae5552c4-5a96-4185-aa47-ce5df302e9fe_1791383333249_8Quw_cbd1e36f-ff81-4cdc-92a8-33c3636183f5_tT7h.jpg"
+            }
+          ],
+          "thread": "t1wry2eb"
+        },
         {
           "id": "slvj25g",
           "headline": "Petrol and diesel prices today, October 5: Check fuel cost in Delhi, Mumbai, Bengaluru",
@@ -2505,6 +2532,60 @@
       "name": "Manufacturing",
       "items": [
         {
+          "id": "sit6k7i",
+          "headline": "Govt weighs export floor price for cotton yarn to ensure domestic supplies",
+          "url": "https://www.livemint.com/news/india/india-weighs-minimum-export-price-on-cotton-yarn-to-protect-domestic-textile-manufacturers-11791369817478.html",
+          "source": "mint",
+          "date": "2026-10-08T00:35:42.000Z",
+          "relevance": "high",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/CANADA-TARIFFS-63_1791373641166_XWSj_1791373651012_6fLx_c752ba34-0672-4952-acb1-a65174ab8381_pdMX.jpg",
+          "why": "A roughly 60% jump in cotton yarn prices is squeezing the textile and garment chain, prompting the government to weigh export curbs.",
+          "implications": [
+            "An export floor price may ease yarn availability for domestic fabric and garment makers.",
+            "Clothing prices could rise if yarn costs pass through to consumers.",
+            "Yarn exporters may see reduced overseas sales if the floor price is imposed."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Govt weighs export floor price for cotton yarn to ensure domestic supplies",
+              "url": "https://www.livemint.com/news/india/india-weighs-minimum-export-price-on-cotton-yarn-to-protect-domestic-textile-manufacturers-11791369817478.html",
+              "date": "2026-10-08T00:35:42.000Z",
+              "summary": "Cotton yarn prices have surged around 60%, from about ₹250 per kg in early 2026 to nearly ₹400 per kg now, putting pressure on textile manufacturers, particularly those that use yarn to produce fabrics and garments, per the industry proposal submitted to the textiles ministry and reviewed by Mint.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/CANADA-TARIFFS-63_1791373641166_XWSj_1791373651012_6fLx_c752ba34-0672-4952-acb1-a65174ab8381_pdMX.jpg"
+            }
+          ],
+          "thread": "tztv6rn"
+        },
+        {
+          "id": "s1k863al",
+          "headline": "Lava, Optiemus among firms eyeing smartphone brand incentives",
+          "url": "https://www.livemint.com/companies/lava-optiemus-among-firms-eyeing-smartphone-brand-incentives-11791367724039.html",
+          "source": "mint",
+          "date": "2026-10-08T00:30:02.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/smartphone_1684053575852_1791374024857_VVYv_eee4c1a1-74c9-4029-8e2e-c9903a828020_R6gW.jpg",
+          "why": "Interest from several electronics makers in Meity smartphone brand incentives could shape how India builds domestic smartphone brands and manufacturing.",
+          "implications": [
+            "Incentives may encourage more Indian-branded phones made locally, widening choice for buyers.",
+            "Electronics manufacturing could add jobs if firms scale up under the scheme.",
+            "Outcomes remain uncertain until the incentive terms and eligible firms are finalised."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Lava, Optiemus among firms eyeing smartphone brand incentives",
+              "url": "https://www.livemint.com/companies/lava-optiemus-among-firms-eyeing-smartphone-brand-incentives-11791367724039.html",
+              "date": "2026-10-08T00:30:02.000Z",
+              "summary": "Companies said to be seeking Meity’s incentives include electronics manufacturers Dixon Technologies and Optiemus Infracom, and electronics brands Lava, Mivi, Boltt and CMF.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/smartphone_1684053575852_1791374024857_VVYv_eee4c1a1-74c9-4029-8e2e-c9903a828020_R6gW.jpg"
+            }
+          ],
+          "thread": "t1x28w9e"
+        },
+        {
           "id": "suoxye3",
           "headline": "Revised SOP eases defence industry access to proof ranges, test facilities",
           "url": "https://www.thehindu.com/news/national/revised-sop-eases-defence-industry-access-to-proof-ranges-test-facilities/article71556406.ece",
@@ -2687,6 +2768,33 @@
       "id": "environment",
       "name": "Environment & Climate",
       "items": [
+        {
+          "id": "srq9a1d",
+          "headline": "Western Ghats: Native habitats reduced to one-third and hydrological regulation disrupted, says review article",
+          "url": "https://www.thehindu.com/news/national/karnataka/western-ghats-native-habitats-reduced-to-one-third-and-hydrological-regulation-disrupted-says-review-article/article71556868.ece",
+          "source": "thehindu",
+          "date": "2026-10-07T17:48:58.000Z",
+          "relevance": "medium",
+          "image": "https://th-i.thgim.com/public/incoming/nht4zy/article71557143.ece/alternates/LANDSCAPE_1200/Bengaluru%20Mangaluru%20National%20Highway_01.jpg",
+          "why": "Loss of native habitat and disrupted water regulation in the Western Ghats threatens a key ecological and water source for several states.",
+          "implications": [
+            "Disrupted hydrology could worsen water availability for farms and towns that depend on Western Ghats rivers.",
+            "Climate extremes and invasive species may raise flood and landslide risks in vulnerable areas.",
+            "Pressure may grow for tighter rules on plantations, roads and infrastructure in the region."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Western Ghats: Native habitats reduced to one-third and hydrological regulation disrupted, says review article",
+              "url": "https://www.thehindu.com/news/national/karnataka/western-ghats-native-habitats-reduced-to-one-third-and-hydrological-regulation-disrupted-says-review-article/article71556868.ece",
+              "date": "2026-10-07T17:48:58.000Z",
+              "summary": "The article says major contributors include two centuries of plantation expansion, dams, roads and infrastructure development, now compounded by climate extremes, accelerating invasive species spread, and urbanisation and infrastructure",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/nht4zy/article71557143.ece/alternates/LANDSCAPE_1200/Bengaluru%20Mangaluru%20National%20Highway_01.jpg"
+            }
+          ],
+          "thread": "t1tjwqix"
+        },
         {
           "id": "s1ha6srs",
           "headline": "New GRAP Rules in Delhi; Restrictions in NCR October 2026: Petrol vs Diesel vs CNG vs EV — Know car ban guidelines here",
@@ -3438,9 +3546,10 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 0,
-    "added": 0,
+    "analysed": 13,
+    "added": 4,
     "merged": 0,
+    "rejected": 9,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
@@ -3455,18 +3564,18 @@
       }
     },
     "shareImages": {
-      "tried": 70,
-      "found": 25,
-      "summaries": 70
+      "tried": 0,
+      "found": 0,
+      "summaries": 0
     },
     "threads": {
-      "assigned": 0,
-      "created": 0,
+      "assigned": 4,
+      "created": 3,
       "failedBatches": 0
     },
     "summaries": {
-      "written": 0,
-      "due": 0
+      "written": 1,
+      "due": 1
     }
   },
   "recentDays": 60

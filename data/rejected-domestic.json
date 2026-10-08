@@ -1,5 +1,77 @@
 [
   {
+    "source": "mint",
+    "headline": "Christa Pike's health status: Woman who survived execution attempt ‘has pneumonia and no function in her arms’",
+    "url": "https://www.livemint.com/news/us-news/christa-pikes-health-status-woman-who-survived-execution-attempt-has-pneumonia-and-no-function-in-her-arms-11791421247782.html",
+    "date": "2026-10-08T01:04:40.000Z",
+    "reason": "Foreign criminal case about an individual's health; no India relevance.",
+    "checkedAt": "2026-10-08T01:14:27.072Z"
+  },
+  {
+    "source": "mint",
+    "headline": "India plans subject-expert inspectors for homoeopathic medicine manufacturing units",
+    "url": "https://www.livemint.com/news/india-homoeopathy-qualifications-drug-plant-inspectors-11791355477229.html",
+    "date": "2026-10-08T01:00:02.000Z",
+    "reason": "Narrow inspector qualification proposal for homoeopathic units; limited national impact.",
+    "checkedAt": "2026-10-08T01:14:27.072Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Colombia seeks deeper security ties with India to fight drug cartels",
+    "url": "https://www.livemint.com/news/colombia-seeks-deeper-security-ties-with-india-to-fight-drug-cartels-11791366028228.html",
+    "date": "2026-10-08T00:20:42.000Z",
+    "reason": "Foreign request for security cooperation; no clear national sector effect.",
+    "checkedAt": "2026-10-08T01:14:27.072Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Jaishankar discusses bilateral ties with Cote d'Ivoire",
+    "url": "https://www.thehindu.com/news/national/jaishankar-discusses-bilateral-ties-with-cote-divoire/article71558153.ece",
+    "date": "2026-10-08T00:16:04.000Z",
+    "reason": "Routine ministerial diplomatic visit without a specific sector development.",
+    "checkedAt": "2026-10-08T01:14:27.072Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Nose of IndiGo plane found damaged after landing at Lucknow airport, lightning strike suspected",
+    "url": "https://www.thehindu.com/news/national/nose-of-indigo-plane-found-damaged-after-landing-at-lucknow-airport-lightning-strike-suspected/article71557281.ece",
+    "date": "2026-10-08T00:10:46.000Z",
+    "reason": "Single aircraft damage incident at one airport; no wider national impact.",
+    "checkedAt": "2026-10-08T01:14:27.072Z"
+  },
+  {
+    "source": "mint",
+    "headline": "US Forces in Okinawa Face Curfew After Marine’s Arrest",
+    "url": "https://www.livemint.com/news/us-news/us-forces-in-okinawa-face-curfew-after-marine-s-arrest-11791415922022.html",
+    "date": "2026-10-07T23:32:01.000Z",
+    "reason": "Foreign crime story in Japan with no India impact.",
+    "checkedAt": "2026-10-08T01:14:27.072Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "SC to hear Centre’s plea against Jharkhand DGP appointments",
+    "url": "https://www.thehindu.com/news/national/jharkhand/supreme-court-to-hear-centres-contempt-plea-against-appointment-of-jharkhand-dgp-tadasha-mishra/article71555367.ece",
+    "date": "2026-10-07T22:25:46.000Z",
+    "reason": "Court hearing on state police chief appointments; mainly a Centre-state legal dispute.",
+    "checkedAt": "2026-10-08T01:14:27.072Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Captain Smit Machchhar’s health is improving: MEA",
+    "url": "https://www.thehindu.com/news/national/captain-smit-machchhars-health-is-improving-mea/article71557188.ece",
+    "date": "2026-10-07T21:09:03.000Z",
+    "reason": "Single in-flight attack on a pilot; criminal incident, not national sector development.",
+    "checkedAt": "2026-10-08T01:14:27.072Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "India seeks update from Russia on whereabouts of Indians working with Russian military",
+    "url": "https://www.thehindu.com/news/national/india-seeks-update-from-russia-on-whereabouts-of-indians-working-with-russian-military/article71557190.ece",
+    "date": "2026-10-07T21:00:45.000Z",
+    "reason": "Diplomatic follow-up about individuals serving abroad; limited direct sectoral national impact.",
+    "checkedAt": "2026-10-08T01:14:27.072Z"
+  },
+  {
     "source": "thehindu",
     "headline": "Rakesh Tikait warns Bihar State govt over Satellite Township Projects",
     "url": "https://www.thehindu.com/news/national/bihar/rakesh-tikait-warns-bihar-state-govt-over-satellite-township-projects/article71555659.ece",
@@ -1125,78 +1197,6 @@
     "url": "https://www.thehindu.com/news/national/karnataka/dasara-elephants-undergo-first-cannon-firing-acclimatisation-drill/article71556123.ece",
     "date": "2026-10-07T14:42:55.000Z",
     "reason": "Local festival preparation drill; no national significance.",
-    "checkedAt": "2026-10-07T15:25:47.602Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Unavailability of father’s name should not bar a child’s rights, says A.P. child rights’ panel member",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/unavailability-of-fathers-name-should-not-bar-a-childs-rights-says-ap-child-rights-panel-member/article71555323.ece",
-    "date": "2026-10-07T14:42:41.000Z",
-    "reason": "State child rights panel comment on an individual issue; no national policy change.",
-    "checkedAt": "2026-10-07T15:25:47.602Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Tipra Motha chief Pradyot Debbarma quits active politics",
-    "url": "https://www.thehindu.com/news/national/tripura/tipra-motha-chief-pradyot-debbarma-quits-active-politics/article71555900.ece",
-    "date": "2026-10-07T14:38:05.000Z",
-    "reason": "Regional party leader's political decision; no national policy or sector impact.",
-    "checkedAt": "2026-10-07T15:25:47.602Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "2K Run, awareness activities mark Wildlife Week celebrations",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/2k-run-awareness-activities-mark-wildlife-week-celebrations/article71556090.ece",
-    "date": "2026-10-07T14:37:33.000Z",
-    "reason": "Local awareness events for Wildlife Week; no national significance.",
-    "checkedAt": "2026-10-07T15:25:47.602Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Own buildings will be built for all Janakeeya Arogya Kendras in Keralam: Minister",
-    "url": "https://www.thehindu.com/news/national/kerala/own-buildings-will-be-built-for-all-janakeeya-arogya-kendras-in-keralam-minister/article71556126.ece",
-    "date": "2026-10-07T14:37:18.000Z",
-    "reason": "State-level health infrastructure announcement in Kerala; no national impact.",
-    "checkedAt": "2026-10-07T15:25:47.602Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Karnataka High Court grants bail to hacker Sriki in money laundering case",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-grants-bail-to-hacker-sriki-in-money-laundering-case/article71556054.ece",
-    "date": "2026-10-07T14:36:36.000Z",
-    "reason": "Bail in an individual's court case; not a national sector development.",
-    "checkedAt": "2026-10-07T15:25:47.602Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Govt. to procure prison-made products; eight release cases under scrutiny",
-    "url": "https://www.thehindu.com/news/national/karnataka//article71556247.ece",
-    "date": "2026-10-07T14:36:01.000Z",
-    "reason": "State-level procurement and prisoner release scrutiny; no wide national impact.",
-    "checkedAt": "2026-10-07T15:25:47.602Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "CPI(M) extended district committee meet concludes in Kozhikode",
-    "url": "https://www.thehindu.com/news/national/kerala/cpim-extended-district-committee-meet-concludes-in-kozhikode/article71556266.ece",
-    "date": "2026-10-07T14:34:27.000Z",
-    "reason": "Party organisational meeting in one Kerala district; political commentary only.",
-    "checkedAt": "2026-10-07T15:25:47.602Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Kerala HC denies plea for in-camera proceedings in trial of Abhimanyu murder case",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-denies-plea-for-in-camera-proceedings-in-trial-of-abhimanyu-murder-case/article71555120.ece",
-    "date": "2026-10-07T14:32:54.000Z",
-    "reason": "Court procedure in an individual murder trial; no national significance.",
-    "checkedAt": "2026-10-07T15:25:47.602Z"
-  },
-  {
-    "source": "mint",
-    "headline": "Mithun Chakraborty gets Cabinet Minister rank; appointed as advisor in CM Suvendu Adhikari's Bengal government",
-    "url": "https://www.livemint.com/news/india/mithun-chakraborty-gets-cabinet-minister-rank-appointed-as-advisor-in-cm-suvendu-adhikaris-bengal-government-11791382689601.html",
-    "date": "2026-10-07T14:31:49.000Z",
-    "reason": "State-level political appointment of an actor; no national policy or sector impact.",
     "checkedAt": "2026-10-07T15:25:47.602Z"
   }
 ]

@@ -2,12 +2,41 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-07T22:12:33.865Z",
+  "updatedAt": "2026-10-08T01:14:15.986Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "sn16tjg",
+          "headline": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
+          "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears",
+          "source": "aljazeera",
+          "date": "2026-10-08T00:33:03.000Z",
+          "relevance": "medium",
+          "why": "Oil prices are swinging on fears of renewed Iran conflict and possible release of reserves, which matters for India as a major oil importer.",
+          "implications": [
+            "Renewed Iran war fears could push crude prices up, raising India's import bill and fuel costs.",
+            "Release of more reserves could temporarily ease supply worries and cap price spikes.",
+            "Price swings may complicate inflation management and fuel pricing decisions in India."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
+              "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears",
+              "date": "2026-10-08T00:33:03.000Z",
+              "summary": "Oil prices rose on fresh concerns about Middle East supplies, before falling on the possible release of more reserves.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-29T153733Z_1630952478_RC21TNAYUIBH_RTRMADP_3_USA-STOCKS-1791415373.jpg?resize=1920%2C1440"
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-29T153733Z_1630952478_RC21TNAYUIBH_RTRMADP_3_USA-STOCKS-1791415373.jpg?resize=1920%2C1440",
+          "thread": "t2ogxay"
+        },
         {
           "id": "sctwrbx",
           "headline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
@@ -1332,16 +1361,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 3,
-    "added": 0,
+    "analysed": 27,
+    "added": 1,
     "merged": 0,
-    "rejected": 3,
+    "rejected": 26,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 156
+        "items": 157
       },
       "guardian": {
         "feedsOk": 7,
@@ -1356,7 +1385,7 @@
       "aljazeera": {
         "feedsOk": 1,
         "feedsFailed": 0,
-        "items": 13
+        "items": 12
       },
       "mercopress": {
         "feedsOk": 3,
@@ -1370,18 +1399,18 @@
       }
     },
     "shareImages": {
-      "tried": 44,
-      "found": 21,
-      "summaries": 44
+      "tried": 1,
+      "found": 1,
+      "summaries": 0
     },
     "threads": {
-      "assigned": 0,
+      "assigned": 1,
       "created": 0,
       "failedBatches": 0
     },
     "summaries": {
-      "written": 0,
-      "due": 0
+      "written": 1,
+      "due": 1
     }
   },
   "recentDays": 60

@@ -1,17 +1,17 @@
 {
  "desk": "global",
- "updatedAt": "2026-10-07T22:12:33.865Z",
+ "updatedAt": "2026-10-08T01:14:15.986Z",
  "threads": {
   "t2ogxay": {
    "id": "t2ogxay",
    "name": "US-Iran war and Hormuz",
    "sector": "energy",
    "created": "2026-10-02T01:17:37.000Z",
-   "updated": "2026-10-07T10:58:23.000Z",
-   "latestHeadline": "US sets new demands for Iran deal: What are they?",
-   "summary": "On 2 October, The Guardian reported that the US had sent a third aircraft carrier to the Middle East amid a stalemate in its war against Iran, with US midterm elections approaching. On 5 October, Al Jazeera reported that Middle East oil exports had surpassed pre-war levels, while an IRGC commander called oil flows through a US-supervised route in Hormuz 'negligible'. The Guardian reported the same day that Iran's oil minister had resigned amid a large drop in oil receipts, rampant inflation and a shrinking economy. On 7 October, India's Foreign Ministry said 11 of the 12 injured crew members evacuated by Oman from an attacked tanker, the On Peace, in the Strait of Hormuz were Indian nationals, and Al Jazeera reported that US Vice President Vance had called for reduced nuclear enrichment as part of new US demands for a deal.",
-   "summaryCount": 8,
-   "summaryAt": "2026-10-07T21:45:00.922Z",
+   "updated": "2026-10-08T00:33:03.000Z",
+   "latestHeadline": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
+   "summary": "On 2 October, The Guardian reported that the US was sending a third aircraft carrier to the Middle East amid a stalemate in the Iran war. By 5 October, Al Jazeera reported that Middle East oil exports had surpassed pre-war levels, while an IRGC commander called oil flows through a US-supervised route in Hormuz 'negligible'. The same day, The Guardian reported that Iran's oil minister had resigned as its economic crisis worsened. On 6 October, Saudi Arabia said its East-West pipeline was pumping 5.8 million bpd after a major attack the previous month, and on 7 October India's Foreign Ministry said 11 of 12 injured crew on the attacked tanker On Peace in the Strait of Hormuz were Indian nationals.",
+   "summaryCount": 9,
+   "summaryAt": "2026-10-08T01:14:15.984Z",
    "events": [
     {
      "id": "s1o9hx0z",
@@ -84,9 +84,18 @@
      "url": "https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they",
      "sector": "energy",
      "month": "2026-10"
+    },
+    {
+     "id": "sn16tjg",
+     "date": "2026-10-08T00:33:03.000Z",
+     "headline": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears",
+     "sector": "energy",
+     "month": "2026-10"
     }
    ],
-   "count": 8,
+   "count": 9,
    "first": "2026-10-02T01:17:37.000Z"
   },
   "t1kqejni": {

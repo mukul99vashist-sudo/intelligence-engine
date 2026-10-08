@@ -1,6 +1,6 @@
 {
  "desk": "domestic",
- "updatedAt": "2026-10-07T22:12:36.593Z",
+ "updatedAt": "2026-10-08T01:14:31.112Z",
  "threads": {
   "t1weh1f1": {
    "id": "t1weh1f1",
@@ -1393,8 +1393,8 @@
    "name": "Solar manufacturing and storage bottlenecks",
    "sector": "energy",
    "created": "2026-10-07T00:30:53.000Z",
-   "updated": "2026-10-07T00:30:53.000Z",
-   "latestHeadline": "US tariffs, missing cells, evening power gaps: inside India’s solar energy bottlenecks",
+   "updated": "2026-10-08T00:30:22.000Z",
+   "latestHeadline": "India's battery energy storage push hits a viability wall",
    "events": [
     {
      "id": "s577zy8",
@@ -1404,10 +1404,22 @@
      "url": "https://www.livemint.com/news/india-solar-power-capacity-cell-panel-manufacturing-us-solar-tariffs-11791279430659.html",
      "sector": "energy",
      "month": "2026-10"
+    },
+    {
+     "id": "s11ae8ai",
+     "date": "2026-10-08T00:30:22.000Z",
+     "headline": "India's battery energy storage push hits a viability wall",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/energy/india-battery-energy-storage-systems-bess-for-wind-solar-power-11791365673898.html",
+     "sector": "energy",
+     "month": "2026-10"
     }
    ],
-   "count": 1,
-   "first": "2026-10-07T00:30:53.000Z"
+   "count": 2,
+   "first": "2026-10-07T00:30:53.000Z",
+   "summary": "On October 7, 2026, Mint reported that India's solar capacity had boomed over the past decade, and that the way ahead now lies upstream, in capital-heavy steps to boost cells, wafers and storage. The same report pointed to US tariffs, missing cells and evening power gaps as bottlenecks. On October 8, Mint reported that data from the India Energy Storage Alliance, an industry body of battery makers, showed a total of 24 gigawatt hours of battery energy storage projects were cancelled or re-tendered during 2018-2026. Mint said this highlighted the challenges in transitioning to green power.",
+   "summaryCount": 2,
+   "summaryAt": "2026-10-08T01:14:31.110Z"
   },
   "t1ad3bzi": {
    "id": "t1ad3bzi",
@@ -1672,6 +1684,69 @@
    ],
    "count": 1,
    "first": "2026-10-07T15:58:18.000Z"
+  },
+  "t1tjwqix": {
+   "id": "t1tjwqix",
+   "name": "Western Ghats ecological degradation",
+   "sector": "environment",
+   "created": "2026-10-07T17:48:58.000Z",
+   "updated": "2026-10-07T17:48:58.000Z",
+   "latestHeadline": "Western Ghats: Native habitats reduced to one-third and hydrological regulation disrupted, says review article",
+   "events": [
+    {
+     "id": "srq9a1d",
+     "date": "2026-10-07T17:48:58.000Z",
+     "headline": "Western Ghats: Native habitats reduced to one-third and hydrological regulation disrupted, says review article",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/national/karnataka/western-ghats-native-habitats-reduced-to-one-third-and-hydrological-regulation-disrupted-says-review-article/article71556868.ece",
+     "sector": "environment",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-07T17:48:58.000Z"
+  },
+  "t1x28w9e": {
+   "id": "t1x28w9e",
+   "name": "Smartphone brand incentive scheme",
+   "sector": "manufacturing",
+   "created": "2026-10-08T00:30:02.000Z",
+   "updated": "2026-10-08T00:30:02.000Z",
+   "latestHeadline": "Lava, Optiemus among firms eyeing smartphone brand incentives",
+   "events": [
+    {
+     "id": "s1k863al",
+     "date": "2026-10-08T00:30:02.000Z",
+     "headline": "Lava, Optiemus among firms eyeing smartphone brand incentives",
+     "source": "mint",
+     "url": "https://www.livemint.com/companies/lava-optiemus-among-firms-eyeing-smartphone-brand-incentives-11791367724039.html",
+     "sector": "manufacturing",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T00:30:02.000Z"
+  },
+  "tztv6rn": {
+   "id": "tztv6rn",
+   "name": "Cotton yarn prices and exports",
+   "sector": "manufacturing",
+   "created": "2026-10-08T00:35:42.000Z",
+   "updated": "2026-10-08T00:35:42.000Z",
+   "latestHeadline": "Govt weighs export floor price for cotton yarn to ensure domestic supplies",
+   "events": [
+    {
+     "id": "sit6k7i",
+     "date": "2026-10-08T00:35:42.000Z",
+     "headline": "Govt weighs export floor price for cotton yarn to ensure domestic supplies",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/india-weighs-minimum-export-price-on-cotton-yarn-to-protect-domestic-textile-manufacturers-11791369817478.html",
+     "sector": "manufacturing",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T00:35:42.000Z"
   }
  }
 }
