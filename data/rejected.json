@@ -1,5 +1,221 @@
 [
   {
+    "source": "guardian",
+    "headline": "Royal Navy serviceman arrested under National Security Act",
+    "url": "https://www.theguardian.com/uk-news/2026/oct/08/royal-navy-serviceman-arrested-under-national-security-act",
+    "date": "2026-10-08T07:14:20.000Z",
+    "reason": "UK domestic security case with no India link.",
+    "checkedAt": "2026-10-08T07:28:58.039Z"
+  },
+  {
+    "source": "bbc",
+    "headline": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+    "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno",
+    "date": "2026-10-08T07:06:15.000Z",
+    "reason": "UK-Israel diplomatic dispute with no clear effect on India.",
+    "checkedAt": "2026-10-08T07:28:58.039Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Two more charged with murder over fatal house party attack",
+    "url": "https://www.abc.net.au/news/2026-10-08/qld-two-charged-with-murder-bahrs-scrub/107244732",
+    "date": "2026-10-08T06:58:28.000Z",
+    "reason": "Australian local murder case with no India link.",
+    "checkedAt": "2026-10-08T07:28:58.039Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Apple's age-verification feature welcomed by Pornhub owners",
+    "url": "https://www.abc.net.au/news/2026-10-08/age-verified-apple-users-welcomed-back-to-porn-hub/107240740",
+    "date": "2026-10-08T06:57:21.000Z",
+    "reason": "Australian online content regulation story with no India link.",
+    "checkedAt": "2026-10-08T07:28:58.039Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "Tesco lifts profit forecast and says consumer confidence is resilient",
+    "url": "https://www.theguardian.com/business/2026/oct/08/tesco-lifts-profit-forecast-consumer-confidence-resilient",
+    "date": "2026-10-08T06:52:40.000Z",
+    "reason": "UK retailer results and domestic consumer confidence, with no India link.",
+    "checkedAt": "2026-10-08T07:28:58.039Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
+    "url": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
+    "date": "2026-10-08T06:51:05.000Z",
+    "reason": "UK diplomatic arrangement in Jerusalem with no clear path to India.",
+    "checkedAt": "2026-10-08T07:28:58.039Z"
+  },
+  {
+    "source": "bbc",
+    "headline": "Former Bachelor Australia star Sam Wood denied bail over domestic violence charges",
+    "url": "https://www.bbc.co.uk/news/articles/cmz65lpeddeno",
+    "date": "2026-10-08T06:43:02.000Z",
+    "reason": "Australian celebrity criminal case with no India link.",
+    "checkedAt": "2026-10-08T07:28:58.038Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Another NASA crew is coming home. Here's what to expect from their splashdown",
+    "url": "https://www.abc.net.au/news/2026-10-08/nasa-spacex-crew-12-return-to-earth-explained/107239878",
+    "date": "2026-10-08T06:36:29.000Z",
+    "reason": "NASA crew return has no clear near-term effect on India.",
+    "checkedAt": "2026-10-08T07:28:58.038Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Melbourne man accused of spreading Islamic State material granted bail",
+    "url": "https://www.abc.net.au/news/2026-10-08/alleged-isis-propagandist-mohamed-bakit-granted-bail/107244368",
+    "date": "2026-10-08T06:32:47.000Z",
+    "reason": "Australian court bail case with no link to India.",
+    "checkedAt": "2026-10-08T07:28:58.038Z"
+  },
+  {
+    "source": "aljazeera",
+    "headline": "Acclaimed Indian actor Nana Patekar dies aged 75",
+    "url": "https://www.aljazeera.com/news/2026/10/8/acclaimed-indian-actor-nana-patekar-dies-aged-75",
+    "date": "2026-10-08T06:30:42.000Z",
+    "reason": "Obituary of an Indian actor; no economic, trade or policy effect.",
+    "checkedAt": "2026-10-08T07:28:58.038Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Angus Taylor tries to find his place on the migration middle road",
+    "url": "https://www.abc.net.au/news/2026-10-08/angus-taylor-migration-policy-official-costing/107234706",
+    "date": "2026-10-08T06:30:17.000Z",
+    "reason": "Australian domestic migration politics, with no trade or policy shift mentioned for India.",
+    "checkedAt": "2026-10-08T07:28:58.038Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Charges dropped against 12yo after alleged bashing of Sunshine shopkeeper",
+    "url": "https://www.abc.net.au/news/2026-10-08/sunshine-assault-charges-dropped-12-year-old-boy/107244378",
+    "date": "2026-10-08T06:19:15.000Z",
+    "reason": "Australian criminal case with no path to India.",
+    "checkedAt": "2026-10-08T07:28:58.038Z"
+  },
+  {
+    "source": "aljazeera",
+    "headline": "How October 7 redrew the map of the Middle East",
+    "url": "https://www.aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east",
+    "date": "2026-10-08T06:11:24.000Z",
+    "reason": "Retrospective analysis of regional alliances, with no specific new trade or energy shift.",
+    "checkedAt": "2026-10-08T07:28:48.472Z"
+  },
+  {
+    "source": "abc",
+    "headline": "Sam Wood denied bail on DV charges after allegedly choking wife",
+    "url": "https://www.abc.net.au/news/2026-10-08/qld-sam-wood-domestic-violence-court/107239306",
+    "date": "2026-10-08T06:03:13.000Z",
+    "reason": "Australian domestic violence case; no India link.",
+    "checkedAt": "2026-10-08T07:28:48.472Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "University students say procrastination is biggest threat to their academic performance",
+    "url": "https://www.theguardian.com/education/2026/oct/08/university-students-procrastination-biggest-threat-academic-performance",
+    "date": "2026-10-08T06:00:12.000Z",
+    "reason": "US student survey on procrastination; no India link.",
+    "checkedAt": "2026-10-08T07:28:48.472Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "Voting opens in high-stakes Holborn and St Pancras byelection",
+    "url": "https://www.theguardian.com/politics/2026/oct/08/voting-opens-holborn-st-pancras-byelection-green-party-zack-polanksi-labour-sagal-abdi-wali",
+    "date": "2026-10-08T06:00:12.000Z",
+    "reason": "UK local byelection with no trade, tariff or foreign-policy shift mentioned.",
+    "checkedAt": "2026-10-08T07:28:48.472Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "UK’s military needs to focus spending on domestic defence, not overseas missions – report",
+    "url": "https://www.theguardian.com/uk-news/2026/oct/08/uk-military-domestic-defence-overseas-missions-thinktank-report",
+    "date": "2026-10-08T06:00:11.000Z",
+    "reason": "UK domestic defence spending debate; no clear India path.",
+    "checkedAt": "2026-10-08T07:28:48.472Z"
+  },
+  {
+    "source": "abc",
+    "headline": "An average of 17 older Australians died each day last year waiting for home care",
+    "url": "https://www.abc.net.au/news/2026-10-08/more-australians-died-on-aged-care-waitlist-figures-reveal/107243522",
+    "date": "2026-10-08T05:59:43.000Z",
+    "reason": "Australian domestic aged-care services story; no India link.",
+    "checkedAt": "2026-10-08T07:28:48.472Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "Bachelor star Sam Wood denied bail as police allege he choked woman until she ‘thought she would die’",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/08/sam-wood-bachelor-bail-court-custody-domestic-violence-ntwnfb",
+    "date": "2026-10-08T05:58:53.000Z",
+    "reason": "Australian celebrity criminal case; no India link.",
+    "checkedAt": "2026-10-08T07:28:48.472Z"
+  },
+  {
+    "source": "npr",
+    "headline": "Maricarmen, the 87-year-old woman whose eviction shook Spain, has died",
+    "url": "https://www.npr.org/2026/10/08/nx-s1-5994868/maricarmen-eviction-spain-dies",
+    "date": "2026-10-08T05:56:02.000Z",
+    "reason": "Spanish domestic eviction story; no India link.",
+    "checkedAt": "2026-10-08T07:28:48.472Z"
+  },
+  {
+    "source": "aljazeera",
+    "headline": "Why single Ebola death in Kenya has prompted fears of wider African spread",
+    "url": "https://www.aljazeera.com/news/2026/10/8/why-single-ebola-death-in-kenya-has-sparked-fears-of-wider-african-spread",
+    "date": "2026-10-08T05:34:34.000Z",
+    "reason": "A single Ebola death in Kenya has no clear near-term path to India.",
+    "checkedAt": "2026-10-08T07:28:48.472Z"
+  },
+  {
+    "source": "guardian",
+    "headline": "NSW police commissioner made last-minute bid to hold closed-door hearings into Sydney anti-Herzog protest",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/08/nsw-police-commissioner-lanyon-bid-stop-public-inquiry-sydney-anti-herzog-protest-ntwnfb",
+    "date": "2026-10-08T05:30:47.000Z",
+    "reason": "Australian state police procedure over a protest; domestic matter with no India link.",
+    "checkedAt": "2026-10-08T07:28:48.472Z"
+  },
+  {
+    "source": "bbc",
+    "headline": "New electric car 'make or break for Jaguar'",
+    "url": "https://www.bbc.co.uk/news/articles/cwvgrx5ner6go",
+    "date": "2026-10-08T05:08:56.000Z",
+    "reason": "Framed around UK jobs and investment in one car model; no clear India path.",
+    "checkedAt": "2026-10-08T07:28:48.472Z"
+  },
+  {
+    "source": "bbc",
+    "headline": "US and Lebanon protecting wanted Syrian general, BBC finds",
+    "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo",
+    "date": "2026-10-08T05:00:44.000Z",
+    "reason": "US and Lebanon sheltering a Syrian general is not tied to India.",
+    "checkedAt": "2026-10-08T07:28:48.472Z"
+  },
+  {
+    "source": "bbc",
+    "headline": "Why Zimbabwe tycoon 'Sir Wicknell' was loved and hated in Africa",
+    "url": "https://www.bbc.co.uk/news/articles/c3x2wlplnelxo",
+    "date": "2026-10-07T23:29:15.000Z",
+    "reason": "Profile of a Zimbabwean businessman; no clear path to India.",
+    "checkedAt": "2026-10-08T07:28:48.472Z"
+  },
+  {
+    "source": "abc",
+    "headline": "US expected to charge former Venezuelan president with more crimes",
+    "url": "https://www.abc.net.au/news/2026-10-08/torture-charges-expected-for-nicol%C3%A1s-maduro/107241718",
+    "date": "2026-10-07T23:28:53.000Z",
+    "reason": "Prosecution of Venezuela's former leader in the US has no direct India link.",
+    "checkedAt": "2026-10-08T07:28:48.472Z"
+  },
+  {
+    "source": "bbc",
+    "headline": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+    "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o",
+    "date": "2026-10-07T23:18:40.000Z",
+    "reason": "US court case on 9/11 and Saudi Arabia has no clear path to India.",
+    "checkedAt": "2026-10-08T07:28:48.472Z"
+  },
+  {
     "source": "bbc",
     "headline": "How a scientist used Britpop to reach Mars",
     "url": "https://www.bbc.co.uk/news/articles/ckzd65665q1yo",
@@ -982,221 +1198,5 @@
     "date": "2026-10-07T18:43:47.000Z",
     "reason": "Eritrea–Ethiopia tensions lack a clear path to Indian trade or energy.",
     "checkedAt": "2026-10-07T20:02:55.828Z"
-  },
-  {
-    "source": "aljazeera",
-    "headline": "Most Americans oppose Trump’s taxpayer-funded ‘golden age’ ads: Poll",
-    "url": "https://www.aljazeera.com/news/2026/10/7/most-americans-oppose-trumps-taxpayer-funded-golden-age-ads-poll",
-    "date": "2026-10-07T18:27:09.000Z",
-    "reason": "US domestic politics and polling; no trade or foreign-policy shift.",
-    "checkedAt": "2026-10-07T20:02:55.827Z"
-  },
-  {
-    "source": "aljazeera",
-    "headline": "In El Salvador’s mass trials, lawyers struggle to defend hundreds",
-    "url": "https://www.aljazeera.com/news/2026/10/7/in-el-salvadors-mass-trials-lawyers-struggle-to-defend-hundreds",
-    "date": "2026-10-07T18:26:07.000Z",
-    "reason": "El Salvador domestic legal proceedings; no India link.",
-    "checkedAt": "2026-10-07T20:02:55.827Z"
-  },
-  {
-    "source": "abc",
-    "headline": "Strangulation a 'red flag' for escalating abuse but signs often hidden",
-    "url": "https://www.abc.net.au/news/2026-10-08/strangulation-forum-hosted-hobart-family-violence/107237098",
-    "date": "2026-10-07T18:25:04.000Z",
-    "reason": "Domestic abuse and health services story with no India link.",
-    "checkedAt": "2026-10-07T20:02:55.827Z"
-  },
-  {
-    "source": "aljazeera",
-    "headline": "US Supreme Court hears challenge to air force UXO detonations in Guam",
-    "url": "https://www.aljazeera.com/news/2026/10/7/us-supreme-court-hears-challenge-to-air-force-uxo-detonations-in-guam",
-    "date": "2026-10-07T18:16:07.000Z",
-    "reason": "US court case on Guam environmental review; no India link.",
-    "checkedAt": "2026-10-07T20:02:55.827Z"
-  },
-  {
-    "source": "aljazeera",
-    "headline": "Spanish unions call general strike over housing before snap election",
-    "url": "https://www.aljazeera.com/news/2026/10/7/spanish-unions-call-general-strike-over-housing-before-snap-election",
-    "date": "2026-10-07T18:02:47.000Z",
-    "reason": "Spanish domestic labour and housing politics; no India link.",
-    "checkedAt": "2026-10-07T20:02:55.827Z"
-  },
-  {
-    "source": "npr",
-    "headline": "Why Trump just loosened the rules on 'dyed diesel' — normally a farm fuel",
-    "url": "https://www.npr.org/2026/10/07/nx-s1-5992963/dyed-diesel-fuel-price-farmers-trucks",
-    "date": "2026-10-07T18:00:31.000Z",
-    "reason": "US domestic diesel rule change; no clear path to India.",
-    "checkedAt": "2026-10-07T20:02:55.827Z"
-  },
-  {
-    "source": "abc",
-    "headline": "Firefighter looked shark in the eye before it bit off his leg",
-    "url": "https://www.abc.net.au/news/2026-10-08/geraldton-shark-attack-victim-mel-ismail-speaks/107233326",
-    "date": "2026-10-07T18:00:00.000Z",
-    "reason": "Local shark attack story with no India link.",
-    "checkedAt": "2026-10-07T20:02:55.827Z"
-  },
-  {
-    "source": "abc",
-    "headline": "Australia wants to sell Singapore solar power. No-one is buying it",
-    "url": "https://www.abc.net.au/news/2026-10-08/sun-cable-plans-to-send-australian-solar-energy-to-singapore/107229542",
-    "date": "2026-10-07T18:00:00.000Z",
-    "reason": "Australia–Singapore solar export project has no clear path to India.",
-    "checkedAt": "2026-10-07T20:02:55.827Z"
-  },
-  {
-    "source": "abc",
-    "headline": "What the church knew about their 'bastard of a bishop' in Broome",
-    "url": "https://www.abc.net.au/news/2026-10-08/catholic-church-failed-victims-of-bishop-christopher-saunders/107233732",
-    "date": "2026-10-07T18:00:00.000Z",
-    "reason": "Australian church abuse case, a domestic matter.",
-    "checkedAt": "2026-10-07T20:02:47.554Z"
-  },
-  {
-    "source": "abc",
-    "headline": "How a virulent series gave rise to Sandpapergate",
-    "url": "https://www.abc.net.au/news/2026-10-08/how-sandpaper-gate-rocked-australian-cricket-south-africa/107233934",
-    "date": "2026-10-07T18:00:00.000Z",
-    "reason": "Australian cricket history feature, no India economic or policy link.",
-    "checkedAt": "2026-10-07T20:02:47.554Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "British Jewish groups hold London vigil for victims of 7 October attacks",
-    "url": "https://www.theguardian.com/uk-news/2026/oct/07/british-jewish-groups-london-vigil-7-october-attacks",
-    "date": "2026-10-07T17:41:59.000Z",
-    "reason": "London vigil for attack victims; no clear path to India.",
-    "checkedAt": "2026-10-07T20:02:47.554Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "Dyson, Breville, Apple: the 59 best Amazon Prime Day deals actually worth it, obsessively vetted by us",
-    "url": "https://www.theguardian.com/thefilter-us/2026/oct/07/best-amazon-prime-day-deals-october",
-    "date": "2026-10-07T17:33:18.000Z",
-    "reason": "Consumer shopping deals guide with no policy or trade shift.",
-    "checkedAt": "2026-10-07T20:02:47.554Z"
-  },
-  {
-    "source": "aljazeera",
-    "headline": "Over 100 arrested in Belgium student protests over education costs",
-    "url": "https://www.aljazeera.com/news/2026/10/7/over-100-arrested-in-belgium-student-protests-over-education-costs",
-    "date": "2026-10-07T17:28:56.000Z",
-    "reason": "Belgian student protests over domestic education costs.",
-    "checkedAt": "2026-10-07T20:02:47.554Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "Badenoch’s inheritance tax gambit makes no economic sense | Heather Stewart",
-    "url": "https://www.theguardian.com/politics/2026/oct/07/badenochs-inheritance-tax-gambit-makes-no-economic-sense",
-    "date": "2026-10-07T17:16:52.000Z",
-    "reason": "UK domestic tax policy opinion piece.",
-    "checkedAt": "2026-10-07T20:02:47.554Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "Burnham, take note: water shareholders have their uses – they can be squeezed for cash | Nils Pratley",
-    "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/07/andy-burnham-water-shareholders-pennon-south-west-water",
-    "date": "2026-10-07T17:14:17.000Z",
-    "reason": "UK water utility funding story, domestic services.",
-    "checkedAt": "2026-10-07T20:02:47.554Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "Reform clears its own officials of breaking party funding laws despite police investigation",
-    "url": "https://www.theguardian.com/politics/2026/oct/07/reform-clears-officials-breaking-party-funding-laws-despite-police-investigation",
-    "date": "2026-10-07T17:05:19.000Z",
-    "reason": "UK party funding investigation, a domestic political matter.",
-    "checkedAt": "2026-10-07T20:02:47.554Z"
-  },
-  {
-    "source": "aljazeera",
-    "headline": "US mortgage rates hit their highest level in three years",
-    "url": "https://www.aljazeera.com/economy/2026/10/7/us-mortgage-rates-hit-their-highest-level-in-three-years",
-    "date": "2026-10-07T17:05:10.000Z",
-    "reason": "Framed around US domestic mortgage rates, not a global price or trade shift.",
-    "checkedAt": "2026-10-07T20:02:47.554Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "German court orders detention of former intelligence chief after spying arrest",
-    "url": "https://www.theguardian.com/world/2026/oct/07/germany-court-august-hanning-spying-arrest-detention-bnd",
-    "date": "2026-10-07T17:03:53.000Z",
-    "reason": "German domestic espionage case with no stated India link.",
-    "checkedAt": "2026-10-07T20:02:47.554Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "Beware rightwing economic myths such as ‘maxing out the nation’s credit card’ | Letters",
-    "url": "https://www.theguardian.com/business/2026/oct/07/beware-rightwing-economic-myths-such-as-maxing-out-the-nations-credit-card",
-    "date": "2026-10-07T17:01:00.000Z",
-    "reason": "UK domestic economic debate in reader letters.",
-    "checkedAt": "2026-10-07T20:02:47.554Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "The US has backed Libya’s Haftar clan. The UK should not make the same mistake | Letters",
-    "url": "https://www.theguardian.com/world/2026/oct/07/the-us-has-backed-libyas-haftar-clan-the-uk-should-not-make-the-same-mistake",
-    "date": "2026-10-07T17:00:21.000Z",
-    "reason": "Letter on UK policy towards Libya; no clear path to India.",
-    "checkedAt": "2026-10-07T20:02:47.554Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "‘I reside in Monaco’: billionaire said to have quit UK over potential wealth tax had already left",
-    "url": "https://www.theguardian.com/news/2026/oct/07/billionaire-quit-uk-wealth-tax-resident-monaco-super-rich-exodus",
-    "date": "2026-10-07T17:00:00.000Z",
-    "reason": "UK domestic tax story about a billionaire's residence.",
-    "checkedAt": "2026-10-07T20:02:47.554Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "Ukraine says Russia bombed apartment block as birthday gift for Putin",
-    "url": "https://www.theguardian.com/world/2026/oct/07/ukraine-accuses-russia-of-bombing-apartment-block-as-birthday-gift-for-putin",
-    "date": "2026-10-07T16:22:44.000Z",
-    "reason": "Russian strike on Ukrainian civilians; no clear path to India in the item.",
-    "checkedAt": "2026-10-07T20:02:47.554Z"
-  },
-  {
-    "source": "aljazeera",
-    "headline": "Germany’s Merz vows to fight ‘extremism’ after AfD, far-left election gains",
-    "url": "https://www.aljazeera.com/news/2026/10/7/germanys-merz-vows-to-fight-extremism-after-afd-far-left-election-gains",
-    "date": "2026-10-07T16:12:29.000Z",
-    "reason": "German domestic local election results with no stated trade, energy or foreign-policy shift.",
-    "checkedAt": "2026-10-07T20:02:47.554Z"
-  },
-  {
-    "source": "abc",
-    "headline": "'Birthday gift to Putin': At least 20 killed in Russian strikes on Ukraine",
-    "url": "https://www.abc.net.au/news/2026-10-08/russia-strikes-kill-20-birthday-putin/107241102",
-    "date": "2026-10-07T16:24:35.000Z",
-    "reason": "Russian strikes on Ukrainian civilians, no stated trade or energy route link to India.",
-    "checkedAt": "2026-10-07T16:34:51.366Z"
-  },
-  {
-    "source": "guardian",
-    "headline": "LA officials document first case of a rabid raccoon in more than 50 years",
-    "url": "https://www.theguardian.com/us-news/2026/oct/07/rabid-raccoon-case-los-angeles",
-    "date": "2026-10-07T16:16:30.000Z",
-    "reason": "Local Los Angeles public health case, no India link.",
-    "checkedAt": "2026-10-07T16:34:51.366Z"
-  },
-  {
-    "source": "bbc",
-    "headline": "Blue Planet III ventures into darkest depths of ocean",
-    "url": "https://www.bbc.co.uk/news/articles/c5pvgzvlepr1o",
-    "date": "2026-10-07T16:07:21.000Z",
-    "reason": "A nature documentary, no India relevance.",
-    "checkedAt": "2026-10-07T16:34:51.366Z"
-  },
-  {
-    "source": "abc",
-    "headline": "Japan's beer brewers raided over claims they colluded to hike prices",
-    "url": "https://www.abc.net.au/news/2026-10-08/japan-raids-biggest-beer-brewers-over-price-collusion-claims/107241114",
-    "date": "2026-10-07T16:01:31.000Z",
-    "reason": "Japanese domestic price-fixing probe on beer, no India link.",
-    "checkedAt": "2026-10-07T16:34:51.366Z"
   }
 ]

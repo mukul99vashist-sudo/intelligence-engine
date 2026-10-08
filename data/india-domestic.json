@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-08T05:46:57.184Z",
+  "updatedAt": "2026-10-08T07:29:29.949Z",
   "sectors": [
     {
       "id": "energy",
@@ -951,6 +951,160 @@
       "name": "Economy & Trade",
       "items": [
         {
+          "id": "sba6wbd",
+          "headline": "RBI raises repo rate by 25 basis points to 5.50%, shifts stance to ‘calibrated tightening’",
+          "url": "https://www.thehindu.com/business/Economy/rbi-hikes-repo-rate-by-25-basis-points-to-55/article71554369.ece",
+          "source": "thehindu",
+          "date": "2026-10-07T07:01:08.000Z",
+          "relevance": "high",
+          "why": "The first repo rate hike in about three and a half years, with a tightening stance, signals the RBI is moving to contain inflation.",
+          "implications": [
+            "Home, auto and business loan EMIs linked to the repo rate may rise in coming weeks.",
+            "Bank deposit rates could edge up, helping savers.",
+            "Higher borrowing costs may slow credit-driven spending and investment."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "RBI raises repo rate by 25 basis points to 5.50%, shifts stance to ‘calibrated tightening’",
+              "url": "https://www.thehindu.com/business/Economy/rbi-hikes-repo-rate-by-25-basis-points-to-55/article71554369.ece",
+              "date": "2026-10-07T07:01:08.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/e1ln0d/article71554378.ece/alternates/LANDSCAPE_1200/2026-09-11T091743Z_109916859_RC26SMAYJ264_RTRMADP_3_INDIA-RBI-LIQUIDITY.JPG",
+              "summary": "The hike comes after nearly three-and-a half years; monetary policy stance was changed to ‘calibrated tightening’ from ‘neutral’",
+              "summaryV": 3
+            },
+            {
+              "source": "thehindu",
+              "headline": "RBI MPC meeting highlights: Repo rate hiked to 5.5%; rate cuts off the table in near term, Governor Sanjay Malhotra says",
+              "url": "https://www.thehindu.com/business/rbi-monetary-policy-meeting-decision-on-repo-rate-live-updates-october-7-2026/article71554262.ece",
+              "date": "2026-10-07T07:41:50.000Z",
+              "summary": "Rate hike after nearly three-and-a half years comes as inflation pressures rise due to the continuing West Asia conflict; policy stance revised to 'calibrated tightening' from 'neutral'",
+              "summaryV": 3
+            },
+            {
+              "source": "thehindu",
+              "headline": "RBI has done what it can with interest rates for now, but heavy lifting on inflation will fall on government",
+              "url": "https://www.thehindu.com/business/Economy/rbi-has-done-what-it-can-with-interest-rates-but-heavy-lifting-on-inflation-will-fall-on-government/article71555013.ece",
+              "date": "2026-10-07T10:49:31.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/ovccuf/article71555063.ece/alternates/LANDSCAPE_1200/20261007062L.jpg",
+              "summary": "The RBI’s Monetary Policy Committee’s decision to hike interest rates seems aimed more at controlling expectations of future inflation levels than at bringing down inflation itself. That is a job for the government",
+              "summaryV": 3
+            },
+            {
+              "source": "mint",
+              "headline": "RBI hikes rates, but banks may hold off on raising deposit rates",
+              "url": "https://www.livemint.com/industry/banking/rbi-hikes-rates-but-banks-may-hold-off-on-raising-deposit-rates-11791371695597.html",
+              "date": "2026-10-07T12:47:14.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/maxresdefault_1791385478645_8chk_1791385483746_qcgI_07600367-778c-4f0f-b314-c0d135787db6_fqRL.jpg",
+              "summary": "A surge in FCNR(B) deposits has left banks flush with liquidity, reducing the immediate pressure to compete for deposits even as the RBI begins to drain the surplus.",
+              "summaryV": 3
+            },
+            {
+              "source": "mint",
+              "headline": "RBI turns hawkish on inflation, but rate hikes could test growth momentum",
+              "url": "https://www.livemint.com/industry/banking/rbi-turns-hawkish-on-inflation-but-rate-hikes-could-test-growth-momentum-11791371106641.html",
+              "date": "2026-10-07T13:43:29.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/INDIA-RBI-9_1791377532022_iMdY_1791377540923_zBi3__1791380259795_P1jR_1791380259924_1zAV_cb83c47e-0d11-4d42-9ab6-09b951550eca_WqIo.jpg",
+              "summary": "The RBI's rate path from here on remains data dependent beyond December 2026. However, the bar for a December pause is much higher now.",
+              "summaryV": 3
+            },
+            {
+              "source": "thehindu",
+              "headline": "What is the impact of 25 basis points repo rate hike on borrowers? | Explained",
+              "url": "https://www.thehindu.com/business/Economy/what-is-the-impact-of-25-basis-points-repo-rate-hike-on-borrowers-explained/article71558757.ece",
+              "date": "2026-10-08T07:18:15.000Z",
+              "summary": "In the rate cut cycle the MPC had cut the rate by 125 basis points in phases from 6.5% to 5.25% before increasing it on Wednesday (October 7, 2026)",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/n5m2ec/article71558779.ece/alternates/LANDSCAPE_1200/20261007260L.jpg"
+            }
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/e1ln0d/article71554378.ece/alternates/LANDSCAPE_1200/2026-09-11T091743Z_109916859_RC26SMAYJ264_RTRMADP_3_INDIA-RBI-LIQUIDITY.JPG",
+          "thread": "t1nf6bbl"
+        },
+        {
+          "id": "sdancio",
+          "headline": "Centre to propose five-pronged reform plan at GST Council meeting on October 8",
+          "url": "https://www.thehindu.com/business/centre-to-propose-five-pronged-reform-plan-at-gst-council-meeting-on-october-8/article71551328.ece",
+          "source": "thehindu",
+          "date": "2026-10-06T12:42:22.000Z",
+          "relevance": "high",
+          "why": "A five-pronged GST reform proposal could change tax compliance and business conditions across the country.",
+          "implications": [
+            "Process and structural reforms may reduce compliance burdens for businesses, especially smaller firms.",
+            "Changes for services exports and e-commerce could affect how online sellers and exporters are taxed.",
+            "Outcomes remain uncertain until the GST Council decides on the proposals."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Centre to propose five-pronged reform plan at GST Council meeting on October 8",
+              "url": "https://www.thehindu.com/business/centre-to-propose-five-pronged-reform-plan-at-gst-council-meeting-on-october-8/article71551328.ece",
+              "date": "2026-10-06T12:42:22.000Z",
+              "ogTried": true,
+              "descTried": true,
+              "summary": "Centre proposes a five-pronged GST reform plan focused on process, structural changes, ease of doing business, services exports, and e-commerce.",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/g2fvai/article71551422.ece/alternates/LANDSCAPE_1200/iStock-1387975877.jpg"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Centre to propose five-pronged reform plan at GST Council meeting on October 8",
+              "url": "https://www.thehindu.com/business/Economy/centre-to-propose-five-pronged-reform-plan-at-gst-council-meeting-on-october-8/article71551328.ece",
+              "date": "2026-10-06T14:07:08.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/g2fvai/article71551422.ece/alternates/LANDSCAPE_1200/iStock-1387975877.jpg",
+              "summary": "According to sources in the Finance Ministry, the proposal covers process reforms, structural reforms, ease of living and doing business, exports of services, and e-commerce",
+              "summaryV": 3
+            },
+            {
+              "source": "mint",
+              "headline": "GST Council aims to ease compliance, expedite refunds, curb frequent rate tweaks",
+              "url": "https://www.livemint.com/economy/gst-council-aims-to-ease-compliance-expedite-refunds-curb-frequent-rate-tweaks-11791297868065.html",
+              "date": "2026-10-06T16:53:11.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/INDIA-ECONOMY-1_1763996541446_1763996550962_1791305384940_aBwu_d0010f7b-27fe-4e77-9a9f-739219f54e81_UNOX.jpg",
+              "summary": "The GST Council's Thursday meeting, led by Union finance minister Nirmala Sitharaman, will also consider a proposal to expedite GST registration for most businesses to three working days from more than three weeks now.",
+              "summaryV": 3
+            },
+            {
+              "source": "mint",
+              "headline": "GST Council may weigh wider data sharing, rare disease tax relief on Thursday",
+              "url": "https://www.livemint.com/economy/gst-council-may-open-tax-data-for-wider-economic-use-consider-rare-disease-relief-11791293979209.html",
+              "date": "2026-10-07T00:35:54.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/This-is-the-fifth-time-GST-revenue-collection-has-_1690907701382_1791298541279_KgWt_ed523c32-e397-4731-bc53-404e92b47df7_pPLv.jpg",
+              "summary": "The data-sharing proposal assumes significance as any such move could take the GST data beyond its traditional role for tax administration and make it a regular input for official economic statistics.",
+              "summaryV": 3
+            },
+            {
+              "source": "mint",
+              "headline": "Mint Explainer | GST Council meeting: what could change for refunds, enforcement and rate changes",
+              "url": "https://www.livemint.com/news/india/gst-council-meeting-proposals-refunds-itc-enforcement-11791358522734.html",
+              "date": "2026-10-07T08:59:26.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/GST_1791363281512_mfMp_1791363281682_q3vu_5719e1e1-a569-46c8-9047-26c4a39820b6_0lat.jpg",
+              "summary": "The 57th GST Council meeting could reshape rules on tax refunds, input tax credit, enforcement, buyer protection and the frequency of GST rate changes.",
+              "summaryV": 3
+            },
+            {
+              "source": "thehindu",
+              "headline": "GST Council meets tomorrow, tax experts say reforms must move beyond rates to processes, compliance",
+              "url": "https://www.thehindu.com/business/Economy/gst-council-meets-tomorrow-tax-experts-say-reforms-must-move-beyond-rates-to-processes-compliance/article71555446.ece",
+              "date": "2026-10-07T12:14:28.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/bsbp7i/article71555475.ece/alternates/LANDSCAPE_1200/IMG_iStock-2256615351_2_1_LJGJU0EG.jpg",
+              "summary": "The GST Council will meet in New Delhi on October 8 for the first time after its meeting on September 3-4, 2025.",
+              "summaryV": 3
+            },
+            {
+              "source": "mint",
+              "headline": "GST Council meeting today: No rate changes likely, faster refunds | 10 key expections, reforms on table",
+              "url": "https://www.livemint.com/economy/gst-council-meeting-today-no-rate-changes-likely-faster-refunds-10-key-expections-reforms-on-table-11791440734965.html",
+              "date": "2026-10-08T06:54:24.000Z",
+              "summary": "The 57th GST Council meeting on October 8 in New Delhi will focus on procedural reforms rather than GST rate changes. Key agenda items include input tax credit protection, faster refunds, and potential removal of arrest provisions under GST law.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/GST_1791442175802_GxoS_1791442176008_uaBr_2555ee42-80a7-4880-948a-6580430f2ac8_3rtR.png"
+            }
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/g2fvai/article71551422.ece/alternates/LANDSCAPE_1200/iStock-1387975877.jpg",
+          "thread": "t11tvf36"
+        },
+        {
           "id": "sj85f6u",
           "headline": "India’s trade caught in the middle",
           "url": "https://www.thehindu.com/business/Economy/indias-trade-caught-in-the-middle/article71555534.ece",
@@ -1216,68 +1370,6 @@
           "thread": "t13vnby"
         },
         {
-          "id": "sba6wbd",
-          "headline": "RBI raises repo rate by 25 basis points to 5.50%, shifts stance to ‘calibrated tightening’",
-          "url": "https://www.thehindu.com/business/Economy/rbi-hikes-repo-rate-by-25-basis-points-to-55/article71554369.ece",
-          "source": "thehindu",
-          "date": "2026-10-07T07:01:08.000Z",
-          "relevance": "high",
-          "why": "The first repo rate hike in about three and a half years, with a tightening stance, signals the RBI is moving to contain inflation.",
-          "implications": [
-            "Home, auto and business loan EMIs linked to the repo rate may rise in coming weeks.",
-            "Bank deposit rates could edge up, helping savers.",
-            "Higher borrowing costs may slow credit-driven spending and investment."
-          ],
-          "reports": [
-            {
-              "source": "thehindu",
-              "headline": "RBI raises repo rate by 25 basis points to 5.50%, shifts stance to ‘calibrated tightening’",
-              "url": "https://www.thehindu.com/business/Economy/rbi-hikes-repo-rate-by-25-basis-points-to-55/article71554369.ece",
-              "date": "2026-10-07T07:01:08.000Z",
-              "image": "https://th-i.thgim.com/public/incoming/e1ln0d/article71554378.ece/alternates/LANDSCAPE_1200/2026-09-11T091743Z_109916859_RC26SMAYJ264_RTRMADP_3_INDIA-RBI-LIQUIDITY.JPG",
-              "summary": "The hike comes after nearly three-and-a half years; monetary policy stance was changed to ‘calibrated tightening’ from ‘neutral’",
-              "summaryV": 3
-            },
-            {
-              "source": "thehindu",
-              "headline": "RBI MPC meeting highlights: Repo rate hiked to 5.5%; rate cuts off the table in near term, Governor Sanjay Malhotra says",
-              "url": "https://www.thehindu.com/business/rbi-monetary-policy-meeting-decision-on-repo-rate-live-updates-october-7-2026/article71554262.ece",
-              "date": "2026-10-07T07:41:50.000Z",
-              "summary": "Rate hike after nearly three-and-a half years comes as inflation pressures rise due to the continuing West Asia conflict; policy stance revised to 'calibrated tightening' from 'neutral'",
-              "summaryV": 3
-            },
-            {
-              "source": "thehindu",
-              "headline": "RBI has done what it can with interest rates for now, but heavy lifting on inflation will fall on government",
-              "url": "https://www.thehindu.com/business/Economy/rbi-has-done-what-it-can-with-interest-rates-but-heavy-lifting-on-inflation-will-fall-on-government/article71555013.ece",
-              "date": "2026-10-07T10:49:31.000Z",
-              "image": "https://th-i.thgim.com/public/incoming/ovccuf/article71555063.ece/alternates/LANDSCAPE_1200/20261007062L.jpg",
-              "summary": "The RBI’s Monetary Policy Committee’s decision to hike interest rates seems aimed more at controlling expectations of future inflation levels than at bringing down inflation itself. That is a job for the government",
-              "summaryV": 3
-            },
-            {
-              "source": "mint",
-              "headline": "RBI hikes rates, but banks may hold off on raising deposit rates",
-              "url": "https://www.livemint.com/industry/banking/rbi-hikes-rates-but-banks-may-hold-off-on-raising-deposit-rates-11791371695597.html",
-              "date": "2026-10-07T12:47:14.000Z",
-              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/maxresdefault_1791385478645_8chk_1791385483746_qcgI_07600367-778c-4f0f-b314-c0d135787db6_fqRL.jpg",
-              "summary": "A surge in FCNR(B) deposits has left banks flush with liquidity, reducing the immediate pressure to compete for deposits even as the RBI begins to drain the surplus.",
-              "summaryV": 3
-            },
-            {
-              "source": "mint",
-              "headline": "RBI turns hawkish on inflation, but rate hikes could test growth momentum",
-              "url": "https://www.livemint.com/industry/banking/rbi-turns-hawkish-on-inflation-but-rate-hikes-could-test-growth-momentum-11791371106641.html",
-              "date": "2026-10-07T13:43:29.000Z",
-              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/INDIA-RBI-9_1791377532022_iMdY_1791377540923_zBi3__1791380259795_P1jR_1791380259924_1zAV_cb83c47e-0d11-4d42-9ab6-09b951550eca_WqIo.jpg",
-              "summary": "The RBI's rate path from here on remains data dependent beyond December 2026. However, the bar for a December pause is much higher now.",
-              "summaryV": 3
-            }
-          ],
-          "image": "https://th-i.thgim.com/public/incoming/e1ln0d/article71554378.ece/alternates/LANDSCAPE_1200/2026-09-11T091743Z_109916859_RC26SMAYJ264_RTRMADP_3_INDIA-RBI-LIQUIDITY.JPG",
-          "thread": "t1nf6bbl"
-        },
-        {
           "id": "sct34p6",
           "headline": "India, UK agree to explore cross-border equity, bond listings through GIFT IFSC",
           "url": "https://www.livemint.com/news/india/india-uk-agree-to-explore-cross-border-equity-bond-listings-through-gift-ifsc-11791376410985.html",
@@ -1364,80 +1456,6 @@
           ],
           "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/RBI_1791357158700_fzt3_1791357158846_whlb_1a6c95a5-f818-48a0-a4cd-80a34fc79c29_Rmpz.jpg",
           "thread": "tjj3il9"
-        },
-        {
-          "id": "sdancio",
-          "headline": "Centre to propose five-pronged reform plan at GST Council meeting on October 8",
-          "url": "https://www.thehindu.com/business/centre-to-propose-five-pronged-reform-plan-at-gst-council-meeting-on-october-8/article71551328.ece",
-          "source": "thehindu",
-          "date": "2026-10-06T12:42:22.000Z",
-          "relevance": "high",
-          "why": "A five-pronged GST reform proposal could change tax compliance and business conditions across the country.",
-          "implications": [
-            "Process and structural reforms may reduce compliance burdens for businesses, especially smaller firms.",
-            "Changes for services exports and e-commerce could affect how online sellers and exporters are taxed.",
-            "Outcomes remain uncertain until the GST Council decides on the proposals."
-          ],
-          "reports": [
-            {
-              "source": "thehindu",
-              "headline": "Centre to propose five-pronged reform plan at GST Council meeting on October 8",
-              "url": "https://www.thehindu.com/business/centre-to-propose-five-pronged-reform-plan-at-gst-council-meeting-on-october-8/article71551328.ece",
-              "date": "2026-10-06T12:42:22.000Z",
-              "ogTried": true,
-              "descTried": true,
-              "summary": "Centre proposes a five-pronged GST reform plan focused on process, structural changes, ease of doing business, services exports, and e-commerce.",
-              "summaryV": 3,
-              "image": "https://th-i.thgim.com/public/incoming/g2fvai/article71551422.ece/alternates/LANDSCAPE_1200/iStock-1387975877.jpg"
-            },
-            {
-              "source": "thehindu",
-              "headline": "Centre to propose five-pronged reform plan at GST Council meeting on October 8",
-              "url": "https://www.thehindu.com/business/Economy/centre-to-propose-five-pronged-reform-plan-at-gst-council-meeting-on-october-8/article71551328.ece",
-              "date": "2026-10-06T14:07:08.000Z",
-              "image": "https://th-i.thgim.com/public/incoming/g2fvai/article71551422.ece/alternates/LANDSCAPE_1200/iStock-1387975877.jpg",
-              "summary": "According to sources in the Finance Ministry, the proposal covers process reforms, structural reforms, ease of living and doing business, exports of services, and e-commerce",
-              "summaryV": 3
-            },
-            {
-              "source": "mint",
-              "headline": "GST Council aims to ease compliance, expedite refunds, curb frequent rate tweaks",
-              "url": "https://www.livemint.com/economy/gst-council-aims-to-ease-compliance-expedite-refunds-curb-frequent-rate-tweaks-11791297868065.html",
-              "date": "2026-10-06T16:53:11.000Z",
-              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/INDIA-ECONOMY-1_1763996541446_1763996550962_1791305384940_aBwu_d0010f7b-27fe-4e77-9a9f-739219f54e81_UNOX.jpg",
-              "summary": "The GST Council's Thursday meeting, led by Union finance minister Nirmala Sitharaman, will also consider a proposal to expedite GST registration for most businesses to three working days from more than three weeks now.",
-              "summaryV": 3
-            },
-            {
-              "source": "mint",
-              "headline": "GST Council may weigh wider data sharing, rare disease tax relief on Thursday",
-              "url": "https://www.livemint.com/economy/gst-council-may-open-tax-data-for-wider-economic-use-consider-rare-disease-relief-11791293979209.html",
-              "date": "2026-10-07T00:35:54.000Z",
-              "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/This-is-the-fifth-time-GST-revenue-collection-has-_1690907701382_1791298541279_KgWt_ed523c32-e397-4731-bc53-404e92b47df7_pPLv.jpg",
-              "summary": "The data-sharing proposal assumes significance as any such move could take the GST data beyond its traditional role for tax administration and make it a regular input for official economic statistics.",
-              "summaryV": 3
-            },
-            {
-              "source": "mint",
-              "headline": "Mint Explainer | GST Council meeting: what could change for refunds, enforcement and rate changes",
-              "url": "https://www.livemint.com/news/india/gst-council-meeting-proposals-refunds-itc-enforcement-11791358522734.html",
-              "date": "2026-10-07T08:59:26.000Z",
-              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/GST_1791363281512_mfMp_1791363281682_q3vu_5719e1e1-a569-46c8-9047-26c4a39820b6_0lat.jpg",
-              "summary": "The 57th GST Council meeting could reshape rules on tax refunds, input tax credit, enforcement, buyer protection and the frequency of GST rate changes.",
-              "summaryV": 3
-            },
-            {
-              "source": "thehindu",
-              "headline": "GST Council meets tomorrow, tax experts say reforms must move beyond rates to processes, compliance",
-              "url": "https://www.thehindu.com/business/Economy/gst-council-meets-tomorrow-tax-experts-say-reforms-must-move-beyond-rates-to-processes-compliance/article71555446.ece",
-              "date": "2026-10-07T12:14:28.000Z",
-              "image": "https://th-i.thgim.com/public/incoming/bsbp7i/article71555475.ece/alternates/LANDSCAPE_1200/IMG_iStock-2256615351_2_1_LJGJU0EG.jpg",
-              "summary": "The GST Council will meet in New Delhi on October 8 for the first time after its meeting on September 3-4, 2025.",
-              "summaryV": 3
-            }
-          ],
-          "image": "https://th-i.thgim.com/public/incoming/g2fvai/article71551422.ece/alternates/LANDSCAPE_1200/iStock-1387975877.jpg",
-          "thread": "t11tvf36"
         },
         {
           "id": "sf8nc9e",
@@ -2155,6 +2173,33 @@
       "id": "technology",
       "name": "Technology",
       "items": [
+        {
+          "id": "s1mo8iq1",
+          "headline": "‘Absolutely false,’ Musk hits back at Starlink ‘militants’ claims | Key things he has said about India operations",
+          "url": "https://www.livemint.com/companies/news/absolutely-false-musk-hits-back-at-starlink-militants-claims-key-things-he-has-said-about-india-operations-11791437691373.html",
+          "source": "mint",
+          "date": "2026-10-08T06:12:57.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/maxresdefault_1791441790560_bsJk_1791441795799_ug5b_414856ed-2a73-4f3d-ad90-4d9d5d8ac636_kWRC.jpg",
+          "why": "Security-compliance demands on satellite internet providers could shape how soon and how widely satcom broadband launches in India.",
+          "implications": [
+            "Satellite broadband rollout in remote areas may be delayed if licensing and security checks are tightened.",
+            "Satcom operators could face stricter compliance requirements before launching services.",
+            "Consumers and businesses waiting for satellite internet may see uncertain launch timelines."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "‘Absolutely false,’ Musk hits back at Starlink ‘militants’ claims | Key things he has said about India operations",
+              "url": "https://www.livemint.com/companies/news/absolutely-false-musk-hits-back-at-starlink-militants-claims-key-things-he-has-said-about-india-operations-11791437691373.html",
+              "date": "2026-10-08T06:12:57.000Z",
+              "summary": "Elon Musk said that Starlink's satellite beams are off over India, countering claims of militants using the service. Meanwhile, the Indian government said that demonstrating compliance with security norms is an absolute requirement for every satcom licensee in the country.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/maxresdefault_1791441790560_bsJk_1791441795799_ug5b_414856ed-2a73-4f3d-ad90-4d9d5d8ac636_kWRC.jpg"
+            }
+          ],
+          "thread": "t1ad3bzi"
+        },
         {
           "id": "s32r3jz",
           "headline": "SpaceX exec renews Starlink pitch as approvals lay pending",
@@ -3672,16 +3717,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 54,
-    "added": 3,
-    "merged": 5,
-    "rejected": 46,
+    "analysed": 42,
+    "added": 1,
+    "merged": 2,
+    "rejected": 39,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 339
+        "items": 341
       },
       "mint": {
         "feedsOk": 6,
@@ -3695,13 +3740,13 @@
       "summaries": 0
     },
     "threads": {
-      "assigned": 3,
-      "created": 1,
+      "assigned": 1,
+      "created": 0,
       "failedBatches": 0
     },
     "summaries": {
-      "written": 2,
-      "due": 2
+      "written": 1,
+      "due": 1
     }
   },
   "recentDays": 60

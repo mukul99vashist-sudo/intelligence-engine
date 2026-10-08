@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-08T05:46:02.117Z",
+  "updatedAt": "2026-10-08T07:28:58.042Z",
   "sectors": [
     {
       "id": "energy",
@@ -702,6 +702,14 @@
               "summary": "The Bab el-Mandeb Strait has become a \"lifeline\" for global trade. But in the battle between Saudi-backed Yemeni forces and the Houthis it's even more important.",
               "summaryV": 3,
               "image": "https://live-production.wcms.abc-cdn.net.au/0ce965feba72cd44d96403f76ecbcec5?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Yemen’s government needs tribes to defeat the Houthis. Will they join?",
+              "url": "https://www.aljazeera.com/news/2026/10/8/yemens-government-needs-tribes-to-defeat-the-houthis-will-they-join",
+              "date": "2026-10-08T06:50:08.000Z",
+              "summary": "Yemen's tribes could prove crucial to government's fight against the Houthis, but many may wait before choosing sides.",
+              "summaryV": 3
             }
           ],
           "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1854/live/b7a564e0-c081-11f1-a64c-550be9e3c66b.jpg",
@@ -1417,10 +1425,10 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 53,
-    "added": 1,
-    "merged": 3,
-    "rejected": 49,
+    "analysed": 28,
+    "added": 0,
+    "merged": 1,
+    "rejected": 27,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
@@ -1431,7 +1439,7 @@
       "guardian": {
         "feedsOk": 7,
         "feedsFailed": 0,
-        "items": 206
+        "items": 204
       },
       "npr": {
         "feedsOk": 4,
@@ -1441,7 +1449,7 @@
       "aljazeera": {
         "feedsOk": 1,
         "feedsFailed": 0,
-        "items": 13
+        "items": 17
       },
       "mercopress": {
         "feedsOk": 3,
@@ -1455,18 +1463,18 @@
       }
     },
     "shareImages": {
-      "tried": 1,
-      "found": 1,
+      "tried": 0,
+      "found": 0,
       "summaries": 0
     },
     "threads": {
-      "assigned": 1,
+      "assigned": 0,
       "created": 0,
       "failedBatches": 0
     },
     "summaries": {
-      "written": 1,
-      "due": 1
+      "written": 0,
+      "due": 0
     }
   },
   "recentDays": 60

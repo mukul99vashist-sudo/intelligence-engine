@@ -1,6 +1,6 @@
 {
  "desk": "domestic",
- "updatedAt": "2026-10-08T05:46:57.183Z",
+ "updatedAt": "2026-10-08T07:29:29.947Z",
  "threads": {
   "t1weh1f1": {
    "id": "t1weh1f1",
@@ -1447,8 +1447,8 @@
    "name": "Starlink satellite internet approvals",
    "sector": "technology",
    "created": "2026-10-07T06:27:49.000Z",
-   "updated": "2026-10-07T06:27:49.000Z",
-   "latestHeadline": "SpaceX exec renews Starlink pitch as approvals lay pending",
+   "updated": "2026-10-08T06:12:57.000Z",
+   "latestHeadline": "‘Absolutely false,’ Musk hits back at Starlink ‘militants’ claims | Key things he has said about India operations",
    "events": [
     {
      "id": "s32r3jz",
@@ -1458,10 +1458,22 @@
      "url": "https://www.thehindu.com/sci-tech/technology/spacex-exec-renews-starlink-pitch-as-approvals-lay-pending/article71554510.ece",
      "sector": "technology",
      "month": "2026-10"
+    },
+    {
+     "id": "s1mo8iq1",
+     "date": "2026-10-08T06:12:57.000Z",
+     "headline": "‘Absolutely false,’ Musk hits back at Starlink ‘militants’ claims | Key things he has said about India operations",
+     "source": "mint",
+     "url": "https://www.livemint.com/companies/news/absolutely-false-musk-hits-back-at-starlink-militants-claims-key-things-he-has-said-about-india-operations-11791437691373.html",
+     "sector": "technology",
+     "month": "2026-10"
     }
    ],
-   "count": 1,
-   "first": "2026-10-07T06:27:49.000Z"
+   "count": 2,
+   "first": "2026-10-07T06:27:49.000Z",
+   "summary": "On October 7, 2026, The Hindu reported that the Union government had held up satellite internet in India with a bevy of security requirements, while SpaceX executive Lauren Dreyer hoped the service would be operational by next year. The following day, Mint reported that Elon Musk said Starlink's satellite beams are off over India, countering claims of militants using the service. Also according to Mint, the Indian government said that demonstrating compliance with security norms is an absolute requirement for every satcom licensee in the country.",
+   "summaryCount": 2,
+   "summaryAt": "2026-10-08T07:29:29.944Z"
   },
   "tjj3il9": {
    "id": "tjj3il9",
