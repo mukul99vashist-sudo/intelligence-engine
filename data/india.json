@@ -2,12 +2,90 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-08T07:28:58.042Z",
+  "updatedAt": "2026-10-08T14:52:17.186Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "s12fj5o5",
+          "headline": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
+          "url": "https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says",
+          "source": "aljazeera",
+          "date": "2026-10-08T02:48:25.000Z",
+          "relevance": "high",
+          "why": "Rising attacks on tankers in the Strait of Hormuz threaten the Gulf oil route that supplies much of India's crude.",
+          "implications": [
+            "Shipping and insurance costs for Gulf cargoes to India could rise.",
+            "Crude supply disruptions may push up fuel import costs and inflation pressure.",
+            "Indian-crewed vessels in the Gulf could face safety risks."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
+              "url": "https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says",
+              "date": "2026-10-08T02:48:25.000Z",
+              "summary": "The UK maritime agency has reported a rise in attacks on vessels in the vital Strait of Hormuz.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2293771658-1791423375.jpg?resize=1920%2C1440"
+            },
+            {
+              "source": "bbc",
+              "headline": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+              "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo",
+              "date": "2026-10-08T12:11:31.000Z",
+              "summary": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
+              "summaryV": 3,
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f398/live/8524e1d0-c2fc-11f1-b8c6-6d610e41a5d9.jpg",
+              "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f398/live/8524e1d0-c2fc-11f1-b8c6-6d610e41a5d9.jpg"
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2293771658-1791423375.jpg?resize=1920%2C1440",
+          "thread": "t2ogxay"
+        },
+        {
+          "id": "sn16tjg",
+          "headline": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
+          "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears",
+          "source": "aljazeera",
+          "date": "2026-10-08T00:33:03.000Z",
+          "relevance": "high",
+          "why": "Oil prices are swinging on fears of renewed Iran conflict and possible release of reserves, which matters for India as a major oil importer.",
+          "implications": [
+            "Renewed Iran war fears could push crude prices up, raising India's import bill and fuel costs.",
+            "Release of more reserves could temporarily ease supply worries and cap price spikes.",
+            "Price swings may complicate inflation management and fuel pricing decisions in India."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
+              "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears",
+              "date": "2026-10-08T00:33:03.000Z",
+              "summary": "Oil prices rose on fresh concerns about Middle East supplies, before falling on the possible release of more reserves.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-29T153733Z_1630952478_RC21TNAYUIBH_RTRMADP_3_USA-STOCKS-1791415373.jpg?resize=1920%2C1440"
+            },
+            {
+              "source": "guardian",
+              "headline": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
+              "url": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat",
+              "date": "2026-10-08T11:11:47.000Z",
+              "summary": "Global bond market sell-off continues and stocks fall amid reports White House has asked to see options for more strikes against Iran",
+              "summaryV": 3,
+              "lede": "Business live – latest updates",
+              "image": "https://i.guim.co.uk/img/media/61043b7b92a997020361798a09decacbe807dc8e/1376_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=7be07fb4423feef9d6bcaa56367e8361"
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-29T153733Z_1630952478_RC21TNAYUIBH_RTRMADP_3_USA-STOCKS-1791415373.jpg?resize=1920%2C1440",
+          "thread": "t2ogxay"
+        },
         {
           "id": "sctwrbx",
           "headline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
@@ -76,64 +154,6 @@
           ],
           "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-13T080915Z_261669411_RC27INAUFFBL_RTRMADP_3_IRAN-CRISIS-SAUDI-HOUTHIS-1791275673.jpg?resize=1200%2C675",
           "thread": "t1j5n1me"
-        },
-        {
-          "id": "s12fj5o5",
-          "headline": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
-          "url": "https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says",
-          "source": "aljazeera",
-          "date": "2026-10-08T02:48:25.000Z",
-          "relevance": "high",
-          "why": "Rising attacks on tankers in the Strait of Hormuz threaten the Gulf oil route that supplies much of India's crude.",
-          "implications": [
-            "Shipping and insurance costs for Gulf cargoes to India could rise.",
-            "Crude supply disruptions may push up fuel import costs and inflation pressure.",
-            "Indian-crewed vessels in the Gulf could face safety risks."
-          ],
-          "reports": [
-            {
-              "source": "aljazeera",
-              "headline": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
-              "url": "https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says",
-              "date": "2026-10-08T02:48:25.000Z",
-              "summary": "The UK maritime agency has reported a rise in attacks on vessels in the vital Strait of Hormuz.",
-              "summaryV": 3,
-              "ogTried": true,
-              "descTried": true,
-              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2293771658-1791423375.jpg?resize=1920%2C1440"
-            }
-          ],
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2293771658-1791423375.jpg?resize=1920%2C1440",
-          "thread": "t2ogxay"
-        },
-        {
-          "id": "sn16tjg",
-          "headline": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
-          "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears",
-          "source": "aljazeera",
-          "date": "2026-10-08T00:33:03.000Z",
-          "relevance": "medium",
-          "why": "Oil prices are swinging on fears of renewed Iran conflict and possible release of reserves, which matters for India as a major oil importer.",
-          "implications": [
-            "Renewed Iran war fears could push crude prices up, raising India's import bill and fuel costs.",
-            "Release of more reserves could temporarily ease supply worries and cap price spikes.",
-            "Price swings may complicate inflation management and fuel pricing decisions in India."
-          ],
-          "reports": [
-            {
-              "source": "aljazeera",
-              "headline": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
-              "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears",
-              "date": "2026-10-08T00:33:03.000Z",
-              "summary": "Oil prices rose on fresh concerns about Middle East supplies, before falling on the possible release of more reserves.",
-              "summaryV": 3,
-              "ogTried": true,
-              "descTried": true,
-              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-29T153733Z_1630952478_RC21TNAYUIBH_RTRMADP_3_USA-STOCKS-1791415373.jpg?resize=1920%2C1440"
-            }
-          ],
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-29T153733Z_1630952478_RC21TNAYUIBH_RTRMADP_3_USA-STOCKS-1791415373.jpg?resize=1920%2C1440",
-          "thread": "t2ogxay"
         },
         {
           "id": "sb9ft7l",
@@ -511,6 +531,34 @@
       "id": "logistics",
       "name": "Logistics & Shipping",
       "items": [
+        {
+          "id": "sy7c5yd",
+          "headline": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war",
+          "url": "https://www.aljazeera.com/news/2026/10/8/the-hormuz-bonus-sailor-salaries-soar-for-transits-amid-iran-war",
+          "source": "aljazeera",
+          "date": "2026-10-08T11:02:09.000Z",
+          "relevance": "medium",
+          "why": "Sharply higher crew pay for Hormuz transits signals rising risk and costs on a key route for India's oil and trade.",
+          "implications": [
+            "Higher crew, war-risk and insurance costs may raise freight rates on cargo passing through the Gulf to India.",
+            "Costlier tanker transits could add to India's crude and LPG import bills in the coming weeks."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war",
+              "url": "https://www.aljazeera.com/news/2026/10/8/the-hormuz-bonus-sailor-salaries-soar-for-transits-amid-iran-war",
+              "date": "2026-10-08T11:02:09.000Z",
+              "summary": "Reports have emerged that tanker captains are earning $100,000 plus a $50,000 per-trip bonus to transit the strait.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac7560b-1791448587.jpg?resize=1920%2C1440"
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac7560b-1791448587.jpg?resize=1920%2C1440",
+          "thread": "t2ogxay"
+        },
         {
           "id": "s1j2msqq",
           "headline": "Yemen's government announces all-out war to reclaim land from Houthis",
@@ -1199,12 +1247,68 @@
     {
       "id": "agriculture",
       "name": "Agriculture & Food",
-      "items": []
+      "items": [
+        {
+          "id": "sucu2lg",
+          "headline": "FAO Food Price Index rises in September amid weather concerns and transport disruptions",
+          "url": "https://en.mercopress.com/2026/10/08/fao-food-price-index-rises-in-september-amid-weather-concerns-and-transport-disruptions",
+          "source": "mercopress",
+          "date": "2026-10-08T07:37:00.000Z",
+          "relevance": "medium",
+          "image": "https://en.mercopress.com/data/cache/noticias/111703/100x80/trigo.jpg",
+          "why": "Rising global food commodity prices, driven by weather and transport disruptions, can feed into India's import costs and food inflation.",
+          "implications": [
+            "Imported food items such as edible oils could become costlier for Indian buyers.",
+            "Higher global crop prices may add to domestic food inflation pressure.",
+            "Transport disruptions could delay or raise the cost of agricultural trade shipments."
+          ],
+          "reports": [
+            {
+              "source": "mercopress",
+              "headline": "FAO Food Price Index rises in September amid weather concerns and transport disruptions",
+              "url": "https://en.mercopress.com/2026/10/08/fao-food-price-index-rises-in-september-amid-weather-concerns-and-transport-disruptions",
+              "date": "2026-10-08T07:37:00.000Z",
+              "summary": "FAO’s benchmark measure of world food commodity prices increased in September, due mostly to transportation disruptions and weather concerns that constrained availability as well as to higher quotations for crop-based commodity groups, according to new data released by the Food and Agriculture Organization of the…",
+              "summaryV": 3,
+              "image": "https://en.mercopress.com/data/cache/noticias/111703/100x80/trigo.jpg"
+            }
+          ],
+          "thread": "tazaftv"
+        }
+      ]
     },
     {
       "id": "governance",
       "name": "Policy & Governance",
       "items": [
+        {
+          "id": "srpxtbp",
+          "headline": "India to Turkiye, can new proposals to broker Russia-Ukraine truce succeed?",
+          "url": "https://www.aljazeera.com/news/2026/10/8/india-to-turkiye-can-new-proposals-to-broker-russia-ukraine-truce-succeed",
+          "source": "aljazeera",
+          "date": "2026-10-08T11:45:17.000Z",
+          "relevance": "medium",
+          "why": "India is among the countries proposing ceasefires aimed at protecting global energy and shipping, which are central to its interests.",
+          "implications": [
+            "India's role as a mediator may raise its diplomatic profile in the Russia-Ukraine conflict.",
+            "A successful truce could ease risks to energy supplies and shipping routes that India depends on."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "India to Turkiye, can new proposals to broker Russia-Ukraine truce succeed?",
+              "url": "https://www.aljazeera.com/news/2026/10/8/india-to-turkiye-can-new-proposals-to-broker-russia-ukraine-truce-succeed",
+              "date": "2026-10-08T11:45:17.000Z",
+              "summary": "India, Turkiye, Egypt and the US have put forward proposals for ceasefires in bid to protect global energy and shipping.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac75953-1791449427_498247-1791453911.jpg?resize=1200%2C630&quality=80"
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac75953-1791449427_498247-1791453911.jpg?resize=1200%2C630&quality=80",
+          "thread": "tq9ru94"
+        },
         {
           "id": "s185yeqj",
           "headline": "Indian opposition MPs detained in protest against election chief",
@@ -1425,21 +1529,21 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 28,
-    "added": 0,
-    "merged": 1,
-    "rejected": 27,
+    "analysed": 82,
+    "added": 3,
+    "merged": 2,
+    "rejected": 77,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 143
+        "items": 157
       },
       "guardian": {
         "feedsOk": 7,
         "feedsFailed": 0,
-        "items": 204
+        "items": 203
       },
       "npr": {
         "feedsOk": 4,
@@ -1449,7 +1553,7 @@
       "aljazeera": {
         "feedsOk": 1,
         "feedsFailed": 0,
-        "items": 17
+        "items": 16
       },
       "mercopress": {
         "feedsOk": 3,
@@ -1463,18 +1567,18 @@
       }
     },
     "shareImages": {
-      "tried": 0,
-      "found": 0,
+      "tried": 2,
+      "found": 2,
       "summaries": 0
     },
     "threads": {
-      "assigned": 0,
-      "created": 0,
+      "assigned": 3,
+      "created": 2,
       "failedBatches": 0
     },
     "summaries": {
-      "written": 0,
-      "due": 0
+      "written": 1,
+      "due": 1
     }
   },
   "recentDays": 60

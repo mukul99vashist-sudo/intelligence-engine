@@ -1,17 +1,17 @@
 {
  "desk": "global",
- "updatedAt": "2026-10-08T07:28:58.042Z",
+ "updatedAt": "2026-10-08T14:52:17.185Z",
  "threads": {
   "t2ogxay": {
    "id": "t2ogxay",
    "name": "US-Iran war and Hormuz",
    "sector": "energy",
    "created": "2026-10-02T01:17:37.000Z",
-   "updated": "2026-10-08T02:48:25.000Z",
-   "latestHeadline": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
-   "summary": "On 2 October, The Guardian reported that the US was sending a third aircraft carrier to the Middle East amid a stalemate in the Iran war. By 5 October, Al Jazeera reported that Middle East oil exports had passed pre-war levels, while an IRGC commander called oil flows through a US-supervised route in Hormuz 'negligible', and The Guardian reported that Iran's oil minister had resigned amid a worsening economic crisis. On 6 October, Saudi Arabia said its East-West pipeline was pumping 5.8 million barrels per day after a major attack the previous month, and on 7 October Oman evacuated injured crew from an attacked tanker in the Strait of Hormuz, with India's Foreign Ministry saying 11 of the 12 injured were Indian nationals. On 7 and 8 October, US Vice President Vance called for reduced nuclear enrichment as part of a deal, and the UK maritime agency UKMTO reported a rise in attacks on vess",
-   "summaryCount": 10,
-   "summaryAt": "2026-10-08T05:46:02.114Z",
+   "updated": "2026-10-08T11:02:09.000Z",
+   "latestHeadline": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war",
+   "summary": "On 2 October, the US sent a third aircraft carrier to the Middle East amid a stalemate in its war against Iran, with US midterm elections approaching. On 5 October, Iran's oil minister resigned as the country's economic crisis worsened, and data showed Middle East oil exports had passed pre-war levels, while Al Jazeera asked whether Iran was charging a toll for oil traffic through Hormuz. On 6 October, Saudi Arabia said its East-West pipeline was pumping 5.8 million barrels per day, restored after a major attack the previous month. On 7 October, Oman evacuated injured crew from an attacked tanker in the Strait of Hormuz, 11 of 12 of whom India's Foreign Ministry said were Indian nationals, and by 8 October the UK maritime agency UKMTO reported a rise in attacks on vessels in the strait.",
+   "summaryCount": 11,
+   "summaryAt": "2026-10-08T14:52:17.181Z",
    "events": [
     {
      "id": "s1o9hx0z",
@@ -102,9 +102,18 @@
      "url": "https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says",
      "sector": "energy",
      "month": "2026-10"
+    },
+    {
+     "id": "sy7c5yd",
+     "date": "2026-10-08T11:02:09.000Z",
+     "headline": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/8/the-hormuz-bonus-sailor-salaries-soar-for-transits-amid-iran-war",
+     "sector": "logistics",
+     "month": "2026-10"
     }
    ],
-   "count": 10,
+   "count": 11,
    "first": "2026-10-02T01:17:37.000Z"
   },
   "t1kqejni": {
@@ -508,6 +517,48 @@
    ],
    "count": 1,
    "first": "2026-10-07T10:44:02.000Z"
+  },
+  "tazaftv": {
+   "id": "tazaftv",
+   "name": "Global food prices and FAO index",
+   "sector": "agriculture",
+   "created": "2026-10-08T07:37:00.000Z",
+   "updated": "2026-10-08T07:37:00.000Z",
+   "latestHeadline": "FAO Food Price Index rises in September amid weather concerns and transport disruptions",
+   "events": [
+    {
+     "id": "sucu2lg",
+     "date": "2026-10-08T07:37:00.000Z",
+     "headline": "FAO Food Price Index rises in September amid weather concerns and transport disruptions",
+     "source": "mercopress",
+     "url": "https://en.mercopress.com/2026/10/08/fao-food-price-index-rises-in-september-amid-weather-concerns-and-transport-disruptions",
+     "sector": "agriculture",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T07:37:00.000Z"
+  },
+  "tq9ru94": {
+   "id": "tq9ru94",
+   "name": "Russia-Ukraine ceasefire proposals",
+   "sector": "governance",
+   "created": "2026-10-08T11:45:17.000Z",
+   "updated": "2026-10-08T11:45:17.000Z",
+   "latestHeadline": "India to Turkiye, can new proposals to broker Russia-Ukraine truce succeed?",
+   "events": [
+    {
+     "id": "srpxtbp",
+     "date": "2026-10-08T11:45:17.000Z",
+     "headline": "India to Turkiye, can new proposals to broker Russia-Ukraine truce succeed?",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/8/india-to-turkiye-can-new-proposals-to-broker-russia-ukraine-truce-succeed",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T11:45:17.000Z"
   }
  }
 }

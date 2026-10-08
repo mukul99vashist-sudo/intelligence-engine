@@ -1,6 +1,6 @@
 {
  "desk": "domestic",
- "updatedAt": "2026-10-08T07:29:29.947Z",
+ "updatedAt": "2026-10-08T14:53:52.536Z",
  "threads": {
   "t1weh1f1": {
    "id": "t1weh1f1",
@@ -844,11 +844,11 @@
    "name": "India growth and inflation outlook",
    "sector": "economy",
    "created": "2026-10-05T13:55:07.000Z",
-   "updated": "2026-10-06T07:17:42.000Z",
-   "latestHeadline": "World Bank raises India FY27 growth forecast to 7.1% from 6.6% on stronger-than-expected activity",
-   "summary": "In early October, a BCG monitor covering September described a less even expansion in India, with strong investment and services offsetting softer manufacturing, consumer sentiment and parts of demand. On 6 October, a PMI survey showed services sector growth reaching a three-month high, with companies reporting improved sales on increased demand in areas such as digital solutions, food, insurance, loans, software, transportation, and tours and travel. The same day, the World Bank raised its FY27 growth forecast for India to 7.1 per cent from 6.6 per cent, citing stronger-than-expected growth supported by robust domestic demand and exports, while warning that global risks remain elevated.",
-   "summaryCount": 3,
-   "summaryAt": "2026-10-07T21:46:07.981Z",
+   "updated": "2026-10-08T11:39:03.000Z",
+   "latestHeadline": "Retail inflation likely hit 23-month high of 5.6% in September: Mint poll",
+   "summary": "On 5 October, a BCG report on September described India's growth momentum as holding but less even, with strong investment and services offsetting softer manufacturing, consumer sentiment and parts of demand, while inflation and weak industrial activity weighed. On 6 October, a PMI survey showed services sector growth at a three-month high, and the World Bank raised its FY27 growth forecast for India to 7.1% from 6.6%, citing stronger-than-expected growth supported by robust domestic demand and exports, while warning that global risks remain elevated. On 8 October, a Mint poll projected September retail inflation at a 23-month high of 5.6%, which would exceed the Reserve Bank of India's medium-term aim of 4% for the fourth consecutive month.",
+   "summaryCount": 4,
+   "summaryAt": "2026-10-08T14:53:52.532Z",
    "events": [
     {
      "id": "s7xz9ce",
@@ -876,9 +876,18 @@
      "url": "https://www.livemint.com/economy/world-bank-raises-india-fy27-growth-forecast-to-7-1-from-6-6-on-stronger-than-expected-activity-11791270536568.html",
      "sector": "economy",
      "month": "2026-10"
+    },
+    {
+     "id": "s1ao1sir",
+     "date": "2026-10-08T11:39:03.000Z",
+     "headline": "Retail inflation likely hit 23-month high of 5.6% in September: Mint poll",
+     "source": "mint",
+     "url": "https://www.livemint.com/economy/retail-inflation-likely-hit-23-month-high-of-5-6-in-sep-mint-poll-11791453904208.html",
+     "sector": "economy",
+     "month": "2026-10"
     }
    ],
-   "count": 3,
+   "count": 4,
    "first": "2026-10-05T13:55:07.000Z"
   },
   "t799ig4": {
@@ -907,11 +916,11 @@
    "name": "Airline fuel costs and liquidity strain",
    "sector": "logistics",
    "created": "2026-10-05T14:34:13.000Z",
-   "updated": "2026-10-06T08:25:20.000Z",
-   "latestHeadline": "Centre revisits ATF price stabilisation fund amid rising costs",
-   "summary": "On 5 October, The Hindu reported that IndiGo had revised its fuel surcharge for the third time. The increase was only a partial pass-through of higher fuel costs, and a full pass-through would have required a significantly steeper rise. The same day, Mint reported that the Federation of Indian Airlines had urged the ministry to give \"appropriate guidance and reassurance\" to participating banks, so that the remaining sanctioned amounts could be released, starting with the first tranche under ECLGS 5.0. On 6 October, Mint reported that civil aviation minister K. Ram Mohan Naidu said the government was in talks with airlines and oil marketing companies on streamlining the ATF price stabilisation mechanism.",
-   "summaryCount": 3,
-   "summaryAt": "2026-10-07T21:46:05.812Z",
+   "updated": "2026-10-08T14:40:44.000Z",
+   "latestHeadline": "Air India, Akasa hike fuel surcharge as costs climb",
+   "summary": "In early October, IndiGo revised its fuel surcharge for the third time, a partial pass-through of higher fuel costs, with a full pass-through said to require a significantly steeper increase. On the same day, the Federation of Indian Airlines urged the ministry to give \"appropriate guidance and reassurance\" to participating banks so that the remaining sanctioned amounts could be released, beginning with the first tranche under ECLGS 5.0. The next day, civil aviation minister K. Ram Mohan Naidu said the government was in talks with airlines and oil marketing companies on streamlining the ATF price stabilisation mechanism. Two days after that, Air India and Akasa also raised fuel surcharges, attributing the revisions to sustained increases in fuel prices amid continuing geopolitical tensions in the Middle East.",
+   "summaryCount": 4,
+   "summaryAt": "2026-10-08T14:53:41.159Z",
    "events": [
     {
      "id": "setgw22",
@@ -939,9 +948,18 @@
      "url": "https://www.livemint.com/industry/atf-price-stabilisation-fund-airlines-india-11791268222479.html",
      "sector": "logistics",
      "month": "2026-10"
+    },
+    {
+     "id": "s1qgu0wi",
+     "date": "2026-10-08T14:40:44.000Z",
+     "headline": "Air India, Akasa hike fuel surcharge as costs climb",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/Industry/air-india-akasa-hike-fuel-surcharge-as-costs-climb/article71560439.ece",
+     "sector": "logistics",
+     "month": "2026-10"
     }
    ],
-   "count": 3,
+   "count": 4,
    "first": "2026-10-05T14:34:13.000Z"
   },
   "t1b1fx2z": {
@@ -1534,11 +1552,11 @@
    "name": "Monsoon rainfall and food prices",
    "sector": "agriculture",
    "created": "2026-10-07T07:43:30.000Z",
-   "updated": "2026-10-07T16:20:11.000Z",
-   "latestHeadline": "Southwest monsoon withdrawal advances, rainfall to continue in several states",
-   "summary": "In June, Agriculture Minister Shivraj Singh Chouhan said changing crop strategy in rain-fed areas had become \"the need of the hour\". The central government also issued an advisory to States asking farmers to shift to short-duration or less-water-intensive crops such as pulses and millets. The southwest monsoon left Andhra Pradesh, Karnataka, Kerala, Tamil Nadu and Telangana with a significant rainfall deficit. In early October, reports said the southwest monsoon's withdrawal was advancing with rainfall continuing in several states, South India was looking to the northeast monsoon to make up the shortfall, and The Hindu published an explainer on why rice prices are rising across the country.",
-   "summaryCount": 3,
-   "summaryAt": "2026-10-07T21:45:42.111Z",
+   "updated": "2026-10-08T14:28:23.000Z",
+   "latestHeadline": "Homecooked food gets expensive, vegetarians to pay more than non-vegetarians amid onion, rice, LPG price hike: Crisil",
+   "summary": "In June, Agriculture Minister Shivraj Singh Chouhan said that changing crop strategy in rain-fed areas had become \"the need of the hour\", and the central government issued an advisory asking States to encourage farmers to shift to short-duration or less-water-intensive crops such as pulses and millets. By early October, reports said South Peninsular India (Andhra Pradesh, Karnataka, Kerala, Tamil Nadu and Telangana) had seen a significant rainfall deficit during the southwest monsoon and was looking to the northeast monsoon to make up the shortfall, while the southwest monsoon's withdrawal was advancing and The Hindu was asking why rice prices were rising across the country. On October 8, a Crisil report put the cost of a home-cooked vegetarian thali at ₹30.8 in September 2026, up from ₹28.1 a year earlier, and the non-vegetarian thali at ₹59.5, up from ₹56.",
+   "summaryCount": 4,
+   "summaryAt": "2026-10-08T14:53:46.430Z",
    "events": [
     {
      "id": "s12jq6qy",
@@ -1566,9 +1584,18 @@
      "url": "https://www.livemint.com/news/southwest-monsoon-withdrawal-advances-rainfall-to-continue-in-several-states-11791379826460.html",
      "sector": "agriculture",
      "month": "2026-10"
+    },
+    {
+     "id": "s1n4cv16",
+     "date": "2026-10-08T14:28:23.000Z",
+     "headline": "Homecooked food gets expensive, vegetarians to pay more than non-vegetarians amid onion, rice, LPG price hike: Crisil",
+     "source": "mint",
+     "url": "https://www.livemint.com/economy/homecooked-food-gets-expensive-vegetarians-to-pay-more-than-non-vegetarians-amid-onion-rice-lpg-price-hike-crisil-11791468585537.html",
+     "sector": "economy",
+     "month": "2026-10"
     }
    ],
-   "count": 3,
+   "count": 4,
    "first": "2026-10-07T07:43:30.000Z"
   },
   "t13vnby": {
@@ -1801,6 +1828,303 @@
    ],
    "count": 1,
    "first": "2026-10-08T03:10:15.000Z"
+  },
+  "t1iy3j15": {
+   "id": "t1iy3j15",
+   "name": "SIR electoral roll revision protests",
+   "sector": "governance",
+   "created": "2026-10-08T07:41:04.000Z",
+   "updated": "2026-10-08T07:41:04.000Z",
+   "latestHeadline": "Bengaluru CJP protest today: Prakash Raj, Dhruv Rathee to join ‘people’s tribunal’ in SIR protest | Key things to know",
+   "events": [
+    {
+     "id": "sgrid93",
+     "date": "2026-10-08T07:41:04.000Z",
+     "headline": "Bengaluru CJP protest today: Prakash Raj, Dhruv Rathee to join ‘people’s tribunal’ in SIR protest | Key things to know",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/bengaluru-cjp-protest-today-prakash-raj-dhruv-rathee-to-join-people-s-tribunal-in-sir-protest-key-things-to-know-11791442544742.html",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T07:41:04.000Z"
+  },
+  "t1i86hgy": {
+   "id": "t1i86hgy",
+   "name": "Apparel market size and demand",
+   "sector": "economy",
+   "created": "2026-10-08T08:16:19.000Z",
+   "updated": "2026-10-08T08:16:19.000Z",
+   "latestHeadline": "Rural demand, casualwear to propel India’s apparel market to $146 bn: CMAI report",
+   "events": [
+    {
+     "id": "s62n2lq",
+     "date": "2026-10-08T08:16:19.000Z",
+     "headline": "Rural demand, casualwear to propel India’s apparel market to $146 bn: CMAI report",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/india-apparel-market-growth-2029-cmai-report-11791442200815.html",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T08:16:19.000Z"
+  },
+  "t1e1rayz": {
+   "id": "t1e1rayz",
+   "name": "E-way bills and goods movement",
+   "sector": "logistics",
+   "created": "2026-10-08T08:27:12.000Z",
+   "updated": "2026-10-08T08:27:12.000Z",
+   "latestHeadline": "E-way bill generation hits FY27 high as festive season lifts goods movement",
+   "events": [
+    {
+     "id": "s167fpuq",
+     "date": "2026-10-08T08:27:12.000Z",
+     "headline": "E-way bill generation hits FY27 high as festive season lifts goods movement",
+     "source": "mint",
+     "url": "https://www.livemint.com/economy/eway-bill-generation-hits-fy27-high-as-festive-season-lifts-goods-movement-11791445629044.html",
+     "sector": "logistics",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T08:27:12.000Z"
+  },
+  "t16i19l0": {
+   "id": "t16i19l0",
+   "name": "US student OPT fee proposal",
+   "sector": "economy",
+   "created": "2026-10-08T08:40:44.000Z",
+   "updated": "2026-10-08T08:40:44.000Z",
+   "latestHeadline": "Trump admin proposes ₹67 lakh fee for students to work in US: How Indians could be impacted",
+   "events": [
+    {
+     "id": "s1nu7vzk",
+     "date": "2026-10-08T08:40:44.000Z",
+     "headline": "Trump admin proposes ₹67 lakh fee for students to work in US: How Indians could be impacted",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/us-news/trump-admin-proposes-67-lakh-fee-for-students-to-work-in-us-how-indians-could-be-impacted-11791434480067.html",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T08:40:44.000Z"
+  },
+  "td2pz0z": {
+   "id": "td2pz0z",
+   "name": "Pharma marketing practices regulation",
+   "sector": "governance",
+   "created": "2026-10-08T09:27:58.000Z",
+   "updated": "2026-10-08T14:19:31.000Z",
+   "latestHeadline": "SC directs Centre to form expert panel to regulate unethical pharma marketing",
+   "summary": "In early October, the Supreme Court asked the Centre to set up a three-member panel to examine whether drugmakers need legally enforceable rules governing gifts, incentives and other promotional practices. The petition before the court had raised concerns that pharmaceutical companies were allegedly offering doctors expensive gifts, overseas trips and other incentives to encourage them to prescribe particular drugs. The Hindu reported the direction as one for an expert panel to regulate unethical pharma marketing.",
+   "summaryCount": 2,
+   "summaryAt": "2026-10-08T14:53:48.228Z",
+   "events": [
+    {
+     "id": "s1jmtb5u",
+     "date": "2026-10-08T09:27:58.000Z",
+     "headline": "Supreme Court moves to tighten rules on pharma freebies to doctors",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/supreme-court-pharma-companies-doctor-freebies-11791445829241.html",
+     "sector": "governance",
+     "month": "2026-10"
+    },
+    {
+     "id": "surzm9d",
+     "date": "2026-10-08T14:19:31.000Z",
+     "headline": "SC directs Centre to form expert panel to regulate unethical pharma marketing",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/national/sc-directs-centre-to-form-expert-panel-to-assess-statutory-backing-for-pharma-marketing-regulation/article71558619.ece",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 2,
+   "first": "2026-10-08T09:27:58.000Z"
+  },
+  "t1mccksl": {
+   "id": "t1mccksl",
+   "name": "FASTag annual local pass",
+   "sector": "logistics",
+   "created": "2026-10-08T09:36:11.000Z",
+   "updated": "2026-10-08T09:36:11.000Z",
+   "latestHeadline": "Govt plans annual FASTag local pass for residents near highway toll plazas",
+   "events": [
+    {
+     "id": "saqnvx",
+     "date": "2026-10-08T09:36:11.000Z",
+     "headline": "Govt plans annual FASTag local pass for residents near highway toll plazas",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/infrastructure/road-ministry-annual-local-pass-toll-plazas-discount-11791446597682.html",
+     "sector": "logistics",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T09:36:11.000Z"
+  },
+  "tyy55n6": {
+   "id": "tyy55n6",
+   "name": "AI and cyber fraud regulation",
+   "sector": "technology",
+   "created": "2026-10-08T09:50:45.000Z",
+   "updated": "2026-10-08T11:40:42.000Z",
+   "latestHeadline": "AI regulations: Consultation paper in a month; safety, deepfakes among key focus areas, says Vaishnaw",
+   "summary": "On 8 October 2026, Prime Minister Narendra Modi, speaking at India Mobile Congress 2026, called for a global mechanism to tackle cross-border cyber fraud and deepfake threats. He also highlighted India's digital governance and its DBT system. The same day, Minister Vaishnaw said the government has always maintained that AI and other technologies cannot be regulated by law alone, and that a techno-legal solution is needed with stakeholders brought on board. The Hindu's report of his remarks said a consultation paper would come in a month, with safety and deepfakes among the key focus areas.",
+   "summaryCount": 2,
+   "summaryAt": "2026-10-08T14:53:50.309Z",
+   "events": [
+    {
+     "id": "s13gvbgd",
+     "date": "2026-10-08T09:50:45.000Z",
+     "headline": "‘Cyber fraud does not respect borders’: PM Modi seeks global mechanism at IMC 2026",
+     "source": "mint",
+     "url": "https://www.livemint.com/technology/cyber-fraud-does-not-respect-borders-pm-modi-seeks-global-mechanism-at-imc-2026-11791451279537.html",
+     "sector": "technology",
+     "month": "2026-10"
+    },
+    {
+     "id": "s180ox0x",
+     "date": "2026-10-08T11:40:42.000Z",
+     "headline": "AI regulations: Consultation paper in a month; safety, deepfakes among key focus areas, says Vaishnaw",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/sci-tech/technology/ai-regulations-consultation-paper-in-a-month-safety-deepfakes-among-key-focus-areas-says-vaishnaw/article71559481.ece",
+     "sector": "technology",
+     "month": "2026-10"
+    }
+   ],
+   "count": 2,
+   "first": "2026-10-08T09:50:45.000Z"
+  },
+  "t1vlj585": {
+   "id": "t1vlj585",
+   "name": "Microfinance sector stress recovery",
+   "sector": "economy",
+   "created": "2026-10-08T11:02:52.000Z",
+   "updated": "2026-10-08T11:02:52.000Z",
+   "latestHeadline": "Microfinance shows early recovery signs, but legacy bad loans weigh on sector",
+   "events": [
+    {
+     "id": "s1p32ldg",
+     "date": "2026-10-08T11:02:52.000Z",
+     "headline": "Microfinance shows early recovery signs, but legacy bad loans weigh on sector",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/microfinance-shows-early-recovery-signs-but-legacy-bad-loans-weigh-on-sector-11791450920201.html",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T11:02:52.000Z"
+  },
+  "tnykkch": {
+   "id": "tnykkch",
+   "name": "India-EU green shipping corridor",
+   "sector": "energy",
+   "created": "2026-10-08T12:02:42.000Z",
+   "updated": "2026-10-08T12:02:42.000Z",
+   "latestHeadline": "India-EU green shipping corridor: Why India could become a major fuel exporter",
+   "events": [
+    {
+     "id": "s1kq9oxp",
+     "date": "2026-10-08T12:02:42.000Z",
+     "headline": "India-EU green shipping corridor: Why India could become a major fuel exporter",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/world/indiaeu-green-shipping-corridor-why-india-could-become-a-major-fuel-exporter-11791458382255.html",
+     "sector": "energy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T12:02:42.000Z"
+  },
+  "t1qt5op4": {
+   "id": "t1qt5op4",
+   "name": "India $1 trillion export target",
+   "sector": "economy",
+   "created": "2026-10-08T13:17:53.000Z",
+   "updated": "2026-10-08T13:17:53.000Z",
+   "latestHeadline": "India eyes $1 trillion exports despite weak global trade outlook: Piyush Goyal",
+   "events": [
+    {
+     "id": "s1dzc7h5",
+     "date": "2026-10-08T13:17:53.000Z",
+     "headline": "India eyes $1 trillion exports despite weak global trade outlook: Piyush Goyal",
+     "source": "mint",
+     "url": "https://www.livemint.com/economy/india-eyes-1-trillion-exports-despite-weak-global-trade-outlook-piyush-goyal-11791455245560.html",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T13:17:53.000Z"
+  },
+  "tpab5ge": {
+   "id": "tpab5ge",
+   "name": "Global excess capacity pact",
+   "sector": "economy",
+   "created": "2026-10-08T14:07:41.000Z",
+   "updated": "2026-10-08T14:07:41.000Z",
+   "latestHeadline": "India signs pact to address global excess capacity: What is it? Who are the 15 signatories? Check joint statement",
+   "events": [
+    {
+     "id": "s1tlu52k",
+     "date": "2026-10-08T14:07:41.000Z",
+     "headline": "India signs pact to address global excess capacity: What is it? Who are the 15 signatories? Check joint statement",
+     "source": "mint",
+     "url": "https://www.livemint.com/economy/india-signs-pact-to-address-global-excess-capacity-what-is-it-who-are-the-15-signatories-check-joint-statement-11791464036695.html",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T14:07:41.000Z"
+  },
+  "t47opvf": {
+   "id": "t47opvf",
+   "name": "NAAC accreditation framework overhaul",
+   "sector": "governance",
+   "created": "2026-10-08T14:22:25.000Z",
+   "updated": "2026-10-08T14:22:25.000Z",
+   "latestHeadline": "NAAC’s new accreditation framework to prioritise outcomes over inputs",
+   "events": [
+    {
+     "id": "s1nqwe0t",
+     "date": "2026-10-08T14:22:25.000Z",
+     "headline": "NAAC’s new accreditation framework to prioritise outcomes over inputs",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/naacs-new-accreditation-framework-to-prioritise-outcomes-over-inputs/article71560084.ece",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T14:22:25.000Z"
+  },
+  "tqtn8b9": {
+   "id": "tqtn8b9",
+   "name": "Shipbuilding and maritime self-reliance",
+   "sector": "logistics",
+   "created": "2026-10-08T14:32:20.000Z",
+   "updated": "2026-10-08T14:32:20.000Z",
+   "latestHeadline": "India aims to be self-reliant in shipping and shipbuilding by 2047: Sonowal",
+   "events": [
+    {
+     "id": "s1abp29",
+     "date": "2026-10-08T14:32:20.000Z",
+     "headline": "India aims to be self-reliant in shipping and shipbuilding by 2047: Sonowal",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/indian-shipbuilding-indian-shipping-11791465107693.html",
+     "sector": "logistics",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T14:32:20.000Z"
   }
  }
 }
