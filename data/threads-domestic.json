@@ -1,6 +1,6 @@
 {
  "desk": "domestic",
- "updatedAt": "2026-10-08T14:53:52.536Z",
+ "updatedAt": "2026-10-08T19:51:21.627Z",
  "threads": {
   "t1weh1f1": {
    "id": "t1weh1f1",
@@ -2125,6 +2125,186 @@
    ],
    "count": 1,
    "first": "2026-10-08T14:32:20.000Z"
+  },
+  "t1jobkuw": {
+   "id": "t1jobkuw",
+   "name": "Cancer drug trade margin cap",
+   "sector": "governance",
+   "created": "2026-10-08T14:54:44.000Z",
+   "updated": "2026-10-08T16:39:39.000Z",
+   "latestHeadline": "Centre to cap trade margins on non-scheduled cancer drugs to 30% of MRP",
+   "summary": "On 8 October 2026, Mint and The Hindu reported that the Centre plans to cap trade margins on non-scheduled cancer drugs at 30% of MRP. The Hindu said the average trade mark-up on these drugs is now around 170%, reaching 700% in some cases. Both outlets reported that the cap could cut retail prices by up to 70%, and The Hindu added that this would bring cumulative annual savings of ₹2,500 crore for patients. Mint described the move as coming ahead of a broader crackdown on steep mark-ups in cancer medicines.",
+   "summaryCount": 2,
+   "summaryAt": "2026-10-08T19:51:21.622Z",
+   "events": [
+    {
+     "id": "swpqkbp",
+     "date": "2026-10-08T14:54:44.000Z",
+     "headline": "Centre plans 30% trade-margin cap on non-scheduled cancer drugs",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/centre-plans-30-trade-margin-cap-on-non-scheduled-cancer-drugs-11791462383407.html",
+     "sector": "governance",
+     "month": "2026-10"
+    },
+    {
+     "id": "s2hpe6e",
+     "date": "2026-10-08T16:39:39.000Z",
+     "headline": "Centre to cap trade margins on non-scheduled cancer drugs to 30% of MRP",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/national/centre-to-cap-trade-margins-on-non-scheduled-cancer-drugs-to-30-of-mrp/article71560801.ece",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 2,
+   "first": "2026-10-08T14:54:44.000Z"
+  },
+  "tlgkp5p": {
+   "id": "tlgkp5p",
+   "name": "India-Singapore power transmission corridor",
+   "sector": "energy",
+   "created": "2026-10-08T15:26:55.000Z",
+   "updated": "2026-10-08T15:26:55.000Z",
+   "latestHeadline": "India, Singapore explore 3,000-km power transmission corridor via Southeast Asia",
+   "events": [
+    {
+     "id": "sq3zh2o",
+     "date": "2026-10-08T15:26:55.000Z",
+     "headline": "India, Singapore explore 3,000-km power transmission corridor via Southeast Asia",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/india-singapore-explore-3-000-km-power-transmission-corridor-via-southeast-asia-11791467180829.html",
+     "sector": "energy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T15:26:55.000Z"
+  },
+  "t116za04": {
+   "id": "t116za04",
+   "name": "US labour programme suspension of Indian IT firms",
+   "sector": "technology",
+   "created": "2026-10-08T15:28:13.000Z",
+   "updated": "2026-10-08T15:28:13.000Z",
+   "latestHeadline": "US suspends Microsoft, Infosys, Wipro, HCL and other tech firms from labour programme: ‘Stop defrauding American worker’",
+   "events": [
+    {
+     "id": "s1yhlayp",
+     "date": "2026-10-08T15:28:13.000Z",
+     "headline": "US suspends Microsoft, Infosys, Wipro, HCL and other tech firms from labour programme: ‘Stop defrauding American worker’",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/us-news/us-suspends-infosys-tcs-wipro-hcl-cognizant-microsoft-adobe-from-labour-certification-programme-here-s-why-11791472878646.html",
+     "sector": "technology",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T15:28:13.000Z"
+  },
+  "tlbdei3": {
+   "id": "tlbdei3",
+   "name": "Saudi-Houthi conflict and flight disruptions",
+   "sector": "logistics",
+   "created": "2026-10-08T16:43:38.000Z",
+   "updated": "2026-10-08T16:43:38.000Z",
+   "latestHeadline": "Saudi Arabia-Houthi conflict: Indian Embassy in Riyadh issues advisory; Air India, IndiGo, Akasa cancel flights",
+   "events": [
+    {
+     "id": "s1fv1e3l",
+     "date": "2026-10-08T16:43:38.000Z",
+     "headline": "Saudi Arabia-Houthi conflict: Indian Embassy in Riyadh issues advisory; Air India, IndiGo, Akasa cancel flights",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/world/saudi-arabia-houthi-conflict-indian-embassy-in-riyadh-issues-advisory-urges-nationals-to-remain-vigilant-11791475804794.html",
+     "sector": "logistics",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T16:43:38.000Z"
+  },
+  "ttcjxyp": {
+   "id": "ttcjxyp",
+   "name": "CAPF Act and cadre management",
+   "sector": "governance",
+   "created": "2026-10-08T16:53:10.000Z",
+   "updated": "2026-10-08T16:53:10.000Z",
+   "latestHeadline": "Government notifies CAPF Act amid pending challenge in Supreme Court",
+   "events": [
+    {
+     "id": "s1mbktyr",
+     "date": "2026-10-08T16:53:10.000Z",
+     "headline": "Government notifies CAPF Act amid pending challenge in Supreme Court",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/national/government-notifies-capf-act-amid-pending-challenge-in-supreme-court/article71560542.ece",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T16:53:10.000Z"
+  },
+  "tq39106": {
+   "id": "tq39106",
+   "name": "Disability screening in schools",
+   "sector": "governance",
+   "created": "2026-10-08T17:29:19.000Z",
+   "updated": "2026-10-08T17:29:19.000Z",
+   "latestHeadline": "72 lakh teachers trained to use technology to identify students with disabilities",
+   "events": [
+    {
+     "id": "s13vfuh9",
+     "date": "2026-10-08T17:29:19.000Z",
+     "headline": "72 lakh teachers trained to use technology to identify students with disabilities",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/education/teachers-trained-to-use-technology-to-identify-students-with-disabilities/article71559897.ece",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T17:29:19.000Z"
+  },
+  "t19ap44b": {
+   "id": "t19ap44b",
+   "name": "FSSAI misleading supplement advertising notices",
+   "sector": "governance",
+   "created": "2026-10-08T17:51:07.000Z",
+   "updated": "2026-10-08T17:51:07.000Z",
+   "latestHeadline": "FSSAI send notices to Dr Reddy's, Nestle Health Science, Amazon, Flipkart over misleading protein supplement",
+   "events": [
+    {
+     "id": "sxdrfvb",
+     "date": "2026-10-08T17:51:07.000Z",
+     "headline": "FSSAI send notices to Dr Reddy's, Nestle Health Science, Amazon, Flipkart over misleading protein supplement",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/fssai-send-notices-to-dr-reddys-nestle-health-science-amazon-flipkart-over-misleading-protein-supplement-11791479386322.html",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T17:51:07.000Z"
+  },
+  "t2sqr60": {
+   "id": "t2sqr60",
+   "name": "Meity advisory on misleading content",
+   "sector": "technology",
+   "created": "2026-10-08T17:55:57.000Z",
+   "updated": "2026-10-08T17:55:57.000Z",
+   "latestHeadline": "Two months after Meta fiasco, Meity advisory claims public order at risk",
+   "events": [
+    {
+     "id": "s181w3j4",
+     "date": "2026-10-08T17:55:57.000Z",
+     "headline": "Two months after Meta fiasco, Meity advisory claims public order at risk",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/two-months-after-meta-fiasco-meity-advisory-claims-public-order-at-risk-11791472752944.html",
+     "sector": "technology",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T17:55:57.000Z"
   }
  }
 }

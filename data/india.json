@@ -2,12 +2,89 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-08T14:52:17.186Z",
+  "updatedAt": "2026-10-08T19:49:57.864Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "sctwrbx",
+          "headline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
+          "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border",
+          "source": "aljazeera",
+          "date": "2026-10-06T10:47:54.000Z",
+          "relevance": "medium",
+          "why": "Houthi strikes on Saudi airports add to instability in a region central to India's oil supply and to its large expatriate community.",
+          "implications": [
+            "Wider Saudi-Yemen escalation could raise oil price risk, which would pressure India's import bill and fuel costs.",
+            "Indian workers in Saudi Arabia may face safety concerns and travel disruption.",
+            "Heightened Red Sea and Gulf tension could raise shipping and insurance costs for Indian trade."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
+              "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border",
+              "date": "2026-10-06T10:47:54.000Z",
+              "ogTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-13T080915Z_261669411_RC27INAUFFBL_RTRMADP_3_IRAN-CRISIS-SAUDI-HOUTHIS-1791275673.jpg?resize=1200%2C675",
+              "descTried": true,
+              "summary": "Saudi aviation authority reports severe injuries and damage following Houthi strikes on Jazan and Najran airports.",
+              "summaryV": 3
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
+              "url": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh",
+              "date": "2026-10-07T06:41:11.000Z",
+              "ogTried": true,
+              "descTried": true,
+              "summary": "Yemeni government says one of the missiles hit Aden airport’s runway minutes before a flight from Cairo was due to land.",
+              "summaryV": 3,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac5c8d4937f3-1791346900.jpg?resize=1920%2C1424"
+            },
+            {
+              "source": "abc",
+              "headline": "Tensions escalate in Middle East as Houthis target airports",
+              "url": "https://www.abc.net.au/news/2026-10-07/houthis-attack-airports-as-yemen-conflict-intensifies/107239298",
+              "date": "2026-10-07T06:42:58.000Z",
+              "ogTried": true,
+              "image": "https://live-production.wcms.abc-cdn.net.au/ae30053f33cb21a1e96de45d2c485d5e?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
+              "summary": "The attacks came as fighting intensified on several fronts in Yemen after Saudi-backed government forces launched a counteroffensive against the Houthis.",
+              "summaryV": 3
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Saudi Arabia says Houthi attacks on airports killed three foreign nationals",
+              "url": "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports",
+              "date": "2026-10-07T18:29:34.000Z",
+              "ogTried": true,
+              "summary": "Moroccan, Algerian women killed in Abha, Sudanese national killed in Riyadh.",
+              "summaryV": 3
+            },
+            {
+              "source": "bbc",
+              "headline": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+              "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo",
+              "date": "2026-10-08T03:32:35.000Z",
+              "summary": "The Houthis have claimed responsibility for the attacks, which mark an escalation in the conflict.",
+              "summaryV": 3,
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb7a/live/b062fdf0-c2b6-11f1-babe-4199b0e7ccea.jpg",
+              "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bb7a/live/b062fdf0-c2b6-11f1-babe-4199b0e7ccea.jpg"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Saudi-led coalition says it intercepts three Houthi ballistic missiles",
+              "url": "https://www.aljazeera.com/news/2026/10/8/saudi-led-coalition-says-it-intercepts-three-houthi-ballistic-missiles",
+              "date": "2026-10-08T14:43:19.000Z",
+              "summary": "Saudi Arabia says two of the missiles intercepted were headed towards the capital, Riyadh.",
+              "summaryV": 3
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-13T080915Z_261669411_RC27INAUFFBL_RTRMADP_3_IRAN-CRISIS-SAUDI-HOUTHIS-1791275673.jpg?resize=1200%2C675",
+          "thread": "t1j5n1me"
+        },
         {
           "id": "s12fj5o5",
           "headline": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
@@ -85,75 +162,6 @@
           ],
           "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-29T153733Z_1630952478_RC21TNAYUIBH_RTRMADP_3_USA-STOCKS-1791415373.jpg?resize=1920%2C1440",
           "thread": "t2ogxay"
-        },
-        {
-          "id": "sctwrbx",
-          "headline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
-          "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border",
-          "source": "aljazeera",
-          "date": "2026-10-06T10:47:54.000Z",
-          "relevance": "medium",
-          "why": "Houthi strikes on Saudi airports add to instability in a region central to India's oil supply and to its large expatriate community.",
-          "implications": [
-            "Wider Saudi-Yemen escalation could raise oil price risk, which would pressure India's import bill and fuel costs.",
-            "Indian workers in Saudi Arabia may face safety concerns and travel disruption.",
-            "Heightened Red Sea and Gulf tension could raise shipping and insurance costs for Indian trade."
-          ],
-          "reports": [
-            {
-              "source": "aljazeera",
-              "headline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
-              "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border",
-              "date": "2026-10-06T10:47:54.000Z",
-              "ogTried": true,
-              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-13T080915Z_261669411_RC27INAUFFBL_RTRMADP_3_IRAN-CRISIS-SAUDI-HOUTHIS-1791275673.jpg?resize=1200%2C675",
-              "descTried": true,
-              "summary": "Saudi aviation authority reports severe injuries and damage following Houthi strikes on Jazan and Najran airports.",
-              "summaryV": 3
-            },
-            {
-              "source": "aljazeera",
-              "headline": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
-              "url": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh",
-              "date": "2026-10-07T06:41:11.000Z",
-              "ogTried": true,
-              "descTried": true,
-              "summary": "Yemeni government says one of the missiles hit Aden airport’s runway minutes before a flight from Cairo was due to land.",
-              "summaryV": 3,
-              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac5c8d4937f3-1791346900.jpg?resize=1920%2C1424"
-            },
-            {
-              "source": "abc",
-              "headline": "Tensions escalate in Middle East as Houthis target airports",
-              "url": "https://www.abc.net.au/news/2026-10-07/houthis-attack-airports-as-yemen-conflict-intensifies/107239298",
-              "date": "2026-10-07T06:42:58.000Z",
-              "ogTried": true,
-              "image": "https://live-production.wcms.abc-cdn.net.au/ae30053f33cb21a1e96de45d2c485d5e?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
-              "summary": "The attacks came as fighting intensified on several fronts in Yemen after Saudi-backed government forces launched a counteroffensive against the Houthis.",
-              "summaryV": 3
-            },
-            {
-              "source": "aljazeera",
-              "headline": "Saudi Arabia says Houthi attacks on airports killed three foreign nationals",
-              "url": "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports",
-              "date": "2026-10-07T18:29:34.000Z",
-              "ogTried": true,
-              "summary": "Moroccan, Algerian women killed in Abha, Sudanese national killed in Riyadh.",
-              "summaryV": 3
-            },
-            {
-              "source": "bbc",
-              "headline": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
-              "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo",
-              "date": "2026-10-08T03:32:35.000Z",
-              "summary": "The Houthis have claimed responsibility for the attacks, which mark an escalation in the conflict.",
-              "summaryV": 3,
-              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb7a/live/b062fdf0-c2b6-11f1-babe-4199b0e7ccea.jpg",
-              "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bb7a/live/b062fdf0-c2b6-11f1-babe-4199b0e7ccea.jpg"
-            }
-          ],
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-13T080915Z_261669411_RC27INAUFFBL_RTRMADP_3_IRAN-CRISIS-SAUDI-HOUTHIS-1791275673.jpg?resize=1200%2C675",
-          "thread": "t1j5n1me"
         },
         {
           "id": "sb9ft7l",
@@ -1282,6 +1290,55 @@
       "name": "Policy & Governance",
       "items": [
         {
+          "id": "sknukp8",
+          "headline": "US suspends Microsoft and Adobe from visa programme amid fraud claims",
+          "url": "https://www.aljazeera.com/economy/2026/10/8/us-suspends-microsoft-and-adobe-from-visa-programme-amid-fraud-claims",
+          "source": "aljazeera",
+          "date": "2026-10-08T17:25:02.000Z",
+          "relevance": "high",
+          "why": "A US visa programme suspension and probe into universities could affect Indian skilled workers and students who rely on US visas.",
+          "implications": [
+            "Indian professionals and students seeking US work or study visas could face delays or tighter scrutiny.",
+            "Indian families and employers planning US placements may need to rethink timelines.",
+            "The move could add pressure on India to seek clarity on visa rules affecting its citizens."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "US suspends Microsoft and Adobe from visa programme amid fraud claims",
+              "url": "https://www.aljazeera.com/economy/2026/10/8/us-suspends-microsoft-and-adobe-from-visa-programme-amid-fraud-claims",
+              "date": "2026-10-08T17:25:02.000Z",
+              "summary": "Visa probe also targets universities for allegedly exploiting international students to reduce US wage costs.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac7c50523788-1791476997.jpg?resize=1920%2C1440"
+            },
+            {
+              "source": "guardian",
+              "headline": "Microsoft suspended from applying for green cards for H-1B workers, JD Vance says",
+              "url": "https://www.theguardian.com/technology/2026/oct/08/jd-vance-microsoft-visa-workers-green-card-suspension",
+              "date": "2026-10-08T18:23:47.000Z",
+              "summary": "Vice-president also says Adobe is barred from visa program that allows high-skilled workers to apply for US residency",
+              "summaryV": 3,
+              "lede": "Microsoft is suspended from applying for permanent residency for workers employed through a US visa program for high-skilled workers, JD Vance announced on Thursday.",
+              "image": "https://i.guim.co.uk/img/media/0a5876855694163b01d022271607a1f87c8c496a/758_255_3012_2410/master/3012.jpg?width=700&quality=85&auto=format&fit=max&s=4caa7a5219ed3e4ada256661c6074975"
+            },
+            {
+              "source": "bbc",
+              "headline": "White House blocks Microsoft from foreign worker hiring program",
+              "url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo",
+              "date": "2026-10-08T18:56:46.000Z",
+              "summary": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
+              "summaryV": 3,
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e9/live/ec86f2b0-c346-11f1-9a39-31b474234113.jpg",
+              "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d7e9/live/ec86f2b0-c346-11f1-9a39-31b474234113.jpg"
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac7c50523788-1791476997.jpg?resize=1920%2C1440",
+          "thread": "tmb1jzw"
+        },
+        {
           "id": "srpxtbp",
           "headline": "India to Turkiye, can new proposals to broker Russia-Ukraine truce succeed?",
           "url": "https://www.aljazeera.com/news/2026/10/8/india-to-turkiye-can-new-proposals-to-broker-russia-ukraine-truce-succeed",
@@ -1529,16 +1586,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 82,
-    "added": 3,
-    "merged": 2,
-    "rejected": 77,
+    "analysed": 60,
+    "added": 1,
+    "merged": 3,
+    "rejected": 56,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 157
+        "items": 159
       },
       "guardian": {
         "feedsOk": 7,
@@ -1553,7 +1610,7 @@
       "aljazeera": {
         "feedsOk": 1,
         "feedsFailed": 0,
-        "items": 16
+        "items": 15
       },
       "mercopress": {
         "feedsOk": 3,
@@ -1567,18 +1624,18 @@
       }
     },
     "shareImages": {
-      "tried": 2,
-      "found": 2,
+      "tried": 1,
+      "found": 1,
       "summaries": 0
     },
     "threads": {
-      "assigned": 3,
-      "created": 2,
+      "assigned": 1,
+      "created": 1,
       "failedBatches": 0
     },
     "summaries": {
-      "written": 1,
-      "due": 1
+      "written": 0,
+      "due": 0
     }
   },
   "recentDays": 60

@@ -1,6 +1,6 @@
 {
  "desk": "global",
- "updatedAt": "2026-10-08T14:52:17.185Z",
+ "updatedAt": "2026-10-08T19:49:57.863Z",
  "threads": {
   "t2ogxay": {
    "id": "t2ogxay",
@@ -559,6 +559,27 @@
    ],
    "count": 1,
    "first": "2026-10-08T11:45:17.000Z"
+  },
+  "tmb1jzw": {
+   "id": "tmb1jzw",
+   "name": "US visa programme fraud probe",
+   "sector": "governance",
+   "created": "2026-10-08T17:25:02.000Z",
+   "updated": "2026-10-08T17:25:02.000Z",
+   "latestHeadline": "US suspends Microsoft and Adobe from visa programme amid fraud claims",
+   "events": [
+    {
+     "id": "sknukp8",
+     "date": "2026-10-08T17:25:02.000Z",
+     "headline": "US suspends Microsoft and Adobe from visa programme amid fraud claims",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/economy/2026/10/8/us-suspends-microsoft-and-adobe-from-visa-programme-amid-fraud-claims",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T17:25:02.000Z"
   }
  }
 }
