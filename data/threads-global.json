@@ -1,17 +1,17 @@
 {
  "desk": "global",
- "updatedAt": "2026-10-09T06:34:59.882Z",
+ "updatedAt": "2026-10-09T13:41:51.829Z",
  "threads": {
   "t2ogxay": {
    "id": "t2ogxay",
    "name": "US-Iran war and Hormuz",
    "sector": "energy",
    "created": "2026-10-02T01:17:37.000Z",
-   "updated": "2026-10-08T22:30:37.000Z",
-   "latestHeadline": "Putin pledges Russia’s support to end US-led war on Iran",
-   "summary": "On 2 October, the US sent a third aircraft carrier to the Middle East amid a stalemate in the war against Iran. In the days after, on 5 and 6 October, reports said Middle East oil exports had passed pre-war levels while Iran's oil minister resigned amid a worsening economic crisis, and Saudi Arabia said its East-West pipeline was pumping 5.8 million barrels per day after a major attack the previous month. On 7 October, Oman evacuated injured crew from an attacked tanker in the Strait of Hormuz, and India's Foreign Ministry said 11 of the 12 injured were Indian nationals, while the US set new demands for an Iran deal, including reduced nuclear enrichment. On 8 October, the UK maritime agency UKMTO reported a rise in attacks on vessels in the strait, and Russian President Putin pledged support to end the war when he met Iran's president in Turkmenistan.",
-   "summaryCount": 12,
-   "summaryAt": "2026-10-09T00:26:25.432Z",
+   "updated": "2026-10-09T10:40:36.000Z",
+   "latestHeadline": "Is Trump signalling a return to war with Iran after the midterms?",
+   "summary": "On 2 October, the US sent a third aircraft carrier to the Middle East amid a stalemate in its war against Iran, with US midterm elections approaching. Around 5 October, data showed Middle East oil exports had passed pre-war levels, while Iran's oil minister resigned amid a large drop in oil receipts, rampant inflation and a shrinking economy. On 7 October, Oman evacuated injured crew from an attacked tanker in the Strait of Hormuz, and India's Foreign Ministry said 11 of the 12 injured were Indian nationals. By 8 October, the UK maritime agency UKMTO had reported a rise in attacks on vessels in Hormuz, and on 9 October US media reports that Trump might weigh strikes before the midterms were met with his statement ruling that out.",
+   "summaryCount": 13,
+   "summaryAt": "2026-10-09T13:41:51.826Z",
    "events": [
     {
      "id": "s1o9hx0z",
@@ -120,9 +120,18 @@
      "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran",
      "sector": "energy",
      "month": "2026-10"
+    },
+    {
+     "id": "shfp511",
+     "date": "2026-10-09T10:40:36.000Z",
+     "headline": "Is Trump signalling a return to war with Iran after the midterms?",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms",
+     "sector": "energy",
+     "month": "2026-10"
     }
    ],
-   "count": 12,
+   "count": 13,
    "first": "2026-10-02T01:17:37.000Z"
   },
   "t1kqejni": {
@@ -631,6 +640,48 @@
    ],
    "count": 1,
    "first": "2026-10-08T20:43:34.000Z"
+  },
+  "t9c5vj4": {
+   "id": "t9c5vj4",
+   "name": "Starlink India launch and Reliance rivalry",
+   "sector": "technology",
+   "created": "2026-10-09T06:42:37.000Z",
+   "updated": "2026-10-09T06:42:37.000Z",
+   "latestHeadline": "Why Elon Musk is taking on India's richest man over Starlink",
+   "events": [
+    {
+     "id": "s1p6wmr9",
+     "date": "2026-10-09T06:42:37.000Z",
+     "headline": "Why Elon Musk is taking on India's richest man over Starlink",
+     "source": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo",
+     "sector": "technology",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-09T06:42:37.000Z"
+  },
+  "t1ya4ss": {
+   "id": "t1ya4ss",
+   "name": "India Gen Z-led protests",
+   "sector": "governance",
+   "created": "2026-10-09T07:19:24.000Z",
+   "updated": "2026-10-09T07:19:24.000Z",
+   "latestHeadline": "Meet India's feisty Gen Z protester who is taking on Modi",
+   "events": [
+    {
+     "id": "s1py2161",
+     "date": "2026-10-09T07:19:24.000Z",
+     "headline": "Meet India's feisty Gen Z protester who is taking on Modi",
+     "source": "bbc",
+     "url": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-09T07:19:24.000Z"
   }
  }
 }

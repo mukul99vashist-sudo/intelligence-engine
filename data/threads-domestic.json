@@ -1,6 +1,6 @@
 {
  "desk": "domestic",
- "updatedAt": "2026-10-09T06:36:18.861Z",
+ "updatedAt": "2026-10-09T13:43:22.496Z",
  "threads": {
   "t1weh1f1": {
    "id": "t1weh1f1",
@@ -1570,11 +1570,11 @@
    "name": "Monsoon rainfall and food prices",
    "sector": "agriculture",
    "created": "2026-10-07T07:43:30.000Z",
-   "updated": "2026-10-08T14:28:23.000Z",
-   "latestHeadline": "Homecooked food gets expensive, vegetarians to pay more than non-vegetarians amid onion, rice, LPG price hike: Crisil",
-   "summary": "In June, Agriculture Minister Shivraj Singh Chouhan said that changing crop strategy in rain-fed areas had become \"the need of the hour\", and the central government issued an advisory asking States to encourage farmers to shift to short-duration or less-water-intensive crops such as pulses and millets. By early October, reports said South Peninsular India (Andhra Pradesh, Karnataka, Kerala, Tamil Nadu and Telangana) had seen a significant rainfall deficit during the southwest monsoon and was looking to the northeast monsoon to make up the shortfall, while the southwest monsoon's withdrawal was advancing and The Hindu was asking why rice prices were rising across the country. On October 8, a Crisil report put the cost of a home-cooked vegetarian thali at ₹30.8 in September 2026, up from ₹28.1 a year earlier, and the non-vegetarian thali at ₹59.5, up from ₹56.",
-   "summaryCount": 4,
-   "summaryAt": "2026-10-08T14:53:46.430Z",
+   "updated": "2026-10-09T12:21:49.000Z",
+   "latestHeadline": "Rain to continue across parts of India until 15 October: IMD",
+   "summary": "In June, Agriculture Minister Shivraj Singh Chouhan said that changing crop strategy in rain-fed areas had become \"the need of the hour.\" In early October, reports said South Peninsular India (Andhra Pradesh, Karnataka, Kerala, Tamil Nadu and Telangana) had a significant rainfall deficit during the southwest monsoon and was looking to the northeast monsoon to make up the shortfall. Around the same time, The Hindu reported on rising rice prices across the country and on a central government advisory asking States to encourage farmers to shift to short-duration or less-water-intensive crops such as pulses and millets. On 8 October, a Crisil report put the cost of a home-cooked vegetarian thali at ₹30.8 in September 2026, up from ₹28.1 a year earlier, and the non-vegetarian thali at ₹59.5, up from ₹56.",
+   "summaryCount": 5,
+   "summaryAt": "2026-10-09T13:43:14.953Z",
    "events": [
     {
      "id": "s12jq6qy",
@@ -1611,9 +1611,18 @@
      "url": "https://www.livemint.com/economy/homecooked-food-gets-expensive-vegetarians-to-pay-more-than-non-vegetarians-amid-onion-rice-lpg-price-hike-crisil-11791468585537.html",
      "sector": "economy",
      "month": "2026-10"
+    },
+    {
+     "id": "s1upeed4",
+     "date": "2026-10-09T12:21:49.000Z",
+     "headline": "Rain to continue across parts of India until 15 October: IMD",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/rain-to-continue-across-parts-of-india-until-15-october-imd-11791542963210.html",
+     "sector": "environment",
+     "month": "2026-10"
     }
    ],
-   "count": 4,
+   "count": 5,
    "first": "2026-10-07T07:43:30.000Z"
   },
   "t13vnby": {
@@ -1936,11 +1945,11 @@
    "name": "Pharma marketing practices regulation",
    "sector": "governance",
    "created": "2026-10-08T09:27:58.000Z",
-   "updated": "2026-10-08T14:19:31.000Z",
-   "latestHeadline": "SC directs Centre to form expert panel to regulate unethical pharma marketing",
-   "summary": "In early October, the Supreme Court asked the Centre to set up a three-member panel to examine whether drugmakers need legally enforceable rules governing gifts, incentives and other promotional practices. The petition before the court had raised concerns that pharmaceutical companies were allegedly offering doctors expensive gifts, overseas trips and other incentives to encourage them to prescribe particular drugs. The Hindu reported the direction as one for an expert panel to regulate unethical pharma marketing.",
-   "summaryCount": 2,
-   "summaryAt": "2026-10-08T14:53:48.228Z",
+   "updated": "2026-10-09T08:29:58.000Z",
+   "latestHeadline": "Centre moves to bar retailers, wholesalers from advertising prescription drugs",
+   "summary": "On 8 October, the Supreme Court asked the Centre to set up a three-member panel to examine whether drugmakers need legally enforceable rules on gifts, incentives and other promotional practices. The petition before the court had raised concerns that pharmaceutical companies allegedly offered doctors expensive gifts, overseas trips and other incentives to encourage them to prescribe particular drugs. On 9 October, the Centre moved to bar retailers and wholesalers from advertising prescription drugs, and invited public feedback on the proposed rules within 30 days for final notification.",
+   "summaryCount": 3,
+   "summaryAt": "2026-10-09T13:43:22.493Z",
    "events": [
     {
      "id": "s1jmtb5u",
@@ -1959,9 +1968,18 @@
      "url": "https://www.thehindu.com/news/national/sc-directs-centre-to-form-expert-panel-to-assess-statutory-backing-for-pharma-marketing-regulation/article71558619.ece",
      "sector": "governance",
      "month": "2026-10"
+    },
+    {
+     "id": "smssive",
+     "date": "2026-10-09T08:29:58.000Z",
+     "headline": "Centre moves to bar retailers, wholesalers from advertising prescription drugs",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/centre-drugs-retailers-wholesalers-advertising-prescription-medicines-11791526987780.html",
+     "sector": "governance",
+     "month": "2026-10"
     }
    ],
-   "count": 2,
+   "count": 3,
    "first": "2026-10-08T09:27:58.000Z"
   },
   "t1mccksl": {
@@ -2128,8 +2146,8 @@
    "name": "Shipbuilding and maritime self-reliance",
    "sector": "logistics",
    "created": "2026-10-08T14:32:20.000Z",
-   "updated": "2026-10-08T21:07:03.000Z",
-   "latestHeadline": "Cochin Shipyard gets order to build 40 ships from U.S., Germany, Norway, other nations: Sonowal",
+   "updated": "2026-10-09T12:08:12.000Z",
+   "latestHeadline": "‘If there’s a good time, it is now’: Former shipping secretary on India’s shipbuilding push",
    "events": [
     {
      "id": "s1abp29",
@@ -2148,13 +2166,22 @@
      "url": "https://www.thehindu.com/business/Industry/cochin-shipyard-gets-order-to-build-40-ships-from-us-germany-norway-other-nations-sonowal/article71561344.ece",
      "sector": "logistics",
      "month": "2026-10"
+    },
+    {
+     "id": "s1lqmzzg",
+     "date": "2026-10-09T12:08:12.000Z",
+     "headline": "‘If there’s a good time, it is now’: Former shipping secretary on India’s shipbuilding push",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/if-there-s-a-good-time-it-is-now-former-shipping-secretary-on-india-s-shipbuilding-push-11791544472104.html",
+     "sector": "logistics",
+     "month": "2026-10"
     }
    ],
-   "count": 2,
+   "count": 3,
    "first": "2026-10-08T14:32:20.000Z",
-   "summary": "On 8 October 2026, Union minister Sarbananda Sonowal said India aims to be self-reliant in shipping and shipbuilding by 2047, and that the government is building an ecosystem to help domestic shipyards win global orders as the country targets a place among the world's top five shipbuilding nations. The same day, The Hindu reported that Cochin Shipyard had received an order to build 40 ships from the U.S., Germany, Norway and other nations, according to Sonowal. A senior Shipping Ministry official also said that some Russian entities had shown interest in building ships in India.",
-   "summaryCount": 2,
-   "summaryAt": "2026-10-09T00:26:50.255Z"
+   "summary": "On 8 October, Union minister Sarbananda Sonowal said India aims to be self-reliant in shipping and shipbuilding by 2047, with the government building an ecosystem to help domestic shipyards win global orders as the country targets a place among the world's top five shipbuilding nations. The same day, The Hindu reported Sonowal saying Cochin Shipyard had received an order to build 40 ships from the U.S., Germany, Norway and other nations, while a senior Shipping Ministry official said some Russian entities had also shown interest in building ships in India. On 9 October, Mint reported that India was stepping up efforts to build a competitive shipbuilding industry, with demand for more than 100 vessels, and former shipping secretary T K Ramachandran explained how incentives, ship recycling and green vessels could boost domestic shipbuilding.",
+   "summaryCount": 3,
+   "summaryAt": "2026-10-09T13:43:20.262Z"
   },
   "t1jobkuw": {
    "id": "t1jobkuw",
@@ -2494,6 +2521,48 @@
    ],
    "count": 1,
    "first": "2026-10-09T06:15:55.000Z"
+  },
+  "t1kgdf4f": {
+   "id": "t1kgdf4f",
+   "name": "Census 2027 enumeration phases",
+   "sector": "governance",
+   "created": "2026-10-09T10:59:16.000Z",
+   "updated": "2026-10-09T10:59:16.000Z",
+   "latestHeadline": "Census 2027: Ensure every individual is counted, says Registrar General",
+   "events": [
+    {
+     "id": "s1bbkk9b",
+     "date": "2026-10-09T10:59:16.000Z",
+     "headline": "Census 2027: Ensure every individual is counted, says Registrar General",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/census-2027-ensure-every-individual-is-counted-says-registrar-general/article71563598.ece",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-09T10:59:16.000Z"
+  },
+  "td1xiiq": {
+   "id": "td1xiiq",
+   "name": "Foreign greenfield investment trends",
+   "sector": "economy",
+   "created": "2026-10-09T12:45:52.000Z",
+   "updated": "2026-10-09T12:45:52.000Z",
+   "latestHeadline": "India’s share of global greenfield investments more than double China’s in 2020-25",
+   "events": [
+    {
+     "id": "s63u7n5",
+     "date": "2026-10-09T12:45:52.000Z",
+     "headline": "India’s share of global greenfield investments more than double China’s in 2020-25",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/Economy/indias-share-of-global-greenfield-investments-more-than-double-chinas-in-2020-25/article71564075.ece",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-09T12:45:52.000Z"
   }
  }
 }

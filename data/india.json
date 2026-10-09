@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-09T06:34:59.883Z",
+  "updatedAt": "2026-10-09T13:41:51.830Z",
   "sectors": [
     {
       "id": "energy",
@@ -90,10 +90,67 @@
               "summaryV": 3,
               "lede": "Yemen’s Iran-aligned Houthis say they have struck Saudi Arabia’s Riyadh ⁠airport with a ballistic missile, badly damaging a plane and leading some airlines to suspend flights to the capital.",
               "image": "https://i.guim.co.uk/img/media/2cbce45dc97ef52eb8b8297b6c20899aeadce0a5/0_478_794_634/master/794.jpg?width=700&quality=85&auto=format&fit=max&s=a3819a9dd90d793886d2d88fd582b473"
+            },
+            {
+              "source": "bbc",
+              "headline": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+              "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro",
+              "date": "2026-10-09T10:07:04.000Z",
+              "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
+              "summaryV": 3,
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac9/live/3ddaf120-c3e2-11f1-a64c-550be9e3c66b.jpg",
+              "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1ac9/live/3ddaf120-c3e2-11f1-a64c-550be9e3c66b.jpg"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three",
+              "url": "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three",
+              "date": "2026-10-09T11:46:39.000Z",
+              "summary": "Saudi Arabia has seen several attacks by the Houthis in recent days, with airports appearing to be the primary target.",
+              "summaryV": 3
             }
           ],
           "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-13T080915Z_261669411_RC27INAUFFBL_RTRMADP_3_IRAN-CRISIS-SAUDI-HOUTHIS-1791275673.jpg?resize=1200%2C675",
           "thread": "t1j5n1me"
+        },
+        {
+          "id": "shfp511",
+          "headline": "Is Trump signalling a return to war with Iran after the midterms?",
+          "url": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms",
+          "source": "aljazeera",
+          "date": "2026-10-09T10:40:36.000Z",
+          "relevance": "medium",
+          "why": "Possible renewed US strikes on Iran would threaten Gulf oil supply and Hormuz shipping, which India depends on for crude imports.",
+          "implications": [
+            "Renewed US-Iran fighting could push up crude prices, raising India's import bill and fuel costs.",
+            "Any disruption to Hormuz transit may delay Indian crude and gas cargoes.",
+            "Uncertainty over timing could keep oil prices volatile in the coming weeks."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Is Trump signalling a return to war with Iran after the midterms?",
+              "url": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms",
+              "date": "2026-10-09T10:40:36.000Z",
+              "summary": "US media reports suggest he may be weighing strikes before the vote, but the president has ruled that out.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac82899-1791502489_527e21-1791535382.jpg?resize=1200%2C630&quality=80"
+            },
+            {
+              "source": "npr",
+              "headline": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
+              "url": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
+              "date": "2026-10-09T11:37:04.000Z",
+              "summary": "Trump announced that the U.S. will not attack Iran ahead of the midterms. And, a 28-year-old man is receiving treatment at the hospital after an ICE agent shot him in the neck.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac82899-1791502489_527e21-1791535382.jpg?resize=1200%2C630&quality=80",
+          "thread": "t2ogxay"
         },
         {
           "id": "s1bpuh94",
@@ -1251,6 +1308,34 @@
       "name": "Technology",
       "items": [
         {
+          "id": "s1p6wmr9",
+          "headline": "Why Elon Musk is taking on India's richest man over Starlink",
+          "url": "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo",
+          "source": "bbc",
+          "date": "2026-10-09T06:42:37.000Z",
+          "relevance": "medium",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36d4/live/5881b930-c3cb-11f1-9a39-31b474234113.jpg",
+          "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/36d4/live/5881b930-c3cb-11f1-9a39-31b474234113.jpg",
+          "why": "Starlink's struggle to launch in India, and Musk's dispute with Ambani, bear on the future of satellite broadband in the country.",
+          "implications": [
+            "Satellite internet services in India may be delayed while Starlink's launch remains unresolved.",
+            "Rivalry between Starlink and Reliance could shape future broadband competition and pricing, though this is uncertain."
+          ],
+          "reports": [
+            {
+              "source": "bbc",
+              "headline": "Why Elon Musk is taking on India's richest man over Starlink",
+              "url": "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo",
+              "date": "2026-10-09T06:42:37.000Z",
+              "summary": "Musk has taken pot-shots at Reliance owner Mukesh Ambani as Starlink struggles to launch in India.",
+              "summaryV": 3,
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36d4/live/5881b930-c3cb-11f1-9a39-31b474234113.jpg",
+              "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/36d4/live/5881b930-c3cb-11f1-9a39-31b474234113.jpg"
+            }
+          ],
+          "thread": "t9c5vj4"
+        },
+        {
           "id": "s1evd0ij",
           "headline": "US arrests California man for allegedly smuggling $300m worth of computer servers to China",
           "url": "https://www.theguardian.com/us-news/2026/oct/02/arrest-smuggled-computer-servers-china",
@@ -1353,6 +1438,99 @@
       "id": "governance",
       "name": "Policy & Governance",
       "items": [
+        {
+          "id": "s1py2161",
+          "headline": "Meet India's feisty Gen Z protester who is taking on Modi",
+          "url": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o",
+          "source": "bbc",
+          "date": "2026-10-09T07:19:24.000Z",
+          "relevance": "medium",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16b3/live/d4f32e10-c2fc-11f1-b8c6-6d610e41a5d9.jpg",
+          "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/16b3/live/d4f32e10-c2fc-11f1-b8c6-6d610e41a5d9.jpg",
+          "why": "Gen Z-led protests in India, with Neha Bora a prominent face, are challenging the Modi government politically.",
+          "implications": [
+            "Youth-led protests may increase political pressure on the government over policy and governance.",
+            "Continued demonstrations could lead to policy responses or public-order measures in affected areas."
+          ],
+          "reports": [
+            {
+              "source": "bbc",
+              "headline": "Meet India's feisty Gen Z protester who is taking on Modi",
+              "url": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o",
+              "date": "2026-10-09T07:19:24.000Z",
+              "summary": "Neha Bora has emerged as one of the most recognisable faces from India's recent Gen Z-led protests.",
+              "summaryV": 3,
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16b3/live/d4f32e10-c2fc-11f1-b8c6-6d610e41a5d9.jpg",
+              "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/16b3/live/d4f32e10-c2fc-11f1-b8c6-6d610e41a5d9.jpg"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Satire silenced: Indian artists face censorship as anti-Modi protests grow",
+              "url": "https://www.aljazeera.com/news/2026/10/9/satire-silenced-indian-artists-face-censorship-as-anti-modi-protests-grow",
+              "date": "2026-10-09T12:37:49.000Z",
+              "summary": "New Delhi accused of silencing dissent as satirical content and online critiques are removed under new rules.",
+              "summaryV": 3
+            }
+          ],
+          "thread": "t1ya4ss"
+        },
+        {
+          "id": "sknukp8",
+          "headline": "US suspends Microsoft and Adobe from visa programme amid fraud claims",
+          "url": "https://www.aljazeera.com/economy/2026/10/8/us-suspends-microsoft-and-adobe-from-visa-programme-amid-fraud-claims",
+          "source": "aljazeera",
+          "date": "2026-10-08T17:25:02.000Z",
+          "relevance": "high",
+          "why": "A US visa programme suspension and probe into universities could affect Indian skilled workers and students who rely on US visas.",
+          "implications": [
+            "Indian professionals and students seeking US work or study visas could face delays or tighter scrutiny.",
+            "Indian families and employers planning US placements may need to rethink timelines.",
+            "The move could add pressure on India to seek clarity on visa rules affecting its citizens."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "US suspends Microsoft and Adobe from visa programme amid fraud claims",
+              "url": "https://www.aljazeera.com/economy/2026/10/8/us-suspends-microsoft-and-adobe-from-visa-programme-amid-fraud-claims",
+              "date": "2026-10-08T17:25:02.000Z",
+              "summary": "Visa probe also targets universities for allegedly exploiting international students to reduce US wage costs.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac7c50523788-1791476997.jpg?resize=1920%2C1440"
+            },
+            {
+              "source": "guardian",
+              "headline": "Microsoft suspended from applying for green cards for H-1B workers, JD Vance says",
+              "url": "https://www.theguardian.com/technology/2026/oct/08/jd-vance-microsoft-visa-workers-green-card-suspension",
+              "date": "2026-10-08T18:23:47.000Z",
+              "summary": "Vice-president also says Adobe is barred from visa program that allows high-skilled workers to apply for US residency",
+              "summaryV": 3,
+              "lede": "Microsoft is suspended from applying for permanent residency for workers employed through a US visa program for high-skilled workers, JD Vance announced on Thursday.",
+              "image": "https://i.guim.co.uk/img/media/0a5876855694163b01d022271607a1f87c8c496a/758_255_3012_2410/master/3012.jpg?width=700&quality=85&auto=format&fit=max&s=4caa7a5219ed3e4ada256661c6074975"
+            },
+            {
+              "source": "bbc",
+              "headline": "White House blocks Microsoft from foreign worker hiring program",
+              "url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo",
+              "date": "2026-10-08T18:56:46.000Z",
+              "summary": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
+              "summaryV": 3,
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e9/live/ec86f2b0-c346-11f1-9a39-31b474234113.jpg",
+              "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d7e9/live/ec86f2b0-c346-11f1-9a39-31b474234113.jpg"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "‘Indentured servants’: US green card move will hit thousands of IT workers",
+              "url": "https://www.aljazeera.com/news/2026/10/9/indentured-servants-us-green-card-move-will-hit-thousands-of-it-workers",
+              "date": "2026-10-09T11:08:05.000Z",
+              "summary": "The US is suspending top tech firms, including Microsoft, from a key programme to sponsor foreign workers’ green cards.",
+              "summaryV": 3
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac7c50523788-1791476997.jpg?resize=1920%2C1440",
+          "thread": "tmb1jzw"
+        },
         {
           "id": "s185yeqj",
           "headline": "Indian opposition MPs detained in protest against election chief",
@@ -1465,55 +1643,6 @@
           ],
           "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac7f72bf2142-1791489836.jpg?resize=1920%2C1440",
           "thread": "twoznon"
-        },
-        {
-          "id": "sknukp8",
-          "headline": "US suspends Microsoft and Adobe from visa programme amid fraud claims",
-          "url": "https://www.aljazeera.com/economy/2026/10/8/us-suspends-microsoft-and-adobe-from-visa-programme-amid-fraud-claims",
-          "source": "aljazeera",
-          "date": "2026-10-08T17:25:02.000Z",
-          "relevance": "high",
-          "why": "A US visa programme suspension and probe into universities could affect Indian skilled workers and students who rely on US visas.",
-          "implications": [
-            "Indian professionals and students seeking US work or study visas could face delays or tighter scrutiny.",
-            "Indian families and employers planning US placements may need to rethink timelines.",
-            "The move could add pressure on India to seek clarity on visa rules affecting its citizens."
-          ],
-          "reports": [
-            {
-              "source": "aljazeera",
-              "headline": "US suspends Microsoft and Adobe from visa programme amid fraud claims",
-              "url": "https://www.aljazeera.com/economy/2026/10/8/us-suspends-microsoft-and-adobe-from-visa-programme-amid-fraud-claims",
-              "date": "2026-10-08T17:25:02.000Z",
-              "summary": "Visa probe also targets universities for allegedly exploiting international students to reduce US wage costs.",
-              "summaryV": 3,
-              "ogTried": true,
-              "descTried": true,
-              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac7c50523788-1791476997.jpg?resize=1920%2C1440"
-            },
-            {
-              "source": "guardian",
-              "headline": "Microsoft suspended from applying for green cards for H-1B workers, JD Vance says",
-              "url": "https://www.theguardian.com/technology/2026/oct/08/jd-vance-microsoft-visa-workers-green-card-suspension",
-              "date": "2026-10-08T18:23:47.000Z",
-              "summary": "Vice-president also says Adobe is barred from visa program that allows high-skilled workers to apply for US residency",
-              "summaryV": 3,
-              "lede": "Microsoft is suspended from applying for permanent residency for workers employed through a US visa program for high-skilled workers, JD Vance announced on Thursday.",
-              "image": "https://i.guim.co.uk/img/media/0a5876855694163b01d022271607a1f87c8c496a/758_255_3012_2410/master/3012.jpg?width=700&quality=85&auto=format&fit=max&s=4caa7a5219ed3e4ada256661c6074975"
-            },
-            {
-              "source": "bbc",
-              "headline": "White House blocks Microsoft from foreign worker hiring program",
-              "url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo",
-              "date": "2026-10-08T18:56:46.000Z",
-              "summary": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
-              "summaryV": 3,
-              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e9/live/ec86f2b0-c346-11f1-9a39-31b474234113.jpg",
-              "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d7e9/live/ec86f2b0-c346-11f1-9a39-31b474234113.jpg"
-            }
-          ],
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac7c50523788-1791476997.jpg?resize=1920%2C1440",
-          "thread": "tmb1jzw"
         },
         {
           "id": "srpxtbp",
@@ -1696,21 +1825,21 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 52,
-    "added": 0,
-    "merged": 2,
-    "rejected": 50,
+    "analysed": 68,
+    "added": 3,
+    "merged": 5,
+    "rejected": 60,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 163
+        "items": 160
       },
       "guardian": {
         "feedsOk": 7,
         "feedsFailed": 0,
-        "items": 201
+        "items": 197
       },
       "npr": {
         "feedsOk": 4,
@@ -1720,7 +1849,7 @@
       "aljazeera": {
         "feedsOk": 1,
         "feedsFailed": 0,
-        "items": 15
+        "items": 13
       },
       "mercopress": {
         "feedsOk": 3,
@@ -1734,18 +1863,18 @@
       }
     },
     "shareImages": {
-      "tried": 0,
-      "found": 0,
+      "tried": 2,
+      "found": 1,
       "summaries": 0
     },
     "threads": {
-      "assigned": 0,
-      "created": 0,
+      "assigned": 3,
+      "created": 2,
       "failedBatches": 0
     },
     "summaries": {
-      "written": 0,
-      "due": 0
+      "written": 1,
+      "due": 1
     }
   },
   "recentDays": 60

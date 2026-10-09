@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-09T06:36:18.863Z",
+  "updatedAt": "2026-10-09T13:43:22.498Z",
   "sectors": [
     {
       "id": "energy",
@@ -622,6 +622,33 @@
       "name": "Logistics & Shipping",
       "items": [
         {
+          "id": "s1lqmzzg",
+          "headline": "‘If there’s a good time, it is now’: Former shipping secretary on India’s shipbuilding push",
+          "url": "https://www.livemint.com/news/india/if-there-s-a-good-time-it-is-now-former-shipping-secretary-on-india-s-shipbuilding-push-11791544472104.html",
+          "source": "mint",
+          "date": "2026-10-09T12:08:12.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/CHINA-USA-SHIPPING-SOUTHKOREA-0_1762824136086_1762824152468_1791545259030_RnTT_1f2c7ba6-0d9b-48b3-90e0-f0e4749c169b_7SOT.JPG",
+          "why": "A ₹70,000 crore support package and demand for over 100 vessels could build a domestic shipbuilding base and cut reliance on foreign shipping.",
+          "implications": [
+            "Shipyards and ancillary suppliers may add skilled jobs as orders for vessels grow.",
+            "Greater domestic ship capacity could gradually lower freight dependence on foreign carriers.",
+            "Ship recycling and green vessel incentives may widen industrial activity at coastal clusters."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "‘If there’s a good time, it is now’: Former shipping secretary on India’s shipbuilding push",
+              "url": "https://www.livemint.com/news/india/if-there-s-a-good-time-it-is-now-former-shipping-secretary-on-india-s-shipbuilding-push-11791544472104.html",
+              "date": "2026-10-09T12:08:12.000Z",
+              "summary": "India is stepping up efforts to build a competitive shipbuilding industry with a ₹70,000 crore support package and demand for more than 100 vessels. Former shipping secretary T K Ramachandran explains how incentives, ship recycling and green vessels could boost domestic shipbuilding.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/CHINA-USA-SHIPPING-SOUTHKOREA-0_1762824136086_1762824152468_1791545259030_RnTT_1f2c7ba6-0d9b-48b3-90e0-f0e4749c169b_7SOT.JPG"
+            }
+          ],
+          "thread": "tqtn8b9"
+        },
+        {
           "id": "s1fv1e3l",
           "headline": "Saudi Arabia-Houthi conflict: Indian Embassy in Riyadh issues advisory; Air India, IndiGo, Akasa cancel flights",
           "url": "https://www.livemint.com/news/world/saudi-arabia-houthi-conflict-indian-embassy-in-riyadh-issues-advisory-urges-nationals-to-remain-vigilant-11791475804794.html",
@@ -1226,6 +1253,32 @@
       "name": "Economy & Trade",
       "items": [
         {
+          "id": "s63u7n5",
+          "headline": "India’s share of global greenfield investments more than double China’s in 2020-25",
+          "url": "https://www.thehindu.com/business/Economy/indias-share-of-global-greenfield-investments-more-than-double-chinas-in-2020-25/article71564075.ece",
+          "source": "thehindu",
+          "date": "2026-10-09T12:45:52.000Z",
+          "relevance": "medium",
+          "image": "https://th-i.thgim.com/public/incoming/6w5blo/article71564105.ece/alternates/LANDSCAPE_1200/IMG_unctadjpg_2_1_8RCB8P7S.jpg",
+          "why": "A UN report showing India drawing far more greenfield investment than China signals strong foreign capital interest, though it also notes price-linked strain on consumption.",
+          "implications": [
+            "Greenfield investment in strategic sectors may support new factories and jobs over time.",
+            "Higher prices could keep weighing on household spending and domestic demand."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "India’s share of global greenfield investments more than double China’s in 2020-25",
+              "url": "https://www.thehindu.com/business/Economy/indias-share-of-global-greenfield-investments-more-than-double-chinas-in-2020-25/article71564075.ece",
+              "date": "2026-10-09T12:45:52.000Z",
+              "summary": "A report by the UN Conference on Trade and Development said that greenfield investments are increasingly taking place in strategic sectors. It added that India remains the fastest-growing major economy, even though domestic consumption is starting to show signs of strain due to higher prices",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/6w5blo/article71564105.ece/alternates/LANDSCAPE_1200/IMG_unctadjpg_2_1_8RCB8P7S.jpg"
+            }
+          ],
+          "thread": "td1xiiq"
+        },
+        {
           "id": "sdancio",
           "headline": "Centre to propose five-pronged reform plan at GST Council meeting on October 8",
           "url": "https://www.thehindu.com/business/centre-to-propose-five-pronged-reform-plan-at-gst-council-meeting-on-october-8/article71551328.ece",
@@ -1356,37 +1409,19 @@
               "date": "2026-10-08T23:20:41.000Z",
               "summary": "GST accounts for about 35% of Telangana’s own tax revenue and any decline in collections would directly affect expenditure on schools, hospitals, welfare programmes and infrastructure, he said",
               "summaryV": 3
+            },
+            {
+              "source": "thehindu",
+              "headline": "What are the reforms proposed by the GST Council?",
+              "url": "https://www.thehindu.com/business/Economy/what-are-the-reforms-proposed-by-the-gst-council/article71563133.ece",
+              "date": "2026-10-09T10:38:22.000Z",
+              "summary": "After having sorted out most of the rate-related complications in GST during its last meeting in September 2025, the GST Council has now unveiled several process reforms that could further overhaul how the tax is administered in the country",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/q9bm4p/article71563282.ece/alternates/LANDSCAPE_1200/20261008428L.jpg"
             }
           ],
           "image": "https://th-i.thgim.com/public/incoming/g2fvai/article71551422.ece/alternates/LANDSCAPE_1200/iStock-1387975877.jpg",
           "thread": "t11tvf36"
-        },
-        {
-          "id": "smbkcxh",
-          "headline": "Gold, silver imports by banks, nominated agencies to attract 3% IGST",
-          "url": "https://www.thehindu.com/business/Economy/gold-silver-imports-by-banks-nominated-agencies-to-attract-3-igst/article71561342.ece",
-          "source": "thehindu",
-          "date": "2026-10-08T22:49:16.000Z",
-          "relevance": "medium",
-          "image": "https://th-i.thgim.com/public/incoming/qtx4jl/article71561619.ece/alternates/LANDSCAPE_1200/2026-01-28T130552Z_482597297_RC28AJACXRN2_RTRMADP_3_INDIA-PRECIOUS.JPG",
-          "why": "A 3% IGST on gold and silver imports by banks and nominated agencies aligns their tax treatment with other import routes, affecting the precious metals trade nationally.",
-          "implications": [
-            "Import costs for gold and silver brought in by banks and nominated agencies may rise.",
-            "Tax parity across import routes could reduce incentives to shift between channels.",
-            "Jewellers and buyers may see some price impact if the added cost is passed on."
-          ],
-          "reports": [
-            {
-              "source": "thehindu",
-              "headline": "Gold, silver imports by banks, nominated agencies to attract 3% IGST",
-              "url": "https://www.thehindu.com/business/Economy/gold-silver-imports-by-banks-nominated-agencies-to-attract-3-igst/article71561342.ece",
-              "date": "2026-10-08T22:49:16.000Z",
-              "summary": "This is done to ensure parity of taxes imposed on gold and other precious metal imports through other routes, including bullion",
-              "summaryV": 3,
-              "image": "https://th-i.thgim.com/public/incoming/qtx4jl/article71561619.ece/alternates/LANDSCAPE_1200/2026-01-28T130552Z_482597297_RC28AJACXRN2_RTRMADP_3_INDIA-PRECIOUS.JPG"
-            }
-          ],
-          "thread": "t19n3dqs"
         },
         {
           "id": "s12pay30",
@@ -1452,10 +1487,46 @@
               "summary": "Micro industries in Coimbatore are awaiting details on the recently cabinet approved Rs. 10000 crore SME Growth Fund",
               "summaryV": 3,
               "image": "https://www.thehindu.com/theme/images/og-image.png"
+            },
+            {
+              "source": "mint",
+              "headline": "Mint explainer: how will the ₹10,000 crore SME Growth Fund (SGF) help Indian MSMEs?",
+              "url": "https://www.livemint.com/economy/mint-explainer-how-will-the-rs-10-000-crore-sme-growth-fund-sgf-help-indian-msmes-11791519972542.html",
+              "date": "2026-10-09T08:00:52.000Z",
+              "summary": "The Centre’s ₹10,000 crore SME Growth Fund aims to plug a funding gap by providing equity capital to small and medium businesses, helping them expand capacity, adopt technology and compete globally.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/msme_1645387600722_1791524631051_bTkp_6334957f-644a-4b58-86f3-ff53d880549d_QxDT.jpg"
             }
           ],
           "image": "https://th-i.thgim.com/public/news/national/ddsidg/article71550024.ece/alternates/LANDSCAPE_1200/iStock-1287899462.jpg",
           "thread": "t1em1ivr"
+        },
+        {
+          "id": "smbkcxh",
+          "headline": "Gold, silver imports by banks, nominated agencies to attract 3% IGST",
+          "url": "https://www.thehindu.com/business/Economy/gold-silver-imports-by-banks-nominated-agencies-to-attract-3-igst/article71561342.ece",
+          "source": "thehindu",
+          "date": "2026-10-08T22:49:16.000Z",
+          "relevance": "medium",
+          "image": "https://th-i.thgim.com/public/incoming/qtx4jl/article71561619.ece/alternates/LANDSCAPE_1200/2026-01-28T130552Z_482597297_RC28AJACXRN2_RTRMADP_3_INDIA-PRECIOUS.JPG",
+          "why": "A 3% IGST on gold and silver imports by banks and nominated agencies aligns their tax treatment with other import routes, affecting the precious metals trade nationally.",
+          "implications": [
+            "Import costs for gold and silver brought in by banks and nominated agencies may rise.",
+            "Tax parity across import routes could reduce incentives to shift between channels.",
+            "Jewellers and buyers may see some price impact if the added cost is passed on."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Gold, silver imports by banks, nominated agencies to attract 3% IGST",
+              "url": "https://www.thehindu.com/business/Economy/gold-silver-imports-by-banks-nominated-agencies-to-attract-3-igst/article71561342.ece",
+              "date": "2026-10-08T22:49:16.000Z",
+              "summary": "This is done to ensure parity of taxes imposed on gold and other precious metal imports through other routes, including bullion",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/qtx4jl/article71561619.ece/alternates/LANDSCAPE_1200/2026-01-28T130552Z_482597297_RC28AJACXRN2_RTRMADP_3_INDIA-PRECIOUS.JPG"
+            }
+          ],
+          "thread": "t19n3dqs"
         },
         {
           "id": "s1n4cv16",
@@ -2734,60 +2805,6 @@
       "name": "Technology",
       "items": [
         {
-          "id": "s13v0vyq",
-          "headline": "US Green Card curbs could accelerate India’s shift to high-value tech work: Karnataka’s IT Minister",
-          "url": "https://www.thehindu.com/news/national/karnataka/us-green-card-curbs-could-accelerate-indias-shift-to-high-value-tech-work-karnatakas-it-minister/article71562786.ece",
-          "source": "thehindu",
-          "date": "2026-10-09T06:30:33.000Z",
-          "relevance": "medium",
-          "image": "https://th-i.thgim.com/public/incoming/r9zb4c/article71562872.ece/alternates/LANDSCAPE_1200/Home-DepartmentGCSGJPK05.4.jpg.jpg",
-          "why": "Tighter US Green Card conditions could push more high-value technology work and research mandates to Indian global capability centres.",
-          "implications": [
-            "Global capability centres in Indian cities may expand and hire more engineers and researchers.",
-            "Demand for senior technology professionals in India could rise, possibly lifting salaries.",
-            "Fewer Indian workers may move to the US, though the effect remains uncertain."
-          ],
-          "reports": [
-            {
-              "source": "thehindu",
-              "headline": "US Green Card curbs could accelerate India’s shift to high-value tech work: Karnataka’s IT Minister",
-              "url": "https://www.thehindu.com/news/national/karnataka/us-green-card-curbs-could-accelerate-indias-shift-to-high-value-tech-work-karnatakas-it-minister/article71562786.ece",
-              "date": "2026-10-09T06:30:33.000Z",
-              "summary": "Tighter mobility conditions could accelerate GCC expansion, bring more global research and development mandates to Indian cities, and increase domestic demand for senior technology professionals, anticipates Priyank Kharge",
-              "summaryV": 3,
-              "image": "https://th-i.thgim.com/public/incoming/r9zb4c/article71562872.ece/alternates/LANDSCAPE_1200/Home-DepartmentGCSGJPK05.4.jpg.jpg"
-            }
-          ],
-          "thread": "t116za04"
-        },
-        {
-          "id": "sg876d2",
-          "headline": "India IT set for fourth year of weak growth on geopolitics, AI risks",
-          "url": "https://www.livemint.com/industry/infotech/ai-impact-on-it-sector-quarterly-results-11791520593653.html",
-          "source": "mint",
-          "date": "2026-10-09T05:00:51.000Z",
-          "relevance": "medium",
-          "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/IT_1791520746903_ZHrS_1791520747351_jwTd_32c41298-1143-42ea-90a9-e7753b55c9fb_gfoN.jpg",
-          "why": "Prolonged weak growth in IT services, a major employer and export earner, could affect hiring and services exports across the economy.",
-          "implications": [
-            "Fresher hiring and salary hikes in IT may stay subdued.",
-            "Services export earnings could grow slowly, affecting India's overall export performance.",
-            "Cities and suppliers dependent on IT spending may see softer demand."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "India IT set for fourth year of weak growth on geopolitics, AI risks",
-              "url": "https://www.livemint.com/industry/infotech/ai-impact-on-it-sector-quarterly-results-11791520593653.html",
-              "date": "2026-10-09T05:00:51.000Z",
-              "summary": "HCL Technologies and Tech Mahindra are next to report quarterly results, after TCS's revenue rose just 0.5% sequentially in constant currency terms.",
-              "summaryV": 3,
-              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/IT_1791520746903_ZHrS_1791520747351_jwTd_32c41298-1143-42ea-90a9-e7753b55c9fb_gfoN.jpg"
-            }
-          ],
-          "thread": "tnrk29y"
-        },
-        {
           "id": "s1yhlayp",
           "headline": "US suspends Microsoft, Infosys, Wipro, HCL and other tech firms from labour programme: ‘Stop defrauding American worker’",
           "url": "https://www.livemint.com/news/us-news/us-suspends-infosys-tcs-wipro-hcl-cognizant-microsoft-adobe-from-labour-certification-programme-here-s-why-11791472878646.html",
@@ -2882,45 +2899,45 @@
               "summary": "The IT firm said it intends to hire an additional 15,000 people in the U.S. over the next five years, “to further augment local workforce”",
               "summaryV": 3,
               "image": "https://th-i.thgim.com/public/incoming/5zcdkw/article71562482.ece/alternates/LANDSCAPE_1200/2026-10-08T105549Z_598719793_RC2NF5A0C9M8_RTRMADP_3_TCS-RESULTS.JPG"
-            }
-          ],
-          "thread": "t116za04"
-        },
-        {
-          "id": "s181w3j4",
-          "headline": "Two months after Meta fiasco, Meity advisory claims public order at risk",
-          "url": "https://www.livemint.com/news/two-months-after-meta-fiasco-meity-advisory-claims-public-order-at-risk-11791472752944.html",
-          "source": "mint",
-          "date": "2026-10-08T17:55:57.000Z",
-          "relevance": "medium",
-          "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/Protest_1791481117936_57ch_1791481118528_kij5_ee8ea3b0-e467-4159-9537-5f99f6870a0d_HWZV.jpg",
-          "why": "The government is pressing social media platforms to curb manipulated and misleading content, which could shape national content moderation obligations.",
-          "implications": [
-            "Platforms may tighten moderation and takedown processes for manipulated or out-of-context posts in India.",
-            "Users could see more content flagged or removed during sensitive periods.",
-            "Platforms may face higher compliance costs and legal exposure if they fail to follow the advisory."
-          ],
-          "reports": [
+            },
             {
               "source": "mint",
-              "headline": "Two months after Meta fiasco, Meity advisory claims public order at risk",
-              "url": "https://www.livemint.com/news/two-months-after-meta-fiasco-meity-advisory-claims-public-order-at-risk-11791472752944.html",
-              "date": "2026-10-08T17:55:57.000Z",
-              "summary": "The government has told social media platforms to be more careful about misleading, manipulated and out-of-context content that could disrupt public order.&nbsp;",
+              "headline": "'Deeply offensive': MEA on JD Vance’s ‘indentured servants’ remark on H-1B workers, clarifies impact on work visa",
+              "url": "https://www.livemint.com/news/india/us-history-shaped-by-immigrants-india-responds-to-jd-vances-comments-amid-h-1b-visas-green-card-freeze-11791531194852.html",
+              "date": "2026-10-09T07:53:02.000Z",
+              "summary": "India’s Ministry of External Affairs said the US suspension of PERM applications does not by itself affect existing H-1B visas or holders’ status, but may hinder eligible employees’ Green Card processes.",
               "summaryV": 3,
-              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/Protest_1791481117936_57ch_1791481118528_kij5_ee8ea3b0-e467-4159-9537-5f99f6870a0d_HWZV.jpg"
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/maxresdefault_1791542013038_G2NS_1791542017797_PnD2_9e3f0c13-bfcc-48dd-b31a-4371accc41e9_ZyCb.jpg"
+            },
+            {
+              "source": "mint",
+              "headline": "US green-card freeze at 8 IT firms: Sridhar Vembu urges Indian techies to return, Dharmendra Pradhan backs appeal",
+              "url": "https://www.livemint.com/news/india/us-green-card-freeze-at-8-it-firms-sridhar-vembu-urges-indian-techies-to-return-dharmendra-pradhan-backs-appeal-11791538425459.html",
+              "date": "2026-10-09T11:19:16.000Z",
+              "summary": "Zoho co-founder Sridhar Vembu urged Indian technology professionals in the US to return and help build India’s tech sector. Former education minister Dharmendra Pradhan endorsed the appeal as TCS and 7 other firms face PERM suspensions that halt new and pending green-card sponsorship applications.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/maxresdefault_1791547416530_eVGs_1791547423041_VvMW_ce328fa5-31c1-42ce-9252-ff50f5b42474_GpXr.jpg"
             },
             {
               "source": "thehindu",
-              "headline": "IT Ministry advises social media platforms to take down ‘manipulated’ content",
-              "url": "https://www.thehindu.com/news/national/it-ministry-advises-social-media-platforms-to-take-down-manipulated-content/article71561383.ece",
-              "date": "2026-10-08T18:55:52.000Z",
-              "summary": "The advisory expands earlier guidance on rules by the Ministry on AI-generated content; it also advises firms to take on “priority” posts referred by government departments",
+              "headline": "Trump’s move to suspend PERM programme for Indian IT majors raises talent-retention concerns",
+              "url": "https://www.thehindu.com/business/Industry/trumps-move-to-suspend-perm-programme-for-indian-it-majors-raises-talent-retention-concerns/article71563952.ece",
+              "date": "2026-10-09T12:51:57.000Z",
+              "summary": "A prolonged suspension could complicate talent management, however, could accelerate the shift towards offshore delivery and alternative technology hubs, certainly benefiting India, say industry analysts",
               "summaryV": 3,
-              "image": "https://th-i.thgim.com/public/incoming/i11yps/article71561409.ece/alternates/LANDSCAPE_1200/IMG_IMG_BL05_MOBILEUSERS_2_1_Q0A24AAT.jpg"
+              "image": "https://th-i.thgim.com/public/incoming/gi7ebd/article71564171.ece/alternates/LANDSCAPE_1200/iStock-1144645520.jpg"
+            },
+            {
+              "source": "mint",
+              "headline": "PERM vs H-1B visa: What Trump Admin's suspension of Microsoft, TCS and other IT firms means for green card seekers",
+              "url": "https://www.livemint.com/news/us-news/perm-vs-h-1b-visa-what-trump-admins-suspension-of-microsoft-tcs-and-other-it-firms-means-for-green-card-seekers-11791550961841.html",
+              "date": "2026-10-09T13:29:15.000Z",
+              "summary": "The suspension, announced by the Trump administration on Thursday (October 8) bars the affected companies from submitting new PERM applications and stops the processing of pending applications, according to US officials.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/perm_vs_h1b_1791552501220_bdyA_1791552518401_X1uk_8971a987-7fff-474d-81a6-8efd06dc7de2_etn0.jpg"
             }
           ],
-          "thread": "t2sqr60"
+          "thread": "t116za04"
         },
         {
           "id": "s1mo8iq1",
@@ -2972,9 +2989,117 @@
               "summary": "The exchange came hours after the Ministry of Communications rejected Musk’s allegations that vested interests were blocking Starlink’s plans in India, saying all satellite communication companies were subject to the same regulatory requirements.",
               "summaryV": 3,
               "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/rahul_gandhi_elon_musk_1791480105334_cUpk_1791480115120_GeG2_8bc2555c-2db1-42fd-bb20-15a334e2e712_0bZZ.jpg"
+            },
+            {
+              "source": "mint",
+              "headline": "Starlink row: Scindia says India will let customers choose their satellite internet provider",
+              "url": "https://www.livemint.com/technology/starlink-row-scindia-says-india-will-let-customers-choose-their-satellite-internet-provider-11791528086630.html",
+              "date": "2026-10-09T06:48:56.000Z",
+              "summary": "Jyotiraditya Scindia, Union Minister of Communications, said Starlink, Jio and OneWeb can launch satellite internet services in India after meeting security requirements and other regulatory conditions.&nbsp;",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/maxresdefault_1791537522769_P1h8_1791537530656_CUXQ_f501577c-3362-4d20-86cf-ffdf821c72a0_7Hx4.jpg"
+            },
+            {
+              "source": "mint",
+              "headline": "Scindia says satcom security clearance rests with home ministry, denies bias",
+              "url": "https://www.livemint.com/news/scindia-says-satcom-security-clearance-rests-with-home-ministry-denies-bias-11791534118842.html",
+              "date": "2026-10-09T11:04:56.000Z",
+              "summary": "Communications minister Jyotiraditya Scindia said India does not allow monopoly in any sector and therefore even as Satcom (satellite communication) is concerned there is not a single licensee that has been chosen.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/ANI-20260728289-0_1785337255297_1785337263415_584b38f5-5d7b-4d1c-ab3a-21a6e2fcad22_1791542129108_V44c_d39b9a0a-c0ba-4c39-84f9-04f12e42d74c_E5M7.jpg"
             }
           ],
           "thread": "t1ad3bzi"
+        },
+        {
+          "id": "s13v0vyq",
+          "headline": "US Green Card curbs could accelerate India’s shift to high-value tech work: Karnataka’s IT Minister",
+          "url": "https://www.thehindu.com/news/national/karnataka/us-green-card-curbs-could-accelerate-indias-shift-to-high-value-tech-work-karnatakas-it-minister/article71562786.ece",
+          "source": "thehindu",
+          "date": "2026-10-09T06:30:33.000Z",
+          "relevance": "medium",
+          "image": "https://th-i.thgim.com/public/incoming/r9zb4c/article71562872.ece/alternates/LANDSCAPE_1200/Home-DepartmentGCSGJPK05.4.jpg.jpg",
+          "why": "Tighter US Green Card conditions could push more high-value technology work and research mandates to Indian global capability centres.",
+          "implications": [
+            "Global capability centres in Indian cities may expand and hire more engineers and researchers.",
+            "Demand for senior technology professionals in India could rise, possibly lifting salaries.",
+            "Fewer Indian workers may move to the US, though the effect remains uncertain."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "US Green Card curbs could accelerate India’s shift to high-value tech work: Karnataka’s IT Minister",
+              "url": "https://www.thehindu.com/news/national/karnataka/us-green-card-curbs-could-accelerate-indias-shift-to-high-value-tech-work-karnatakas-it-minister/article71562786.ece",
+              "date": "2026-10-09T06:30:33.000Z",
+              "summary": "Tighter mobility conditions could accelerate GCC expansion, bring more global research and development mandates to Indian cities, and increase domestic demand for senior technology professionals, anticipates Priyank Kharge",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/r9zb4c/article71562872.ece/alternates/LANDSCAPE_1200/Home-DepartmentGCSGJPK05.4.jpg.jpg"
+            }
+          ],
+          "thread": "t116za04"
+        },
+        {
+          "id": "sg876d2",
+          "headline": "India IT set for fourth year of weak growth on geopolitics, AI risks",
+          "url": "https://www.livemint.com/industry/infotech/ai-impact-on-it-sector-quarterly-results-11791520593653.html",
+          "source": "mint",
+          "date": "2026-10-09T05:00:51.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/IT_1791520746903_ZHrS_1791520747351_jwTd_32c41298-1143-42ea-90a9-e7753b55c9fb_gfoN.jpg",
+          "why": "Prolonged weak growth in IT services, a major employer and export earner, could affect hiring and services exports across the economy.",
+          "implications": [
+            "Fresher hiring and salary hikes in IT may stay subdued.",
+            "Services export earnings could grow slowly, affecting India's overall export performance.",
+            "Cities and suppliers dependent on IT spending may see softer demand."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "India IT set for fourth year of weak growth on geopolitics, AI risks",
+              "url": "https://www.livemint.com/industry/infotech/ai-impact-on-it-sector-quarterly-results-11791520593653.html",
+              "date": "2026-10-09T05:00:51.000Z",
+              "summary": "HCL Technologies and Tech Mahindra are next to report quarterly results, after TCS's revenue rose just 0.5% sequentially in constant currency terms.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/IT_1791520746903_ZHrS_1791520747351_jwTd_32c41298-1143-42ea-90a9-e7753b55c9fb_gfoN.jpg"
+            }
+          ],
+          "thread": "tnrk29y"
+        },
+        {
+          "id": "s181w3j4",
+          "headline": "Two months after Meta fiasco, Meity advisory claims public order at risk",
+          "url": "https://www.livemint.com/news/two-months-after-meta-fiasco-meity-advisory-claims-public-order-at-risk-11791472752944.html",
+          "source": "mint",
+          "date": "2026-10-08T17:55:57.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/Protest_1791481117936_57ch_1791481118528_kij5_ee8ea3b0-e467-4159-9537-5f99f6870a0d_HWZV.jpg",
+          "why": "The government is pressing social media platforms to curb manipulated and misleading content, which could shape national content moderation obligations.",
+          "implications": [
+            "Platforms may tighten moderation and takedown processes for manipulated or out-of-context posts in India.",
+            "Users could see more content flagged or removed during sensitive periods.",
+            "Platforms may face higher compliance costs and legal exposure if they fail to follow the advisory."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Two months after Meta fiasco, Meity advisory claims public order at risk",
+              "url": "https://www.livemint.com/news/two-months-after-meta-fiasco-meity-advisory-claims-public-order-at-risk-11791472752944.html",
+              "date": "2026-10-08T17:55:57.000Z",
+              "summary": "The government has told social media platforms to be more careful about misleading, manipulated and out-of-context content that could disrupt public order.&nbsp;",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/Protest_1791481117936_57ch_1791481118528_kij5_ee8ea3b0-e467-4159-9537-5f99f6870a0d_HWZV.jpg"
+            },
+            {
+              "source": "thehindu",
+              "headline": "IT Ministry advises social media platforms to take down ‘manipulated’ content",
+              "url": "https://www.thehindu.com/news/national/it-ministry-advises-social-media-platforms-to-take-down-manipulated-content/article71561383.ece",
+              "date": "2026-10-08T18:55:52.000Z",
+              "summary": "The advisory expands earlier guidance on rules by the Ministry on AI-generated content; it also advises firms to take on “priority” posts referred by government departments",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/i11yps/article71561409.ece/alternates/LANDSCAPE_1200/IMG_IMG_BL05_MOBILEUSERS_2_1_Q0A24AAT.jpg"
+            }
+          ],
+          "thread": "t2sqr60"
         },
         {
           "id": "s32r3jz",
@@ -3812,6 +3937,33 @@
       "name": "Environment & Climate",
       "items": [
         {
+          "id": "s1upeed4",
+          "headline": "Rain to continue across parts of India until 15 October: IMD",
+          "url": "https://www.livemint.com/news/india/rain-to-continue-across-parts-of-india-until-15-october-imd-11791542963210.html",
+          "source": "mint",
+          "date": "2026-10-09T12:21:49.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/ANI-20260819464-0_1787192783875_1787192795721_385e99f6-4de8-4d01-a240-31f42d731598_1791548087437_O1ff_c2b02a2a-c940-454d-a64e-6da84b550271_iKSi.jpg",
+          "why": "Rain forecast across most regions through 15 October could affect standing kharif crops and daily movement across large parts of the country.",
+          "implications": [
+            "Harvest-ready kharif crops in affected regions may suffer damage or delays if heavy rain persists.",
+            "Local flooding and waterlogging could disrupt road travel and goods movement in some areas.",
+            "Farmers may need to adjust harvesting and drying schedules over the coming week."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Rain to continue across parts of India until 15 October: IMD",
+              "url": "https://www.livemint.com/news/india/rain-to-continue-across-parts-of-india-until-15-october-imd-11791542963210.html",
+              "date": "2026-10-09T12:21:49.000Z",
+              "summary": "Several parts of India are likely to experience rainfall over the coming week, including north-western, central, eastern, north-eastern and southern regions from 9-15 October.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/ANI-20260819464-0_1787192783875_1787192795721_385e99f6-4de8-4d01-a240-31f42d731598_1791548087437_O1ff_c2b02a2a-c940-454d-a64e-6da84b550271_iKSi.jpg"
+            }
+          ],
+          "thread": "t25dibr"
+        },
+        {
           "id": "stei962",
           "headline": "Tested by mud and water, in Bundelkhand",
           "url": "https://www.thehindu.com/news/national/madhya-pradesh/tested-by-mud-and-water-in-bundelkhand/article71559245.ece",
@@ -4212,6 +4364,59 @@
       "id": "governance",
       "name": "Policy & Governance",
       "items": [
+        {
+          "id": "s1bbkk9b",
+          "headline": "Census 2027: Ensure every individual is counted, says Registrar General",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/census-2027-ensure-every-individual-is-counted-says-registrar-general/article71563598.ece",
+          "source": "thehindu",
+          "date": "2026-10-09T10:59:16.000Z",
+          "relevance": "medium",
+          "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/rldbca/article71563704.ece/alternates/LANDSCAPE_1200/2027.jpeg",
+          "why": "Census 2027 is a nationwide exercise whose accuracy and timeliness shape data used for planning public services across India.",
+          "implications": [
+            "Households may be visited by enumerators and asked to provide accurate details in the second phase.",
+            "Complete counts could improve how welfare schemes and public services are planned.",
+            "Missed deadlines or undercounting may delay the release of national census data."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Census 2027: Ensure every individual is counted, says Registrar General",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/census-2027-ensure-every-individual-is-counted-says-registrar-general/article71563598.ece",
+              "date": "2026-10-09T10:59:16.000Z",
+              "summary": "Mrityunjay Kumar Narayan asks census officials in Andhra Pradesh to complete the second phase with accuracy and within deadlines",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/rldbca/article71563704.ece/alternates/LANDSCAPE_1200/2027.jpeg"
+            }
+          ],
+          "thread": "t1kgdf4f"
+        },
+        {
+          "id": "smssive",
+          "headline": "Centre moves to bar retailers, wholesalers from advertising prescription drugs",
+          "url": "https://www.livemint.com/news/centre-drugs-retailers-wholesalers-advertising-prescription-medicines-11791526987780.html",
+          "source": "mint",
+          "date": "2026-10-09T08:29:58.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/g1c6cc6637eb6cd87b1b166d09720bf8fc805532c45791e240_1762590028007_1762590028206_1791533725827_acDr_086304f3-ee9a-444d-8785-47e3d939976b_77Sz.jpg",
+          "why": "Proposed national rules to stop retailers and wholesalers advertising prescription drugs would tighten medicine marketing regulation.",
+          "implications": [
+            "Consumers may see fewer promotions nudging them toward prescription-only medicines.",
+            "Chemists and wholesalers could need to change their advertising practices once the rules are notified."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Centre moves to bar retailers, wholesalers from advertising prescription drugs",
+              "url": "https://www.livemint.com/news/centre-drugs-retailers-wholesalers-advertising-prescription-medicines-11791526987780.html",
+              "date": "2026-10-09T08:29:58.000Z",
+              "summary": "The Centre has invited public feedback on the proposed rules within 30 days for final notification.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/g1c6cc6637eb6cd87b1b166d09720bf8fc805532c45791e240_1762590028007_1762590028206_1791533725827_acDr_086304f3-ee9a-444d-8785-47e3d939976b_77Sz.jpg"
+            }
+          ],
+          "thread": "td2pz0z"
+        },
         {
           "id": "s1ymkhad",
           "headline": "Rural roads: Centre enlists IIT, NIT academicians for quality checks, fixing defects",
@@ -4974,16 +5179,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 75,
-    "added": 9,
-    "merged": 6,
-    "rejected": 60,
+    "analysed": 92,
+    "added": 5,
+    "merged": 8,
+    "rejected": 79,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 340
+        "items": 339
       },
       "mint": {
         "feedsOk": 6,
@@ -4997,8 +5202,8 @@
       "summaries": 0
     },
     "threads": {
-      "assigned": 9,
-      "created": 6,
+      "assigned": 5,
+      "created": 2,
       "failedBatches": 0
     },
     "summaries": {
