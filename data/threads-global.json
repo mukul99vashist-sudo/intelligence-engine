@@ -1,17 +1,17 @@
 {
  "desk": "global",
- "updatedAt": "2026-10-08T20:14:40.796Z",
+ "updatedAt": "2026-10-09T00:26:25.434Z",
  "threads": {
   "t2ogxay": {
    "id": "t2ogxay",
    "name": "US-Iran war and Hormuz",
    "sector": "energy",
    "created": "2026-10-02T01:17:37.000Z",
-   "updated": "2026-10-08T11:02:09.000Z",
-   "latestHeadline": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war",
-   "summary": "On 2 October, the US sent a third aircraft carrier to the Middle East amid a stalemate in its war against Iran, with US midterm elections approaching. On 5 October, Iran's oil minister resigned as the country's economic crisis worsened, and data showed Middle East oil exports had passed pre-war levels, while Al Jazeera asked whether Iran was charging a toll for oil traffic through Hormuz. On 6 October, Saudi Arabia said its East-West pipeline was pumping 5.8 million barrels per day, restored after a major attack the previous month. On 7 October, Oman evacuated injured crew from an attacked tanker in the Strait of Hormuz, 11 of 12 of whom India's Foreign Ministry said were Indian nationals, and by 8 October the UK maritime agency UKMTO reported a rise in attacks on vessels in the strait.",
-   "summaryCount": 11,
-   "summaryAt": "2026-10-08T14:52:17.181Z",
+   "updated": "2026-10-08T22:30:37.000Z",
+   "latestHeadline": "Putin pledges Russia’s support to end US-led war on Iran",
+   "summary": "On 2 October, the US sent a third aircraft carrier to the Middle East amid a stalemate in the war against Iran. In the days after, on 5 and 6 October, reports said Middle East oil exports had passed pre-war levels while Iran's oil minister resigned amid a worsening economic crisis, and Saudi Arabia said its East-West pipeline was pumping 5.8 million barrels per day after a major attack the previous month. On 7 October, Oman evacuated injured crew from an attacked tanker in the Strait of Hormuz, and India's Foreign Ministry said 11 of the 12 injured were Indian nationals, while the US set new demands for an Iran deal, including reduced nuclear enrichment. On 8 October, the UK maritime agency UKMTO reported a rise in attacks on vessels in the strait, and Russian President Putin pledged support to end the war when he met Iran's president in Turkmenistan.",
+   "summaryCount": 12,
+   "summaryAt": "2026-10-09T00:26:25.432Z",
    "events": [
     {
      "id": "s1o9hx0z",
@@ -111,9 +111,18 @@
      "url": "https://www.aljazeera.com/news/2026/10/8/the-hormuz-bonus-sailor-salaries-soar-for-transits-amid-iran-war",
      "sector": "logistics",
      "month": "2026-10"
+    },
+    {
+     "id": "s1bpuh94",
+     "date": "2026-10-08T22:30:37.000Z",
+     "headline": "Putin pledges Russia’s support to end US-led war on Iran",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran",
+     "sector": "energy",
+     "month": "2026-10"
     }
    ],
-   "count": 11,
+   "count": 12,
    "first": "2026-10-02T01:17:37.000Z"
   },
   "t1kqejni": {
@@ -580,6 +589,48 @@
    ],
    "count": 1,
    "first": "2026-10-08T17:25:02.000Z"
+  },
+  "t10svtub": {
+   "id": "t10svtub",
+   "name": "Coffee prices and recipe changes",
+   "sector": "agriculture",
+   "created": "2026-10-08T20:33:20.000Z",
+   "updated": "2026-10-08T20:33:20.000Z",
+   "latestHeadline": "'Consumers should feel ripped off': How coffee brands have changed",
+   "events": [
+    {
+     "id": "srp5dqw",
+     "date": "2026-10-08T20:33:20.000Z",
+     "headline": "'Consumers should feel ripped off': How coffee brands have changed",
+     "source": "abc",
+     "url": "https://www.abc.net.au/news/2026-10-09/coffee-brands-drop-premium-arabica-beans-in-price-squeeze/107242310",
+     "sector": "agriculture",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T20:33:20.000Z"
+  },
+  "twoznon": {
+   "id": "twoznon",
+   "name": "South Africa anti-immigrant protests",
+   "sector": "governance",
+   "created": "2026-10-08T20:43:34.000Z",
+   "updated": "2026-10-08T20:43:34.000Z",
+   "latestHeadline": "South Africa protests turn violent amid rage over asylum ruling",
+   "events": [
+    {
+     "id": "stb8ia3",
+     "date": "2026-10-08T20:43:34.000Z",
+     "headline": "South Africa protests turn violent amid rage over asylum ruling",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T20:43:34.000Z"
   }
  }
 }

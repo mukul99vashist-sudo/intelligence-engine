@@ -2,12 +2,40 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-08T20:14:40.797Z",
+  "updatedAt": "2026-10-09T00:26:25.435Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "s1bpuh94",
+          "headline": "Putin pledges Russia’s support to end US-led war on Iran",
+          "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran",
+          "source": "aljazeera",
+          "date": "2026-10-08T22:30:37.000Z",
+          "relevance": "medium",
+          "why": "Russian backing for Iran in the US-led war suggests the Gulf conflict may persist, keeping India's oil supply routes at risk.",
+          "implications": [
+            "A prolonged Iran conflict could keep crude prices and Gulf shipping risks elevated, raising India's import costs.",
+            "Deepening Russia-Iran alignment may complicate India's balancing of ties with Moscow, Tehran and Washington."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Putin pledges Russia’s support to end US-led war on Iran",
+              "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran",
+              "date": "2026-10-08T22:30:37.000Z",
+              "summary": "The Russian and Iranian presidents met in Turkmenistan ahead of regional summit.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac80d9f8f6ac-1791495583.jpg?resize=1920%2C1440"
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac80d9f8f6ac-1791495583.jpg?resize=1920%2C1440",
+          "thread": "t2ogxay"
+        },
         {
           "id": "sctwrbx",
           "headline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
@@ -1257,6 +1285,32 @@
       "name": "Agriculture & Food",
       "items": [
         {
+          "id": "srp5dqw",
+          "headline": "'Consumers should feel ripped off': How coffee brands have changed",
+          "url": "https://www.abc.net.au/news/2026-10-09/coffee-brands-drop-premium-arabica-beans-in-price-squeeze/107242310",
+          "source": "abc",
+          "date": "2026-10-08T20:33:20.000Z",
+          "relevance": "medium",
+          "image": "https://live-production.wcms.abc-cdn.net.au/5b05c0fe4bd6edfe4343ddcff69607f5?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=382&width=862&height=485",
+          "why": "Coffee bean prices near 50-year highs signal a global commodity price shift relevant to India, a major coffee producer and exporter.",
+          "implications": [
+            "Indian coffee growers and exporters may see stronger prices and export demand.",
+            "Domestic coffee prices could rise if local buyers follow global bean costs."
+          ],
+          "reports": [
+            {
+              "source": "abc",
+              "headline": "'Consumers should feel ripped off': How coffee brands have changed",
+              "url": "https://www.abc.net.au/news/2026-10-09/coffee-brands-drop-premium-arabica-beans-in-price-squeeze/107242310",
+              "date": "2026-10-08T20:33:20.000Z",
+              "summary": "If your coffee tastes different, you may not be imagining things. Brands have quietly changed their recipes and labels after bean prices surged to almost 50-year highs.",
+              "summaryV": 3,
+              "image": "https://live-production.wcms.abc-cdn.net.au/5b05c0fe4bd6edfe4343ddcff69607f5?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=382&width=862&height=485"
+            }
+          ],
+          "thread": "t10svtub"
+        },
+        {
           "id": "sucu2lg",
           "headline": "FAO Food Price Index rises in September amid weather concerns and transport disruptions",
           "url": "https://en.mercopress.com/2026/10/08/fao-food-price-index-rises-in-september-amid-weather-concerns-and-transport-disruptions",
@@ -1289,6 +1343,34 @@
       "id": "governance",
       "name": "Policy & Governance",
       "items": [
+        {
+          "id": "stb8ia3",
+          "headline": "South Africa protests turn violent amid rage over asylum ruling",
+          "url": "https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling",
+          "source": "aljazeera",
+          "date": "2026-10-08T20:43:34.000Z",
+          "relevance": "medium",
+          "why": "Violent protests in South Africa shutting foreign-run businesses could affect Indian nationals and business interests there.",
+          "implications": [
+            "Indian citizens and Indian-run businesses in Johannesburg and Durban may face safety risks and disruption.",
+            "Indian authorities may issue advisories or consular support for nationals in affected areas."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "South Africa protests turn violent amid rage over asylum ruling",
+              "url": "https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling",
+              "date": "2026-10-08T20:43:34.000Z",
+              "summary": "Several cars torched and foreign-run businesses forced to shut in Johannesburg's Soweto and coastal city of Durban.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac7f72bf2142-1791489836.jpg?resize=1920%2C1440"
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac7f72bf2142-1791489836.jpg?resize=1920%2C1440",
+          "thread": "twoznon"
+        },
         {
           "id": "s185yeqj",
           "headline": "Indian opposition MPs detained in protest against election chief",
@@ -1594,16 +1676,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 5,
-    "added": 0,
-    "merged": 1,
-    "rejected": 4,
+    "analysed": 44,
+    "added": 3,
+    "merged": 0,
+    "rejected": 41,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 160
+        "items": 163
       },
       "guardian": {
         "feedsOk": 7,
@@ -1618,7 +1700,7 @@
       "aljazeera": {
         "feedsOk": 1,
         "feedsFailed": 0,
-        "items": 16
+        "items": 12
       },
       "mercopress": {
         "feedsOk": 3,
@@ -1632,18 +1714,18 @@
       }
     },
     "shareImages": {
-      "tried": 0,
-      "found": 0,
+      "tried": 2,
+      "found": 2,
       "summaries": 0
     },
     "threads": {
-      "assigned": 0,
-      "created": 0,
+      "assigned": 3,
+      "created": 2,
       "failedBatches": 0
     },
     "summaries": {
-      "written": 0,
-      "due": 0
+      "written": 1,
+      "due": 1
     }
   },
   "recentDays": 60

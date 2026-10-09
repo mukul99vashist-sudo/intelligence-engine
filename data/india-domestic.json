@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-08T20:14:44.523Z",
+  "updatedAt": "2026-10-09T00:26:50.260Z",
   "sectors": [
     {
       "id": "energy",
@@ -568,6 +568,32 @@
       "id": "logistics",
       "name": "Logistics & Shipping",
       "items": [
+        {
+          "id": "sl6v851",
+          "headline": "Cochin Shipyard gets order to build 40 ships from U.S., Germany, Norway, other nations: Sonowal",
+          "url": "https://www.thehindu.com/business/Industry/cochin-shipyard-gets-order-to-build-40-ships-from-us-germany-norway-other-nations-sonowal/article71561344.ece",
+          "source": "thehindu",
+          "date": "2026-10-08T21:07:03.000Z",
+          "relevance": "medium",
+          "image": "https://th-i.thgim.com/public/incoming/4il4wh/article71561470.ece/alternates/LANDSCAPE_1200/Shipyard02.JPG",
+          "why": "A large set of foreign ship orders signals growing global demand for Indian shipbuilding, which supports the national push for maritime self-reliance.",
+          "implications": [
+            "Shipyard order books may create more skilled jobs in shipbuilding and its supplier industries over the coming years.",
+            "Rising domestic ship capacity could gradually reduce India's dependence on foreign vessels and freight costs."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Cochin Shipyard gets order to build 40 ships from U.S., Germany, Norway, other nations: Sonowal",
+              "url": "https://www.thehindu.com/business/Industry/cochin-shipyard-gets-order-to-build-40-ships-from-us-germany-norway-other-nations-sonowal/article71561344.ece",
+              "date": "2026-10-08T21:07:03.000Z",
+              "summary": "A senior Shipping Ministry official said that some Russian entities have also shown interest in building ships in India",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/4il4wh/article71561470.ece/alternates/LANDSCAPE_1200/Shipyard02.JPG"
+            }
+          ],
+          "thread": "tqtn8b9"
+        },
         {
           "id": "s1fv1e3l",
           "headline": "Saudi Arabia-Houthi conflict: Indian Embassy in Riyadh issues advisory; Air India, IndiGo, Akasa cancel flights",
@@ -1260,10 +1286,45 @@
               "summary": "GST Council Meeting October 2026: Key decisions include ending arrest powers for GST officers, raising the prosecution threshold to ₹5 crore, reducing penalties, faster refunds and simpler registration processes.",
               "summaryV": 3,
               "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/Untitled_design_1791483483867_6pdR_1791483487778_FGrP_94410535-adfb-498d-807e-bacd32884dab_7w7F.png"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Bhatti seeks protection of States’ revenues in GST reforms",
+              "url": "https://www.thehindu.com/news/national/telangana/bhatti-seeks-protection-of-states-revenues-in-gst-reforms/article71560866.ece",
+              "date": "2026-10-08T23:20:41.000Z",
+              "summary": "GST accounts for about 35% of Telangana’s own tax revenue and any decline in collections would directly affect expenditure on schools, hospitals, welfare programmes and infrastructure, he said",
+              "summaryV": 3
             }
           ],
           "image": "https://th-i.thgim.com/public/incoming/g2fvai/article71551422.ece/alternates/LANDSCAPE_1200/iStock-1387975877.jpg",
           "thread": "t11tvf36"
+        },
+        {
+          "id": "smbkcxh",
+          "headline": "Gold, silver imports by banks, nominated agencies to attract 3% IGST",
+          "url": "https://www.thehindu.com/business/Economy/gold-silver-imports-by-banks-nominated-agencies-to-attract-3-igst/article71561342.ece",
+          "source": "thehindu",
+          "date": "2026-10-08T22:49:16.000Z",
+          "relevance": "medium",
+          "image": "https://th-i.thgim.com/public/incoming/qtx4jl/article71561619.ece/alternates/LANDSCAPE_1200/2026-01-28T130552Z_482597297_RC28AJACXRN2_RTRMADP_3_INDIA-PRECIOUS.JPG",
+          "why": "A 3% IGST on gold and silver imports by banks and nominated agencies aligns their tax treatment with other import routes, affecting the precious metals trade nationally.",
+          "implications": [
+            "Import costs for gold and silver brought in by banks and nominated agencies may rise.",
+            "Tax parity across import routes could reduce incentives to shift between channels.",
+            "Jewellers and buyers may see some price impact if the added cost is passed on."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Gold, silver imports by banks, nominated agencies to attract 3% IGST",
+              "url": "https://www.thehindu.com/business/Economy/gold-silver-imports-by-banks-nominated-agencies-to-attract-3-igst/article71561342.ece",
+              "date": "2026-10-08T22:49:16.000Z",
+              "summary": "This is done to ensure parity of taxes imposed on gold and other precious metal imports through other routes, including bullion",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/qtx4jl/article71561619.ece/alternates/LANDSCAPE_1200/2026-01-28T130552Z_482597297_RC28AJACXRN2_RTRMADP_3_INDIA-PRECIOUS.JPG"
+            }
+          ],
+          "thread": "t19n3dqs"
         },
         {
           "id": "s12pay30",
@@ -2611,6 +2672,60 @@
       "name": "Technology",
       "items": [
         {
+          "id": "s1yhlayp",
+          "headline": "US suspends Microsoft, Infosys, Wipro, HCL and other tech firms from labour programme: ‘Stop defrauding American worker’",
+          "url": "https://www.livemint.com/news/us-news/us-suspends-infosys-tcs-wipro-hcl-cognizant-microsoft-adobe-from-labour-certification-programme-here-s-why-11791472878646.html",
+          "source": "mint",
+          "date": "2026-10-08T15:28:13.000Z",
+          "relevance": "high",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/maxresdefault_1791476900653_snr2_1791476905814_WWlQ_a34d53de-bf4a-4040-9403-d362fb507781_QB15.jpg",
+          "why": "A US suspension of major IT firms from its labour certification programme could disrupt overseas hiring in India's large IT services sector.",
+          "implications": [
+            "Indian IT professionals planning US placements or green card sponsorship may face delays or uncertainty.",
+            "IT firms may shift more hiring to local US talent or offshore delivery, which could affect jobs in India.",
+            "Prolonged disruption could raise costs for Indian IT exporters serving US clients."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "US suspends Microsoft, Infosys, Wipro, HCL and other tech firms from labour programme: ‘Stop defrauding American worker’",
+              "url": "https://www.livemint.com/news/us-news/us-suspends-infosys-tcs-wipro-hcl-cognizant-microsoft-adobe-from-labour-certification-programme-here-s-why-11791472878646.html",
+              "date": "2026-10-08T15:28:13.000Z",
+              "summary": "The move comes amid Trump administration’s broader focus on prioritising US workers and scrutinising programmes used by companies to employ foreign nationals.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/maxresdefault_1791476900653_snr2_1791476905814_WWlQ_a34d53de-bf4a-4040-9403-d362fb507781_QB15.jpg"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Cognizant, Infosys, Tata, Wipro and HCL among IT firms suspended from U.S. green card programme",
+              "url": "https://www.thehindu.com/news/international/ussuspends-microsoft-adobe-and-major-it-firms-from-perm-green-card-programme/article71560826.ece",
+              "date": "2026-10-08T15:47:13.000Z",
+              "summary": "The Department of Labour is also suspending Microsoft and Adobe from the PERM programme",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/763nb3/article71560853.ece/alternates/LANDSCAPE_1200/2026-10-08T142744Z_2096195882_RC22ZNA56OTE_RTRMADP_3_USA-VANCE.JPG"
+            },
+            {
+              "source": "mint",
+              "headline": "US suspends work visa program for Indian IT firms, Microsoft citing widespread abuse",
+              "url": "https://www.livemint.com/news/us-work-visa-indian-it-firms-tcs-infosys-wipro-11791475886441.html",
+              "date": "2026-10-08T16:27:58.000Z",
+              "summary": "Indian IT firms, including TCS, Infosys, Wipro and HCLTech, are among the tech firms suspended from the Permanent Labor Certification Program.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/maxresdefault_1791476885551_CFi4_1791476892397_nOpi_081696aa-afc1-40c2-a249-4ae674f9846a_4YtX.jpg"
+            },
+            {
+              "source": "mint",
+              "headline": "What is PERM? Why Trump suspended Microsoft and Indian IT firms from green-card programme",
+              "url": "https://www.livemint.com/news/us-news/what-is-perm-why-trump-suspended-microsoft-and-indian-it-firms-from-green-card-programme-11791492807330.html",
+              "date": "2026-10-08T21:28:56.000Z",
+              "summary": "Vice President JD Vance announced the move on Thursday (October 8), accusing companies of using foreign-worker programmes at the expense of US employees.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/perm_1791493987880_jaIc_1791493996798_Xwv9_93426c8c-e7dc-4c83-bae5-d2b6277752ae_yyBC.jpg"
+            }
+          ],
+          "thread": "t116za04"
+        },
+        {
           "id": "s181w3j4",
           "headline": "Two months after Meta fiasco, Meity advisory claims public order at risk",
           "url": "https://www.livemint.com/news/two-months-after-meta-fiasco-meity-advisory-claims-public-order-at-risk-11791472752944.html",
@@ -2699,51 +2814,6 @@
             }
           ],
           "thread": "t1ad3bzi"
-        },
-        {
-          "id": "s1yhlayp",
-          "headline": "US suspends Microsoft, Infosys, Wipro, HCL and other tech firms from labour programme: ‘Stop defrauding American worker’",
-          "url": "https://www.livemint.com/news/us-news/us-suspends-infosys-tcs-wipro-hcl-cognizant-microsoft-adobe-from-labour-certification-programme-here-s-why-11791472878646.html",
-          "source": "mint",
-          "date": "2026-10-08T15:28:13.000Z",
-          "relevance": "medium",
-          "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/maxresdefault_1791476900653_snr2_1791476905814_WWlQ_a34d53de-bf4a-4040-9403-d362fb507781_QB15.jpg",
-          "why": "A US suspension of major IT firms from its labour certification programme could disrupt overseas hiring in India's large IT services sector.",
-          "implications": [
-            "Indian IT professionals planning US placements or green card sponsorship may face delays or uncertainty.",
-            "IT firms may shift more hiring to local US talent or offshore delivery, which could affect jobs in India.",
-            "Prolonged disruption could raise costs for Indian IT exporters serving US clients."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "US suspends Microsoft, Infosys, Wipro, HCL and other tech firms from labour programme: ‘Stop defrauding American worker’",
-              "url": "https://www.livemint.com/news/us-news/us-suspends-infosys-tcs-wipro-hcl-cognizant-microsoft-adobe-from-labour-certification-programme-here-s-why-11791472878646.html",
-              "date": "2026-10-08T15:28:13.000Z",
-              "summary": "The move comes amid Trump administration’s broader focus on prioritising US workers and scrutinising programmes used by companies to employ foreign nationals.",
-              "summaryV": 3,
-              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/maxresdefault_1791476900653_snr2_1791476905814_WWlQ_a34d53de-bf4a-4040-9403-d362fb507781_QB15.jpg"
-            },
-            {
-              "source": "thehindu",
-              "headline": "Cognizant, Infosys, Tata, Wipro and HCL among IT firms suspended from U.S. green card programme",
-              "url": "https://www.thehindu.com/news/international/ussuspends-microsoft-adobe-and-major-it-firms-from-perm-green-card-programme/article71560826.ece",
-              "date": "2026-10-08T15:47:13.000Z",
-              "summary": "The Department of Labour is also suspending Microsoft and Adobe from the PERM programme",
-              "summaryV": 3,
-              "image": "https://th-i.thgim.com/public/incoming/763nb3/article71560853.ece/alternates/LANDSCAPE_1200/2026-10-08T142744Z_2096195882_RC22ZNA56OTE_RTRMADP_3_USA-VANCE.JPG"
-            },
-            {
-              "source": "mint",
-              "headline": "US suspends work visa program for Indian IT firms, Microsoft citing widespread abuse",
-              "url": "https://www.livemint.com/news/us-work-visa-indian-it-firms-tcs-infosys-wipro-11791475886441.html",
-              "date": "2026-10-08T16:27:58.000Z",
-              "summary": "Indian IT firms, including TCS, Infosys, Wipro and HCLTech, are among the tech firms suspended from the Permanent Labor Certification Program.",
-              "summaryV": 3,
-              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/maxresdefault_1791476885551_CFi4_1791476892397_nOpi_081696aa-afc1-40c2-a249-4ae674f9846a_4YtX.jpg"
-            }
-          ],
-          "thread": "t116za04"
         },
         {
           "id": "s32r3jz",
@@ -4610,10 +4680,10 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 2,
-    "added": 0,
-    "merged": 0,
-    "rejected": 2,
+    "analysed": 27,
+    "added": 2,
+    "merged": 2,
+    "rejected": 23,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
@@ -4633,13 +4703,13 @@
       "summaries": 0
     },
     "threads": {
-      "assigned": 0,
-      "created": 0,
+      "assigned": 2,
+      "created": 1,
       "failedBatches": 0
     },
     "summaries": {
-      "written": 0,
-      "due": 0
+      "written": 1,
+      "due": 1
     }
   },
   "recentDays": 60

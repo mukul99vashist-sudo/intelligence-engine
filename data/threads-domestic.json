@@ -1,6 +1,6 @@
 {
  "desk": "domestic",
- "updatedAt": "2026-10-08T20:14:44.522Z",
+ "updatedAt": "2026-10-09T00:26:50.258Z",
  "threads": {
   "t1weh1f1": {
    "id": "t1weh1f1",
@@ -2110,8 +2110,8 @@
    "name": "Shipbuilding and maritime self-reliance",
    "sector": "logistics",
    "created": "2026-10-08T14:32:20.000Z",
-   "updated": "2026-10-08T14:32:20.000Z",
-   "latestHeadline": "India aims to be self-reliant in shipping and shipbuilding by 2047: Sonowal",
+   "updated": "2026-10-08T21:07:03.000Z",
+   "latestHeadline": "Cochin Shipyard gets order to build 40 ships from U.S., Germany, Norway, other nations: Sonowal",
    "events": [
     {
      "id": "s1abp29",
@@ -2121,10 +2121,22 @@
      "url": "https://www.livemint.com/news/india/indian-shipbuilding-indian-shipping-11791465107693.html",
      "sector": "logistics",
      "month": "2026-10"
+    },
+    {
+     "id": "sl6v851",
+     "date": "2026-10-08T21:07:03.000Z",
+     "headline": "Cochin Shipyard gets order to build 40 ships from U.S., Germany, Norway, other nations: Sonowal",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/Industry/cochin-shipyard-gets-order-to-build-40-ships-from-us-germany-norway-other-nations-sonowal/article71561344.ece",
+     "sector": "logistics",
+     "month": "2026-10"
     }
    ],
-   "count": 1,
-   "first": "2026-10-08T14:32:20.000Z"
+   "count": 2,
+   "first": "2026-10-08T14:32:20.000Z",
+   "summary": "On 8 October 2026, Union minister Sarbananda Sonowal said India aims to be self-reliant in shipping and shipbuilding by 2047, and that the government is building an ecosystem to help domestic shipyards win global orders as the country targets a place among the world's top five shipbuilding nations. The same day, The Hindu reported that Cochin Shipyard had received an order to build 40 ships from the U.S., Germany, Norway and other nations, according to Sonowal. A senior Shipping Ministry official also said that some Russian entities had shown interest in building ships in India.",
+   "summaryCount": 2,
+   "summaryAt": "2026-10-09T00:26:50.255Z"
   },
   "t1jobkuw": {
    "id": "t1jobkuw",
@@ -2305,6 +2317,27 @@
    ],
    "count": 1,
    "first": "2026-10-08T17:55:57.000Z"
+  },
+  "t19n3dqs": {
+   "id": "t19n3dqs",
+   "name": "Gold and silver import IGST",
+   "sector": "economy",
+   "created": "2026-10-08T22:49:16.000Z",
+   "updated": "2026-10-08T22:49:16.000Z",
+   "latestHeadline": "Gold, silver imports by banks, nominated agencies to attract 3% IGST",
+   "events": [
+    {
+     "id": "smbkcxh",
+     "date": "2026-10-08T22:49:16.000Z",
+     "headline": "Gold, silver imports by banks, nominated agencies to attract 3% IGST",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/Economy/gold-silver-imports-by-banks-nominated-agencies-to-attract-3-igst/article71561342.ece",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-08T22:49:16.000Z"
   }
  }
 }
