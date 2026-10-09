@@ -1,6 +1,6 @@
 {
  "desk": "global",
- "updatedAt": "2026-10-09T13:41:51.829Z",
+ "updatedAt": "2026-10-09T19:02:39.766Z",
  "threads": {
   "t2ogxay": {
    "id": "t2ogxay",
@@ -682,6 +682,60 @@
    ],
    "count": 1,
    "first": "2026-10-09T07:19:24.000Z"
+  },
+  "t1vem20c": {
+   "id": "t1vem20c",
+   "name": "EU-China trade tensions",
+   "sector": "economy",
+   "created": "2026-10-09T13:31:04.000Z",
+   "updated": "2026-10-09T15:05:57.000Z",
+   "latestHeadline": "China agrees to ‘halve’ hybrid car exports to EU in landmark deal",
+   "summary": "On 9 October 2026, The Guardian reported that EU Commissioner Stéphane Séjourné said the bloc would support 46 strategic projects, including lithium and rare earths plants, as it tried to avert a trade war with China. The same day, The Guardian reported that China had agreed to \"halve\" its hybrid car exports to the EU, with Brussels saying shipments could fall by more than half over four years, cutting millions of vehicles amid fears for European jobs.",
+   "summaryCount": 2,
+   "summaryAt": "2026-10-09T19:02:39.762Z",
+   "events": [
+    {
+     "id": "s1iwukqo",
+     "date": "2026-10-09T13:31:04.000Z",
+     "headline": "EU ‘pulling out all stops’ with minerals projects as it tries to avert China trade war",
+     "source": "guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/09/eu-pulling-out-all-stops-with-minerals-projects-as-it-tries-to-avert-china-trade-war",
+     "sector": "economy",
+     "month": "2026-10"
+    },
+    {
+     "id": "sesxg98",
+     "date": "2026-10-09T15:05:57.000Z",
+     "headline": "China agrees to ‘halve’ hybrid car exports to EU in landmark deal",
+     "source": "guardian",
+     "url": "https://www.theguardian.com/business/2026/oct/09/china-agrees-to-curb-hybrid-car-exports-to-eu-in-landmark-deal",
+     "sector": "manufacturing",
+     "month": "2026-10"
+    }
+   ],
+   "count": 2,
+   "first": "2026-10-09T13:31:04.000Z"
+  },
+  "t1hbw7xu": {
+   "id": "t1hbw7xu",
+   "name": "Hurricane Isaias Gulf Coast landfall",
+   "sector": "energy",
+   "created": "2026-10-09T15:25:27.000Z",
+   "updated": "2026-10-09T15:25:27.000Z",
+   "latestHeadline": "Hurricane Isaias strengthens into Category 3 storm with US in its sights",
+   "events": [
+    {
+     "id": "s1x0d3c4",
+     "date": "2026-10-09T15:25:27.000Z",
+     "headline": "Hurricane Isaias strengthens into Category 3 storm with US in its sights",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/9/hurricane-isaias-strengthens-into-category-3-storm-with-us-in-its-sights",
+     "sector": "energy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-09T15:25:27.000Z"
   }
  }
 }

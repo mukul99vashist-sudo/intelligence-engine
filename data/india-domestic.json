@@ -2,12 +2,39 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-09T13:43:22.498Z",
+  "updatedAt": "2026-10-09T19:03:58.742Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "s1jm33t2",
+          "headline": "Coal supplies to power plants rise 36% from September lows; rail loading hits 465 rakes a day",
+          "url": "https://www.thehindu.com/business/Economy/coal-supplies-to-power-plants-rise-36-from-september-lows-rail-loading-hits-465-rakes-a-day/article71564570.ece",
+          "source": "thehindu",
+          "date": "2026-10-09T14:11:13.000Z",
+          "relevance": "medium",
+          "image": "https://th-i.thgim.com/public/incoming/3hyr3z/article71564671.ece/alternates/LANDSCAPE_1200/Coal-Indias-suG2SGJTTL2.4.jpg.jpg",
+          "why": "Improved coal supply to power plants eases fears of fuel shortages and supports power availability across the country.",
+          "implications": [
+            "Better coal stocks may reduce the risk of power cuts as demand stays high.",
+            "Easing stock depletion could lower the need for emergency coal measures at power plants.",
+            "Rail loading at 465 rakes a day suggests coal movement is improving, though it may depend on demand easing in mid-October."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Coal supplies to power plants rise 36% from September lows; rail loading hits 465 rakes a day",
+              "url": "https://www.thehindu.com/business/Economy/coal-supplies-to-power-plants-rise-36-from-september-lows-rail-loading-hits-465-rakes-a-day/article71564570.ece",
+              "date": "2026-10-09T14:11:13.000Z",
+              "summary": "The Coal Ministry stated that rail loading has also improved, stock depletion and power demand are also expected to moderate mid-October citing historical trends.",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/3hyr3z/article71564671.ece/alternates/LANDSCAPE_1200/Coal-Indias-suG2SGJTTL2.4.jpg.jpg"
+            }
+          ],
+          "thread": "tw75e4z"
+        },
         {
           "id": "smhzxhh",
           "headline": "Finance ministry flags slow bank loan processing, low private lender participation in ₹75,000 crore rooftop solar scheme",
@@ -621,6 +648,33 @@
       "id": "logistics",
       "name": "Logistics & Shipping",
       "items": [
+        {
+          "id": "s19bgbyu",
+          "headline": "Iran claims strike on LPG tanker taking ‘illegal route’ through Hormuz",
+          "url": "https://www.livemint.com/news/world/iran-says-it-hit-lpg-tanker-taking-illegal-route-through-hormuz-what-we-know-about-nv-sunshine-and-ship-fire-off-uae-11791561482963.html",
+          "source": "mint",
+          "date": "2026-10-09T16:46:52.000Z",
+          "relevance": "high",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/irgc_1791564356707_JAlC_1791564363471_lIvd_348cd469-567c-4939-a145-15d070690aea_9Ppl.png",
+          "why": "Iran asserting control over Hormuz shipping and reportedly hitting an LPG tanker threatens a key route for India's energy and cargo imports.",
+          "implications": [
+            "LPG and crude cargoes through Hormuz may face delays, rerouting or higher freight and insurance costs.",
+            "Cooking gas supply and prices could come under pressure if disruptions persist.",
+            "Shipping lines and importers may need costlier alternative routes, which could raise import costs."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Iran claims strike on LPG tanker taking ‘illegal route’ through Hormuz",
+              "url": "https://www.livemint.com/news/world/iran-says-it-hit-lpg-tanker-taking-illegal-route-through-hormuz-what-we-know-about-nv-sunshine-and-ship-fire-off-uae-11791561482963.html",
+              "date": "2026-10-09T16:46:52.000Z",
+              "summary": "In a statement carried by Iranian state media, the Revolutionary Guards said Iranian forces had “taken control of the administration of the strait”, reiterating Tehran's efforts to regulate shipping through the strategic waterway amid the ongoing Middle East war.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/irgc_1791564356707_JAlC_1791564363471_lIvd_348cd469-567c-4939-a145-15d070690aea_9Ppl.png"
+            }
+          ],
+          "thread": "t5diw6y"
+        },
         {
           "id": "s1lqmzzg",
           "headline": "‘If there’s a good time, it is now’: Former shipping secretary on India’s shipbuilding push",
@@ -1252,6 +1306,87 @@
       "id": "economy",
       "name": "Economy & Trade",
       "items": [
+        {
+          "id": "s1wrjyxc",
+          "headline": "5% GST on Ola, Uber, Swiggy, Zomato, Amazon and Flipkart regardless of business model: Report",
+          "url": "https://www.livemint.com/companies/news/5-gst-on-ola-uber-swiggy-zomato-amazon-and-flipkart-regardless-of-business-model-report-11791567413508.html",
+          "source": "mint",
+          "date": "2026-10-09T18:32:45.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/ola_1791569585402_konI_1791569637277_soSl_9bbf85ae-a741-43eb-8bec-6eb13c990c4d_bNJS.jpg",
+          "why": "A uniform 5% GST treatment for ride-hailing, food delivery and e-commerce operators could settle tax ambiguity across India's fast-growing platform economy.",
+          "implications": [
+            "Consumers may see more predictable prices on rides, food delivery and online orders.",
+            "Platform operators could face fewer tax disputes and clearer compliance rules.",
+            "Gig workers' earnings may be affected if platforms pass on or absorb the tax."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "5% GST on Ola, Uber, Swiggy, Zomato, Amazon and Flipkart regardless of business model: Report",
+              "url": "https://www.livemint.com/companies/news/5-gst-on-ola-uber-swiggy-zomato-amazon-and-flipkart-regardless-of-business-model-report-11791567413508.html",
+              "date": "2026-10-09T18:32:45.000Z",
+              "summary": "The GST Council had endorsed a uniform tax treatment for operators, regardless of how their businesses are structured, CBIC member for GST Sanjay Mangal says",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/ola_1791569585402_konI_1791569637277_soSl_9bbf85ae-a741-43eb-8bec-6eb13c990c4d_bNJS.jpg"
+            }
+          ],
+          "thread": "t11tvf36"
+        },
+        {
+          "id": "sjs7i7c",
+          "headline": "CEA bats for a review of loan overdue rules for MSMEs",
+          "url": "https://www.livemint.com/economy/adjust-state-economic-plan-instead-of-imposing-uniform-rules-cea-msme-loan-overdue-rules-v-anantha-nageswaran-chief-e-11791561477402.html",
+          "source": "mint",
+          "date": "2026-10-09T16:55:44.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/ANI-20260714342-0_1791466434746_J7M9_1791466445739_WIIB_48c5dc2b-b618-4d9f-b4dc-2be6537fbfb7_LBNM_1791564678992_iA7V_bd765a93-02de-43df-a90c-7f58717c2f09_NgTm.jpg",
+          "why": "The chief economic adviser's call to align overdue-loan rules with MSME cash cycles signals possible changes to credit norms for a major employment-generating segment.",
+          "implications": [
+            "Small businesses with irregular cash flows may face fewer loans classed as overdue if rules are eased.",
+            "Banks could become more willing to lend to MSMEs if the norms are relaxed.",
+            "Any change would likely take time and need regulator action, so near-term effect is uncertain."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "CEA bats for a review of loan overdue rules for MSMEs",
+              "url": "https://www.livemint.com/economy/adjust-state-economic-plan-instead-of-imposing-uniform-rules-cea-msme-loan-overdue-rules-v-anantha-nageswaran-chief-e-11791561477402.html",
+              "date": "2026-10-09T16:55:44.000Z",
+              "summary": "Chief economic adviser V. Anantha Nageswaran called for tailoring loan overdue regulations to the actual cash-flow cycles of MSMEs rather than relying on rigid, uniform global standards.&nbsp;",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/ANI-20260714342-0_1791466434746_J7M9_1791466445739_WIIB_48c5dc2b-b618-4d9f-b4dc-2be6537fbfb7_LBNM_1791564678992_iA7V_bd765a93-02de-43df-a90c-7f58717c2f09_NgTm.jpg"
+            }
+          ],
+          "thread": "t1b3oux9"
+        },
+        {
+          "id": "sd5gr67",
+          "headline": "RBI tightens daily cash reserve rules as banking system liquidity stays elevated",
+          "url": "https://www.livemint.com/industry/banking/rbi-tightens-daily-cash-reserve-rules-as-banking-system-liquidity-stays-elevated-11791553952830.html",
+          "source": "mint",
+          "date": "2026-10-09T16:00:15.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/INDIA-CENBANK-DEBT-SALE-0_1791559553754_djfV_1791559577898_Gj11_d0589917-dbbb-4449-bd1f-db38020fc572_YWbg.JPG",
+          "why": "RBI is tightening how banks hold cash reserves each day, a liquidity-management step across the whole banking system.",
+          "implications": [
+            "Banks must hold 99% of required reserves daily from 16 October, up from 90%, which may reduce day-to-day flexibility.",
+            "Short-term money market rates could see some firming as surplus liquidity is absorbed.",
+            "The overall CRR stays at 3%, so any direct effect on loan rates is likely limited."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "RBI tightens daily cash reserve rules as banking system liquidity stays elevated",
+              "url": "https://www.livemint.com/industry/banking/rbi-tightens-daily-cash-reserve-rules-as-banking-system-liquidity-stays-elevated-11791553952830.html",
+              "date": "2026-10-09T16:00:15.000Z",
+              "summary": "Banks will have to maintain 99% of their required cash reserve ration (CRR) each day from 16 October 2026, up from 90%, though the overall ratio remains at 3%.&nbsp;",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/INDIA-CENBANK-DEBT-SALE-0_1791559553754_djfV_1791559577898_Gj11_d0589917-dbbb-4449-bd1f-db38020fc572_YWbg.JPG"
+            }
+          ],
+          "thread": "truaqhy"
+        },
         {
           "id": "s63u7n5",
           "headline": "India’s share of global greenfield investments more than double China’s in 2020-25",
@@ -2935,6 +3070,15 @@
               "summary": "The suspension, announced by the Trump administration on Thursday (October 8) bars the affected companies from submitting new PERM applications and stops the processing of pending applications, according to US officials.",
               "summaryV": 3,
               "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/perm_vs_h1b_1791552501220_bdyA_1791552518401_X1uk_8971a987-7fff-474d-81a6-8efd06dc7de2_etn0.jpg"
+            },
+            {
+              "source": "mint",
+              "headline": "'Build here. Scale here. Die here' - Pan IIT Alumni India Chairman on US PERM, H1-B news from Trump Admin",
+              "url": "https://www.livemint.com/news/india/build-here-scale-here-die-here-pan-iit-alumni-india-chairman-on-us-perm-h1-b-news-from-trump-admin-11791565743265.html",
+              "date": "2026-10-09T17:40:59.000Z",
+              "summary": "The Trump administration suspended the Permanent Labor Certification (PERM) programme for eight IT companies. It also launched probes into several universities amid strained in India-US ties.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/21643_1791567623710_uH9U_1791567627350_Knt4_f730bac4-632d-4a12-a9e0-45990bfe930b_eHac.jpg"
             }
           ],
           "thread": "t116za04"
@@ -3007,6 +3151,15 @@
               "summary": "Communications minister Jyotiraditya Scindia said India does not allow monopoly in any sector and therefore even as Satcom (satellite communication) is concerned there is not a single licensee that has been chosen.",
               "summaryV": 3,
               "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/ANI-20260728289-0_1785337255297_1785337263415_584b38f5-5d7b-4d1c-ab3a-21a6e2fcad22_1791542129108_V44c_d39b9a0a-c0ba-4c39-84f9-04f12e42d74c_E5M7.jpg"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Government won’t allow monopoly in any sector in India: Scindia",
+              "url": "https://www.thehindu.com/news/national/government-wont-allow-monopoly-in-any-sector-in-india-scindia/article71564710.ece",
+              "date": "2026-10-09T16:17:08.000Z",
+              "summary": "Scindia was responding to billionaire SpaceX CEO Elon Musk’s comments on “oligarchs” blocking Starlink’s satellite Internet service in India",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/9n30ms/article71565455.ece/alternates/LANDSCAPE_1200/2026-10-09T130151Z_735117544_RC2MDCADAHCU_RTRMADP_3_INDIA-SATELLITE-INTERNET-MUSK.JPG"
             }
           ],
           "thread": "t1ad3bzi"
@@ -4365,6 +4518,87 @@
       "name": "Policy & Governance",
       "items": [
         {
+          "id": "st3pvxh",
+          "headline": "CJP protest: Trains cut, Internet down, Delhi turns a fortress",
+          "url": "https://www.thehindu.com/news/national/centre-seeks-states-help-as-cjp-prepares-to-go-ahead-with-protest-major-curbs-in-delhi/article71565420.ece",
+          "source": "thehindu",
+          "date": "2026-10-09T17:33:39.000Z",
+          "relevance": "medium",
+          "image": "https://th-i.thgim.com/public/incoming/746otl/article71565651.ece/alternates/LANDSCAPE_1200/SECURITY%20AHEAD%20CJP%20PROTEST%20NEW%20DELHI%2010.JPG",
+          "why": "A major protest against the Chief Election Commissioner has led to internet curbs, train cancellations and closures in the capital, raising civil-liberty and election-governance concerns.",
+          "implications": [
+            "Commuters and travellers to Delhi may face cancelled trains, shut Metro stations and disrupted internet.",
+            "Delhi businesses could see markets closed and lost sales for the day.",
+            "Tensions over election-body credibility and protest rights may continue."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "CJP protest: Trains cut, Internet down, Delhi turns a fortress",
+              "url": "https://www.thehindu.com/news/national/centre-seeks-states-help-as-cjp-prepares-to-go-ahead-with-protest-major-curbs-in-delhi/article71565420.ece",
+              "date": "2026-10-09T17:33:39.000Z",
+              "summary": "Ahead of the October 10 protest demanding CEC’s resignation, authorities deny permission for Jantar Mantar gathering, put curbs on internet, shut down markets and Metro stations, and cancel dozens of trains bound for capital",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/746otl/article71565651.ece/alternates/LANDSCAPE_1200/SECURITY%20AHEAD%20CJP%20PROTEST%20NEW%20DELHI%2010.JPG"
+            }
+          ],
+          "thread": "t1iy3j15"
+        },
+        {
+          "id": "soq7q8o",
+          "headline": "Amid bulk filing, ECI sets limit on Form 7 submissions",
+          "url": "https://www.thehindu.com/news/national/amid-bulk-filing-eci-sets-limit-on-form-7-submissions/article71565344.ece",
+          "source": "thehindu",
+          "date": "2026-10-09T17:24:06.000Z",
+          "relevance": "medium",
+          "image": "https://th-i.thgim.com/public/incoming/g2ggr4/article71565634.ece/alternates/LANDSCAPE_1200/9911_25_7_2026_18_43_25_2_SIR08.JPG",
+          "why": "The Election Commission's caps on Form 7 filings change how voter-roll deletion objections are handled nationwide and aim to curb bulk filings.",
+          "implications": [
+            "Individuals may now file only 10 objections during claims periods and five per month otherwise.",
+            "Bulk or politically motivated attempts to delete voters from rolls may become harder.",
+            "Genuine voters may face fewer wrongful deletion challenges, though enforcement details remain to be seen."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Amid bulk filing, ECI sets limit on Form 7 submissions",
+              "url": "https://www.thehindu.com/news/national/amid-bulk-filing-eci-sets-limit-on-form-7-submissions/article71565344.ece",
+              "date": "2026-10-09T17:24:06.000Z",
+              "summary": "Applications during claims and objections that an individual elector can file are capped at 10, while those during continuous updation of rolls by a voter have been fixed at five per month",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/g2ggr4/article71565634.ece/alternates/LANDSCAPE_1200/9911_25_7_2026_18_43_25_2_SIR08.JPG"
+            }
+          ],
+          "thread": "t1iy3j15"
+        },
+        {
+          "id": "sjestmt",
+          "headline": "NEET UG paper leak: Parliamentary panel recommends switching NTA-run exams to CBT mode",
+          "url": "https://www.thehindu.com/news/national/neet-ug-paper-leak-parliamentary-panel-calls-for-mechanism-to-ensure-ntas-accountability-to-both-houses/article71564395.ece",
+          "source": "thehindu",
+          "date": "2026-10-09T16:27:11.000Z",
+          "relevance": "medium",
+          "image": "https://th-i.thgim.com/public/incoming/uw310m/article71123012.ece/alternates/LANDSCAPE_1200/PTI05_21_2026_000259B.jpg",
+          "why": "A parliamentary panel's recommendations could reshape how national entrance exams are conducted after a major paper leak.",
+          "implications": [
+            "Millions of NTA exam candidates may eventually sit computer-based tests instead of paper exams if the government accepts this.",
+            "A central registry of blacklisted vendors could limit repeat contractors and may reduce leak risks.",
+            "Exam centres may avoid invasive frisking, though larger question banks would need time to build."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "NEET UG paper leak: Parliamentary panel recommends switching NTA-run exams to CBT mode",
+              "url": "https://www.thehindu.com/news/national/neet-ug-paper-leak-parliamentary-panel-calls-for-mechanism-to-ensure-ntas-accountability-to-both-houses/article71564395.ece",
+              "date": "2026-10-09T16:27:11.000Z",
+              "summary": "Committee calls for central registry to bar blacklisted exam vendors; says long-term defence against recurring leaks is investing in large, diverse, and continuously updated question banks; advises against invasive student frisking at examination centres.",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/uw310m/article71123012.ece/alternates/LANDSCAPE_1200/PTI05_21_2026_000259B.jpg"
+            }
+          ],
+          "thread": "t4suy5s"
+        },
+        {
           "id": "s1bbkk9b",
           "headline": "Census 2027: Ensure every individual is counted, says Registrar General",
           "url": "https://www.thehindu.com/news/national/andhra-pradesh/census-2027-ensure-every-individual-is-counted-says-registrar-general/article71563598.ece",
@@ -5179,21 +5413,21 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 92,
-    "added": 5,
-    "merged": 8,
-    "rejected": 79,
+    "analysed": 80,
+    "added": 8,
+    "merged": 2,
+    "rejected": 70,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 339
+        "items": 341
       },
       "mint": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 210
+        "items": 209
       }
     },
     "shareImages": {
@@ -5202,13 +5436,13 @@
       "summaries": 0
     },
     "threads": {
-      "assigned": 5,
-      "created": 2,
+      "assigned": 8,
+      "created": 3,
       "failedBatches": 0
     },
     "summaries": {
-      "written": 3,
-      "due": 3
+      "written": 4,
+      "due": 4
     }
   },
   "recentDays": 60
