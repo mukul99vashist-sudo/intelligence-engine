@@ -1,6 +1,6 @@
 {
  "desk": "global",
- "updatedAt": "2026-10-09T19:02:39.766Z",
+ "updatedAt": "2026-10-09T23:09:53.179Z",
  "threads": {
   "t2ogxay": {
    "id": "t2ogxay",
@@ -202,11 +202,11 @@
    "name": "Diesel reserves and US export ban",
    "sector": "energy",
    "created": "2026-10-02T08:54:00.000Z",
-   "updated": "2026-10-07T08:30:16.000Z",
-   "latestHeadline": "Shell expects refineries to almost double the profit from every barrel of fuel made",
-   "summary": "In early October, President Donald Trump threatened to ban diesel exports to ease prices in the US ahead of the November elections, and the US pressed Europe to release its diesel reserves. A couple of days later, G7 nations agreed to release large amounts of diesel fuel, though European countries were not entirely happy about the agreement. In the days after that, Shell said it expected its refineries to make record profits on each barrel of fuel produced, as shortages linked to the shutdown of war-damaged refineries in the Middle East and Russia pushed pump prices around the world to all-time highs.",
-   "summaryCount": 3,
-   "summaryAt": "2026-10-07T21:45:02.937Z",
+   "updated": "2026-10-09T19:47:33.000Z",
+   "latestHeadline": "Trump announces Russian diesel deal amid soaring US fuel prices",
+   "summary": "On October 2, President Donald Trump threatened to ban diesel exports to ease prices in the US ahead of the November elections, and the US pressed Europe to release its diesel reserves. By October 4, G7 countries had agreed to release large amounts of diesel, though European countries were not entirely happy about the agreement. On October 7, Shell said it expected refineries to almost double the profit from every barrel of fuel made, citing record prices caused by global shortages as war-damaged refineries in the Middle East and Russia shut down. On October 9, Trump announced a deal for Russia to supply 300,000 tonnes of diesel immediately, followed by 1.5 million more, as prices soared amid the Iran war.",
+   "summaryCount": 4,
+   "summaryAt": "2026-10-09T23:09:53.167Z",
    "events": [
     {
      "id": "si8i521",
@@ -234,9 +234,18 @@
      "url": "https://www.theguardian.com/business/2026/oct/07/shell-refineries-forecast-to-make-double-the-profit-from-every-barrel-of-fuel",
      "sector": "energy",
      "month": "2026-10"
+    },
+    {
+     "id": "szbant9",
+     "date": "2026-10-09T19:47:33.000Z",
+     "headline": "Trump announces Russian diesel deal amid soaring US fuel prices",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices",
+     "sector": "energy",
+     "month": "2026-10"
     }
    ],
-   "count": 3,
+   "count": 4,
    "first": "2026-10-02T08:54:00.000Z"
   },
   "t139atn9": {

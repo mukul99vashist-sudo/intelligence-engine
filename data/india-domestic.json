@@ -2,12 +2,39 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-09T19:03:58.742Z",
+  "updatedAt": "2026-10-09T23:10:19.551Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "s1ymsnoo",
+          "headline": "U.S. lifts sanctions on sale of Russian diesel in global markets",
+          "url": "https://www.thehindu.com/news/international/us-lifts-sanctions-on-sale-of-russian-diesel-in-global-markets/article71565823.ece",
+          "source": "thehindu",
+          "date": "2026-10-09T20:07:53.000Z",
+          "relevance": "medium",
+          "image": "https://th-i.thgim.com/public/incoming/15wv3c/article71565836.ece/alternates/LANDSCAPE_1200/2025-01-13T131227Z_1184706461_RC2EYS9RHM0Z_RTRMADP_3_INDIA-RUSSIA-OIL.JPG",
+          "why": "Easing of US sanctions on Russian diesel could widen global diesel supply, which matters for India's fuel import costs and pricing.",
+          "implications": [
+            "Wider global diesel supply may ease fuel cost pressure for transporters and farmers over coming weeks.",
+            "Cheaper diesel could modestly reduce freight costs and help moderate food and goods prices.",
+            "Refiners and fuel importers may gain more sourcing options, though the effect is uncertain."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "U.S. lifts sanctions on sale of Russian diesel in global markets",
+              "url": "https://www.thehindu.com/news/international/us-lifts-sanctions-on-sale-of-russian-diesel-in-global-markets/article71565823.ece",
+              "date": "2026-10-09T20:07:53.000Z",
+              "summary": "The announcement by the US Department of Treasury came minutes after U.S. President Donald Trump spoke with Russian President Vladimir Putin and struck a deal to supply diesel to the American and global markets",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/15wv3c/article71565836.ece/alternates/LANDSCAPE_1200/2025-01-13T131227Z_1184706461_RC2EYS9RHM0Z_RTRMADP_3_INDIA-RUSSIA-OIL.JPG"
+            }
+          ],
+          "thread": "tmyg5jt"
+        },
         {
           "id": "s1jm33t2",
           "headline": "Coal supplies to power plants rise 36% from September lows; rail loading hits 465 rakes a day",
@@ -2940,6 +2967,96 @@
       "name": "Technology",
       "items": [
         {
+          "id": "s1mo8iq1",
+          "headline": "‘Absolutely false,’ Musk hits back at Starlink ‘militants’ claims | Key things he has said about India operations",
+          "url": "https://www.livemint.com/companies/news/absolutely-false-musk-hits-back-at-starlink-militants-claims-key-things-he-has-said-about-india-operations-11791437691373.html",
+          "source": "mint",
+          "date": "2026-10-08T06:12:57.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/maxresdefault_1791441790560_bsJk_1791441795799_ug5b_414856ed-2a73-4f3d-ad90-4d9d5d8ac636_kWRC.jpg",
+          "why": "Security-compliance demands on satellite internet providers could shape how soon and how widely satcom broadband launches in India.",
+          "implications": [
+            "Satellite broadband rollout in remote areas may be delayed if licensing and security checks are tightened.",
+            "Satcom operators could face stricter compliance requirements before launching services.",
+            "Consumers and businesses waiting for satellite internet may see uncertain launch timelines."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "‘Absolutely false,’ Musk hits back at Starlink ‘militants’ claims | Key things he has said about India operations",
+              "url": "https://www.livemint.com/companies/news/absolutely-false-musk-hits-back-at-starlink-militants-claims-key-things-he-has-said-about-india-operations-11791437691373.html",
+              "date": "2026-10-08T06:12:57.000Z",
+              "summary": "Elon Musk said that Starlink's satellite beams are off over India, countering claims of militants using the service. Meanwhile, the Indian government said that demonstrating compliance with security norms is an absolute requirement for every satcom licensee in the country.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/maxresdefault_1791441790560_bsJk_1791441795799_ug5b_414856ed-2a73-4f3d-ad90-4d9d5d8ac636_kWRC.jpg"
+            },
+            {
+              "source": "mint",
+              "headline": "Mint Explainer | Why is Elon Musk’s Starlink at war with Indian telecom giants?",
+              "url": "https://www.livemint.com/companies/elon-musk-starlink-indian-telecom-giants-11791451260121.html",
+              "date": "2026-10-08T10:54:08.000Z",
+              "summary": "Elon Musk claims Indian ‘oligarchs’ are stalling Starlink’s launch, deepening a fierce battle with Jio and Airtel over spectrum allocation and market control.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/STARLINK-INDIA--0_1787211542136_1787211577251_de78b4d2-2cdf-4ab4-91f8-cf7c760f623e_1791456530072_dUGx_02573db4-8b1a-40ce-a941-8412c2c74abd_yxdu.JPG"
+            },
+            {
+              "source": "thehindu",
+              "headline": "DoT refutes bias in Starlink authorisation, says all licensees’ approvals pending",
+              "url": "https://www.thehindu.com/business/Industry/dot-refutes-bias-in-starlink-authorisation-says-all-licensees-approvals-pending/article71560045.ece",
+              "date": "2026-10-08T13:45:31.000Z",
+              "summary": "SpaceX founder and CEO Elon Musk had accused “certain oligarchs” in India of blocking the satellite internet service here. On Thursday, he asked if “Ambani [was] the real boss of India.”",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/g7ta5h/article71560193.ece/alternates/LANDSCAPE_1200/2025-03-25T095911Z_1921186963_RC26O1AGM95Z_RTRMADP_3_SPACEX-INDIA.JPG"
+            },
+            {
+              "source": "mint",
+              "headline": "Rahul Gandhi reacts to Elon Musk's ‘Is Ambani the real boss of India?’: Here's a look at their conversation on X",
+              "url": "https://www.livemint.com/news/india/rahul-gandhi-reacts-to-elon-musks-is-ambani-the-real-boss-of-india-heres-a-look-at-their-conversation-on-x-11791478621947.html",
+              "date": "2026-10-08T17:22:10.000Z",
+              "summary": "The exchange came hours after the Ministry of Communications rejected Musk’s allegations that vested interests were blocking Starlink’s plans in India, saying all satellite communication companies were subject to the same regulatory requirements.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/rahul_gandhi_elon_musk_1791480105334_cUpk_1791480115120_GeG2_8bc2555c-2db1-42fd-bb20-15a334e2e712_0bZZ.jpg"
+            },
+            {
+              "source": "mint",
+              "headline": "Starlink row: Scindia says India will let customers choose their satellite internet provider",
+              "url": "https://www.livemint.com/technology/starlink-row-scindia-says-india-will-let-customers-choose-their-satellite-internet-provider-11791528086630.html",
+              "date": "2026-10-09T06:48:56.000Z",
+              "summary": "Jyotiraditya Scindia, Union Minister of Communications, said Starlink, Jio and OneWeb can launch satellite internet services in India after meeting security requirements and other regulatory conditions.&nbsp;",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/maxresdefault_1791537522769_P1h8_1791537530656_CUXQ_f501577c-3362-4d20-86cf-ffdf821c72a0_7Hx4.jpg"
+            },
+            {
+              "source": "mint",
+              "headline": "Scindia says satcom security clearance rests with home ministry, denies bias",
+              "url": "https://www.livemint.com/news/scindia-says-satcom-security-clearance-rests-with-home-ministry-denies-bias-11791534118842.html",
+              "date": "2026-10-09T11:04:56.000Z",
+              "summary": "Communications minister Jyotiraditya Scindia said India does not allow monopoly in any sector and therefore even as Satcom (satellite communication) is concerned there is not a single licensee that has been chosen.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/ANI-20260728289-0_1785337255297_1785337263415_584b38f5-5d7b-4d1c-ab3a-21a6e2fcad22_1791542129108_V44c_d39b9a0a-c0ba-4c39-84f9-04f12e42d74c_E5M7.jpg"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Government won’t allow monopoly in any sector in India: Scindia",
+              "url": "https://www.thehindu.com/news/national/government-wont-allow-monopoly-in-any-sector-in-india-scindia/article71564710.ece",
+              "date": "2026-10-09T16:17:08.000Z",
+              "summary": "Scindia was responding to billionaire SpaceX CEO Elon Musk’s comments on “oligarchs” blocking Starlink’s satellite Internet service in India",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/9n30ms/article71565455.ece/alternates/LANDSCAPE_1200/2026-10-09T130151Z_735117544_RC2MDCADAHCU_RTRMADP_3_INDIA-SATELLITE-INTERNET-MUSK.JPG"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Elon Musk ups ante in Starlink row, sarcastically calls Ambani ‘Prime Minister’, alleges monopoly",
+              "url": "https://www.thehindu.com/business/Industry/elon-musk-ups-ante-in-starlink-row-sarcastically-calls-ambani-prime-minister-alleges-monopoly/article71565795.ece",
+              "date": "2026-10-09T19:15:27.000Z",
+              "summary": "The post bybrea Mr. Musk now marks a sharp escalation in the Starlink satcom offering row, which saw the U.S. trillionaire recently alleging that powerful business interests are seeking to block his service",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/b1f3jk/article71565807.ece/alternates/LANDSCAPE_1200/2026-10-09T145709Z_465256872_RC26ZNAN2EHS_RTRMADP_3_TESLA-FSD-EUROPE.JPG"
+            }
+          ],
+          "thread": "t1ad3bzi"
+        },
+        {
           "id": "s1yhlayp",
           "headline": "US suspends Microsoft, Infosys, Wipro, HCL and other tech firms from labour programme: ‘Stop defrauding American worker’",
           "url": "https://www.livemint.com/news/us-news/us-suspends-infosys-tcs-wipro-hcl-cognizant-microsoft-adobe-from-labour-certification-programme-here-s-why-11791472878646.html",
@@ -3082,87 +3199,6 @@
             }
           ],
           "thread": "t116za04"
-        },
-        {
-          "id": "s1mo8iq1",
-          "headline": "‘Absolutely false,’ Musk hits back at Starlink ‘militants’ claims | Key things he has said about India operations",
-          "url": "https://www.livemint.com/companies/news/absolutely-false-musk-hits-back-at-starlink-militants-claims-key-things-he-has-said-about-india-operations-11791437691373.html",
-          "source": "mint",
-          "date": "2026-10-08T06:12:57.000Z",
-          "relevance": "medium",
-          "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/maxresdefault_1791441790560_bsJk_1791441795799_ug5b_414856ed-2a73-4f3d-ad90-4d9d5d8ac636_kWRC.jpg",
-          "why": "Security-compliance demands on satellite internet providers could shape how soon and how widely satcom broadband launches in India.",
-          "implications": [
-            "Satellite broadband rollout in remote areas may be delayed if licensing and security checks are tightened.",
-            "Satcom operators could face stricter compliance requirements before launching services.",
-            "Consumers and businesses waiting for satellite internet may see uncertain launch timelines."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "‘Absolutely false,’ Musk hits back at Starlink ‘militants’ claims | Key things he has said about India operations",
-              "url": "https://www.livemint.com/companies/news/absolutely-false-musk-hits-back-at-starlink-militants-claims-key-things-he-has-said-about-india-operations-11791437691373.html",
-              "date": "2026-10-08T06:12:57.000Z",
-              "summary": "Elon Musk said that Starlink's satellite beams are off over India, countering claims of militants using the service. Meanwhile, the Indian government said that demonstrating compliance with security norms is an absolute requirement for every satcom licensee in the country.",
-              "summaryV": 3,
-              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/maxresdefault_1791441790560_bsJk_1791441795799_ug5b_414856ed-2a73-4f3d-ad90-4d9d5d8ac636_kWRC.jpg"
-            },
-            {
-              "source": "mint",
-              "headline": "Mint Explainer | Why is Elon Musk’s Starlink at war with Indian telecom giants?",
-              "url": "https://www.livemint.com/companies/elon-musk-starlink-indian-telecom-giants-11791451260121.html",
-              "date": "2026-10-08T10:54:08.000Z",
-              "summary": "Elon Musk claims Indian ‘oligarchs’ are stalling Starlink’s launch, deepening a fierce battle with Jio and Airtel over spectrum allocation and market control.",
-              "summaryV": 3,
-              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/STARLINK-INDIA--0_1787211542136_1787211577251_de78b4d2-2cdf-4ab4-91f8-cf7c760f623e_1791456530072_dUGx_02573db4-8b1a-40ce-a941-8412c2c74abd_yxdu.JPG"
-            },
-            {
-              "source": "thehindu",
-              "headline": "DoT refutes bias in Starlink authorisation, says all licensees’ approvals pending",
-              "url": "https://www.thehindu.com/business/Industry/dot-refutes-bias-in-starlink-authorisation-says-all-licensees-approvals-pending/article71560045.ece",
-              "date": "2026-10-08T13:45:31.000Z",
-              "summary": "SpaceX founder and CEO Elon Musk had accused “certain oligarchs” in India of blocking the satellite internet service here. On Thursday, he asked if “Ambani [was] the real boss of India.”",
-              "summaryV": 3,
-              "image": "https://th-i.thgim.com/public/incoming/g7ta5h/article71560193.ece/alternates/LANDSCAPE_1200/2025-03-25T095911Z_1921186963_RC26O1AGM95Z_RTRMADP_3_SPACEX-INDIA.JPG"
-            },
-            {
-              "source": "mint",
-              "headline": "Rahul Gandhi reacts to Elon Musk's ‘Is Ambani the real boss of India?’: Here's a look at their conversation on X",
-              "url": "https://www.livemint.com/news/india/rahul-gandhi-reacts-to-elon-musks-is-ambani-the-real-boss-of-india-heres-a-look-at-their-conversation-on-x-11791478621947.html",
-              "date": "2026-10-08T17:22:10.000Z",
-              "summary": "The exchange came hours after the Ministry of Communications rejected Musk’s allegations that vested interests were blocking Starlink’s plans in India, saying all satellite communication companies were subject to the same regulatory requirements.",
-              "summaryV": 3,
-              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/rahul_gandhi_elon_musk_1791480105334_cUpk_1791480115120_GeG2_8bc2555c-2db1-42fd-bb20-15a334e2e712_0bZZ.jpg"
-            },
-            {
-              "source": "mint",
-              "headline": "Starlink row: Scindia says India will let customers choose their satellite internet provider",
-              "url": "https://www.livemint.com/technology/starlink-row-scindia-says-india-will-let-customers-choose-their-satellite-internet-provider-11791528086630.html",
-              "date": "2026-10-09T06:48:56.000Z",
-              "summary": "Jyotiraditya Scindia, Union Minister of Communications, said Starlink, Jio and OneWeb can launch satellite internet services in India after meeting security requirements and other regulatory conditions.&nbsp;",
-              "summaryV": 3,
-              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/maxresdefault_1791537522769_P1h8_1791537530656_CUXQ_f501577c-3362-4d20-86cf-ffdf821c72a0_7Hx4.jpg"
-            },
-            {
-              "source": "mint",
-              "headline": "Scindia says satcom security clearance rests with home ministry, denies bias",
-              "url": "https://www.livemint.com/news/scindia-says-satcom-security-clearance-rests-with-home-ministry-denies-bias-11791534118842.html",
-              "date": "2026-10-09T11:04:56.000Z",
-              "summary": "Communications minister Jyotiraditya Scindia said India does not allow monopoly in any sector and therefore even as Satcom (satellite communication) is concerned there is not a single licensee that has been chosen.",
-              "summaryV": 3,
-              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/ANI-20260728289-0_1785337255297_1785337263415_584b38f5-5d7b-4d1c-ab3a-21a6e2fcad22_1791542129108_V44c_d39b9a0a-c0ba-4c39-84f9-04f12e42d74c_E5M7.jpg"
-            },
-            {
-              "source": "thehindu",
-              "headline": "Government won’t allow monopoly in any sector in India: Scindia",
-              "url": "https://www.thehindu.com/news/national/government-wont-allow-monopoly-in-any-sector-in-india-scindia/article71564710.ece",
-              "date": "2026-10-09T16:17:08.000Z",
-              "summary": "Scindia was responding to billionaire SpaceX CEO Elon Musk’s comments on “oligarchs” blocking Starlink’s satellite Internet service in India",
-              "summaryV": 3,
-              "image": "https://th-i.thgim.com/public/incoming/9n30ms/article71565455.ece/alternates/LANDSCAPE_1200/2026-10-09T130151Z_735117544_RC2MDCADAHCU_RTRMADP_3_INDIA-SATELLITE-INTERNET-MUSK.JPG"
-            }
-          ],
-          "thread": "t1ad3bzi"
         },
         {
           "id": "s13v0vyq",
@@ -5413,16 +5449,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 80,
-    "added": 8,
-    "merged": 2,
-    "rejected": 70,
+    "analysed": 39,
+    "added": 1,
+    "merged": 1,
+    "rejected": 37,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 341
+        "items": 339
       },
       "mint": {
         "feedsOk": 6,
@@ -5436,13 +5472,13 @@
       "summaries": 0
     },
     "threads": {
-      "assigned": 8,
-      "created": 3,
+      "assigned": 1,
+      "created": 1,
       "failedBatches": 0
     },
     "summaries": {
-      "written": 4,
-      "due": 4
+      "written": 0,
+      "due": 0
     }
   },
   "recentDays": 60

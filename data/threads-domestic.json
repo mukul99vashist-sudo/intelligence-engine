@@ -1,6 +1,6 @@
 {
  "desk": "domestic",
- "updatedAt": "2026-10-09T19:03:58.740Z",
+ "updatedAt": "2026-10-09T23:10:19.551Z",
  "threads": {
   "t1weh1f1": {
    "id": "t1weh1f1",
@@ -2680,6 +2680,27 @@
    ],
    "count": 1,
    "first": "2026-10-09T16:55:44.000Z"
+  },
+  "tmyg5jt": {
+   "id": "tmyg5jt",
+   "name": "US easing of Russian fuel sanctions",
+   "sector": "energy",
+   "created": "2026-10-09T20:07:53.000Z",
+   "updated": "2026-10-09T20:07:53.000Z",
+   "latestHeadline": "U.S. lifts sanctions on sale of Russian diesel in global markets",
+   "events": [
+    {
+     "id": "s1ymsnoo",
+     "date": "2026-10-09T20:07:53.000Z",
+     "headline": "U.S. lifts sanctions on sale of Russian diesel in global markets",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/international/us-lifts-sanctions-on-sale-of-russian-diesel-in-global-markets/article71565823.ece",
+     "sector": "energy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-09T20:07:53.000Z"
   }
  }
 }
