@@ -2,40 +2,12 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-09T00:26:25.435Z",
+  "updatedAt": "2026-10-09T06:34:59.883Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
-        {
-          "id": "s1bpuh94",
-          "headline": "Putin pledges Russia’s support to end US-led war on Iran",
-          "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran",
-          "source": "aljazeera",
-          "date": "2026-10-08T22:30:37.000Z",
-          "relevance": "medium",
-          "why": "Russian backing for Iran in the US-led war suggests the Gulf conflict may persist, keeping India's oil supply routes at risk.",
-          "implications": [
-            "A prolonged Iran conflict could keep crude prices and Gulf shipping risks elevated, raising India's import costs.",
-            "Deepening Russia-Iran alignment may complicate India's balancing of ties with Moscow, Tehran and Washington."
-          ],
-          "reports": [
-            {
-              "source": "aljazeera",
-              "headline": "Putin pledges Russia’s support to end US-led war on Iran",
-              "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran",
-              "date": "2026-10-08T22:30:37.000Z",
-              "summary": "The Russian and Iranian presidents met in Turkmenistan ahead of regional summit.",
-              "summaryV": 3,
-              "ogTried": true,
-              "descTried": true,
-              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac80d9f8f6ac-1791495583.jpg?resize=1920%2C1440"
-            }
-          ],
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac80d9f8f6ac-1791495583.jpg?resize=1920%2C1440",
-          "thread": "t2ogxay"
-        },
         {
           "id": "sctwrbx",
           "headline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
@@ -108,10 +80,48 @@
               "date": "2026-10-08T14:43:19.000Z",
               "summary": "Saudi Arabia says two of the missiles intercepted were headed towards the capital, Riyadh.",
               "summaryV": 3
+            },
+            {
+              "source": "guardian",
+              "headline": "Houthis claim attack on Riyadh airport as airlines suspend flights to Saudi capital",
+              "url": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
+              "date": "2026-10-09T02:28:58.000Z",
+              "summary": "Saudi Arabia has not commented on claims, but confirmed three killed in airport strikes earlier this week",
+              "summaryV": 3,
+              "lede": "Yemen’s Iran-aligned Houthis say they have struck Saudi Arabia’s Riyadh ⁠airport with a ballistic missile, badly damaging a plane and leading some airlines to suspend flights to the capital.",
+              "image": "https://i.guim.co.uk/img/media/2cbce45dc97ef52eb8b8297b6c20899aeadce0a5/0_478_794_634/master/794.jpg?width=700&quality=85&auto=format&fit=max&s=a3819a9dd90d793886d2d88fd582b473"
             }
           ],
           "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-13T080915Z_261669411_RC27INAUFFBL_RTRMADP_3_IRAN-CRISIS-SAUDI-HOUTHIS-1791275673.jpg?resize=1200%2C675",
           "thread": "t1j5n1me"
+        },
+        {
+          "id": "s1bpuh94",
+          "headline": "Putin pledges Russia’s support to end US-led war on Iran",
+          "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran",
+          "source": "aljazeera",
+          "date": "2026-10-08T22:30:37.000Z",
+          "relevance": "medium",
+          "why": "Russian backing for Iran in the US-led war suggests the Gulf conflict may persist, keeping India's oil supply routes at risk.",
+          "implications": [
+            "A prolonged Iran conflict could keep crude prices and Gulf shipping risks elevated, raising India's import costs.",
+            "Deepening Russia-Iran alignment may complicate India's balancing of ties with Moscow, Tehran and Washington."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Putin pledges Russia’s support to end US-led war on Iran",
+              "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran",
+              "date": "2026-10-08T22:30:37.000Z",
+              "summary": "The Russian and Iranian presidents met in Turkmenistan ahead of regional summit.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac80d9f8f6ac-1791495583.jpg?resize=1920%2C1440"
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac80d9f8f6ac-1791495583.jpg?resize=1920%2C1440",
+          "thread": "t2ogxay"
         },
         {
           "id": "s12fj5o5",
@@ -1344,34 +1354,6 @@
       "name": "Policy & Governance",
       "items": [
         {
-          "id": "stb8ia3",
-          "headline": "South Africa protests turn violent amid rage over asylum ruling",
-          "url": "https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling",
-          "source": "aljazeera",
-          "date": "2026-10-08T20:43:34.000Z",
-          "relevance": "medium",
-          "why": "Violent protests in South Africa shutting foreign-run businesses could affect Indian nationals and business interests there.",
-          "implications": [
-            "Indian citizens and Indian-run businesses in Johannesburg and Durban may face safety risks and disruption.",
-            "Indian authorities may issue advisories or consular support for nationals in affected areas."
-          ],
-          "reports": [
-            {
-              "source": "aljazeera",
-              "headline": "South Africa protests turn violent amid rage over asylum ruling",
-              "url": "https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling",
-              "date": "2026-10-08T20:43:34.000Z",
-              "summary": "Several cars torched and foreign-run businesses forced to shut in Johannesburg's Soweto and coastal city of Durban.",
-              "summaryV": 3,
-              "ogTried": true,
-              "descTried": true,
-              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac7f72bf2142-1791489836.jpg?resize=1920%2C1440"
-            }
-          ],
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac7f72bf2142-1791489836.jpg?resize=1920%2C1440",
-          "thread": "twoznon"
-        },
-        {
           "id": "s185yeqj",
           "headline": "Indian opposition MPs detained in protest against election chief",
           "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o",
@@ -1440,11 +1422,49 @@
               "date": "2026-10-08T19:49:03.000Z",
               "summary": "India's opposition and student-led CJP movement demand election chief's resignation, plan mass demonstration Saturday.",
               "summaryV": 3
+            },
+            {
+              "source": "guardian",
+              "headline": "India’s ‘Cockroach’ party accuses government of mass detention of members ahead of weekend protest",
+              "url": "https://www.theguardian.com/world/2026/oct/09/india-dehli-cockroach-party-weekend-demonstration-mass-detention",
+              "date": "2026-10-09T01:55:34.000Z",
+              "summary": "Thousands expected to march in Delhi on Saturday, as anger mounts over controversial changes to voter lists in world’s largest democracy",
+              "summaryV": 3,
+              "lede": "India’s Cockroach Janta Party (CJP), which began as a satirical movement but is now emerging as a political force among gen Z’s, says authorities have begun detaining its members en masse days before a major anti-government protest in Delhi.",
+              "image": "https://i.guim.co.uk/img/media/3d7bad139a4a7c2f49abcea8f814924e48463eca/879_0_4800_3840/master/4800.jpg?width=700&quality=85&auto=format&fit=max&s=cedf9f28521828ca581c627b3b320915"
             }
           ],
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b1/live/bf4abdf0-c21e-11f1-babe-4199b0e7ccea.jpg",
           "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/40b1/live/bf4abdf0-c21e-11f1-babe-4199b0e7ccea.jpg",
           "thread": "t1kqejni"
+        },
+        {
+          "id": "stb8ia3",
+          "headline": "South Africa protests turn violent amid rage over asylum ruling",
+          "url": "https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling",
+          "source": "aljazeera",
+          "date": "2026-10-08T20:43:34.000Z",
+          "relevance": "medium",
+          "why": "Violent protests in South Africa shutting foreign-run businesses could affect Indian nationals and business interests there.",
+          "implications": [
+            "Indian citizens and Indian-run businesses in Johannesburg and Durban may face safety risks and disruption.",
+            "Indian authorities may issue advisories or consular support for nationals in affected areas."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "South Africa protests turn violent amid rage over asylum ruling",
+              "url": "https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling",
+              "date": "2026-10-08T20:43:34.000Z",
+              "summary": "Several cars torched and foreign-run businesses forced to shut in Johannesburg's Soweto and coastal city of Durban.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac7f72bf2142-1791489836.jpg?resize=1920%2C1440"
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac7f72bf2142-1791489836.jpg?resize=1920%2C1440",
+          "thread": "twoznon"
         },
         {
           "id": "sknukp8",
@@ -1676,10 +1696,10 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 44,
-    "added": 3,
-    "merged": 0,
-    "rejected": 41,
+    "analysed": 52,
+    "added": 0,
+    "merged": 2,
+    "rejected": 50,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
@@ -1690,7 +1710,7 @@
       "guardian": {
         "feedsOk": 7,
         "feedsFailed": 0,
-        "items": 203
+        "items": 201
       },
       "npr": {
         "feedsOk": 4,
@@ -1700,7 +1720,7 @@
       "aljazeera": {
         "feedsOk": 1,
         "feedsFailed": 0,
-        "items": 12
+        "items": 15
       },
       "mercopress": {
         "feedsOk": 3,
@@ -1714,18 +1734,18 @@
       }
     },
     "shareImages": {
-      "tried": 2,
-      "found": 2,
+      "tried": 0,
+      "found": 0,
       "summaries": 0
     },
     "threads": {
-      "assigned": 3,
-      "created": 2,
+      "assigned": 0,
+      "created": 0,
       "failedBatches": 0
     },
     "summaries": {
-      "written": 1,
-      "due": 1
+      "written": 0,
+      "due": 0
     }
   },
   "recentDays": 60

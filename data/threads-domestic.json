@@ -1,6 +1,6 @@
 {
  "desk": "domestic",
- "updatedAt": "2026-10-09T00:26:50.258Z",
+ "updatedAt": "2026-10-09T06:36:18.861Z",
  "threads": {
   "t1weh1f1": {
    "id": "t1weh1f1",
@@ -28,11 +28,11 @@
    "name": "Iran conflict and oil supply",
    "sector": "energy",
    "created": "2026-10-02T05:36:53.000Z",
-   "updated": "2026-10-06T12:14:05.000Z",
-   "latestHeadline": "Iran war: Shell sees Middle East oil flows at 80% as Saudi Aramco warns inventories may take 2 years to rebuild",
-   "summary": "On October 2, Mint reported that crude shipments through the Strait of Hormuz were back to pre-war levels, at a seven-day average of 13.5 million barrels per day, though refined-fuel supplies remained low. The same day, it reported that India could face higher LNG costs this winter as Qatar supply disruptions tighten global gas markets and increase competition with Europe for alternative cargoes. On October 3, Nayara Energy raised petrol prices by ₹5 and diesel by ₹3, while by October 5 the other oil marketing companies had kept fuel rates steady. On October 6, The Hindu reported that 11 Indian crew were injured when the Panama-flagged MT On Peace was hit in the Strait of Hormuz, and India condemned the attack and urged a ceasefire. The same day, Shell's chief executive said Middle East oil flows were at about 80% of pre-conflict volumes, and Mint reported that India has been increasing ",
-   "summaryCount": 7,
-   "summaryAt": "2026-10-07T21:46:03.619Z",
+   "updated": "2026-10-09T03:30:46.000Z",
+   "latestHeadline": "Petrol, diesel prices today, October 9: Check rates in Delhi, Mumbai, Bengaluru, Chennai and more",
+   "summary": "On 2 October, Mint reported that crude shipments through the Strait of Hormuz were back to pre-war levels, with a seven-day average of 13.5 million barrels per day, though refined-fuel supplies remained low. It also reported that India could face higher LNG costs this winter because Qatar supply disruptions were tightening global gas markets. On 3 October, Nayara Energy raised petrol prices by ₹5 per litre and diesel by ₹3 per litre, while by 5 October other oil marketing companies had kept fuel rates steady. On 6 October, 11 Indian crew were injured when the Panama-flagged MT On Peace was hit in the Strait of Hormuz and India condemned the attack, and Shell's chief executive said Middle East oil flows were at about 80% of pre-conflict volumes, while India was reported to be buying more crude from South American countries to diversify beyond West Asia. By 9 October, petrol and diesel pri",
+   "summaryCount": 8,
+   "summaryAt": "2026-10-09T06:36:13.857Z",
    "events": [
     {
      "id": "s1mfr46p",
@@ -96,9 +96,18 @@
      "url": "https://www.livemint.com/economy/iran-war-shell-sees-middle-east-oil-flows-at-80-per-cent-as-saudi-aramco-warns-inventories-may-take-2-years-to-rebuild-11791286140675.html",
      "sector": "energy",
      "month": "2026-10"
+    },
+    {
+     "id": "s19lzth",
+     "date": "2026-10-09T03:30:46.000Z",
+     "headline": "Petrol, diesel prices today, October 9: Check rates in Delhi, Mumbai, Bengaluru, Chennai and more",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-october-9-check-rates-in-delhi-mumbai-bengaluru-chennai-and-more-11791515883756.html",
+     "sector": "energy",
+     "month": "2026-10"
     }
    ],
-   "count": 7,
+   "count": 8,
    "first": "2026-10-02T05:36:53.000Z"
   },
   "t1ka6u13": {
@@ -1432,8 +1441,8 @@
    "name": "Solar manufacturing and storage bottlenecks",
    "sector": "energy",
    "created": "2026-10-07T00:30:53.000Z",
-   "updated": "2026-10-08T00:30:22.000Z",
-   "latestHeadline": "India's battery energy storage push hits a viability wall",
+   "updated": "2026-10-09T00:31:10.000Z",
+   "latestHeadline": "India plans Exim Bank credit lines to rescue solar exports after US tariff blow",
    "events": [
     {
      "id": "s577zy8",
@@ -1452,13 +1461,22 @@
      "url": "https://www.livemint.com/industry/energy/india-battery-energy-storage-systems-bess-for-wind-solar-power-11791365673898.html",
      "sector": "energy",
      "month": "2026-10"
+    },
+    {
+     "id": "s16woxcm",
+     "date": "2026-10-09T00:31:10.000Z",
+     "headline": "India plans Exim Bank credit lines to rescue solar exports after US tariff blow",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/energy/india-plans-exim-bank-credit-lines-to-rescue-solar-exports-after-us-tariff-blow-11791453975856.html",
+     "sector": "manufacturing",
+     "month": "2026-10"
     }
    ],
-   "count": 2,
+   "count": 3,
    "first": "2026-10-07T00:30:53.000Z",
-   "summary": "On October 7, 2026, Mint reported that India's solar capacity had boomed over the past decade, and that the way ahead now lies upstream, in capital-heavy steps to boost cells, wafers and storage. The same report pointed to US tariffs, missing cells and evening power gaps as bottlenecks. On October 8, Mint reported that data from the India Energy Storage Alliance, an industry body of battery makers, showed a total of 24 gigawatt hours of battery energy storage projects were cancelled or re-tendered during 2018-2026. Mint said this highlighted the challenges in transitioning to green power.",
-   "summaryCount": 2,
-   "summaryAt": "2026-10-08T01:14:31.110Z"
+   "summary": "In early October, Mint reported that India's solar capacity has boomed over the past decade, and that the way ahead now lies upstream, in cells, wafers and storage. On October 8, it cited India Energy Storage Alliance data showing that 24 gigawatt hours of battery storage projects were cancelled or re-tendered during 2018-2026. On October 9, the new and renewable energy secretary told Mint that steep US tariffs have stalled solar exports and triggered a factory capacity glut, and that New Delhi plans Exim Bank credit lines for African and Latin American nations to help domestic manufacturers find new buyers.",
+   "summaryCount": 3,
+   "summaryAt": "2026-10-09T06:36:18.857Z"
   },
   "t1ad3bzi": {
    "id": "t1ad3bzi",
@@ -2197,8 +2215,8 @@
    "name": "US labour programme suspension of Indian IT firms",
    "sector": "technology",
    "created": "2026-10-08T15:28:13.000Z",
-   "updated": "2026-10-08T15:28:13.000Z",
-   "latestHeadline": "US suspends Microsoft, Infosys, Wipro, HCL and other tech firms from labour programme: ‘Stop defrauding American worker’",
+   "updated": "2026-10-09T06:30:33.000Z",
+   "latestHeadline": "US Green Card curbs could accelerate India’s shift to high-value tech work: Karnataka’s IT Minister",
    "events": [
     {
      "id": "s1yhlayp",
@@ -2208,10 +2226,22 @@
      "url": "https://www.livemint.com/news/us-news/us-suspends-infosys-tcs-wipro-hcl-cognizant-microsoft-adobe-from-labour-certification-programme-here-s-why-11791472878646.html",
      "sector": "technology",
      "month": "2026-10"
+    },
+    {
+     "id": "s13v0vyq",
+     "date": "2026-10-09T06:30:33.000Z",
+     "headline": "US Green Card curbs could accelerate India’s shift to high-value tech work: Karnataka’s IT Minister",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/national/karnataka/us-green-card-curbs-could-accelerate-indias-shift-to-high-value-tech-work-karnatakas-it-minister/article71562786.ece",
+     "sector": "technology",
+     "month": "2026-10"
     }
    ],
-   "count": 1,
-   "first": "2026-10-08T15:28:13.000Z"
+   "count": 2,
+   "first": "2026-10-08T15:28:13.000Z",
+   "summary": "On 8 October, the US suspended Microsoft, Infosys, Wipro, HCL and other tech firms from a labour programme, with the move coming amid the Trump administration's broader focus on prioritising US workers and scrutinising programmes that companies use to employ foreign nationals. On 9 October, Karnataka's IT Minister Priyank Kharge said that US Green Card curbs and tighter mobility conditions could accelerate India's shift to high-value tech work.",
+   "summaryCount": 2,
+   "summaryAt": "2026-10-09T06:36:10.842Z"
   },
   "tlbdei3": {
    "id": "tlbdei3",
@@ -2338,6 +2368,132 @@
    ],
    "count": 1,
    "first": "2026-10-08T22:49:16.000Z"
+  },
+  "t16j0roo": {
+   "id": "t16j0roo",
+   "name": "Medical device safety surveillance",
+   "sector": "governance",
+   "created": "2026-10-09T00:30:30.000Z",
+   "updated": "2026-10-09T00:30:30.000Z",
+   "latestHeadline": "India overhauls medical device safety rules, expands digital surveillance",
+   "events": [
+    {
+     "id": "s1ab4mwu",
+     "date": "2026-10-09T00:30:30.000Z",
+     "headline": "India overhauls medical device safety rules, expands digital surveillance",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/manufacturing/india-overhauls-medical-device-safety-rules-expands-digital-surveillance-11791448584903.html",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-09T00:30:30.000Z"
+  },
+  "t16e7vog": {
+   "id": "t16e7vog",
+   "name": "Stubble burning and crop residue",
+   "sector": "environment",
+   "created": "2026-10-09T03:14:11.000Z",
+   "updated": "2026-10-09T03:14:11.000Z",
+   "latestHeadline": "Why stubble fires keep coming back",
+   "events": [
+    {
+     "id": "s1efvvzw",
+     "date": "2026-10-09T03:14:11.000Z",
+     "headline": "Why stubble fires keep coming back",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/national/why-stubble-fires-keep-coming-back/article71559694.ece",
+     "sector": "environment",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-09T03:14:11.000Z"
+  },
+  "t1i1daxb": {
+   "id": "t1i1daxb",
+   "name": "Rural roads quality inspections",
+   "sector": "governance",
+   "created": "2026-10-09T04:58:22.000Z",
+   "updated": "2026-10-09T04:58:22.000Z",
+   "latestHeadline": "Rural roads: Centre enlists IIT, NIT academicians for quality checks, fixing defects",
+   "events": [
+    {
+     "id": "s1ymkhad",
+     "date": "2026-10-09T04:58:22.000Z",
+     "headline": "Rural roads: Centre enlists IIT, NIT academicians for quality checks, fixing defects",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/infrastructure/pmgsy-rural-roads-quality-checks-iit-nit-academics-11791511548772.html",
+     "sector": "governance",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-09T04:58:22.000Z"
+  },
+  "tnrk29y": {
+   "id": "tnrk29y",
+   "name": "IT services quarterly results",
+   "sector": "technology",
+   "created": "2026-10-09T05:00:51.000Z",
+   "updated": "2026-10-09T05:00:51.000Z",
+   "latestHeadline": "India IT set for fourth year of weak growth on geopolitics, AI risks",
+   "events": [
+    {
+     "id": "sg876d2",
+     "date": "2026-10-09T05:00:51.000Z",
+     "headline": "India IT set for fourth year of weak growth on geopolitics, AI risks",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/infotech/ai-impact-on-it-sector-quarterly-results-11791520593653.html",
+     "sector": "technology",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-09T05:00:51.000Z"
+  },
+  "t1gzifna": {
+   "id": "t1gzifna",
+   "name": "Rooftop solar scheme financing",
+   "sector": "energy",
+   "created": "2026-10-09T05:40:08.000Z",
+   "updated": "2026-10-09T05:40:08.000Z",
+   "latestHeadline": "Finance ministry flags slow bank loan processing, low private lender participation in ₹75,000 crore rooftop solar scheme",
+   "events": [
+    {
+     "id": "smhzxhh",
+     "date": "2026-10-09T05:40:08.000Z",
+     "headline": "Finance ministry flags slow bank loan processing, low private lender participation in ₹75,000 crore rooftop solar scheme",
+     "source": "mint",
+     "url": "https://www.livemint.com/industry/energy/finance-ministry-banks-loan-processing-rooftop-solar-11791516026104.html",
+     "sector": "energy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-09T05:40:08.000Z"
+  },
+  "t8kv5jg": {
+   "id": "t8kv5jg",
+   "name": "Ken-Betwa river link protests",
+   "sector": "environment",
+   "created": "2026-10-09T06:15:55.000Z",
+   "updated": "2026-10-09T06:15:55.000Z",
+   "latestHeadline": "Tested by mud and water, in Bundelkhand",
+   "events": [
+    {
+     "id": "stei962",
+     "date": "2026-10-09T06:15:55.000Z",
+     "headline": "Tested by mud and water, in Bundelkhand",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/national/madhya-pradesh/tested-by-mud-and-water-in-bundelkhand/article71559245.ece",
+     "sector": "environment",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-09T06:15:55.000Z"
   }
  }
 }

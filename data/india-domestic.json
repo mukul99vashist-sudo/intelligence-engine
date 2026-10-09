@@ -2,12 +2,65 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-09T00:26:50.260Z",
+  "updatedAt": "2026-10-09T06:36:18.863Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "smhzxhh",
+          "headline": "Finance ministry flags slow bank loan processing, low private lender participation in ₹75,000 crore rooftop solar scheme",
+          "url": "https://www.livemint.com/industry/energy/finance-ministry-banks-loan-processing-rooftop-solar-11791516026104.html",
+          "source": "mint",
+          "date": "2026-10-09T05:40:08.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/im-923561_1707759324335_1791522859329_3yyW_c8ebe9f7-6b97-4c23-bd23-35864ebbdace_4jhI.jpg",
+          "why": "Slow bank lending could hold back the ₹75,000 crore rooftop solar scheme meant to cut household dependence on conventional power.",
+          "implications": [
+            "Households may face delays in getting loans to install rooftop solar.",
+            "Faster financing could help more families lower their electricity bills over time.",
+            "Low private lender participation may keep rooftop solar uptake uneven across states."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Finance ministry flags slow bank loan processing, low private lender participation in ₹75,000 crore rooftop solar scheme",
+              "url": "https://www.livemint.com/industry/energy/finance-ministry-banks-loan-processing-rooftop-solar-11791516026104.html",
+              "date": "2026-10-09T05:40:08.000Z",
+              "summary": "The government wants to accelerate financing for the scheme to make households less dependent on conventional sources of electricity.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/im-923561_1707759324335_1791522859329_3yyW_c8ebe9f7-6b97-4c23-bd23-35864ebbdace_4jhI.jpg"
+            }
+          ],
+          "thread": "t1gzifna"
+        },
+        {
+          "id": "s19lzth",
+          "headline": "Petrol, diesel prices today, October 9: Check rates in Delhi, Mumbai, Bengaluru, Chennai and more",
+          "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-october-9-check-rates-in-delhi-mumbai-bengaluru-chennai-and-more-11791515883756.html",
+          "source": "mint",
+          "date": "2026-10-09T03:30:46.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/petrol_1791516033039_V9t2_1791516033167_LuVg_b86fa16d-015b-44d3-9457-1a368b677043_x9tc.JPG",
+          "why": "Retail fuel prices are holding steady even though Brent crude is above $100 per barrel, which may strain oil marketing finances and the fiscal outlook.",
+          "implications": [
+            "Households and transporters may avoid an immediate pump price rise for now.",
+            "Prolonged high crude could still lead to price increases or cuts in fuel taxes later."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Petrol, diesel prices today, October 9: Check rates in Delhi, Mumbai, Bengaluru, Chennai and more",
+              "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-october-9-check-rates-in-delhi-mumbai-bengaluru-chennai-and-more-11791515883756.html",
+              "date": "2026-10-09T03:30:46.000Z",
+              "summary": "Petrol and diesel prices remained unchanged across major Indian cities on October 9, even as Brent crude traded above $100 per barrel amid Middle East tensions. Check the latest fuel rates in Delhi, Mumbai, Bengaluru, Chennai and other cities.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/petrol_1791516033039_V9t2_1791516033167_LuVg_b86fa16d-015b-44d3-9457-1a368b677043_x9tc.JPG"
+            }
+          ],
+          "thread": "t8nzveu"
+        },
         {
           "id": "sq3zh2o",
           "headline": "India, Singapore explore 3,000-km power transmission corridor via Southeast Asia",
@@ -569,6 +622,42 @@
       "name": "Logistics & Shipping",
       "items": [
         {
+          "id": "s1fv1e3l",
+          "headline": "Saudi Arabia-Houthi conflict: Indian Embassy in Riyadh issues advisory; Air India, IndiGo, Akasa cancel flights",
+          "url": "https://www.livemint.com/news/world/saudi-arabia-houthi-conflict-indian-embassy-in-riyadh-issues-advisory-urges-nationals-to-remain-vigilant-11791475804794.html",
+          "source": "mint",
+          "date": "2026-10-08T16:43:38.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/as-the-second-time-in-recent-weeks-that-the-_1791477805757_JqzY_1791477805906_7eTS_08f8a5de-b941-4b04-b447-291931891af5_CxL8.jpg",
+          "why": "Houthi attacks on Saudi airports and energy infrastructure disrupt India-Saudi air links and add to West Asia supply risks.",
+          "implications": [
+            "Travellers and workers flying to Saudi Arabia may face cancelled or disrupted flights.",
+            "Further attacks on energy infrastructure could add pressure to oil prices and fuel costs.",
+            "Airlines may need to reroute or cut services, which could raise fares on affected routes."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Saudi Arabia-Houthi conflict: Indian Embassy in Riyadh issues advisory; Air India, IndiGo, Akasa cancel flights",
+              "url": "https://www.livemint.com/news/world/saudi-arabia-houthi-conflict-indian-embassy-in-riyadh-issues-advisory-urges-nationals-to-remain-vigilant-11791475804794.html",
+              "date": "2026-10-08T16:43:38.000Z",
+              "summary": "The advisory comes as Houthi attacks have increasingly targeted Saudi airports and other civilian and energy infrastructure.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/as-the-second-time-in-recent-weeks-that-the-_1791477805757_JqzY_1791477805906_7eTS_08f8a5de-b941-4b04-b447-291931891af5_CxL8.jpg"
+            },
+            {
+              "source": "mint",
+              "headline": "Saudi Arabia-Houthi conflict escalates: Airlines suspend Riyadh flights after attacks | Watch",
+              "url": "https://www.livemint.com/news/world/saudi-arabia-houthi-conflict-escalates-airlines-suspend-riyadh-flights-after-attacks-watch-11791523084516.html",
+              "date": "2026-10-09T05:57:44.000Z",
+              "summary": "Yemen’s Houthi rebels have claimed a missile attack on Saudi Arabia’s King Khalid International Airport in Riyadh, with reports of a Saudia Airlines aircraft catching fire after being damaged. Lufthansa and Air India have suspended Riyadh flights amid escalating attacks on Saudi airports",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/IRAN-CRISIS-SAUDI-AIRPORT-0_1791523496367_0bG5_1791523508821_MfIu_5758fa66-d8e2-40c2-8d91-73efc4abdb9c_eeRG.JPG"
+            }
+          ],
+          "thread": "tlbdei3"
+        },
+        {
           "id": "sl6v851",
           "headline": "Cochin Shipyard gets order to build 40 ships from U.S., Germany, Norway, other nations: Sonowal",
           "url": "https://www.thehindu.com/business/Industry/cochin-shipyard-gets-order-to-build-40-ships-from-us-germany-norway-other-nations-sonowal/article71561344.ece",
@@ -593,33 +682,6 @@
             }
           ],
           "thread": "tqtn8b9"
-        },
-        {
-          "id": "s1fv1e3l",
-          "headline": "Saudi Arabia-Houthi conflict: Indian Embassy in Riyadh issues advisory; Air India, IndiGo, Akasa cancel flights",
-          "url": "https://www.livemint.com/news/world/saudi-arabia-houthi-conflict-indian-embassy-in-riyadh-issues-advisory-urges-nationals-to-remain-vigilant-11791475804794.html",
-          "source": "mint",
-          "date": "2026-10-08T16:43:38.000Z",
-          "relevance": "medium",
-          "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/as-the-second-time-in-recent-weeks-that-the-_1791477805757_JqzY_1791477805906_7eTS_08f8a5de-b941-4b04-b447-291931891af5_CxL8.jpg",
-          "why": "Houthi attacks on Saudi airports and energy infrastructure disrupt India-Saudi air links and add to West Asia supply risks.",
-          "implications": [
-            "Travellers and workers flying to Saudi Arabia may face cancelled or disrupted flights.",
-            "Further attacks on energy infrastructure could add pressure to oil prices and fuel costs.",
-            "Airlines may need to reroute or cut services, which could raise fares on affected routes."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "Saudi Arabia-Houthi conflict: Indian Embassy in Riyadh issues advisory; Air India, IndiGo, Akasa cancel flights",
-              "url": "https://www.livemint.com/news/world/saudi-arabia-houthi-conflict-indian-embassy-in-riyadh-issues-advisory-urges-nationals-to-remain-vigilant-11791475804794.html",
-              "date": "2026-10-08T16:43:38.000Z",
-              "summary": "The advisory comes as Houthi attacks have increasingly targeted Saudi airports and other civilian and energy infrastructure.",
-              "summaryV": 3,
-              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/as-the-second-time-in-recent-weeks-that-the-_1791477805757_JqzY_1791477805906_7eTS_08f8a5de-b941-4b04-b447-291931891af5_CxL8.jpg"
-            }
-          ],
-          "thread": "tlbdei3"
         },
         {
           "id": "s1qgu0wi",
@@ -2672,6 +2734,60 @@
       "name": "Technology",
       "items": [
         {
+          "id": "s13v0vyq",
+          "headline": "US Green Card curbs could accelerate India’s shift to high-value tech work: Karnataka’s IT Minister",
+          "url": "https://www.thehindu.com/news/national/karnataka/us-green-card-curbs-could-accelerate-indias-shift-to-high-value-tech-work-karnatakas-it-minister/article71562786.ece",
+          "source": "thehindu",
+          "date": "2026-10-09T06:30:33.000Z",
+          "relevance": "medium",
+          "image": "https://th-i.thgim.com/public/incoming/r9zb4c/article71562872.ece/alternates/LANDSCAPE_1200/Home-DepartmentGCSGJPK05.4.jpg.jpg",
+          "why": "Tighter US Green Card conditions could push more high-value technology work and research mandates to Indian global capability centres.",
+          "implications": [
+            "Global capability centres in Indian cities may expand and hire more engineers and researchers.",
+            "Demand for senior technology professionals in India could rise, possibly lifting salaries.",
+            "Fewer Indian workers may move to the US, though the effect remains uncertain."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "US Green Card curbs could accelerate India’s shift to high-value tech work: Karnataka’s IT Minister",
+              "url": "https://www.thehindu.com/news/national/karnataka/us-green-card-curbs-could-accelerate-indias-shift-to-high-value-tech-work-karnatakas-it-minister/article71562786.ece",
+              "date": "2026-10-09T06:30:33.000Z",
+              "summary": "Tighter mobility conditions could accelerate GCC expansion, bring more global research and development mandates to Indian cities, and increase domestic demand for senior technology professionals, anticipates Priyank Kharge",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/r9zb4c/article71562872.ece/alternates/LANDSCAPE_1200/Home-DepartmentGCSGJPK05.4.jpg.jpg"
+            }
+          ],
+          "thread": "t116za04"
+        },
+        {
+          "id": "sg876d2",
+          "headline": "India IT set for fourth year of weak growth on geopolitics, AI risks",
+          "url": "https://www.livemint.com/industry/infotech/ai-impact-on-it-sector-quarterly-results-11791520593653.html",
+          "source": "mint",
+          "date": "2026-10-09T05:00:51.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/IT_1791520746903_ZHrS_1791520747351_jwTd_32c41298-1143-42ea-90a9-e7753b55c9fb_gfoN.jpg",
+          "why": "Prolonged weak growth in IT services, a major employer and export earner, could affect hiring and services exports across the economy.",
+          "implications": [
+            "Fresher hiring and salary hikes in IT may stay subdued.",
+            "Services export earnings could grow slowly, affecting India's overall export performance.",
+            "Cities and suppliers dependent on IT spending may see softer demand."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "India IT set for fourth year of weak growth on geopolitics, AI risks",
+              "url": "https://www.livemint.com/industry/infotech/ai-impact-on-it-sector-quarterly-results-11791520593653.html",
+              "date": "2026-10-09T05:00:51.000Z",
+              "summary": "HCL Technologies and Tech Mahindra are next to report quarterly results, after TCS's revenue rose just 0.5% sequentially in constant currency terms.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/IT_1791520746903_ZHrS_1791520747351_jwTd_32c41298-1143-42ea-90a9-e7753b55c9fb_gfoN.jpg"
+            }
+          ],
+          "thread": "tnrk29y"
+        },
+        {
           "id": "s1yhlayp",
           "headline": "US suspends Microsoft, Infosys, Wipro, HCL and other tech firms from labour programme: ‘Stop defrauding American worker’",
           "url": "https://www.livemint.com/news/us-news/us-suspends-infosys-tcs-wipro-hcl-cognizant-microsoft-adobe-from-labour-certification-programme-here-s-why-11791472878646.html",
@@ -2721,6 +2837,51 @@
               "summary": "Vice President JD Vance announced the move on Thursday (October 8), accusing companies of using foreign-worker programmes at the expense of US employees.",
               "summaryV": 3,
               "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/perm_1791493987880_jaIc_1791493996798_Xwv9_93426c8c-e7dc-4c83-bae5-d2b6277752ae_yyBC.jpg"
+            },
+            {
+              "source": "mint",
+              "headline": "US tries to dig up Indians' green card journey, but few are on that path",
+              "url": "https://www.livemint.com/companies/us-suspends-perm-labour-certifications-for-indian-it-but-is-it-affected-11791477284612.html",
+              "date": "2026-10-09T00:30:52.000Z",
+              "summary": "Data shows Indian IT companies collectively received fewer than 1,400, or less than 2%, of the 117,849 permanent labour requests filed between October 2024 and September 2025.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/USA-TRUMP-VISA-INDIA-GCC-3_1760670557426_1760670568326_1791482757651_D72G_be9c3926-ba82-4631-9248-9eb449815a15_1rSG.JPG"
+            },
+            {
+              "source": "mint",
+              "headline": "Microsoft says ‘vast majority’ of US employees are Americans, defends H-1B hiring amid green card freeze",
+              "url": "https://www.livemint.com/companies/news/microsoft-says-vast-majority-of-us-employees-are-americans-defends-h-1b-hiring-amid-green-card-freeze-11791507669592.html",
+              "date": "2026-10-09T01:38:28.000Z",
+              "summary": "Microsoft defended its hiring practices after the US suspended it from the PERM green-card programme, saying most US employees are American and 80% of about 6,000 recent H-1B applications were for existing employees.&nbsp;",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/maxresdefault_live_1791512884352_WoKZ_1791512889791_SsWw_03edd986-ea95-445e-8adf-34e2e081015b_BTeJ.jpg"
+            },
+            {
+              "source": "mint",
+              "headline": "‘Indian IT firms comply with local laws’: Nasscom defends industry after US PERM freeze",
+              "url": "https://www.livemint.com/news/us-news/indian-it-firms-comply-with-local-laws-nasscom-defends-industry-after-us-perm-freeze-11791513669601.html",
+              "date": "2026-10-09T03:11:22.000Z",
+              "summary": "Nasscom said the US suspension of new PERM applications affects a specific immigration pathway and should not be conflated with skilled talent mobility. It noted Indian technology firms have reduced H-1B reliance, expanded US hiring and maintain compliance with local regulations.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/green_card_1791515421100_O7r6_1791515421267_1rnY_6ab98f76-6963-4b12-b9d5-c98b41d34406_qcpL.png"
+            },
+            {
+              "source": "mint",
+              "headline": "TCS' first reaction to US green card suspension: ‘We don’t expect an impact as…’",
+              "url": "https://www.livemint.com/companies/news/tcs-first-reaction-to-us-green-card-suspension-we-don-t-expect-an-impact-as-11791516509213.html",
+              "date": "2026-10-09T03:39:08.000Z",
+              "summary": "TCS said it will comply with any US Department of Labor directive on the suspension of the PERM green card program. The company said its US hiring focuses on local talent and that the suspension is unlikely to affect its workforce strategy or customer engagements.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/green_card_1791519531515_oNUE_1791519531860_gpa6_ceca480a-291f-420d-af07-e22ba5f032bb_4r4l.png"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Suspension of U.S. green card programme will not impact workforce strategy: TCS",
+              "url": "https://www.thehindu.com/business/tcs-sees-no-impact-from-us-green-card-programme-suspension-workforce-hiring/article71562477.ece",
+              "date": "2026-10-09T04:17:26.000Z",
+              "summary": "The IT firm said it intends to hire an additional 15,000 people in the U.S. over the next five years, “to further augment local workforce”",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/5zcdkw/article71562482.ece/alternates/LANDSCAPE_1200/2026-10-08T105549Z_598719793_RC2NF5A0C9M8_RTRMADP_3_TCS-RESULTS.JPG"
             }
           ],
           "thread": "t116za04"
@@ -3352,6 +3513,33 @@
       "name": "Manufacturing",
       "items": [
         {
+          "id": "s16woxcm",
+          "headline": "India plans Exim Bank credit lines to rescue solar exports after US tariff blow",
+          "url": "https://www.livemint.com/industry/energy/india-plans-exim-bank-credit-lines-to-rescue-solar-exports-after-us-tariff-blow-11791453975856.html",
+          "source": "mint",
+          "date": "2026-10-09T00:31:10.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/Santosh_Kumar_Sarangi_LinkedIn_1747063911497_1791459530572_7nVK_b5031744-e238-41f9-ba40-050d1310741b_RLzJ.jpg",
+          "why": "Exim Bank credit lines to African and Latin American buyers aim to rescue India's solar manufacturing sector as US tariffs stall exports and cause idle capacity.",
+          "implications": [
+            "Solar module makers may find new export buyers, which could ease the capacity glut and protect factory jobs.",
+            "Credit lines could help diversify solar exports away from the US market.",
+            "Continued export weakness could keep factory capacity idle and slow fresh manufacturing investment."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "India plans Exim Bank credit lines to rescue solar exports after US tariff blow",
+              "url": "https://www.livemint.com/industry/energy/india-plans-exim-bank-credit-lines-to-rescue-solar-exports-after-us-tariff-blow-11791453975856.html",
+              "date": "2026-10-09T00:31:10.000Z",
+              "summary": "New Delhi will offer credit lines to African and Latin American nations to help domestic manufacturers find new buyers as steep US tariffs stall exports and trigger a factory capacity glut, new and renewable energy secretary Santosh Kumar Sarangi told Mint.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/Santosh_Kumar_Sarangi_LinkedIn_1747063911497_1791459530572_7nVK_b5031744-e238-41f9-ba40-050d1310741b_RLzJ.jpg"
+            }
+          ],
+          "thread": "t1wry2eb"
+        },
+        {
           "id": "sqhnzu3",
           "headline": "Kasturi Cotton gains traction as India puts traceability on the textile map",
           "url": "https://www.thehindu.com/business/kasturi-cotton-gains-traction-as-india-puts-traceability-on-the-textile-map/article71551334.ece",
@@ -3623,6 +3811,59 @@
       "id": "environment",
       "name": "Environment & Climate",
       "items": [
+        {
+          "id": "stei962",
+          "headline": "Tested by mud and water, in Bundelkhand",
+          "url": "https://www.thehindu.com/news/national/madhya-pradesh/tested-by-mud-and-water-in-bundelkhand/article71559245.ece",
+          "source": "thehindu",
+          "date": "2026-10-09T06:15:55.000Z",
+          "relevance": "medium",
+          "image": "https://th-i.thgim.com/public/incoming/3hgdig/article71559258.ece/alternates/LANDSCAPE_1200/6744_8_10_2026_14_55_53_3_DSC_4260COPY.JPG",
+          "why": "Continuing tribal protests over the Ken-Betwa river link show how land, water and displacement disputes could affect delivery of a flagship national river-linking project.",
+          "implications": [
+            "Protests may delay work on the river link and the irrigation and drinking water benefits it promises.",
+            "Displaced and affected tribal families could face prolonged uncertainty over land, livelihoods and compensation.",
+            "Unresolved local opposition may shape how future large river-linking projects are planned and approved."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Tested by mud and water, in Bundelkhand",
+              "url": "https://www.thehindu.com/news/national/madhya-pradesh/tested-by-mud-and-water-in-bundelkhand/article71559245.ece",
+              "date": "2026-10-09T06:15:55.000Z",
+              "summary": "After months of protests in Chhatarpur district over the Ken-Betwa river link project, the next leg of the jal satyagraha by tribal people in Madhya Pradesh’s Bundelkhand will soon complete a month.",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/3hgdig/article71559258.ece/alternates/LANDSCAPE_1200/6744_8_10_2026_14_55_53_3_DSC_4260COPY.JPG"
+            }
+          ],
+          "thread": "t8kv5jg"
+        },
+        {
+          "id": "s1efvvzw",
+          "headline": "Why stubble fires keep coming back",
+          "url": "https://www.thehindu.com/news/national/why-stubble-fires-keep-coming-back/article71559694.ece",
+          "source": "thehindu",
+          "date": "2026-10-09T03:14:11.000Z",
+          "relevance": "medium",
+          "image": "https://th-i.thgim.com/public/incoming/5z6gy/article71561167.ece/alternates/LANDSCAPE_1200/PTI09_29_2025_000422B.jpg",
+          "why": "Recurring stubble burning is tied to national procurement and cropping policy and drives severe seasonal air pollution across north India.",
+          "implications": [
+            "Smog and poor air quality may again hit health and daily life across the northern plains this season.",
+            "Farmers may need stronger incentives to diversify crops and manage residue, which could affect procurement policy."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Why stubble fires keep coming back",
+              "url": "https://www.thehindu.com/news/national/why-stubble-fires-keep-coming-back/article71559694.ece",
+              "date": "2026-10-09T03:14:11.000Z",
+              "summary": "Stubble burning is the result of a combination of legal, technological and economic factors, including the paddy-wheat cycle, assured procurement and a narrow window between crops; a lasting solution needs stronger incentives for diversification, better residue management and more reliable measurement of burning",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/5z6gy/article71561167.ece/alternates/LANDSCAPE_1200/PTI09_29_2025_000422B.jpg"
+            }
+          ],
+          "thread": "t16e7vog"
+        },
         {
           "id": "s1ha6srs",
           "headline": "New GRAP Rules in Delhi; Restrictions in NCR October 2026: Petrol vs Diesel vs CNG vs EV — Know car ban guidelines here",
@@ -3971,6 +4212,59 @@
       "id": "governance",
       "name": "Policy & Governance",
       "items": [
+        {
+          "id": "s1ymkhad",
+          "headline": "Rural roads: Centre enlists IIT, NIT academicians for quality checks, fixing defects",
+          "url": "https://www.livemint.com/industry/infrastructure/pmgsy-rural-roads-quality-checks-iit-nit-academics-11791511548772.html",
+          "source": "mint",
+          "date": "2026-10-09T04:58:22.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/2-0-71718672-rural-views-4C-0_1681408401328_1791519186216_eFyF_4a663c64-b2a0-42d7-85a0-c7f0a151aeb0_HaDH.jpg",
+          "why": "Independent academic inspections of India's roughly 800,000-km rural road network could improve the quality of a major public infrastructure programme.",
+          "implications": [
+            "Villagers may get more durable roads with fewer defects and repeated repairs.",
+            "Contractors may face tighter accountability, and poor work could more often be flagged and corrected."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Rural roads: Centre enlists IIT, NIT academicians for quality checks, fixing defects",
+              "url": "https://www.livemint.com/industry/infrastructure/pmgsy-rural-roads-quality-checks-iit-nit-academics-11791511548772.html",
+              "date": "2026-10-09T04:58:22.000Z",
+              "summary": "The ministry of rural development is bringing in IIT and NIT academicians for inter-state inspections to pinpoint defect causes and boost accountability across India’s 800,000-km rural road network.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/2-0-71718672-rural-views-4C-0_1681408401328_1791519186216_eFyF_4a663c64-b2a0-42d7-85a0-c7f0a151aeb0_HaDH.jpg"
+            }
+          ],
+          "thread": "t1i1daxb"
+        },
+        {
+          "id": "s1ab4mwu",
+          "headline": "India overhauls medical device safety rules, expands digital surveillance",
+          "url": "https://www.livemint.com/industry/manufacturing/india-overhauls-medical-device-safety-rules-expands-digital-surveillance-11791448584903.html",
+          "source": "mint",
+          "date": "2026-10-09T00:30:30.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/medical_device_1791457749244_OvEC_1791457749397_Ofzm_67a3fbf7-23f1-4b25-8eaf-96b31eb192cf_M3qh.jpg",
+          "why": "Revised national safety rules widen oversight of medical devices, including AI-enabled tools, and extend reporting down to primary health centres.",
+          "implications": [
+            "Device makers may face tighter reporting and cybersecurity compliance duties for software and AI-enabled products.",
+            "Primary health centres could need to report device faults and adverse events, adding to their workload.",
+            "Patients may gain better safeguards against faulty or insecure medical devices over time."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "India overhauls medical device safety rules, expands digital surveillance",
+              "url": "https://www.livemint.com/industry/manufacturing/india-overhauls-medical-device-safety-rules-expands-digital-surveillance-11791448584903.html",
+              "date": "2026-10-09T00:30:30.000Z",
+              "summary": "New guidelines widen monitoring of AI-enabled devices, software glitches and cybersecurity risks while extending reporting to primary health centres.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/medical_device_1791457749244_OvEC_1791457749397_Ofzm_67a3fbf7-23f1-4b25-8eaf-96b31eb192cf_M3qh.jpg"
+            }
+          ],
+          "thread": "t16j0roo"
+        },
         {
           "id": "sxdrfvb",
           "headline": "FSSAI send notices to Dr Reddy's, Nestle Health Science, Amazon, Flipkart over misleading protein supplement",
@@ -4680,16 +4974,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 27,
-    "added": 2,
-    "merged": 2,
-    "rejected": 23,
+    "analysed": 75,
+    "added": 9,
+    "merged": 6,
+    "rejected": 60,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 338
+        "items": 340
       },
       "mint": {
         "feedsOk": 6,
@@ -4703,13 +4997,13 @@
       "summaries": 0
     },
     "threads": {
-      "assigned": 2,
-      "created": 1,
+      "assigned": 9,
+      "created": 6,
       "failedBatches": 0
     },
     "summaries": {
-      "written": 1,
-      "due": 1
+      "written": 3,
+      "due": 3
     }
   },
   "recentDays": 60
