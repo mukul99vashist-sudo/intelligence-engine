@@ -1,6 +1,6 @@
 {
  "desk": "global",
- "updatedAt": "2026-10-10T08:53:38.384Z",
+ "updatedAt": "2026-10-10T15:14:03.257Z",
  "threads": {
   "t2ogxay": {
    "id": "t2ogxay",
@@ -274,11 +274,11 @@
    "name": "Yemen war and Houthi strikes",
    "sector": "logistics",
    "created": "2026-10-04T16:51:30.000Z",
-   "updated": "2026-10-06T10:47:54.000Z",
-   "latestHeadline": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
-   "summary": "In early October, Yemen's president announced an all-out war to reclaim land from the Houthis, a move that came amid an exchange of strikes between the Houthis and the Saudi-led coalition. A couple of days later, Saudi Arabia said three people were wounded in attacks on Jazan and Najran airports near the Yemen border. The Saudi aviation authority reported severe injuries and damage following Houthi strikes on the two airports.",
-   "summaryCount": 2,
-   "summaryAt": "2026-10-07T21:45:08.626Z",
+   "updated": "2026-10-10T14:10:24.000Z",
+   "latestHeadline": "Has Yemen returned to ‘full-scale war’?",
+   "summary": "In early October, around the 4th, Yemen's president announced an all-out war to reclaim land from the Houthis, as strikes were being exchanged between the Houthis and the Saudi-led coalition. On about October 6, Saudi Arabia's aviation authority reported that three people were wounded, with severe injuries and damage, after Houthi strikes on Jazan and Najran airports near the Yemen border. By around October 10, Al Jazeera reported that fighting between Yemeni government forces and the Houthi rebel group was intensifying, and asked whether Yemen had returned to \"full-scale war\".",
+   "summaryCount": 3,
+   "summaryAt": "2026-10-10T15:14:03.254Z",
    "events": [
     {
      "id": "s1j2msqq",
@@ -297,9 +297,18 @@
      "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border",
      "sector": "energy",
      "month": "2026-10"
+    },
+    {
+     "id": "s1yqu7q5",
+     "date": "2026-10-10T14:10:24.000Z",
+     "headline": "Has Yemen returned to ‘full-scale war’?",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war",
+     "sector": "logistics",
+     "month": "2026-10"
     }
    ],
-   "count": 2,
+   "count": 3,
    "first": "2026-10-04T16:51:30.000Z"
   },
   "t1crla7m": {
@@ -757,6 +766,27 @@
    ],
    "count": 1,
    "first": "2026-10-09T15:25:27.000Z"
+  },
+  "t1ass0sd": {
+   "id": "t1ass0sd",
+   "name": "Silver prices and Indian craftsmanship",
+   "sector": "manufacturing",
+   "created": "2026-10-10T13:25:35.000Z",
+   "updated": "2026-10-10T13:25:35.000Z",
+   "latestHeadline": "High silver prices threaten Lucknow’s famed bridal nagra craft",
+   "events": [
+    {
+     "id": "s28ohvt",
+     "date": "2026-10-10T13:25:35.000Z",
+     "headline": "High silver prices threaten Lucknow’s famed bridal nagra craft",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft",
+     "sector": "manufacturing",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-10T13:25:35.000Z"
   }
  }
 }

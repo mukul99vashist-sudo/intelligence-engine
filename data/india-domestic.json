@@ -2,12 +2,38 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-10T08:55:00.130Z",
+  "updatedAt": "2026-10-10T15:15:23.697Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "sefm545",
+          "headline": "AI data-centre boom puts India’s power grid under pressure, drives up upgrade costs",
+          "url": "https://www.thehindu.com/business/Economy/ai-data-centre-boom-puts-indias-power-grid-under-pressure-drives-up-upgrade-costs/article71555736.ece",
+          "source": "thehindu",
+          "date": "2026-10-10T13:41:55.000Z",
+          "relevance": "medium",
+          "image": "https://th-i.thgim.com/public/incoming/bawro1/article71568376.ece/alternates/LANDSCAPE_1200/IMG_BL_-_POWER_GRIDS_2_1_4TCG9SLI.jpg",
+          "why": "Fast-growing AI data centres are straining India's power transmission network and raising the cost of grid upgrades.",
+          "implications": [
+            "Utilities may need costly grid upgrades that could eventually feed into power tariffs.",
+            "Local power supply reliability could come under pressure in data-centre clusters."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "AI data-centre boom puts India’s power grid under pressure, drives up upgrade costs",
+              "url": "https://www.thehindu.com/business/Economy/ai-data-centre-boom-puts-indias-power-grid-under-pressure-drives-up-upgrade-costs/article71555736.ece",
+              "date": "2026-10-10T13:41:55.000Z",
+              "summary": "Electricity officials around India are grappling with the many ways Artificial Intelligence infrastructure is reshaping power transmission dynamics.",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/bawro1/article71568376.ece/alternates/LANDSCAPE_1200/IMG_BL_-_POWER_GRIDS_2_1_4TCG9SLI.jpg"
+            }
+          ],
+          "thread": "t1tqo310"
+        },
         {
           "id": "s1ymsnoo",
           "headline": "U.S. lifts sanctions on sale of Russian diesel in global markets",
@@ -49,6 +75,15 @@
               "summary": "Donald Trump has authorised temporary Russian diesel supplies to global markets, saying the deal could lower prices. The move comes weeks after he signed a law allowing tariffs on major buyers of Russian oil and gas",
               "summaryV": 3,
               "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/maxresdefault_1791613116458_qbKh_1791613121243_TUUG_c1e3871a-8f08-41ab-8c3c-c325116bbcdb_CCYP.jpg"
+            },
+            {
+              "source": "thehindu",
+              "headline": "U.S.-Ukraine-European negotiators meet in Miami as Trump announces diesel deal with Russia",
+              "url": "https://www.thehindu.com/news/international/us-ukraine-european-negotiators-meet-in-miami-as-trump-announces-diesel-deal-with-russia/article71567031.ece",
+              "date": "2026-10-10T04:34:10.000Z",
+              "summary": "The goal is to reach agreement on such a proposal in the coming weeks so it can be presented ‌to Russia in order to seek a breakthrough before the winter",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/news/national/x9rdf/article71567090.ece/alternates/LANDSCAPE_1200/iStock-182703770.jpg"
             }
           ],
           "thread": "tmyg5jt"
@@ -1361,6 +1396,86 @@
       "name": "Economy & Trade",
       "items": [
         {
+          "id": "sba6wbd",
+          "headline": "RBI raises repo rate by 25 basis points to 5.50%, shifts stance to ‘calibrated tightening’",
+          "url": "https://www.thehindu.com/business/Economy/rbi-hikes-repo-rate-by-25-basis-points-to-55/article71554369.ece",
+          "source": "thehindu",
+          "date": "2026-10-07T07:01:08.000Z",
+          "relevance": "high",
+          "why": "The first repo rate hike in about three and a half years, with a tightening stance, signals the RBI is moving to contain inflation.",
+          "implications": [
+            "Home, auto and business loan EMIs linked to the repo rate may rise in coming weeks.",
+            "Bank deposit rates could edge up, helping savers.",
+            "Higher borrowing costs may slow credit-driven spending and investment."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "RBI raises repo rate by 25 basis points to 5.50%, shifts stance to ‘calibrated tightening’",
+              "url": "https://www.thehindu.com/business/Economy/rbi-hikes-repo-rate-by-25-basis-points-to-55/article71554369.ece",
+              "date": "2026-10-07T07:01:08.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/e1ln0d/article71554378.ece/alternates/LANDSCAPE_1200/2026-09-11T091743Z_109916859_RC26SMAYJ264_RTRMADP_3_INDIA-RBI-LIQUIDITY.JPG",
+              "summary": "The hike comes after nearly three-and-a half years; monetary policy stance was changed to ‘calibrated tightening’ from ‘neutral’",
+              "summaryV": 3
+            },
+            {
+              "source": "thehindu",
+              "headline": "RBI MPC meeting highlights: Repo rate hiked to 5.5%; rate cuts off the table in near term, Governor Sanjay Malhotra says",
+              "url": "https://www.thehindu.com/business/rbi-monetary-policy-meeting-decision-on-repo-rate-live-updates-october-7-2026/article71554262.ece",
+              "date": "2026-10-07T07:41:50.000Z",
+              "summary": "Rate hike after nearly three-and-a half years comes as inflation pressures rise due to the continuing West Asia conflict; policy stance revised to 'calibrated tightening' from 'neutral'",
+              "summaryV": 3
+            },
+            {
+              "source": "thehindu",
+              "headline": "RBI has done what it can with interest rates for now, but heavy lifting on inflation will fall on government",
+              "url": "https://www.thehindu.com/business/Economy/rbi-has-done-what-it-can-with-interest-rates-but-heavy-lifting-on-inflation-will-fall-on-government/article71555013.ece",
+              "date": "2026-10-07T10:49:31.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/ovccuf/article71555063.ece/alternates/LANDSCAPE_1200/20261007062L.jpg",
+              "summary": "The RBI’s Monetary Policy Committee’s decision to hike interest rates seems aimed more at controlling expectations of future inflation levels than at bringing down inflation itself. That is a job for the government",
+              "summaryV": 3
+            },
+            {
+              "source": "mint",
+              "headline": "RBI hikes rates, but banks may hold off on raising deposit rates",
+              "url": "https://www.livemint.com/industry/banking/rbi-hikes-rates-but-banks-may-hold-off-on-raising-deposit-rates-11791371695597.html",
+              "date": "2026-10-07T12:47:14.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/maxresdefault_1791385478645_8chk_1791385483746_qcgI_07600367-778c-4f0f-b314-c0d135787db6_fqRL.jpg",
+              "summary": "A surge in FCNR(B) deposits has left banks flush with liquidity, reducing the immediate pressure to compete for deposits even as the RBI begins to drain the surplus.",
+              "summaryV": 3
+            },
+            {
+              "source": "mint",
+              "headline": "RBI turns hawkish on inflation, but rate hikes could test growth momentum",
+              "url": "https://www.livemint.com/industry/banking/rbi-turns-hawkish-on-inflation-but-rate-hikes-could-test-growth-momentum-11791371106641.html",
+              "date": "2026-10-07T13:43:29.000Z",
+              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/INDIA-RBI-9_1791377532022_iMdY_1791377540923_zBi3__1791380259795_P1jR_1791380259924_1zAV_cb83c47e-0d11-4d42-9ab6-09b951550eca_WqIo.jpg",
+              "summary": "The RBI's rate path from here on remains data dependent beyond December 2026. However, the bar for a December pause is much higher now.",
+              "summaryV": 3
+            },
+            {
+              "source": "thehindu",
+              "headline": "What is the impact of 25 basis points repo rate hike on borrowers? | Explained",
+              "url": "https://www.thehindu.com/business/Economy/what-is-the-impact-of-25-basis-points-repo-rate-hike-on-borrowers-explained/article71558757.ece",
+              "date": "2026-10-08T07:18:15.000Z",
+              "summary": "In the rate cut cycle the MPC had cut the rate by 125 basis points in phases from 6.5% to 5.25% before increasing it on Wednesday (October 7, 2026)",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/n5m2ec/article71558779.ece/alternates/LANDSCAPE_1200/20261007260L.jpg"
+            },
+            {
+              "source": "mint",
+              "headline": "RBI may hike repo rate by 75-100 bps in current cycle as inflation persists- SBI Capital flags December hike risk",
+              "url": "https://www.livemint.com/economy/rbi-may-hike-repo-rate-by-75-100-bps-in-current-cycle-as-inflation-persists-sbi-capital-flags-december-hike-risk-11791633850738.html",
+              "date": "2026-10-10T13:07:17.000Z",
+              "summary": "SBI Capital said gradual rate increases remain the most likely scenario, although a larger hike in December 2026 cannot be ruled out",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/repo_rate_1791637575830_e0HK_1791637575981_s6jK_001b6bc1-aa50-4541-9401-f0e66b5c0c2d_Q1xn.png"
+            }
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/e1ln0d/article71554378.ece/alternates/LANDSCAPE_1200/2026-09-11T091743Z_109916859_RC26SMAYJ264_RTRMADP_3_INDIA-RBI-LIQUIDITY.JPG",
+          "thread": "t1nf6bbl"
+        },
+        {
           "id": "s1h7j7wb",
           "headline": "As oil prices rise, RBI opens special window for PSU oil firms to meet their daily dollar need",
           "url": "https://www.thehindu.com/business/as-oil-prices-rise-rbi-opens-special-window-for-psu-oil-firms-tomeet-their-daily-dollar-need/article71567121.ece",
@@ -2031,77 +2146,6 @@
             }
           ],
           "thread": "t1i86hgy"
-        },
-        {
-          "id": "sba6wbd",
-          "headline": "RBI raises repo rate by 25 basis points to 5.50%, shifts stance to ‘calibrated tightening’",
-          "url": "https://www.thehindu.com/business/Economy/rbi-hikes-repo-rate-by-25-basis-points-to-55/article71554369.ece",
-          "source": "thehindu",
-          "date": "2026-10-07T07:01:08.000Z",
-          "relevance": "high",
-          "why": "The first repo rate hike in about three and a half years, with a tightening stance, signals the RBI is moving to contain inflation.",
-          "implications": [
-            "Home, auto and business loan EMIs linked to the repo rate may rise in coming weeks.",
-            "Bank deposit rates could edge up, helping savers.",
-            "Higher borrowing costs may slow credit-driven spending and investment."
-          ],
-          "reports": [
-            {
-              "source": "thehindu",
-              "headline": "RBI raises repo rate by 25 basis points to 5.50%, shifts stance to ‘calibrated tightening’",
-              "url": "https://www.thehindu.com/business/Economy/rbi-hikes-repo-rate-by-25-basis-points-to-55/article71554369.ece",
-              "date": "2026-10-07T07:01:08.000Z",
-              "image": "https://th-i.thgim.com/public/incoming/e1ln0d/article71554378.ece/alternates/LANDSCAPE_1200/2026-09-11T091743Z_109916859_RC26SMAYJ264_RTRMADP_3_INDIA-RBI-LIQUIDITY.JPG",
-              "summary": "The hike comes after nearly three-and-a half years; monetary policy stance was changed to ‘calibrated tightening’ from ‘neutral’",
-              "summaryV": 3
-            },
-            {
-              "source": "thehindu",
-              "headline": "RBI MPC meeting highlights: Repo rate hiked to 5.5%; rate cuts off the table in near term, Governor Sanjay Malhotra says",
-              "url": "https://www.thehindu.com/business/rbi-monetary-policy-meeting-decision-on-repo-rate-live-updates-october-7-2026/article71554262.ece",
-              "date": "2026-10-07T07:41:50.000Z",
-              "summary": "Rate hike after nearly three-and-a half years comes as inflation pressures rise due to the continuing West Asia conflict; policy stance revised to 'calibrated tightening' from 'neutral'",
-              "summaryV": 3
-            },
-            {
-              "source": "thehindu",
-              "headline": "RBI has done what it can with interest rates for now, but heavy lifting on inflation will fall on government",
-              "url": "https://www.thehindu.com/business/Economy/rbi-has-done-what-it-can-with-interest-rates-but-heavy-lifting-on-inflation-will-fall-on-government/article71555013.ece",
-              "date": "2026-10-07T10:49:31.000Z",
-              "image": "https://th-i.thgim.com/public/incoming/ovccuf/article71555063.ece/alternates/LANDSCAPE_1200/20261007062L.jpg",
-              "summary": "The RBI’s Monetary Policy Committee’s decision to hike interest rates seems aimed more at controlling expectations of future inflation levels than at bringing down inflation itself. That is a job for the government",
-              "summaryV": 3
-            },
-            {
-              "source": "mint",
-              "headline": "RBI hikes rates, but banks may hold off on raising deposit rates",
-              "url": "https://www.livemint.com/industry/banking/rbi-hikes-rates-but-banks-may-hold-off-on-raising-deposit-rates-11791371695597.html",
-              "date": "2026-10-07T12:47:14.000Z",
-              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/maxresdefault_1791385478645_8chk_1791385483746_qcgI_07600367-778c-4f0f-b314-c0d135787db6_fqRL.jpg",
-              "summary": "A surge in FCNR(B) deposits has left banks flush with liquidity, reducing the immediate pressure to compete for deposits even as the RBI begins to drain the surplus.",
-              "summaryV": 3
-            },
-            {
-              "source": "mint",
-              "headline": "RBI turns hawkish on inflation, but rate hikes could test growth momentum",
-              "url": "https://www.livemint.com/industry/banking/rbi-turns-hawkish-on-inflation-but-rate-hikes-could-test-growth-momentum-11791371106641.html",
-              "date": "2026-10-07T13:43:29.000Z",
-              "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/INDIA-RBI-9_1791377532022_iMdY_1791377540923_zBi3__1791380259795_P1jR_1791380259924_1zAV_cb83c47e-0d11-4d42-9ab6-09b951550eca_WqIo.jpg",
-              "summary": "The RBI's rate path from here on remains data dependent beyond December 2026. However, the bar for a December pause is much higher now.",
-              "summaryV": 3
-            },
-            {
-              "source": "thehindu",
-              "headline": "What is the impact of 25 basis points repo rate hike on borrowers? | Explained",
-              "url": "https://www.thehindu.com/business/Economy/what-is-the-impact-of-25-basis-points-repo-rate-hike-on-borrowers-explained/article71558757.ece",
-              "date": "2026-10-08T07:18:15.000Z",
-              "summary": "In the rate cut cycle the MPC had cut the rate by 125 basis points in phases from 6.5% to 5.25% before increasing it on Wednesday (October 7, 2026)",
-              "summaryV": 3,
-              "image": "https://th-i.thgim.com/public/incoming/n5m2ec/article71558779.ece/alternates/LANDSCAPE_1200/20261007260L.jpg"
-            }
-          ],
-          "image": "https://th-i.thgim.com/public/incoming/e1ln0d/article71554378.ece/alternates/LANDSCAPE_1200/2026-09-11T091743Z_109916859_RC26SMAYJ264_RTRMADP_3_INDIA-RBI-LIQUIDITY.JPG",
-          "thread": "t1nf6bbl"
         },
         {
           "id": "sj85f6u",
@@ -3057,6 +3101,42 @@
       "name": "Technology",
       "items": [
         {
+          "id": "s13v0vyq",
+          "headline": "US Green Card curbs could accelerate India’s shift to high-value tech work: Karnataka’s IT Minister",
+          "url": "https://www.thehindu.com/news/national/karnataka/us-green-card-curbs-could-accelerate-indias-shift-to-high-value-tech-work-karnatakas-it-minister/article71562786.ece",
+          "source": "thehindu",
+          "date": "2026-10-09T06:30:33.000Z",
+          "relevance": "medium",
+          "image": "https://th-i.thgim.com/public/incoming/r9zb4c/article71562872.ece/alternates/LANDSCAPE_1200/Home-DepartmentGCSGJPK05.4.jpg.jpg",
+          "why": "Tighter US Green Card conditions could push more high-value technology work and research mandates to Indian global capability centres.",
+          "implications": [
+            "Global capability centres in Indian cities may expand and hire more engineers and researchers.",
+            "Demand for senior technology professionals in India could rise, possibly lifting salaries.",
+            "Fewer Indian workers may move to the US, though the effect remains uncertain."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "US Green Card curbs could accelerate India’s shift to high-value tech work: Karnataka’s IT Minister",
+              "url": "https://www.thehindu.com/news/national/karnataka/us-green-card-curbs-could-accelerate-indias-shift-to-high-value-tech-work-karnatakas-it-minister/article71562786.ece",
+              "date": "2026-10-09T06:30:33.000Z",
+              "summary": "Tighter mobility conditions could accelerate GCC expansion, bring more global research and development mandates to Indian cities, and increase domestic demand for senior technology professionals, anticipates Priyank Kharge",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/r9zb4c/article71562872.ece/alternates/LANDSCAPE_1200/Home-DepartmentGCSGJPK05.4.jpg.jpg"
+            },
+            {
+              "source": "thehindu",
+              "headline": "If India plays its cards right, suspension of PERM may be an opportunity: Priyank Kharge",
+              "url": "https://www.thehindu.com/news/national/karnataka/if-india-plays-its-cards-right-suspension-of-perm-may-be-an-opportunity-priyank-kharge/article71567839.ece",
+              "date": "2026-10-10T14:17:57.000Z",
+              "summary": "Karnataka’s IT-BT Minister discusses the potential implications of the suspension, the State’s AI skilling roadmap, its approach to sustainable data centres and plans to build a deep-tech ecosystem focused on solving real-world problems.",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/1ep2d2/article71568045.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-12%20at%2021.24.06.JPEG"
+            }
+          ],
+          "thread": "t116za04"
+        },
+        {
           "id": "s1yhlayp",
           "headline": "US suspends Microsoft, Infosys, Wipro, HCL and other tech firms from labour programme: ‘Stop defrauding American worker’",
           "url": "https://www.livemint.com/news/us-news/us-suspends-infosys-tcs-wipro-hcl-cognizant-microsoft-adobe-from-labour-certification-programme-here-s-why-11791472878646.html",
@@ -3307,33 +3387,6 @@
             }
           ],
           "thread": "t1ad3bzi"
-        },
-        {
-          "id": "s13v0vyq",
-          "headline": "US Green Card curbs could accelerate India’s shift to high-value tech work: Karnataka’s IT Minister",
-          "url": "https://www.thehindu.com/news/national/karnataka/us-green-card-curbs-could-accelerate-indias-shift-to-high-value-tech-work-karnatakas-it-minister/article71562786.ece",
-          "source": "thehindu",
-          "date": "2026-10-09T06:30:33.000Z",
-          "relevance": "medium",
-          "image": "https://th-i.thgim.com/public/incoming/r9zb4c/article71562872.ece/alternates/LANDSCAPE_1200/Home-DepartmentGCSGJPK05.4.jpg.jpg",
-          "why": "Tighter US Green Card conditions could push more high-value technology work and research mandates to Indian global capability centres.",
-          "implications": [
-            "Global capability centres in Indian cities may expand and hire more engineers and researchers.",
-            "Demand for senior technology professionals in India could rise, possibly lifting salaries.",
-            "Fewer Indian workers may move to the US, though the effect remains uncertain."
-          ],
-          "reports": [
-            {
-              "source": "thehindu",
-              "headline": "US Green Card curbs could accelerate India’s shift to high-value tech work: Karnataka’s IT Minister",
-              "url": "https://www.thehindu.com/news/national/karnataka/us-green-card-curbs-could-accelerate-indias-shift-to-high-value-tech-work-karnatakas-it-minister/article71562786.ece",
-              "date": "2026-10-09T06:30:33.000Z",
-              "summary": "Tighter mobility conditions could accelerate GCC expansion, bring more global research and development mandates to Indian cities, and increase domestic demand for senior technology professionals, anticipates Priyank Kharge",
-              "summaryV": 3,
-              "image": "https://th-i.thgim.com/public/incoming/r9zb4c/article71562872.ece/alternates/LANDSCAPE_1200/Home-DepartmentGCSGJPK05.4.jpg.jpg"
-            }
-          ],
-          "thread": "t116za04"
         },
         {
           "id": "sg876d2",
@@ -4689,6 +4742,96 @@
       "name": "Policy & Governance",
       "items": [
         {
+          "id": "st3pvxh",
+          "headline": "CJP protest: Trains cut, Internet down, Delhi turns a fortress",
+          "url": "https://www.thehindu.com/news/national/centre-seeks-states-help-as-cjp-prepares-to-go-ahead-with-protest-major-curbs-in-delhi/article71565420.ece",
+          "source": "thehindu",
+          "date": "2026-10-09T17:33:39.000Z",
+          "relevance": "medium",
+          "image": "https://th-i.thgim.com/public/incoming/746otl/article71565651.ece/alternates/LANDSCAPE_1200/SECURITY%20AHEAD%20CJP%20PROTEST%20NEW%20DELHI%2010.JPG",
+          "why": "A major protest against the Chief Election Commissioner has led to internet curbs, train cancellations and closures in the capital, raising civil-liberty and election-governance concerns.",
+          "implications": [
+            "Commuters and travellers to Delhi may face cancelled trains, shut Metro stations and disrupted internet.",
+            "Delhi businesses could see markets closed and lost sales for the day.",
+            "Tensions over election-body credibility and protest rights may continue."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "CJP protest: Trains cut, Internet down, Delhi turns a fortress",
+              "url": "https://www.thehindu.com/news/national/centre-seeks-states-help-as-cjp-prepares-to-go-ahead-with-protest-major-curbs-in-delhi/article71565420.ece",
+              "date": "2026-10-09T17:33:39.000Z",
+              "summary": "Ahead of the October 10 protest demanding CEC’s resignation, authorities deny permission for Jantar Mantar gathering, put curbs on internet, shut down markets and Metro stations, and cancel dozens of trains bound for capital",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/746otl/article71565651.ece/alternates/LANDSCAPE_1200/SECURITY%20AHEAD%20CJP%20PROTEST%20NEW%20DELHI%2010.JPG"
+            },
+            {
+              "source": "mint",
+              "headline": "Delhi Protest: Will CJP call off demonstrations if CEC Gyanesh Kumar resigns? Here's what we know",
+              "url": "https://www.livemint.com/news/india/delhi-protest-will-cjp-call-off-demonstrations-if-cec-gyanesh-kumar-resigns-heres-what-we-know-11791624136036.html",
+              "date": "2026-10-10T09:36:07.000Z",
+              "summary": "CJP co-convenor Saurav Das says Gyanesh Kumar’s resignation alone will not end the agitation. The group also seeks a freeze on SIR, an independent inquiry, and electoral reforms. Its Delhi protest faced heavy security restrictions, with leaders, activists, and hundreds detained ahead of the rally.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/CJP_Abhijeet_Dipke_Gyanesh_Kumar_1791624563370_HCx7_1791624563551_2cwJ_bde1c708-17e5-4d00-8725-c85dfbc0cfd4_Pb68.jpg"
+            },
+            {
+              "source": "mint",
+              "headline": "Delhi commuters alert! DMRC says 45 metro stations to remain closed till 10 pm today amid CJP's protest against CEC",
+              "url": "https://www.livemint.com/news/india/delhi-metro-update-45-stations-to-remain-closed-till-10-00-pm-today-amid-protest-against-cec-gyanesh-kumar-11791636301145.html",
+              "date": "2026-10-10T13:02:50.000Z",
+              "summary": "DMRC said 45 metro stations closed since Friday night over security concerns will remain shut until 10 pm on October 10 amid the CJP protest against CEC Gyanesh Kumar over alleged voter-roll irregularities.&nbsp;",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/Untitled_design_1791637067988_Su9t_1791637071327_Helu_2285bf83-0003-4a89-8fce-67e067b08c04_PZMW.png"
+            },
+            {
+              "source": "thehindu",
+              "headline": "CITU seeks resignation of CEC over alleged 13-crore vote deletions",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/citu-seeks-resignation-of-cec-over-alleged-13-crore-vote-deletions/article71568164.ece",
+              "date": "2026-10-10T13:47:12.000Z",
+              "summary": "Burning an effigy of the CEC, they allege Gyanesh Kumar deleted 13 crore votes under the guise of the Special Intensive Revision (SIR) process; condemn the obstruction of protesters heading to Delhi to voice their dissent",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/g2yt3h/article71568343.ece/alternates/LANDSCAPE_1200/10215_10_10_2026_18_42_9_1__DSC1227.JPG"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Civil society groups seek CEC’s resignation, SC-monitored probe into SIR",
+              "url": "https://www.thehindu.com/news/national/karnataka/civil-society-groups-seek-cecs-resignation-sc-monitored-probe-into-sir/article71568209.ece",
+              "date": "2026-10-10T13:48:40.000Z",
+              "summary": "Hiremath calls for an investigation into the role of the Union government, particularly Prime Minister Narendra Modi and Union Home Minister Amit Shah, in the appointment of the election commissioners and the conduct of the SIR exercise",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/832vhl/article71568479.ece/alternates/LANDSCAPE_1200/2699_10_10_2026_18_30_51_1_11HUBLISRHIREMATHPC.JPG"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Former CMs Pinarayi and Mamata detained amid crackdown in Delhi",
+              "url": "https://www.thehindu.com/news/national/former-cms-pinarayi-and-mamata-detained-amid-crackdown-in-delhi/article71568607.ece",
+              "date": "2026-10-10T15:06:21.000Z",
+              "summary": "Former Bengal CM, detained near MPs’ flats, says she and her colleagues were treated like 'criminals’; Keralam’s ex-CM was picked up from Kerala House; his party MP John Brittas alleges that ‘basic civil liberties are being taken away’",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/40n2pk/article71568932.ece/alternates/LANDSCAPE_1200/20261010358L.jpg"
+            },
+            {
+              "source": "mint",
+              "headline": "CJP July protest’s internet-famous faces are back together: What their ‘Season 2’ video shows amid CEC stir in Delhi",
+              "url": "https://www.livemint.com/news/trends/cjp-july-protest-s-internet-famous-faces-are-back-together-what-their-season-2-video-shows-amid-cec-stir-in-delhi-11791640554084.html",
+              "date": "2026-10-10T15:08:42.000Z",
+              "summary": "A new video reunites viral faces Abhinav Bisht, Muhammad Shan and Nikhil Verma amid the protest agsinst CEC Gyanesh Kumar. The clip recalls the group’s July protests over the NEET-UG paper leak. However, Delhi Police denied permission for the gathering. The day saw detentions of over 7000 people.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/Untitled_design_1791644703255_0XSf_1791644706947_OaTP_21a884bc-7c09-41f9-9b91-1942ee811897_LJ5p.png"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Supreme Court sets Sunday hearing of contempt plea against October 10 Delhi transit shutdown",
+              "url": "https://www.thehindu.com/news/national/supreme-court-sets-sunday-hearing-of-contempt-plea-against-october-10-delhi-transit-shutdown/article71568844.ece",
+              "date": "2026-10-10T15:10:14.000Z",
+              "summary": "In the petition, advocate Shailendra Mani Tripathi argued that the shutdown violated the Supreme Court’s October 9 order, which barred blanket bans that cause hardship to ordinary commuters",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/nfcksh/article71568945.ece/alternates/LANDSCAPE_1200/METRO%20CLOSED%20PROTEST%20AGAINST%20GYANESH%20KUMAR%209.JPG"
+            }
+          ],
+          "thread": "t1iy3j15"
+        },
+        {
           "id": "s1ihtm63",
           "headline": "Delhi protest: CJP’s Abhijeet Dipke, Saurav Das, Ashutosh Ranka, Ratna Singh detained",
           "url": "https://www.thehindu.com/news/cities/Delhi/cec-gyanesh-kumar-protest-delhi-abhijeet-dipke-saurav-das-cjp-leaders-detained-updates/article71567192.ece",
@@ -4774,9 +4917,44 @@
               "summary": "Why are protesters demanding CEC Gyanesh Kumar's resignation? Why is SIR controversial? Why are Form 6 and Form 7 under scrutiny? Here's all you need to know about what led to the Delhi protest on October 10.",
               "summaryV": 3,
               "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/Gyanesh_Kumar_1791621747225_yTZi_1791621747463_DKaa_b952d8fc-ac03-46b9-b66f-1e2bdf2d7736_QxRp.png"
+            },
+            {
+              "source": "mint",
+              "headline": "CJP protests: Why were the Supreme Court lawyers released by Delhi Police? Here's what CJI Surya Kant said",
+              "url": "https://www.livemint.com/news/india/cjp-protests-why-were-the-supreme-court-lawyers-released-by-delhi-police-heres-what-cji-surya-kant-said-11791638481145.html",
+              "date": "2026-10-10T13:50:05.000Z",
+              "summary": "CJI Surya Kant said his intervention helped secure the release of advocates detained by Delhi Police during peaceful protests near the Supreme Court. The detentions prompted urgent appeals from lawyers’ associations, which also sought confirmation of detainees’ safety and access to legal assistance.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/cji_1791639966457_luqO_1791639971028_DL2e_c183b72e-dcac-4827-ba8e-9ccd3da2f177_WiSg.png"
             }
           ],
           "thread": "t1iy3j15"
+        },
+        {
+          "id": "spm1jh",
+          "headline": "Can Gyanesh Kumar be prosecuted? Explaining Section 16 of CEC Act as CJP, Oppn allege CEC took unilateral decisions",
+          "url": "https://www.livemint.com/news/india/can-gyanesh-kumar-be-prosecuted-explaining-section-16-of-cec-act-as-cjp-oppn-allege-cec-took-unilateral-decisions-11791632711119.html",
+          "source": "mint",
+          "date": "2026-10-10T12:35:05.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/gyan_1791635179654_VOST_1791635184461_PK7K_32fe7404-a45d-409c-bbb3-62f47688e115_ODnc.png",
+          "why": "The Supreme Court is examining whether the 2023 law gives election commissioners more legal protection than judges, which bears on the accountability of India's electoral machinery.",
+          "implications": [
+            "A ruling could change how election commissioners can be held legally accountable for their decisions.",
+            "It may shape public confidence in electoral-roll revisions ahead of future elections."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Can Gyanesh Kumar be prosecuted? Explaining Section 16 of CEC Act as CJP, Oppn allege CEC took unilateral decisions",
+              "url": "https://www.livemint.com/news/india/can-gyanesh-kumar-be-prosecuted-explaining-section-16-of-cec-act-as-cjp-oppn-allege-cec-took-unilateral-decisions-11791632711119.html",
+              "date": "2026-10-10T12:35:05.000Z",
+              "summary": "The Supreme Court questioned whether a 2023 law gives the Chief Election Commissioner and other election commissioners greater legal protection than constitutional court judges. The case concerns alleged unilateral decisions by CEC Gyanesh Kumar during electoral-roll revisions.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/gyan_1791635179654_VOST_1791635184461_PK7K_32fe7404-a45d-409c-bbb3-62f47688e115_ODnc.png"
+            }
+          ],
+          "thread": "t14fyeji"
         },
         {
           "id": "sypjw9z",
@@ -4801,33 +4979,6 @@
               "summary": "The ECI has capped individual Form 7 applications at 10 during electoral roll revision and five per month during routine updates to curb bulk objections. The directive follows concerns over misuse, inconvenience to voters, and officials’ workload.",
               "summaryV": 3,
               "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/Election_Commission_Voters_1791616862740_E0n6_1791616862856_EpTI_7bdb11f3-b42b-422a-a126-0c0811a0e07f_YsAo.jpg"
-            }
-          ],
-          "thread": "t1iy3j15"
-        },
-        {
-          "id": "st3pvxh",
-          "headline": "CJP protest: Trains cut, Internet down, Delhi turns a fortress",
-          "url": "https://www.thehindu.com/news/national/centre-seeks-states-help-as-cjp-prepares-to-go-ahead-with-protest-major-curbs-in-delhi/article71565420.ece",
-          "source": "thehindu",
-          "date": "2026-10-09T17:33:39.000Z",
-          "relevance": "medium",
-          "image": "https://th-i.thgim.com/public/incoming/746otl/article71565651.ece/alternates/LANDSCAPE_1200/SECURITY%20AHEAD%20CJP%20PROTEST%20NEW%20DELHI%2010.JPG",
-          "why": "A major protest against the Chief Election Commissioner has led to internet curbs, train cancellations and closures in the capital, raising civil-liberty and election-governance concerns.",
-          "implications": [
-            "Commuters and travellers to Delhi may face cancelled trains, shut Metro stations and disrupted internet.",
-            "Delhi businesses could see markets closed and lost sales for the day.",
-            "Tensions over election-body credibility and protest rights may continue."
-          ],
-          "reports": [
-            {
-              "source": "thehindu",
-              "headline": "CJP protest: Trains cut, Internet down, Delhi turns a fortress",
-              "url": "https://www.thehindu.com/news/national/centre-seeks-states-help-as-cjp-prepares-to-go-ahead-with-protest-major-curbs-in-delhi/article71565420.ece",
-              "date": "2026-10-09T17:33:39.000Z",
-              "summary": "Ahead of the October 10 protest demanding CEC’s resignation, authorities deny permission for Jantar Mantar gathering, put curbs on internet, shut down markets and Metro stations, and cancel dozens of trains bound for capital",
-              "summaryV": 3,
-              "image": "https://th-i.thgim.com/public/incoming/746otl/article71565651.ece/alternates/LANDSCAPE_1200/SECURITY%20AHEAD%20CJP%20PROTEST%20NEW%20DELHI%2010.JPG"
             }
           ],
           "thread": "t1iy3j15"
@@ -5701,10 +5852,10 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 75,
-    "added": 4,
-    "merged": 12,
-    "rejected": 59,
+    "analysed": 87,
+    "added": 2,
+    "merged": 11,
+    "rejected": 74,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
@@ -5724,8 +5875,8 @@
       "summaries": 0
     },
     "threads": {
-      "assigned": 4,
-      "created": 1,
+      "assigned": 2,
+      "created": 0,
       "failedBatches": 0
     },
     "summaries": {

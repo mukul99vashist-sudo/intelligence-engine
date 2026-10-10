@@ -2,48 +2,12 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-10T08:53:38.385Z",
+  "updatedAt": "2026-10-10T15:14:03.259Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
-        {
-          "id": "s1x50pyc",
-          "headline": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
-          "url": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks",
-          "source": "aljazeera",
-          "date": "2026-10-10T01:40:51.000Z",
-          "relevance": "medium",
-          "why": "Russia says Ukraine peace talks are unlikely, so the war and related sanctions and energy uncertainty may continue.",
-          "implications": [
-            "Continued Russia-Ukraine fighting could keep uncertainty over sanctions and Russian crude and fuel supply chains that India depends on.",
-            "Prolonged conflict may keep global oil and commodity prices volatile, adding to India's import costs and inflation pressure."
-          ],
-          "reports": [
-            {
-              "source": "aljazeera",
-              "headline": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
-              "url": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks",
-              "date": "2026-10-10T01:40:51.000Z",
-              "summary": "Drone attacks on Moscow during last month's election undermined trilateral peace negotiations, the Kremlin says.",
-              "summaryV": 3,
-              "ogTried": true,
-              "descTried": true,
-              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac9882d-1791592493.jpg?resize=1920%2C1440"
-            },
-            {
-              "source": "aljazeera",
-              "headline": "US hosts ‘productive’ trilateral talks to end Russia-Ukraine war",
-              "url": "https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war",
-              "date": "2026-10-10T05:43:33.000Z",
-              "summary": "US envoy Steve Witkoff says renewed negotiations aim to ensure lasting peace before winter approaches.",
-              "summaryV": 3
-            }
-          ],
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac9882d-1791592493.jpg?resize=1920%2C1440",
-          "thread": "tq9ru94"
-        },
         {
           "id": "szbant9",
           "headline": "Trump announces Russian diesel deal amid soaring US fuel prices",
@@ -125,10 +89,81 @@
               "summaryV": 3,
               "lede": "US politics – live updates",
               "image": "https://i.guim.co.uk/img/media/e29aa72f0ab1f4d0fff1cdad48794d44d329f308/1376_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=ed1ec2b9b3572bd4b1a688a7e3c17106"
+            },
+            {
+              "source": "abc",
+              "headline": "Russian attacks kill at least 12 in Ukraine after Trump-Putin diesel deal",
+              "url": "https://www.abc.net.au/news/2026-10-10/russian-air-strike-ukraine-after-trump-putin-diesel-deal/107251886",
+              "date": "2026-10-10T10:22:47.000Z",
+              "summary": "The strikes came a day after US President Donald Trump announced a deal to buy Russian diesel that Kyiv warned would help fund Moscow's war in Ukraine.",
+              "summaryV": 3,
+              "image": "https://live-production.wcms.abc-cdn.net.au/d798d68e0b3ab4317bf01e1b8d27cf89?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=284&width=862&height=485"
+            },
+            {
+              "source": "npr",
+              "headline": "U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows",
+              "url": "https://www.npr.org/2026/10/10/nx-s1-5996938/u-s-and-russia-tout-diesel-deal-to-ease-sanctions-and-reopen-fuel-flows",
+              "date": "2026-10-10T11:40:53.000Z",
+              "summary": "Moscow and Washington tout a diesel deal to ease sanctions and reopen fuel flows, but few details leave questions on price impacts and U.S. policy, sparking anger from Ukraine and allies.",
+              "summaryV": 3
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Why is US turning to Russia for diesel despite sanctions?",
+              "url": "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions",
+              "date": "2026-10-10T12:16:12.000Z",
+              "summary": "President Donald Trump's deal with Putin comes amid surging fuel prices and looming US midterm elections.",
+              "summaryV": 3
+            },
+            {
+              "source": "guardian",
+              "headline": "Ukraine hit by deadly Russian strikes as ‘thanks’ for Trump diesel deal, Zelenskyy says",
+              "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
+              "date": "2026-10-10T14:45:15.000Z",
+              "summary": "Ukrainian president says money from fuel sales will intensify war as European leaders reiterate support for Kyiv",
+              "summaryV": 3,
+              "lede": "Russia launched deadly strikes on civilians in Ukraine as “thanks” for a deal cut by Donald Trump with Vladimir Putin to buy large quantities of Russian diesel, Volodymyr Zelenskyy has said, accusing Washington of helping fund Moscow’s war.",
+              "image": "https://i.guim.co.uk/img/media/c598f4211d657333cb70f50f9323c6797a68e632/0_0_4425_3540/master/4425.jpg?width=700&quality=85&auto=format&fit=max&s=774587e0198c8c309fb9b4e91b631ff7"
             }
           ],
           "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac93e42-1791573570.jpg?resize=1920%2C1440",
           "thread": "t1uohici"
+        },
+        {
+          "id": "s1x50pyc",
+          "headline": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
+          "url": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks",
+          "source": "aljazeera",
+          "date": "2026-10-10T01:40:51.000Z",
+          "relevance": "medium",
+          "why": "Russia says Ukraine peace talks are unlikely, so the war and related sanctions and energy uncertainty may continue.",
+          "implications": [
+            "Continued Russia-Ukraine fighting could keep uncertainty over sanctions and Russian crude and fuel supply chains that India depends on.",
+            "Prolonged conflict may keep global oil and commodity prices volatile, adding to India's import costs and inflation pressure."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
+              "url": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks",
+              "date": "2026-10-10T01:40:51.000Z",
+              "summary": "Drone attacks on Moscow during last month's election undermined trilateral peace negotiations, the Kremlin says.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac9882d-1791592493.jpg?resize=1920%2C1440"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "US hosts ‘productive’ trilateral talks to end Russia-Ukraine war",
+              "url": "https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war",
+              "date": "2026-10-10T05:43:33.000Z",
+              "summary": "US envoy Steve Witkoff says renewed negotiations aim to ensure lasting peace before winter approaches.",
+              "summaryV": 3
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac9882d-1791592493.jpg?resize=1920%2C1440",
+          "thread": "tq9ru94"
         },
         {
           "id": "sctwrbx",
@@ -801,6 +836,45 @@
       "id": "logistics",
       "name": "Logistics & Shipping",
       "items": [
+        {
+          "id": "s1yqu7q5",
+          "headline": "Has Yemen returned to ‘full-scale war’?",
+          "url": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war",
+          "source": "aljazeera",
+          "date": "2026-10-10T14:10:24.000Z",
+          "relevance": "medium",
+          "why": "Intensifying Yemen fighting involving the Houthis could renew risks to Red Sea shipping, a key route for India's trade.",
+          "implications": [
+            "Shipping lines may reroute or raise freight and insurance costs on India's Europe-bound cargo.",
+            "Longer transit times could delay Indian exports and imports.",
+            "Fuel imports and exporters' costs could rise if Red Sea disruption spreads."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Has Yemen returned to ‘full-scale war’?",
+              "url": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war",
+              "date": "2026-10-10T14:10:24.000Z",
+              "summary": "Fighting is intensifying between Yemeni government forces and Houthi rebel group.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac7c0ce-1791475918.jpg?resize=1920%2C1440"
+            },
+            {
+              "source": "bbc",
+              "headline": "Saudi capital airport hit again, sparking evacuations, reports say",
+              "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no",
+              "date": "2026-10-10T15:05:55.000Z",
+              "summary": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
+              "summaryV": 3,
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a39/live/690b5420-c4b9-11f1-bc2e-018d645d8d21.jpg",
+              "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5a39/live/690b5420-c4b9-11f1-bc2e-018d645d8d21.jpg"
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac7c0ce-1791475918.jpg?resize=1920%2C1440",
+          "thread": "t1j5n1me"
+        },
         {
           "id": "sy7c5yd",
           "headline": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war",
@@ -1564,6 +1638,35 @@
       "name": "Manufacturing",
       "items": [
         {
+          "id": "s28ohvt",
+          "headline": "High silver prices threaten Lucknow’s famed bridal nagra craft",
+          "url": "https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft",
+          "source": "aljazeera",
+          "date": "2026-10-10T13:25:35.000Z",
+          "relevance": "medium",
+          "why": "War-driven silver prices are squeezing Lucknow's nagra craft makers, a traditional industry in northern India.",
+          "implications": [
+            "Nagra artisans may face higher input costs and could cut output or lose orders.",
+            "Bridal buyers may pay more or switch to cheaper materials.",
+            "Small workshops could see job and income losses if silver stays expensive."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "High silver prices threaten Lucknow’s famed bridal nagra craft",
+              "url": "https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft",
+              "date": "2026-10-10T13:25:35.000Z",
+              "summary": "War-driven prices for silver are threatening nagra makers in northern India.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-03-at-2.10.04-PM-1791051025.png?resize=1848%2C1080"
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-03-at-2.10.04-PM-1791051025.png?resize=1848%2C1080",
+          "thread": "t1ass0sd"
+        },
+        {
           "id": "sesxg98",
           "headline": "China agrees to ‘halve’ hybrid car exports to EU in landmark deal",
           "url": "https://www.theguardian.com/business/2026/oct/09/china-agrees-to-curb-hybrid-car-exports-to-eu-in-landmark-deal",
@@ -1746,6 +1849,24 @@
               "summary": "Indian authorities have launched a major security crackdown in New Delhi, detaining thousands of protesters who intended to hold a mass demonstration against Prime Minister Narendra Modi's government.",
               "summaryV": 3,
               "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3953x2636+0+0/resize/3953x2636!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F00%2F39%2F5c77716b4ce493dd9aeaec5f4d48%2Fap26283120193955.jpg"
+            },
+            {
+              "source": "bbc",
+              "headline": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+              "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo",
+              "date": "2026-10-10T12:29:31.000Z",
+              "summary": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
+              "summaryV": 3,
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98ee/live/0a7efdf0-c4b7-11f1-bc2e-018d645d8d21.jpg",
+              "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/98ee/live/0a7efdf0-c4b7-11f1-bc2e-018d645d8d21.jpg"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "India’s ‘Cockroach’ leaders detained; New Delhi in lockdown",
+              "url": "https://www.aljazeera.com/news/2026/10/10/indias-cockroach-leaders-detained-new-delhi-in-lockdown",
+              "date": "2026-10-10T12:50:34.000Z",
+              "summary": "Indian police crackdown appears to have prevented mass protests against the country's election chief from taking place.",
+              "summaryV": 3
             }
           ],
           "thread": "t1ya4ss"
@@ -2101,16 +2222,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 39,
-    "added": 0,
-    "merged": 6,
-    "rejected": 33,
+    "analysed": 50,
+    "added": 2,
+    "merged": 7,
+    "rejected": 41,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 163
+        "items": 154
       },
       "guardian": {
         "feedsOk": 7,
@@ -2139,18 +2260,18 @@
       }
     },
     "shareImages": {
-      "tried": 0,
-      "found": 0,
+      "tried": 2,
+      "found": 2,
       "summaries": 0
     },
     "threads": {
-      "assigned": 0,
-      "created": 0,
+      "assigned": 2,
+      "created": 1,
       "failedBatches": 0
     },
     "summaries": {
-      "written": 0,
-      "due": 0
+      "written": 1,
+      "due": 1
     }
   },
   "recentDays": 60

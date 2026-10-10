@@ -1,6 +1,6 @@
 {
  "desk": "domestic",
- "updatedAt": "2026-10-10T08:55:00.128Z",
+ "updatedAt": "2026-10-10T15:15:23.695Z",
  "threads": {
   "t1weh1f1": {
    "id": "t1weh1f1",
@@ -364,11 +364,11 @@
    "name": "AI data centre expansion",
    "sector": "technology",
    "created": "2026-10-03T00:00:42.000Z",
-   "updated": "2026-10-06T14:13:36.000Z",
-   "latestHeadline": "Work on Google-Adani data centre can continue at developer's own risk: Andhra HC",
-   "summary": "In early October, Mint reported that data centre pre-leasing had doubled amid rising AI demand. On 6 October, the World Bank was reported as placing India among the top 10 emerging markets in AI readiness. The same day, the Andhra Pradesh High Court allowed construction of the Google-Adani data centre to continue at the developer's own risk. The court's order is pending a review of environmental concerns raised in a public interest litigation, including land use and proximity to protected areas.",
-   "summaryCount": 3,
-   "summaryAt": "2026-10-07T21:45:56.815Z",
+   "updated": "2026-10-10T13:41:55.000Z",
+   "latestHeadline": "AI data-centre boom puts India’s power grid under pressure, drives up upgrade costs",
+   "summary": "In early October, Mint reported that data centre pre-leasing had doubled, with demand driven by rising smartphone use and consumer AI applications such as OpenAI's ChatGPT and Google's Gemini. On October 6, a World Bank assessment placed India among the top 10 emerging markets in AI readiness. The same day, the Andhra Pradesh High Court allowed construction of the Google-Adani data centre to continue at the developer's own risk, pending a review of environmental concerns raised in a public interest litigation, including land use and proximity to protected areas. By October 10, The Hindu reported that the AI data-centre boom was putting India's power grid under pressure, with electricity officials around the country grappling with how AI infrastructure is reshaping power transmission.",
+   "summaryCount": 4,
+   "summaryAt": "2026-10-10T15:15:21.157Z",
    "events": [
     {
      "id": "s191nii8",
@@ -396,9 +396,18 @@
      "url": "https://www.livemint.com/companies/news/work-on-google-adani-data-centre-can-continue-at-developers-own-risk-andhra-hc-11791289938948.html",
      "sector": "technology",
      "month": "2026-10"
+    },
+    {
+     "id": "sefm545",
+     "date": "2026-10-10T13:41:55.000Z",
+     "headline": "AI data-centre boom puts India’s power grid under pressure, drives up upgrade costs",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/Economy/ai-data-centre-boom-puts-indias-power-grid-under-pressure-drives-up-upgrade-costs/article71555736.ece",
+     "sector": "energy",
+     "month": "2026-10"
     }
    ],
-   "count": 3,
+   "count": 4,
    "first": "2026-10-03T00:00:42.000Z"
   },
   "t1ftgdvx": {
@@ -724,11 +733,11 @@
    "name": "Election Commission internal rift",
    "sector": "governance",
    "created": "2026-10-05T06:53:21.000Z",
-   "updated": "2026-10-07T09:10:18.000Z",
-   "latestHeadline": "CEC appointment law row: SC to examine plea seeking recall of September split verdict",
-   "summary": "In early October, Mint reported that the Election Commission of India was facing scrutiny over internal differences, and it explained what the law says if the three Election Commissioners are stuck in a 1-1-1 split. On Wednesday, October 7, a Supreme Court bench of the Chief Justice of India and Justices Joymalya Bagchi and V Mohana was told about a recall application by senior advocate Gopal Sankaranarayanan. The application seeks recall of a September split verdict in the CEC appointment law row, and the court is set to examine the plea.",
-   "summaryCount": 2,
-   "summaryAt": "2026-10-07T21:45:44.382Z",
+   "updated": "2026-10-10T12:35:05.000Z",
+   "latestHeadline": "Can Gyanesh Kumar be prosecuted? Explaining Section 16 of CEC Act as CJP, Oppn allege CEC took unilateral decisions",
+   "summary": "In early October, Mint reported that the Election Commission of India was facing scrutiny over internal differences, with an explainer on what the law says if the three-member poll panel is stuck in a 1-1-1 split. On October 7, a Supreme Court bench comprising the Chief Justice of India and Justices Joymalya Bagchi and V Mohana was told about a recall application, filed by senior advocate Gopal Sankaranarayanan, against a September split verdict in the CEC appointment law row. By October 10, the Supreme Court was questioning whether a 2023 law gives the Chief Election Commissioner and other election commissioners greater legal protection than constitutional court judges, in a case concerning alleged unilateral decisions by CEC Gyanesh Kumar during electoral-roll revisions.",
+   "summaryCount": 3,
+   "summaryAt": "2026-10-10T15:15:23.691Z",
    "events": [
     {
      "id": "s1izayod",
@@ -747,9 +756,18 @@
      "url": "https://www.livemint.com/news/india/cec-appointment-law-row-sc-to-examine-plea-seeking-recall-of-september-split-verdict-11791360017671.html",
      "sector": "governance",
      "month": "2026-10"
+    },
+    {
+     "id": "spm1jh",
+     "date": "2026-10-10T12:35:05.000Z",
+     "headline": "Can Gyanesh Kumar be prosecuted? Explaining Section 16 of CEC Act as CJP, Oppn allege CEC took unilateral decisions",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/can-gyanesh-kumar-be-prosecuted-explaining-section-16-of-cec-act-as-cjp-oppn-allege-cec-took-unilateral-decisions-11791632711119.html",
+     "sector": "governance",
+     "month": "2026-10"
     }
    ],
-   "count": 2,
+   "count": 3,
    "first": "2026-10-05T06:53:21.000Z"
   },
   "t70vqt6": {
