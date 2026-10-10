@@ -2,38 +2,12 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-10T15:15:23.697Z",
+  "updatedAt": "2026-10-10T19:20:46.402Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
-        {
-          "id": "sefm545",
-          "headline": "AI data-centre boom puts India’s power grid under pressure, drives up upgrade costs",
-          "url": "https://www.thehindu.com/business/Economy/ai-data-centre-boom-puts-indias-power-grid-under-pressure-drives-up-upgrade-costs/article71555736.ece",
-          "source": "thehindu",
-          "date": "2026-10-10T13:41:55.000Z",
-          "relevance": "medium",
-          "image": "https://th-i.thgim.com/public/incoming/bawro1/article71568376.ece/alternates/LANDSCAPE_1200/IMG_BL_-_POWER_GRIDS_2_1_4TCG9SLI.jpg",
-          "why": "Fast-growing AI data centres are straining India's power transmission network and raising the cost of grid upgrades.",
-          "implications": [
-            "Utilities may need costly grid upgrades that could eventually feed into power tariffs.",
-            "Local power supply reliability could come under pressure in data-centre clusters."
-          ],
-          "reports": [
-            {
-              "source": "thehindu",
-              "headline": "AI data-centre boom puts India’s power grid under pressure, drives up upgrade costs",
-              "url": "https://www.thehindu.com/business/Economy/ai-data-centre-boom-puts-indias-power-grid-under-pressure-drives-up-upgrade-costs/article71555736.ece",
-              "date": "2026-10-10T13:41:55.000Z",
-              "summary": "Electricity officials around India are grappling with the many ways Artificial Intelligence infrastructure is reshaping power transmission dynamics.",
-              "summaryV": 3,
-              "image": "https://th-i.thgim.com/public/incoming/bawro1/article71568376.ece/alternates/LANDSCAPE_1200/IMG_BL_-_POWER_GRIDS_2_1_4TCG9SLI.jpg"
-            }
-          ],
-          "thread": "t1tqo310"
-        },
         {
           "id": "s1ymsnoo",
           "headline": "U.S. lifts sanctions on sale of Russian diesel in global markets",
@@ -84,9 +58,44 @@
               "summary": "The goal is to reach agreement on such a proposal in the coming weeks so it can be presented ‌to Russia in order to seek a breakthrough before the winter",
               "summaryV": 3,
               "image": "https://th-i.thgim.com/public/news/national/x9rdf/article71567090.ece/alternates/LANDSCAPE_1200/iStock-182703770.jpg"
+            },
+            {
+              "source": "mint",
+              "headline": "‘Get a new leader’: Trump targets Zelensky after Ukraine president objects to diesel deal with Putin",
+              "url": "https://www.livemint.com/news/us-news/get-a-new-leader-trump-targets-zelensky-after-ukraine-president-objects-to-diesel-deal-with-putin-11791653704450.html",
+              "date": "2026-10-10T17:52:25.000Z",
+              "summary": "Trump also warned Zelensky to stop targeting Russian oil refineries, suggesting that the strikes had contributed to rising diesel prices ahead of the US midterm elections on November 3.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/maxresdefault_1791659003927_m7nJ_1791659012114_ue0D_7883572d-d325-4883-aa29-a4e80d80f994_pQLq.jpg"
             }
           ],
           "thread": "tmyg5jt"
+        },
+        {
+          "id": "sefm545",
+          "headline": "AI data-centre boom puts India’s power grid under pressure, drives up upgrade costs",
+          "url": "https://www.thehindu.com/business/Economy/ai-data-centre-boom-puts-indias-power-grid-under-pressure-drives-up-upgrade-costs/article71555736.ece",
+          "source": "thehindu",
+          "date": "2026-10-10T13:41:55.000Z",
+          "relevance": "medium",
+          "image": "https://th-i.thgim.com/public/incoming/bawro1/article71568376.ece/alternates/LANDSCAPE_1200/IMG_BL_-_POWER_GRIDS_2_1_4TCG9SLI.jpg",
+          "why": "Fast-growing AI data centres are straining India's power transmission network and raising the cost of grid upgrades.",
+          "implications": [
+            "Utilities may need costly grid upgrades that could eventually feed into power tariffs.",
+            "Local power supply reliability could come under pressure in data-centre clusters."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "AI data-centre boom puts India’s power grid under pressure, drives up upgrade costs",
+              "url": "https://www.thehindu.com/business/Economy/ai-data-centre-boom-puts-indias-power-grid-under-pressure-drives-up-upgrade-costs/article71555736.ece",
+              "date": "2026-10-10T13:41:55.000Z",
+              "summary": "Electricity officials around India are grappling with the many ways Artificial Intelligence infrastructure is reshaping power transmission dynamics.",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/bawro1/article71568376.ece/alternates/LANDSCAPE_1200/IMG_BL_-_POWER_GRIDS_2_1_4TCG9SLI.jpg"
+            }
+          ],
+          "thread": "t1tqo310"
         },
         {
           "id": "s19lzth",
@@ -738,6 +747,62 @@
       "name": "Logistics & Shipping",
       "items": [
         {
+          "id": "s1fv1e3l",
+          "headline": "Saudi Arabia-Houthi conflict: Indian Embassy in Riyadh issues advisory; Air India, IndiGo, Akasa cancel flights",
+          "url": "https://www.livemint.com/news/world/saudi-arabia-houthi-conflict-indian-embassy-in-riyadh-issues-advisory-urges-nationals-to-remain-vigilant-11791475804794.html",
+          "source": "mint",
+          "date": "2026-10-08T16:43:38.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/as-the-second-time-in-recent-weeks-that-the-_1791477805757_JqzY_1791477805906_7eTS_08f8a5de-b941-4b04-b447-291931891af5_CxL8.jpg",
+          "why": "Houthi attacks on Saudi airports and energy infrastructure disrupt India-Saudi air links and add to West Asia supply risks.",
+          "implications": [
+            "Travellers and workers flying to Saudi Arabia may face cancelled or disrupted flights.",
+            "Further attacks on energy infrastructure could add pressure to oil prices and fuel costs.",
+            "Airlines may need to reroute or cut services, which could raise fares on affected routes."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Saudi Arabia-Houthi conflict: Indian Embassy in Riyadh issues advisory; Air India, IndiGo, Akasa cancel flights",
+              "url": "https://www.livemint.com/news/world/saudi-arabia-houthi-conflict-indian-embassy-in-riyadh-issues-advisory-urges-nationals-to-remain-vigilant-11791475804794.html",
+              "date": "2026-10-08T16:43:38.000Z",
+              "summary": "The advisory comes as Houthi attacks have increasingly targeted Saudi airports and other civilian and energy infrastructure.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/as-the-second-time-in-recent-weeks-that-the-_1791477805757_JqzY_1791477805906_7eTS_08f8a5de-b941-4b04-b447-291931891af5_CxL8.jpg"
+            },
+            {
+              "source": "mint",
+              "headline": "Saudi Arabia-Houthi conflict escalates: Airlines suspend Riyadh flights after attacks | Watch",
+              "url": "https://www.livemint.com/news/world/saudi-arabia-houthi-conflict-escalates-airlines-suspend-riyadh-flights-after-attacks-watch-11791523084516.html",
+              "date": "2026-10-09T05:57:44.000Z",
+              "summary": "Yemen’s Houthi rebels have claimed a missile attack on Saudi Arabia’s King Khalid International Airport in Riyadh, with reports of a Saudia Airlines aircraft catching fire after being damaged. Lufthansa and Air India have suspended Riyadh flights amid escalating attacks on Saudi airports",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/IRAN-CRISIS-SAUDI-AIRPORT-0_1791523496367_0bG5_1791523508821_MfIu_5758fa66-d8e2-40c2-8d91-73efc4abdb9c_eeRG.JPG"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Flights between Kochi and Saudi destinations remain disrupted",
+              "url": "https://www.thehindu.com/news/national/kerala/flights-between-kochi-and-saudi-destinations-remain-disrupted/article71568688.ece",
+              "date": "2026-10-10T16:31:42.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/69xoat/article71569275.ece/alternates/LANDSCAPE_1200/iStock-868924070.jpg",
+              "ogTried": true,
+              "descTried": true,
+              "summary": "Flight services between Cochin International Airport and Saudi destinations were disrupted with multiple cancellations; check with airlines for updates.",
+              "summaryV": 3
+            },
+            {
+              "source": "mint",
+              "headline": "Saudi airport attacked again: Missile strike reported, many wounded; passengers evacuated, flights diverted",
+              "url": "https://www.livemint.com/news/world/saudi-airport-attacked-again-missile-strike-reported-many-wounded-passengers-evacuated-flights-diverted-11791649722142.html",
+              "date": "2026-10-10T16:39:07.000Z",
+              "summary": "There was no immediate statement from the Houthis claiming responsibility for Saturday’s incident.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/Mideast-Wars-0_1791650215250_d1UO_1791650246461_3a6F_5cbb3bb5-e3c8-4bfb-995f-a46a9b036f54_sjuc.jpg"
+            }
+          ],
+          "thread": "tlbdei3"
+        },
+        {
           "id": "s19bgbyu",
           "headline": "Iran claims strike on LPG tanker taking ‘illegal route’ through Hormuz",
           "url": "https://www.livemint.com/news/world/iran-says-it-hit-lpg-tanker-taking-illegal-route-through-hormuz-what-we-know-about-nv-sunshine-and-ship-fire-off-uae-11791561482963.html",
@@ -790,42 +855,6 @@
             }
           ],
           "thread": "tqtn8b9"
-        },
-        {
-          "id": "s1fv1e3l",
-          "headline": "Saudi Arabia-Houthi conflict: Indian Embassy in Riyadh issues advisory; Air India, IndiGo, Akasa cancel flights",
-          "url": "https://www.livemint.com/news/world/saudi-arabia-houthi-conflict-indian-embassy-in-riyadh-issues-advisory-urges-nationals-to-remain-vigilant-11791475804794.html",
-          "source": "mint",
-          "date": "2026-10-08T16:43:38.000Z",
-          "relevance": "medium",
-          "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/as-the-second-time-in-recent-weeks-that-the-_1791477805757_JqzY_1791477805906_7eTS_08f8a5de-b941-4b04-b447-291931891af5_CxL8.jpg",
-          "why": "Houthi attacks on Saudi airports and energy infrastructure disrupt India-Saudi air links and add to West Asia supply risks.",
-          "implications": [
-            "Travellers and workers flying to Saudi Arabia may face cancelled or disrupted flights.",
-            "Further attacks on energy infrastructure could add pressure to oil prices and fuel costs.",
-            "Airlines may need to reroute or cut services, which could raise fares on affected routes."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "Saudi Arabia-Houthi conflict: Indian Embassy in Riyadh issues advisory; Air India, IndiGo, Akasa cancel flights",
-              "url": "https://www.livemint.com/news/world/saudi-arabia-houthi-conflict-indian-embassy-in-riyadh-issues-advisory-urges-nationals-to-remain-vigilant-11791475804794.html",
-              "date": "2026-10-08T16:43:38.000Z",
-              "summary": "The advisory comes as Houthi attacks have increasingly targeted Saudi airports and other civilian and energy infrastructure.",
-              "summaryV": 3,
-              "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/as-the-second-time-in-recent-weeks-that-the-_1791477805757_JqzY_1791477805906_7eTS_08f8a5de-b941-4b04-b447-291931891af5_CxL8.jpg"
-            },
-            {
-              "source": "mint",
-              "headline": "Saudi Arabia-Houthi conflict escalates: Airlines suspend Riyadh flights after attacks | Watch",
-              "url": "https://www.livemint.com/news/world/saudi-arabia-houthi-conflict-escalates-airlines-suspend-riyadh-flights-after-attacks-watch-11791523084516.html",
-              "date": "2026-10-09T05:57:44.000Z",
-              "summary": "Yemen’s Houthi rebels have claimed a missile attack on Saudi Arabia’s King Khalid International Airport in Riyadh, with reports of a Saudia Airlines aircraft catching fire after being damaged. Lufthansa and Air India have suspended Riyadh flights amid escalating attacks on Saudi airports",
-              "summaryV": 3,
-              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/IRAN-CRISIS-SAUDI-AIRPORT-0_1791523496367_0bG5_1791523508821_MfIu_5758fa66-d8e2-40c2-8d91-73efc4abdb9c_eeRG.JPG"
-            }
-          ],
-          "thread": "tlbdei3"
         },
         {
           "id": "sl6v851",
@@ -1395,6 +1424,77 @@
       "id": "economy",
       "name": "Economy & Trade",
       "items": [
+        {
+          "id": "solbr1t",
+          "headline": "Economic think tank says govt should withdraw proposed UPI charges. Here's why",
+          "url": "https://www.livemint.com/economy/upi-mdr-charges-govt-withdraw-proposed-payment-fee-gtri-think-tank-why-raise-prices-small-business-merchants-weak-demand-11791656189614.html",
+          "source": "mint",
+          "date": "2026-10-10T18:36:26.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/Gemini_Generated_Image_ghum8kghum8kghum_1784258639_1791657298128_uMSp_1791657298547_csrB_e088e675-eca5-4bb7-864c-3521a4dbc09c_zsxp.png",
+          "why": "A proposed 0.4% fee on larger UPI merchant payments could change the cost of digital payments across small businesses.",
+          "implications": [
+            "Merchants may pass the fee on, which could raise prices for consumers on larger purchases.",
+            "Small businesses may face thinner margins or shift some payments to cash."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Economic think tank says govt should withdraw proposed UPI charges. Here's why",
+              "url": "https://www.livemint.com/economy/upi-mdr-charges-govt-withdraw-proposed-payment-fee-gtri-think-tank-why-raise-prices-small-business-merchants-weak-demand-11791656189614.html",
+              "date": "2026-10-10T18:36:26.000Z",
+              "summary": "GTRI urged the government to withdraw a proposed 0.4% fee on UPI merchant transactions above ₹2,000, warning it could raise prices, squeeze small businesses and weaken demand. Here's what it has recommended…&nbsp;",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/Gemini_Generated_Image_ghum8kghum8kghum_1784258639_1791657298128_uMSp_1791657298547_csrB_e088e675-eca5-4bb7-864c-3521a4dbc09c_zsxp.png"
+            }
+          ],
+          "thread": "t1m3ppj6"
+        },
+        {
+          "id": "sq9bww3",
+          "headline": "Why are Indian and U.S. leaders cooling off on a trade deal? | Explained",
+          "url": "https://www.thehindu.com/business/Economy/why-are-indian-and-us-leaders-cooling-off-on-a-trade-deal-explained/article71554453.ece",
+          "source": "thehindu",
+          "date": "2026-10-07T06:24:10.000Z",
+          "relevance": "high",
+          "why": "Stalled India-US trade talks leave uncertainty over tariffs and market access for exporters across the economy.",
+          "implications": [
+            "Exporters in sectors facing US tariffs may see orders and margins stay under pressure.",
+            "Delay could prolong uncertainty for firms planning US-linked investment and hiring.",
+            "Workers in export-heavy industries may face job risks if tariffs persist."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Why are Indian and U.S. leaders cooling off on a trade deal? | Explained",
+              "url": "https://www.thehindu.com/business/Economy/why-are-indian-and-us-leaders-cooling-off-on-a-trade-deal-explained/article71554453.ece",
+              "date": "2026-10-07T06:24:10.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/8ovzwk/article71554520.ece/alternates/LANDSCAPE_1200/iStock-1091439016%201.jpg",
+              "summary": "Both the interim agreement on trade and the overall Bilateral Trade Agreement between India and the U.S. are heavily delayed, and now statements from both sides suggest that talks are stuck",
+              "summaryV": 3
+            },
+            {
+              "source": "thehindu",
+              "headline": "Failure to finalise US trade deal may hurt India, but new FTAs can cushion tariff blow: RBI chief",
+              "url": "https://www.thehindu.com/business/Economy/failure-to-finalise-us-trade-deal-may-hurt-india-but-new-ftas-can-cushion-tariff-blow-rbi-chief/article71556248.ece",
+              "date": "2026-10-07T14:41:09.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/jz5t26/article71556388.ece/alternates/LANDSCAPE_1200/20261007065L.jpg",
+              "summary": "The diversification of India’s export markets and products as another buffer against a potential tariff shock.",
+              "summaryV": 3
+            },
+            {
+              "source": "thehindu",
+              "headline": "India-U.S. trade pact to be finalised keeping changed circumstances in mind: Piyush Goyal",
+              "url": "https://www.thehindu.com/business/india-us-trade-pact-to-be-finalised-keeping-changed-circumstances-in-mind-piyush-goyal/article71569239.ece",
+              "date": "2026-10-10T16:34:35.000Z",
+              "summary": "Piyush Goyal also said trade pact negotiations are on with number of regions including Israel, Chile, GCC, and Russia-led group Eurasian Economic Union",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/gvjo9n/article71568995.ece/alternates/LANDSCAPE_1200/20261008341L.jpg"
+            }
+          ],
+          "image": "https://th-i.thgim.com/public/incoming/8ovzwk/article71554520.ece/alternates/LANDSCAPE_1200/iStock-1091439016%201.jpg",
+          "thread": "t1ka6u13"
+        },
         {
           "id": "sba6wbd",
           "headline": "RBI raises repo rate by 25 basis points to 5.50%, shifts stance to ‘calibrated tightening’",
@@ -2340,42 +2440,6 @@
           ],
           "image": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/INDIA-FINTECH-FEST-71_1791385273508_ritY_1791385281171_SUNe_aeff56f5-43e8-4178-85a2-1a7806780e93_bwD9.jpg",
           "thread": "t1kujjku"
-        },
-        {
-          "id": "sq9bww3",
-          "headline": "Why are Indian and U.S. leaders cooling off on a trade deal? | Explained",
-          "url": "https://www.thehindu.com/business/Economy/why-are-indian-and-us-leaders-cooling-off-on-a-trade-deal-explained/article71554453.ece",
-          "source": "thehindu",
-          "date": "2026-10-07T06:24:10.000Z",
-          "relevance": "high",
-          "why": "Stalled India-US trade talks leave uncertainty over tariffs and market access for exporters across the economy.",
-          "implications": [
-            "Exporters in sectors facing US tariffs may see orders and margins stay under pressure.",
-            "Delay could prolong uncertainty for firms planning US-linked investment and hiring.",
-            "Workers in export-heavy industries may face job risks if tariffs persist."
-          ],
-          "reports": [
-            {
-              "source": "thehindu",
-              "headline": "Why are Indian and U.S. leaders cooling off on a trade deal? | Explained",
-              "url": "https://www.thehindu.com/business/Economy/why-are-indian-and-us-leaders-cooling-off-on-a-trade-deal-explained/article71554453.ece",
-              "date": "2026-10-07T06:24:10.000Z",
-              "image": "https://th-i.thgim.com/public/incoming/8ovzwk/article71554520.ece/alternates/LANDSCAPE_1200/iStock-1091439016%201.jpg",
-              "summary": "Both the interim agreement on trade and the overall Bilateral Trade Agreement between India and the U.S. are heavily delayed, and now statements from both sides suggest that talks are stuck",
-              "summaryV": 3
-            },
-            {
-              "source": "thehindu",
-              "headline": "Failure to finalise US trade deal may hurt India, but new FTAs can cushion tariff blow: RBI chief",
-              "url": "https://www.thehindu.com/business/Economy/failure-to-finalise-us-trade-deal-may-hurt-india-but-new-ftas-can-cushion-tariff-blow-rbi-chief/article71556248.ece",
-              "date": "2026-10-07T14:41:09.000Z",
-              "image": "https://th-i.thgim.com/public/incoming/jz5t26/article71556388.ece/alternates/LANDSCAPE_1200/20261007065L.jpg",
-              "summary": "The diversification of India’s export markets and products as another buffer against a potential tariff shock.",
-              "summaryV": 3
-            }
-          ],
-          "image": "https://th-i.thgim.com/public/incoming/8ovzwk/article71554520.ece/alternates/LANDSCAPE_1200/iStock-1091439016%201.jpg",
-          "thread": "t1ka6u13"
         },
         {
           "id": "sj12pqf",
@@ -3988,6 +4052,33 @@
       "name": "Manufacturing",
       "items": [
         {
+          "id": "se3jr7v",
+          "headline": "India initiates anti-dumping probe on Pen-G, salts from China",
+          "url": "https://www.thehindu.com/business/Industry/india-initiates-anti-dumping-probe-on-pen-g-salts-from-china/article71569088.ece",
+          "source": "thehindu",
+          "date": "2026-10-10T15:46:01.000Z",
+          "relevance": "medium",
+          "image": "https://th-i.thgim.com/public/incoming/d2u86l/article71569116.ece/alternates/LANDSCAPE_1200/DGTR-recommendsG2SGJTPQU.4.jpg.jpg",
+          "why": "An anti-dumping probe on Chinese Pen-G and its salts could change input costs and import dependence in India's pharmaceutical supply chain.",
+          "implications": [
+            "If duties follow, antibiotic makers using imported Pen-G may face higher input costs.",
+            "Domestic Pen-G producers could get protection from cheap Chinese imports.",
+            "The probe's outcome may take months and is uncertain."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "India initiates anti-dumping probe on Pen-G, salts from China",
+              "url": "https://www.thehindu.com/business/Industry/india-initiates-anti-dumping-probe-on-pen-g-salts-from-china/article71569088.ece",
+              "date": "2026-10-10T15:46:01.000Z",
+              "summary": "The DGTR, which agreed to the company’s suggestion for 2025-26 as the period of investigation, said there is sufficient prima facie evidence that the PUC is being dumped into the domestic market by exporters from China.",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/d2u86l/article71569116.ece/alternates/LANDSCAPE_1200/DGTR-recommendsG2SGJTPQU.4.jpg.jpg"
+            }
+          ],
+          "thread": "t8g616e"
+        },
+        {
           "id": "s16woxcm",
           "headline": "India plans Exim Bank credit lines to rescue solar exports after US tariff blow",
           "url": "https://www.livemint.com/industry/energy/india-plans-exim-bank-credit-lines-to-rescue-solar-exports-after-us-tariff-blow-11791453975856.html",
@@ -4747,7 +4838,7 @@
           "url": "https://www.thehindu.com/news/national/centre-seeks-states-help-as-cjp-prepares-to-go-ahead-with-protest-major-curbs-in-delhi/article71565420.ece",
           "source": "thehindu",
           "date": "2026-10-09T17:33:39.000Z",
-          "relevance": "medium",
+          "relevance": "high",
           "image": "https://th-i.thgim.com/public/incoming/746otl/article71565651.ece/alternates/LANDSCAPE_1200/SECURITY%20AHEAD%20CJP%20PROTEST%20NEW%20DELHI%2010.JPG",
           "why": "A major protest against the Chief Election Commissioner has led to internet curbs, train cancellations and closures in the capital, raising civil-liberty and election-governance concerns.",
           "implications": [
@@ -4827,9 +4918,235 @@
               "summary": "In the petition, advocate Shailendra Mani Tripathi argued that the shutdown violated the Supreme Court’s October 9 order, which barred blanket bans that cause hardship to ordinary commuters",
               "summaryV": 3,
               "image": "https://th-i.thgim.com/public/incoming/nfcksh/article71568945.ece/alternates/LANDSCAPE_1200/METRO%20CLOSED%20PROTEST%20AGAINST%20GYANESH%20KUMAR%209.JPG"
+            },
+            {
+              "source": "mint",
+              "headline": "What is a preventative detention? How is it different from arrest? What to know amid police crackdown in Delhi protests",
+              "url": "https://www.livemint.com/news/india/what-is-a-preventative-detention-how-it-is-different-from-arrest-what-to-know-amid-police-crackdown-in-delhi-protests-11791639978177.html",
+              "date": "2026-10-10T15:16:53.000Z",
+              "summary": "Delhi Police detained more than 7,000 protesters as they tried reaching Jantar Mantar for the planned protest by CJP against Chief Election Commissioner Gyanesh Kumar. Understand what powers do police have to detain protesters, and what safeguards apply.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/CJP-Protest-6_1791644548564_fcpc_1791644558871_IX6D_0586c424-e559-4805-9a3c-6fb44a2028f8_pzE8.jpg"
+            },
+            {
+              "source": "thehindu",
+              "headline": "‘Will come back tomorrow’: youth groups vow to continue protest till Gyanesh Kumar resigns",
+              "url": "https://www.thehindu.com/news/national/will-come-back-tomorrow-youth-groups-vow-to-continue-protest-till-gyanesh-kumar-resigns/article71568565.ece",
+              "date": "2026-10-10T15:25:12.000Z",
+              "summary": "CJP, Left Student organisations allege crackdown on protesters; demand rollback of SIR and resignation of CEC",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/wupsqr/article71569041.ece/alternates/LANDSCAPE_1200/2026-10-10T141849Z_1808454045_RC2E0OAL5QWF_RTRMADP_3_INDIA-POLITICS-GEN-Z.JPG"
+            },
+            {
+              "source": "thehindu",
+              "headline": "‘Scrap SIR, Gyanesh Kumar must resign’: Protesters take to Hyderabad streets, seek accountability over voter deletions",
+              "url": "https://www.thehindu.com/news/cities/Hyderabad/scrap-sir-gyanesh-kumar-must-resign-protesters-take-to-hyderabad-streets-seek-accountability-over-voter-deletions/article71569006.ece",
+              "date": "2026-10-10T15:44:00.000Z",
+              "image": "https://th-i.thgim.com/public/incoming/l0r15d/article71569103.ece/alternates/LANDSCAPE_1200/_DSC4464.JPG",
+              "ogTried": true,
+              "descTried": true,
+              "summary": "Protesters in Hyderabad demand scrapping SIR and resignation of CEC Gyanesh Kumar, citing voter deletions and calls for accountability.",
+              "summaryV": 3
+            },
+            {
+              "source": "mint",
+              "headline": "UN Human Rights expresses concern over mass detentions during Delhi, Mumbai protests; calls for release of detainees",
+              "url": "https://www.livemint.com/news/india/un-human-rights-expresses-concern-over-mass-detentions-during-delhi-mumbai-protests-calls-for-release-of-detainees-11791646229252.html",
+              "date": "2026-10-10T15:59:53.000Z",
+              "summary": "The UN Human Rights office urged Indian authorities to ensure that law enforcement personnel exercised “utmost restraint” in responding to peaceful protesters, in keeping with India's democratic traditions and human rights obligations.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/ANI-20261010374-0_1791647645755_3qKS_1791647661117_cy1y_18621ff0-8412-4b37-b3be-cd6476f1f1dc_qqrj.jpg"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Next challenge for govt.: how to stop largely ‘leaderless’ crowd from regrouping after October 10 anti-CEC protest",
+              "url": "https://www.thehindu.com/news/national/next-challenge-for-govt-how-to-stop-largely-leaderless-crowd-from-regrouping-after-october-10-anti-cec-protest/article71568837.ece",
+              "date": "2026-10-10T16:02:56.000Z",
+              "summary": "Officials say mobilising security arrangements to the scale seen on Saturday would not be feasible in the coming days, and that keeping protesters under detention for more than 24 hours would not be legal",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/ggmltz/article71569170.ece/alternates/LANDSCAPE_1200/48_64296.jpeg"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Tushar Gandhi, Imran Khan among 600 protesters detained in Mumbai",
+              "url": "https://www.thehindu.com/news/cities/mumbai/anti-cec-protest-tushar-gandhi-detained-in-mumbai-on-way-to-protest-in-support-of-cjp/article71567333.ece",
+              "date": "2026-10-10T16:20:53.000Z",
+              "summary": "Police barricade road leading to August Kranti Maidan; hundreds of students, activists protest outside maidan",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/news/national/fhirya/article71567340.ece/alternates/LANDSCAPE_1200/Untitled%20design%201.png"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Morning shows the day as citizens display grit to beat Delhi Police’s efforts to stop ‘Jantar Mantar 2.0’",
+              "url": "https://www.thehindu.com/news/national/morning-shows-the-day-as-citizens-display-grit-to-beat-delhi-polices-efforts-to-stop-jantar-mantar-20/article71568722.ece",
+              "date": "2026-10-10T16:31:20.000Z",
+              "summary": "As central Delhi remained fortified, many individuals and groups of protesters protested away from Jantar Mantar after finding out that CJP leaders and political leaders had been detained by the police.",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/6dyg7e/article71569268.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-10%20at%2017.16.17.jpeg"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Anti-CEC protest: BKU joins stir, warns against targeting Dhruv Rathee",
+              "url": "https://www.thehindu.com/news/national/anti-cec-protest-bku-joins-stir-warns-against-targeting-dhruv-rathee/article71569263.ece",
+              "date": "2026-10-10T16:33:50.000Z",
+              "summary": "Delhi Police detained a delegation led by national general secretary Yudhvir Singh while it was on its way to Jantar Mantar",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/tzq07k/article71569273.ece/alternates/LANDSCAPE_1200/007b54f2-929b-421b-ac01-0fedf04a564b.jpg"
+            },
+            {
+              "source": "mint",
+              "headline": "Delhi Metro update: DMRC says entry and exit of all stations now open amid protest against CEC Gyanesh Kumar",
+              "url": "https://www.livemint.com/news/india/delhi-metro-update-dmrc-says-entry-and-exit-of-all-stations-now-open-amid-protest-against-cec-gyanesh-kumar-11791652299485.html",
+              "date": "2026-10-10T17:15:57.000Z",
+              "summary": "Delhi Metro restored entry, exit and interchange facilities at all stations on Saturday after imposing temporary restrictions amid the CJP protest against CEC Gyanesh Kumar. The protest, over alleged irregularities in electoral rolls, saw several opposition leaders and activists detained.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/Untitled_design_1791653347052_uOpi_1791653350563_g00W_08ac5ae3-b70b-4703-b417-5e9afb202078_IDhI.png"
+            },
+            {
+              "source": "mint",
+              "headline": "Delhi protests tomorrow: What is open and what is closed on Sunday, 11 October; traffic restrictions and more",
+              "url": "https://www.livemint.com/news/india/delhi-protests-tomorrow-what-is-open-and-what-is-closed-on-sunday-11-october-traffic-restrictions-and-more-11791652511458.html",
+              "date": "2026-10-10T17:30:57.000Z",
+              "summary": "Delhi faces possible travel disruption on Sunday, 11 October, as the Cockroach Janta Party plans protests despite police denying permission.&nbsp;",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/PTI10-10-2026-000585A-0_1791652984209_2c5g_1791653000283_3h4N_151a8ed8-be01-4a09-92ba-292336e507ed_c249.jpg"
+            },
+            {
+              "source": "thehindu",
+              "headline": "‘Will not go back till CEC resigns’: CJP calls for fresh protest at Jantar Mantar on October 11",
+              "url": "https://www.thehindu.com/news/cities/Delhi/will-not-go-back-till-cec-resigns-cjp-calls-for-fresh-protest-at-jantar-mantar-on-october-11/article71569391.ece",
+              "date": "2026-10-10T17:35:53.000Z",
+              "summary": "Addressing a press conference after police detained protesters, activists and political leaders during the October 10 demonstrations, Ajinkya Shinde, the CJP's national organisation in-charge, said the party would not retreat despite the detentions",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/7iwfok/article71569409.ece/alternates/LANDSCAPE_1200/AFP__20261010__D2UQ4JJ__v1__HighRes__IndiaPoliticsProtestPresser.jpg"
+            },
+            {
+              "source": "mint",
+              "headline": "CJP calls for fresh protests at Jantar Mantar on Sunday, 11 Oct; traffic curbs at 30 key points in Delhi: All we know",
+              "url": "https://www.livemint.com/news/india/cjp-calls-for-fresh-protests-at-jantar-mantar-on-sunday-11-oct-traffic-curbs-at-30-key-points-in-delhi-all-we-know-11791653374013.html",
+              "date": "2026-10-10T17:41:39.000Z",
+              "summary": "The CJP has called for fresh protests tomorrow after Delhi Police clamped down on protestors doing towards Jantar Mantar on Saturday, detaining more than 7,000 individuals.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/detain_1791654031107_2EFF_1791654034437_jabQ_2ba5a692-eddb-4966-a1a3-442eade208c3_vWjJ.jpg"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Anti-CEC protest: Dilli Haat becomes Jantar Mantar for a day",
+              "url": "https://www.thehindu.com/news/cities/Delhi/anti-cec-protest-dilli-haat-becomes-jantar-mantar-for-a-day/article71568413.ece",
+              "date": "2026-10-10T17:54:03.000Z",
+              "summary": "As protesters struggle to reach designated protest site, students and others gather in smaller groups near INA; police detain hundreds",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/news/national/nn2rv0/article71568804.ece/alternates/LANDSCAPE_1200/1001064995.jpg"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Anti-CEC protest: Right-wing group members assault protesters at Connaught Place",
+              "url": "https://www.thehindu.com/news/cities/Delhi/anti-cec-protest-right-wing-group-members-assault-protesters-at-connaught-place/article71569132.ece",
+              "date": "2026-10-10T18:08:04.000Z",
+              "summary": "A group of men raised slogans backing the police, chased and allegedly assaulted demonstrators in Connaught Place amid mass detentions ahead of the planned CJP protest at Jantar Mantar; videos of the incidents drew sharp reactions from the AAP and Congress.",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/thofpr/article71569125.ece/alternates/LANDSCAPE_1200/right%20wing%20chase%201.jpeg"
+            },
+            {
+              "source": "mint",
+              "headline": "India hits back at UN Human Rights over remarks on Delhi protest detentions, calls concerns ‘misplaced’",
+              "url": "https://www.livemint.com/news/india/india-hits-back-at-un-human-rights-over-remarks-on-delhi-protest-detentions-calls-concerns-misplaced-11791656533007.html",
+              "date": "2026-10-10T18:28:17.000Z",
+              "summary": "India also urged the UN Human Rights office to devote comparable attention to large-scale protests in other parts of the world, citing the need for impartiality and non-selectivity in its work.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/PTI10-10-2026-000585A-0_1791656746394_lHJC_1791656758765_dW5G_4116ef15-d2b6-43aa-ba7e-243a7449de5e_Ybh3.jpg"
+            },
+            {
+              "source": "thehindu",
+              "headline": "UN human rights body expresses concern over Delhi detentions, urges immediate release",
+              "url": "https://www.thehindu.com/news/national/un-human-rights-body-expresses-concern-over-delhi-detentions-urges-immediate-release/article71569288.ece",
+              "date": "2026-10-10T18:31:04.000Z",
+              "summary": "OHCHR issues statement over police handling of protests, says restrictions must meet “necessity and proportionality” test; urges government to respect right to peaceful protest",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/7nx9hs/article71569434.ece/alternates/LANDSCAPE_1200/Switzerland_WCup-Human_Rights_72453.jpg"
+            },
+            {
+              "source": "mint",
+              "headline": "CJP Protests Day 1: 7000 detained including four ex-CMs, metro shutdowns and CJI’s intervention; how it unfolded",
+              "url": "https://www.livemint.com/news/india/cjp-protests-day-1-7000-detained-including-four-ex-cms-metro-shutdowns-and-cji-s-intervention-how-it-unfolded-11791654676992.html",
+              "date": "2026-10-10T18:38:18.000Z",
+              "summary": "Delhi Police detained over 7,000 protesters opposing alleged electoral roll malpractices by CEC Gyanesh Kumar, with CJP leaders and Opposition figures among those held. The crackdown triggered criticism from Congress and other parties, while the BJP accused protesters of trying to destabilise India.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/cjpday11_1791657225292_XVsz_1791657230917_DxKm_b4014838-2158-49af-a497-757ef92fec9e_miMG.jpg"
             }
           ],
           "thread": "t1iy3j15"
+        },
+        {
+          "id": "spm1jh",
+          "headline": "Can Gyanesh Kumar be prosecuted? Explaining Section 16 of CEC Act as CJP, Oppn allege CEC took unilateral decisions",
+          "url": "https://www.livemint.com/news/india/can-gyanesh-kumar-be-prosecuted-explaining-section-16-of-cec-act-as-cjp-oppn-allege-cec-took-unilateral-decisions-11791632711119.html",
+          "source": "mint",
+          "date": "2026-10-10T12:35:05.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/gyan_1791635179654_VOST_1791635184461_PK7K_32fe7404-a45d-409c-bbb3-62f47688e115_ODnc.png",
+          "why": "The Supreme Court is examining whether the 2023 law gives election commissioners more legal protection than judges, which bears on the accountability of India's electoral machinery.",
+          "implications": [
+            "A ruling could change how election commissioners can be held legally accountable for their decisions.",
+            "It may shape public confidence in electoral-roll revisions ahead of future elections."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Can Gyanesh Kumar be prosecuted? Explaining Section 16 of CEC Act as CJP, Oppn allege CEC took unilateral decisions",
+              "url": "https://www.livemint.com/news/india/can-gyanesh-kumar-be-prosecuted-explaining-section-16-of-cec-act-as-cjp-oppn-allege-cec-took-unilateral-decisions-11791632711119.html",
+              "date": "2026-10-10T12:35:05.000Z",
+              "summary": "The Supreme Court questioned whether a 2023 law gives the Chief Election Commissioner and other election commissioners greater legal protection than constitutional court judges. The case concerns alleged unilateral decisions by CEC Gyanesh Kumar during electoral-roll revisions.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/gyan_1791635179654_VOST_1791635184461_PK7K_32fe7404-a45d-409c-bbb3-62f47688e115_ODnc.png"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Former IAS, IFS officers defend Election Commission and SIR in an open letter",
+              "url": "https://www.thehindu.com/news/national/former-ias-ifs-officers-defend-election-commission-and-sir-in-an-open-letter/article71568900.ece",
+              "date": "2026-10-10T17:20:39.000Z",
+              "summary": "A system cannot be honest when you win and rigged when you lose, say the officials",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/3ho1sz/article71569386.ece/alternates/LANDSCAPE_1200/cTH17-KDR-RiddiG1PGDKDPK.3.jpg.jpg"
+            }
+          ],
+          "thread": "t14fyeji"
+        },
+        {
+          "id": "s2hpe6e",
+          "headline": "Centre to cap trade margins on non-scheduled cancer drugs to 30% of MRP",
+          "url": "https://www.thehindu.com/news/national/centre-to-cap-trade-margins-on-non-scheduled-cancer-drugs-to-30-of-mrp/article71560801.ece",
+          "source": "thehindu",
+          "date": "2026-10-08T16:39:39.000Z",
+          "relevance": "high",
+          "image": "https://th-i.thgim.com/public/incoming/vi7cvw/article71561176.ece/alternates/LANDSCAPE_1200/iStock-1393837248.jpg",
+          "why": "Capping trade margins on non-scheduled cancer drugs is a national price-regulation step that could make cancer treatment cheaper across India.",
+          "implications": [
+            "Patients may pay much less for non-scheduled cancer drugs, with reported cumulative annual savings of ₹2,500 crore.",
+            "Retailers and distributors could see sharply lower margins on these medicines.",
+            "Households facing long cancer treatment may see lower out-of-pocket costs in the near term."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Centre to cap trade margins on non-scheduled cancer drugs to 30% of MRP",
+              "url": "https://www.thehindu.com/news/national/centre-to-cap-trade-margins-on-non-scheduled-cancer-drugs-to-30-of-mrp/article71560801.ece",
+              "date": "2026-10-08T16:39:39.000Z",
+              "summary": "Average trade mark-up on these drugs now around 170%, reaching 700% in some cases; intervention to cut prices by up to 70% of MRP, resulting in cumulative annual savings of ₹2,500 crore for patients",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/vi7cvw/article71561176.ece/alternates/LANDSCAPE_1200/iStock-1393837248.jpg"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Karnataka seeks wider price caps beyond cancer medicines on other high-cost life-saving drugs",
+              "url": "https://www.thehindu.com/news/national/karnataka/karnataka-seeks-wider-price-caps-beyond-cancer-medicines-on-other-high-cost-life-saving-drugs/article71567350.ece",
+              "date": "2026-10-10T15:31:37.000Z",
+              "summary": "Health Minister U.T. Khader said price rationalisation should translate into direct savings for patients, and urged the Union government to extend similar measures to other essential medicines where high treatment costs place a burden on patients.",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/news/national/karnataka/qpwubd/article71567510.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-10%20at%2013.20.18.jpeg"
+            }
+          ],
+          "thread": "t1jobkuw"
         },
         {
           "id": "s1ihtm63",
@@ -4929,32 +5246,6 @@
             }
           ],
           "thread": "t1iy3j15"
-        },
-        {
-          "id": "spm1jh",
-          "headline": "Can Gyanesh Kumar be prosecuted? Explaining Section 16 of CEC Act as CJP, Oppn allege CEC took unilateral decisions",
-          "url": "https://www.livemint.com/news/india/can-gyanesh-kumar-be-prosecuted-explaining-section-16-of-cec-act-as-cjp-oppn-allege-cec-took-unilateral-decisions-11791632711119.html",
-          "source": "mint",
-          "date": "2026-10-10T12:35:05.000Z",
-          "relevance": "medium",
-          "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/gyan_1791635179654_VOST_1791635184461_PK7K_32fe7404-a45d-409c-bbb3-62f47688e115_ODnc.png",
-          "why": "The Supreme Court is examining whether the 2023 law gives election commissioners more legal protection than judges, which bears on the accountability of India's electoral machinery.",
-          "implications": [
-            "A ruling could change how election commissioners can be held legally accountable for their decisions.",
-            "It may shape public confidence in electoral-roll revisions ahead of future elections."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "Can Gyanesh Kumar be prosecuted? Explaining Section 16 of CEC Act as CJP, Oppn allege CEC took unilateral decisions",
-              "url": "https://www.livemint.com/news/india/can-gyanesh-kumar-be-prosecuted-explaining-section-16-of-cec-act-as-cjp-oppn-allege-cec-took-unilateral-decisions-11791632711119.html",
-              "date": "2026-10-10T12:35:05.000Z",
-              "summary": "The Supreme Court questioned whether a 2023 law gives the Chief Election Commissioner and other election commissioners greater legal protection than constitutional court judges. The case concerns alleged unilateral decisions by CEC Gyanesh Kumar during electoral-roll revisions.",
-              "summaryV": 3,
-              "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/gyan_1791635179654_VOST_1791635184461_PK7K_32fe7404-a45d-409c-bbb3-62f47688e115_ODnc.png"
-            }
-          ],
-          "thread": "t14fyeji"
         },
         {
           "id": "sypjw9z",
@@ -5223,33 +5514,6 @@
             }
           ],
           "thread": "ttcjxyp"
-        },
-        {
-          "id": "s2hpe6e",
-          "headline": "Centre to cap trade margins on non-scheduled cancer drugs to 30% of MRP",
-          "url": "https://www.thehindu.com/news/national/centre-to-cap-trade-margins-on-non-scheduled-cancer-drugs-to-30-of-mrp/article71560801.ece",
-          "source": "thehindu",
-          "date": "2026-10-08T16:39:39.000Z",
-          "relevance": "high",
-          "image": "https://th-i.thgim.com/public/incoming/vi7cvw/article71561176.ece/alternates/LANDSCAPE_1200/iStock-1393837248.jpg",
-          "why": "Capping trade margins on non-scheduled cancer drugs is a national price-regulation step that could make cancer treatment cheaper across India.",
-          "implications": [
-            "Patients may pay much less for non-scheduled cancer drugs, with reported cumulative annual savings of ₹2,500 crore.",
-            "Retailers and distributors could see sharply lower margins on these medicines.",
-            "Households facing long cancer treatment may see lower out-of-pocket costs in the near term."
-          ],
-          "reports": [
-            {
-              "source": "thehindu",
-              "headline": "Centre to cap trade margins on non-scheduled cancer drugs to 30% of MRP",
-              "url": "https://www.thehindu.com/news/national/centre-to-cap-trade-margins-on-non-scheduled-cancer-drugs-to-30-of-mrp/article71560801.ece",
-              "date": "2026-10-08T16:39:39.000Z",
-              "summary": "Average trade mark-up on these drugs now around 170%, reaching 700% in some cases; intervention to cut prices by up to 70% of MRP, resulting in cumulative annual savings of ₹2,500 crore for patients",
-              "summaryV": 3,
-              "image": "https://th-i.thgim.com/public/incoming/vi7cvw/article71561176.ece/alternates/LANDSCAPE_1200/iStock-1393837248.jpg"
-            }
-          ],
-          "thread": "t1jobkuw"
         },
         {
           "id": "swpqkbp",
@@ -5852,10 +6116,10 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 87,
+    "analysed": 75,
     "added": 2,
-    "merged": 11,
-    "rejected": 74,
+    "merged": 23,
+    "rejected": 50,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
@@ -5870,18 +6134,18 @@
       }
     },
     "shareImages": {
-      "tried": 0,
+      "tried": 2,
       "found": 0,
-      "summaries": 0
+      "summaries": 2
     },
     "threads": {
       "assigned": 2,
-      "created": 0,
+      "created": 1,
       "failedBatches": 0
     },
     "summaries": {
-      "written": 2,
-      "due": 2
+      "written": 1,
+      "due": 1
     }
   },
   "recentDays": 60

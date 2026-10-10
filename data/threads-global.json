@@ -1,6 +1,6 @@
 {
  "desk": "global",
- "updatedAt": "2026-10-10T15:14:03.257Z",
+ "updatedAt": "2026-10-10T19:19:21.918Z",
  "threads": {
   "t2ogxay": {
    "id": "t2ogxay",
@@ -787,6 +787,27 @@
    ],
    "count": 1,
    "first": "2026-10-10T13:25:35.000Z"
+  },
+  "t1nrccds": {
+   "id": "t1nrccds",
+   "name": "Riyadh airport attacks",
+   "sector": "logistics",
+   "created": "2026-10-10T18:08:46.000Z",
+   "updated": "2026-10-10T18:08:46.000Z",
+   "latestHeadline": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
+   "events": [
+    {
+     "id": "sm9qwr6",
+     "date": "2026-10-10T18:08:46.000Z",
+     "headline": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured",
+     "sector": "logistics",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-10T18:08:46.000Z"
   }
  }
 }

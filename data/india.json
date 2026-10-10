@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-10T15:14:03.259Z",
+  "updatedAt": "2026-10-10T19:19:21.919Z",
   "sectors": [
     {
       "id": "energy",
@@ -124,6 +124,16 @@
               "summaryV": 3,
               "lede": "Russia launched deadly strikes on civilians in Ukraine as “thanks” for a deal cut by Donald Trump with Vladimir Putin to buy large quantities of Russian diesel, Volodymyr Zelenskyy has said, accusing Washington of helping fund Moscow’s war.",
               "image": "https://i.guim.co.uk/img/media/c598f4211d657333cb70f50f9323c6797a68e632/0_0_4425_3540/master/4425.jpg?width=700&quality=85&auto=format&fit=max&s=774587e0198c8c309fb9b4e91b631ff7"
+            },
+            {
+              "source": "bbc",
+              "headline": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+              "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo",
+              "date": "2026-10-10T18:36:23.000Z",
+              "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+              "summaryV": 3,
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99c5/live/3203eb90-c4d2-11f1-a64c-550be9e3c66b.jpg",
+              "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/99c5/live/3203eb90-c4d2-11f1-a64c-550be9e3c66b.jpg"
             }
           ],
           "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac93e42-1791573570.jpg?resize=1920%2C1440",
@@ -837,12 +847,78 @@
       "name": "Logistics & Shipping",
       "items": [
         {
+          "id": "sy7c5yd",
+          "headline": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war",
+          "url": "https://www.aljazeera.com/news/2026/10/8/the-hormuz-bonus-sailor-salaries-soar-for-transits-amid-iran-war",
+          "source": "aljazeera",
+          "date": "2026-10-08T11:02:09.000Z",
+          "relevance": "high",
+          "why": "Sharply higher crew pay for Hormuz transits signals rising risk and costs on a key route for India's oil and trade.",
+          "implications": [
+            "Higher crew, war-risk and insurance costs may raise freight rates on cargo passing through the Gulf to India.",
+            "Costlier tanker transits could add to India's crude and LPG import bills in the coming weeks."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war",
+              "url": "https://www.aljazeera.com/news/2026/10/8/the-hormuz-bonus-sailor-salaries-soar-for-transits-amid-iran-war",
+              "date": "2026-10-08T11:02:09.000Z",
+              "summary": "Reports have emerged that tanker captains are earning $100,000 plus a $50,000 per-trip bonus to transit the strait.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac7560b-1791448587.jpg?resize=1920%2C1440"
+            },
+            {
+              "source": "abc",
+              "headline": "Shipping companies offering sailors 'crazy money' to transit Strait of Hormuz",
+              "url": "https://www.abc.net.au/news/2026-10-11/sailors-offered-bonuses-to-cross-strait-of-hormuz-in-iran-war/107248044",
+              "date": "2026-10-10T18:48:28.000Z",
+              "summary": "Oil tanker captains in the Persian Gulf are being paid up to $US100,000 a month to navigate the Strait of Hormuz, industry insiders and maritime unions say.",
+              "summaryV": 3,
+              "image": "https://live-production.wcms.abc-cdn.net.au/7ca6777677d45001f69090719cb13565?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485"
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac7560b-1791448587.jpg?resize=1920%2C1440",
+          "thread": "t2ogxay"
+        },
+        {
+          "id": "sm9qwr6",
+          "headline": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
+          "url": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured",
+          "source": "aljazeera",
+          "date": "2026-10-10T18:08:46.000Z",
+          "relevance": "high",
+          "why": "An attack halting operations at Riyadh's main airport hits a Gulf aviation hub on India's travel and energy routes.",
+          "implications": [
+            "Flights between India and Saudi Arabia may be delayed or cancelled, disrupting travel for Indian passengers and cargo.",
+            "Indian expatriates in Saudi Arabia could face safety concerns, prompting advisories or consular assistance.",
+            "Wider Gulf instability could add to oil price and shipping risk premiums affecting India."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
+              "url": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured",
+              "date": "2026-10-10T18:08:46.000Z",
+              "summary": "Operations suspended at King Khalid International Airport after another attack this week, Civil Aviation Authority says.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac79e5d-1791467101.jpg?resize=1920%2C1440"
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac79e5d-1791467101.jpg?resize=1920%2C1440",
+          "thread": "t1nrccds"
+        },
+        {
           "id": "s1yqu7q5",
           "headline": "Has Yemen returned to ‘full-scale war’?",
           "url": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war",
           "source": "aljazeera",
           "date": "2026-10-10T14:10:24.000Z",
-          "relevance": "medium",
+          "relevance": "high",
           "why": "Intensifying Yemen fighting involving the Houthis could renew risks to Red Sea shipping, a key route for India's trade.",
           "implications": [
             "Shipping lines may reroute or raise freight and insurance costs on India's Europe-bound cargo.",
@@ -870,38 +946,20 @@
               "summaryV": 3,
               "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a39/live/690b5420-c4b9-11f1-bc2e-018d645d8d21.jpg",
               "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5a39/live/690b5420-c4b9-11f1-bc2e-018d645d8d21.jpg"
+            },
+            {
+              "source": "guardian",
+              "headline": "Dozens reported injured in Yemeni Houthi attack at Riyadh airport",
+              "url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
+              "date": "2026-10-10T15:54:12.000Z",
+              "summary": "Saudi authorities yet to confirm strike as government-allied forces in Yemen claim successful offensive to retake Bab al-Mandab strait",
+              "summaryV": 3,
+              "lede": "Yemen’s Houthis have launched a missile attack on Riyadh’s international airport in Saudi Arabia, with dozens reported wounded and a witness describing panic in the terminal.",
+              "image": "https://i.guim.co.uk/img/media/0ecb2503f6896c388697d436947fbafcc58a2e97/345_0_2250_1800/master/2250.jpg?width=700&quality=85&auto=format&fit=max&s=c64cee063580ab63301c388fac2895f1"
             }
           ],
           "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac7c0ce-1791475918.jpg?resize=1920%2C1440",
           "thread": "t1j5n1me"
-        },
-        {
-          "id": "sy7c5yd",
-          "headline": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war",
-          "url": "https://www.aljazeera.com/news/2026/10/8/the-hormuz-bonus-sailor-salaries-soar-for-transits-amid-iran-war",
-          "source": "aljazeera",
-          "date": "2026-10-08T11:02:09.000Z",
-          "relevance": "medium",
-          "why": "Sharply higher crew pay for Hormuz transits signals rising risk and costs on a key route for India's oil and trade.",
-          "implications": [
-            "Higher crew, war-risk and insurance costs may raise freight rates on cargo passing through the Gulf to India.",
-            "Costlier tanker transits could add to India's crude and LPG import bills in the coming weeks."
-          ],
-          "reports": [
-            {
-              "source": "aljazeera",
-              "headline": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war",
-              "url": "https://www.aljazeera.com/news/2026/10/8/the-hormuz-bonus-sailor-salaries-soar-for-transits-amid-iran-war",
-              "date": "2026-10-08T11:02:09.000Z",
-              "summary": "Reports have emerged that tanker captains are earning $100,000 plus a $50,000 per-trip bonus to transit the strait.",
-              "summaryV": 3,
-              "ogTried": true,
-              "descTried": true,
-              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac7560b-1791448587.jpg?resize=1920%2C1440"
-            }
-          ],
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac7560b-1791448587.jpg?resize=1920%2C1440",
-          "thread": "t2ogxay"
         },
         {
           "id": "s1j2msqq",
@@ -2222,21 +2280,21 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 50,
-    "added": 2,
-    "merged": 7,
-    "rejected": 41,
+    "analysed": 28,
+    "added": 1,
+    "merged": 3,
+    "rejected": 24,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 154
+        "items": 157
       },
       "guardian": {
         "feedsOk": 7,
         "feedsFailed": 0,
-        "items": 202
+        "items": 200
       },
       "npr": {
         "feedsOk": 4,
@@ -2246,7 +2304,7 @@
       "aljazeera": {
         "feedsOk": 1,
         "feedsFailed": 0,
-        "items": 13
+        "items": 14
       },
       "mercopress": {
         "feedsOk": 3,
@@ -2260,18 +2318,18 @@
       }
     },
     "shareImages": {
-      "tried": 2,
-      "found": 2,
+      "tried": 1,
+      "found": 1,
       "summaries": 0
     },
     "threads": {
-      "assigned": 2,
+      "assigned": 1,
       "created": 1,
       "failedBatches": 0
     },
     "summaries": {
-      "written": 1,
-      "due": 1
+      "written": 0,
+      "due": 0
     }
   },
   "recentDays": 60

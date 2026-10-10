@@ -1,6 +1,6 @@
 {
  "desk": "domestic",
- "updatedAt": "2026-10-10T15:15:23.695Z",
+ "updatedAt": "2026-10-10T19:20:46.401Z",
  "threads": {
   "t1weh1f1": {
    "id": "t1weh1f1",
@@ -289,11 +289,11 @@
    "name": "UPI growth and merchant costs",
    "sector": "technology",
    "created": "2026-10-02T17:33:37.000Z",
-   "updated": "2026-10-05T18:56:14.000Z",
-   "latestHeadline": "There should be no GST on MDR for UPI transactions: C. Rangarajan",
-   "summary": "On 2 October, The Hindu reported National Payments Corporation of India data showing UPI volume rose 27% to 145 billion in the first half of the financial year, against 114 billion in April-September of the previous year. Two days later, Mint reported that the industrial marketplace Pneucons would disable UPI on orders from 10 October, with a co-founder saying the merchant discount rate (MDR) \"ate 94% of our margins\". On 5 October, The Hindu reported that C. Rangarajan said there should be no GST on MDR for UPI transactions, and that the GST Council should state clearly that no GST applies to MDR fees on UPI transactions above ₹2,000.",
-   "summaryCount": 3,
-   "summaryAt": "2026-10-07T21:46:11.906Z",
+   "updated": "2026-10-10T18:36:26.000Z",
+   "latestHeadline": "Economic think tank says govt should withdraw proposed UPI charges. Here's why",
+   "summary": "On October 2, data from the National Payments Corporation of India showed UPI volume up 27% to 145 billion in the first half, against 114 billion in April-September of the previous financial year. On October 4, industrial marketplace Pneucons said it would stop accepting UPI payments from October 10 because of a 0.4% MDR charge on orders above ₹2,000, with its co-founder saying MDR \"ate 94% of our margins\". On October 5, C. Rangarajan urged the GST Council to state clearly that no GST applies to MDR fees on UPI transactions above ₹2,000. On October 10, the think tank GTRI urged the government to withdraw the proposed 0.4% fee on such transactions, warning it could raise prices, squeeze small businesses and weaken demand.",
+   "summaryCount": 4,
+   "summaryAt": "2026-10-10T19:20:46.396Z",
    "events": [
     {
      "id": "s13qgq0e",
@@ -321,9 +321,18 @@
      "url": "https://www.thehindu.com/news/national/tamil-nadu/there-should-be-no-gst-on-mdr-for-upi-transactions-c-rangarajan/article71548512.ece",
      "sector": "technology",
      "month": "2026-10"
+    },
+    {
+     "id": "solbr1t",
+     "date": "2026-10-10T18:36:26.000Z",
+     "headline": "Economic think tank says govt should withdraw proposed UPI charges. Here's why",
+     "source": "mint",
+     "url": "https://www.livemint.com/economy/upi-mdr-charges-govt-withdraw-proposed-payment-fee-gtri-think-tank-why-raise-prices-small-business-merchants-weak-demand-11791656189614.html",
+     "sector": "economy",
+     "month": "2026-10"
     }
    ],
-   "count": 3,
+   "count": 4,
    "first": "2026-10-02T17:33:37.000Z"
   },
   "t1ehfi7c": {
@@ -2776,6 +2785,27 @@
    ],
    "count": 1,
    "first": "2026-10-10T04:41:18.000Z"
+  },
+  "t8g616e": {
+   "id": "t8g616e",
+   "name": "Anti-dumping probes on Chinese imports",
+   "sector": "manufacturing",
+   "created": "2026-10-10T15:46:01.000Z",
+   "updated": "2026-10-10T15:46:01.000Z",
+   "latestHeadline": "India initiates anti-dumping probe on Pen-G, salts from China",
+   "events": [
+    {
+     "id": "se3jr7v",
+     "date": "2026-10-10T15:46:01.000Z",
+     "headline": "India initiates anti-dumping probe on Pen-G, salts from China",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/Industry/india-initiates-anti-dumping-probe-on-pen-g-salts-from-china/article71569088.ece",
+     "sector": "manufacturing",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-10T15:46:01.000Z"
   }
  }
 }
