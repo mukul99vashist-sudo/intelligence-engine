@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-10T19:19:21.919Z",
+  "updatedAt": "2026-10-10T22:39:11.657Z",
   "sectors": [
     {
       "id": "energy",
@@ -847,72 +847,6 @@
       "name": "Logistics & Shipping",
       "items": [
         {
-          "id": "sy7c5yd",
-          "headline": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war",
-          "url": "https://www.aljazeera.com/news/2026/10/8/the-hormuz-bonus-sailor-salaries-soar-for-transits-amid-iran-war",
-          "source": "aljazeera",
-          "date": "2026-10-08T11:02:09.000Z",
-          "relevance": "high",
-          "why": "Sharply higher crew pay for Hormuz transits signals rising risk and costs on a key route for India's oil and trade.",
-          "implications": [
-            "Higher crew, war-risk and insurance costs may raise freight rates on cargo passing through the Gulf to India.",
-            "Costlier tanker transits could add to India's crude and LPG import bills in the coming weeks."
-          ],
-          "reports": [
-            {
-              "source": "aljazeera",
-              "headline": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war",
-              "url": "https://www.aljazeera.com/news/2026/10/8/the-hormuz-bonus-sailor-salaries-soar-for-transits-amid-iran-war",
-              "date": "2026-10-08T11:02:09.000Z",
-              "summary": "Reports have emerged that tanker captains are earning $100,000 plus a $50,000 per-trip bonus to transit the strait.",
-              "summaryV": 3,
-              "ogTried": true,
-              "descTried": true,
-              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac7560b-1791448587.jpg?resize=1920%2C1440"
-            },
-            {
-              "source": "abc",
-              "headline": "Shipping companies offering sailors 'crazy money' to transit Strait of Hormuz",
-              "url": "https://www.abc.net.au/news/2026-10-11/sailors-offered-bonuses-to-cross-strait-of-hormuz-in-iran-war/107248044",
-              "date": "2026-10-10T18:48:28.000Z",
-              "summary": "Oil tanker captains in the Persian Gulf are being paid up to $US100,000 a month to navigate the Strait of Hormuz, industry insiders and maritime unions say.",
-              "summaryV": 3,
-              "image": "https://live-production.wcms.abc-cdn.net.au/7ca6777677d45001f69090719cb13565?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485"
-            }
-          ],
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac7560b-1791448587.jpg?resize=1920%2C1440",
-          "thread": "t2ogxay"
-        },
-        {
-          "id": "sm9qwr6",
-          "headline": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
-          "url": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured",
-          "source": "aljazeera",
-          "date": "2026-10-10T18:08:46.000Z",
-          "relevance": "high",
-          "why": "An attack halting operations at Riyadh's main airport hits a Gulf aviation hub on India's travel and energy routes.",
-          "implications": [
-            "Flights between India and Saudi Arabia may be delayed or cancelled, disrupting travel for Indian passengers and cargo.",
-            "Indian expatriates in Saudi Arabia could face safety concerns, prompting advisories or consular assistance.",
-            "Wider Gulf instability could add to oil price and shipping risk premiums affecting India."
-          ],
-          "reports": [
-            {
-              "source": "aljazeera",
-              "headline": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
-              "url": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured",
-              "date": "2026-10-10T18:08:46.000Z",
-              "summary": "Operations suspended at King Khalid International Airport after another attack this week, Civil Aviation Authority says.",
-              "summaryV": 3,
-              "ogTried": true,
-              "descTried": true,
-              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac79e5d-1791467101.jpg?resize=1920%2C1440"
-            }
-          ],
-          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac79e5d-1791467101.jpg?resize=1920%2C1440",
-          "thread": "t1nrccds"
-        },
-        {
           "id": "s1yqu7q5",
           "headline": "Has Yemen returned to ‘full-scale war’?",
           "url": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war",
@@ -956,10 +890,102 @@
               "summaryV": 3,
               "lede": "Yemen’s Houthis have launched a missile attack on Riyadh’s international airport in Saudi Arabia, with dozens reported wounded and a witness describing panic in the terminal.",
               "image": "https://i.guim.co.uk/img/media/0ecb2503f6896c388697d436947fbafcc58a2e97/345_0_2250_1800/master/2250.jpg?width=700&quality=85&auto=format&fit=max&s=c64cee063580ab63301c388fac2895f1"
+            },
+            {
+              "source": "aljazeera",
+              "headline": "Yemeni government’s military says its forces advancing against Houthis",
+              "url": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis",
+              "date": "2026-10-10T22:12:25.000Z",
+              "summary": "Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours.",
+              "summaryV": 3
             }
           ],
           "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac7c0ce-1791475918.jpg?resize=1920%2C1440",
           "thread": "t1j5n1me"
+        },
+        {
+          "id": "sm9qwr6",
+          "headline": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
+          "url": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured",
+          "source": "aljazeera",
+          "date": "2026-10-10T18:08:46.000Z",
+          "relevance": "high",
+          "why": "An attack halting operations at Riyadh's main airport hits a Gulf aviation hub on India's travel and energy routes.",
+          "implications": [
+            "Flights between India and Saudi Arabia may be delayed or cancelled, disrupting travel for Indian passengers and cargo.",
+            "Indian expatriates in Saudi Arabia could face safety concerns, prompting advisories or consular assistance.",
+            "Wider Gulf instability could add to oil price and shipping risk premiums affecting India."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
+              "url": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured",
+              "date": "2026-10-10T18:08:46.000Z",
+              "summary": "Operations suspended at King Khalid International Airport after another attack this week, Civil Aviation Authority says.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac79e5d-1791467101.jpg?resize=1920%2C1440"
+            },
+            {
+              "source": "abc",
+              "headline": "Several injured, flights cancelled after second attack on Saudi airport",
+              "url": "https://www.abc.net.au/news/2026-10-11/saudi-airport-attacked-second-time/107252320",
+              "date": "2026-10-10T19:26:10.000Z",
+              "summary": "Multiple people are wounded and flights grounded after a second attack on King Khalid International Airport in the Saudi capital.",
+              "summaryV": 3,
+              "image": "https://live-production.wcms.abc-cdn.net.au/e4aaf336a1759cc652f46bd776a65f99?impolicy=wcms_crop_resize&cropH=444&cropW=789&xPos=0&yPos=604&width=862&height=485"
+            },
+            {
+              "source": "npr",
+              "headline": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+              "url": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+              "date": "2026-10-10T21:32:53.000Z",
+              "summary": "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.",
+              "summaryV": 3,
+              "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/989x1523+0+0/resize/989x1523!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F31%2Fc5%2F97fb91ff49f1a3ed412d58b43f28%2Fap26282625542805.jpg"
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac79e5d-1791467101.jpg?resize=1920%2C1440",
+          "thread": "t1nrccds"
+        },
+        {
+          "id": "sy7c5yd",
+          "headline": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war",
+          "url": "https://www.aljazeera.com/news/2026/10/8/the-hormuz-bonus-sailor-salaries-soar-for-transits-amid-iran-war",
+          "source": "aljazeera",
+          "date": "2026-10-08T11:02:09.000Z",
+          "relevance": "high",
+          "why": "Sharply higher crew pay for Hormuz transits signals rising risk and costs on a key route for India's oil and trade.",
+          "implications": [
+            "Higher crew, war-risk and insurance costs may raise freight rates on cargo passing through the Gulf to India.",
+            "Costlier tanker transits could add to India's crude and LPG import bills in the coming weeks."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war",
+              "url": "https://www.aljazeera.com/news/2026/10/8/the-hormuz-bonus-sailor-salaries-soar-for-transits-amid-iran-war",
+              "date": "2026-10-08T11:02:09.000Z",
+              "summary": "Reports have emerged that tanker captains are earning $100,000 plus a $50,000 per-trip bonus to transit the strait.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac7560b-1791448587.jpg?resize=1920%2C1440"
+            },
+            {
+              "source": "abc",
+              "headline": "Shipping companies offering sailors 'crazy money' to transit Strait of Hormuz",
+              "url": "https://www.abc.net.au/news/2026-10-11/sailors-offered-bonuses-to-cross-strait-of-hormuz-in-iran-war/107248044",
+              "date": "2026-10-10T18:48:28.000Z",
+              "summary": "Oil tanker captains in the Persian Gulf are being paid up to $US100,000 a month to navigate the Strait of Hormuz, industry insiders and maritime unions say.",
+              "summaryV": 3,
+              "image": "https://live-production.wcms.abc-cdn.net.au/7ca6777677d45001f69090719cb13565?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485"
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac7560b-1791448587.jpg?resize=1920%2C1440",
+          "thread": "t2ogxay"
         },
         {
           "id": "s1j2msqq",
@@ -1925,6 +1951,23 @@
               "date": "2026-10-10T12:50:34.000Z",
               "summary": "Indian police crackdown appears to have prevented mass protests against the country's election chief from taking place.",
               "summaryV": 3
+            },
+            {
+              "source": "abc",
+              "headline": "'Cockroach Party' protesters vow to return after hundreds detained in Delhi",
+              "url": "https://www.abc.net.au/news/2026-10-11/cockroach-party-india-protesters-against-modi-vow-to-return/107252114",
+              "date": "2026-10-10T21:11:08.000Z",
+              "summary": "Chaos erupts in India's capital New Delhi as police detained hundreds of protesters during demonstrations over the Election Commission's move to drop some 130 million names from the voter list.",
+              "summaryV": 3,
+              "image": "https://live-production.wcms.abc-cdn.net.au/1b2bd62745fbca527a84a488b4488cb5?impolicy=wcms_crop_resize&cropH=2508&cropW=4458&xPos=0&yPos=315&width=862&height=485"
+            },
+            {
+              "source": "npr",
+              "headline": "Protests against voter roll revisions rock capital of world's largest democracy",
+              "url": "https://www.npr.org/2026/10/10/nx-s1-5995118/protests-against-voter-roll-revisions-rock-capital-of-worlds-largest-democracy",
+              "date": "2026-10-10T21:19:57.000Z",
+              "summary": "Parts of the capital city of India, the world's largest democracy, are on lockdown. Protests over sweeping revisions to the voter rolls were met with a massive police crackdown.",
+              "summaryV": 3
             }
           ],
           "thread": "t1ya4ss"
@@ -2280,9 +2323,9 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 28,
-    "added": 1,
-    "merged": 3,
+    "analysed": 29,
+    "added": 0,
+    "merged": 5,
     "rejected": 24,
     "failedBatches": 0,
     "feeds": {
@@ -2304,7 +2347,7 @@
       "aljazeera": {
         "feedsOk": 1,
         "feedsFailed": 0,
-        "items": 14
+        "items": 9
       },
       "mercopress": {
         "feedsOk": 3,
@@ -2318,13 +2361,13 @@
       }
     },
     "shareImages": {
-      "tried": 1,
-      "found": 1,
+      "tried": 0,
+      "found": 0,
       "summaries": 0
     },
     "threads": {
-      "assigned": 1,
-      "created": 1,
+      "assigned": 0,
+      "created": 0,
       "failedBatches": 0
     },
     "summaries": {

@@ -1,5 +1,69 @@
 [
   {
+    "source": "mint",
+    "headline": "Russell Crowe Netflix 2026 thriller ‘Unabomber’ hits 40 million views despite mixed reviews",
+    "url": "https://www.livemint.com/news/trends/russell-crowe-netflix-2026-thriller-unabomber-hits-40-million-views-despite-mixed-reviews-11791667526406.html",
+    "date": "2026-10-10T21:46:27.000Z",
+    "reason": "Entertainment viewership story; not of national significance.",
+    "checkedAt": "2026-10-10T22:39:29.626Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Elon Musk's SpaceX ambition grows: From being ‘worth more than Earth’ to ‘orders of magnitude’ beyond the global economy",
+    "url": "https://www.livemint.com/companies/people/elon-musks-spacex-ambition-grows-from-being-worth-more-than-earth-to-orders-of-magnitude-beyond-the-global-economy-11791666095893.html",
+    "date": "2026-10-10T21:41:30.000Z",
+    "reason": "Billionaire's social media valuation remarks; no India policy or sector impact.",
+    "checkedAt": "2026-10-10T22:39:29.626Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Former Mayor alleges bid to move Thiruvananthapuram Zoo animals to Vantara, Puthur",
+    "url": "https://www.thehindu.com/news/national/kerala/former-mayor-alleges-bid-to-move-thiruvananthapuram-zoo-animals-to-vantara-puthur/article71569255.ece",
+    "date": "2026-10-10T21:10:36.000Z",
+    "reason": "Local zoo dispute in one city; no national impact.",
+    "checkedAt": "2026-10-10T22:39:29.626Z"
+  },
+  {
+    "source": "mint",
+    "headline": "Fort Hood shooter Nidal Hasan's execution set for December 3: What we know about the livestream row",
+    "url": "https://www.livemint.com/news/us-news/fort-hood-shooter-nidal-hasans-execution-set-for-december-3-what-we-know-about-the-livestream-row-11791662589955.html",
+    "date": "2026-10-10T20:14:37.000Z",
+    "reason": "US criminal case and execution; no relevance to India's sectors.",
+    "checkedAt": "2026-10-10T22:39:29.626Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Discord between Ministers and MLAs in districts adds to Congress’s challenges",
+    "url": "https://www.thehindu.com/news/national/karnataka/discontent-between-ministers-and-mlas-in-districts-adds-to-congresss-challenges/article71567796.ece",
+    "date": "2026-10-10T19:47:20.000Z",
+    "reason": "Party-internal political discord in a state; no national sector impact.",
+    "checkedAt": "2026-10-10T22:39:29.626Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "CJP member moves Supreme Court on whereabouts of Dipke, Das, Ranka",
+    "url": "https://www.thehindu.com/news/national/cjp-member-moves-supreme-court-on-whereabouts-of-dipke-das-ranka/article71569478.ece",
+    "date": "2026-10-10T19:36:40.000Z",
+    "reason": "Habeas corpus petition about specific detained individuals; follow-up to the same protest story.",
+    "checkedAt": "2026-10-10T22:39:29.626Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Former Japanese PM’s wife Akie Abe meets RSS general secretary Dattatreya Hosabale",
+    "url": "https://www.thehindu.com/news/national/former-japanese-pms-wife-akie-abe-meets-rss-general-secretary-dattatreya-hosabale/article71569403.ece",
+    "date": "2026-10-10T17:40:59.000Z",
+    "reason": "Courtesy meeting with cultural messaging; no concrete national policy or sector effect.",
+    "checkedAt": "2026-10-10T22:39:29.626Z"
+  },
+  {
+    "source": "thehindu",
+    "headline": "Navi Pillay | The jurist and a redemption",
+    "url": "https://www.thehindu.com/news/international/navi-pillay-the-jurist-and-a-redemption/article71569258.ece",
+    "date": "2026-10-10T17:37:26.000Z",
+    "reason": "International award commentary with no direct national policy or sector impact in India.",
+    "checkedAt": "2026-10-10T22:39:29.626Z"
+  },
+  {
     "source": "thehindu",
     "headline": "Rahul Gandhi visits Chennai for ‘Voice of Students’ event, meets CM Vijay",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/rahul-gandhi-visits-chennai-for-voice-of-students-event-meets-cm-vijay/article71567994.ece",
@@ -1134,69 +1198,5 @@
     "date": "2026-10-10T07:21:28.000Z",
     "reason": "Single local incident of a student's death in a Maharashtra school.",
     "checkedAt": "2026-10-10T08:54:32.728Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Anti-CEC protest: Aishe Ghosh, other SFI members detained in Delhi ahead of CJP protest",
-    "url": "https://www.thehindu.com/news/national/anti-cec-protest-sfi-members-lawyers-detained-in-delhi-ahead-of-cjp-protest/article71567278.ece",
-    "date": "2026-10-10T07:21:22.000Z",
-    "reason": "Political protest and detentions in Delhi; party-political confrontation, not a sector development.",
-    "checkedAt": "2026-10-10T08:54:32.728Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Maragatham Kumaravel romps home in Madurantakam, this time on TVK ticket",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/maragatham-kumaravel-romps-home-in-madurantakam-this-time-on-tvk-ticket/article71565076.ece",
-    "date": "2026-10-10T07:20:29.000Z",
-    "reason": "State assembly byelection result; no national policy or sector impact.",
-    "checkedAt": "2026-10-10T08:54:32.728Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Starlink row: Musk shares reports on Reliance-linked firm's BJP campaign role, political donations",
-    "url": "https://www.thehindu.com/news/national/starlink-row-musk-shares-reports-on-reliance-linked-firms-bjp-campaign-role-political-donations/article71567108.ece",
-    "date": "2026-10-10T07:14:43.000Z",
-    "reason": "Musk-Ambani political sparring over Starlink; follow-up on an existing story, no new policy.",
-    "checkedAt": "2026-10-10T08:54:21.863Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "India calls out lies and falsehoods peddled by Pakistan at UN",
-    "url": "https://www.thehindu.com/news/national/india-calls-out-lies-and-falsehoods-peddled-by-pakistan-at-un/article71567119.ece",
-    "date": "2026-10-10T07:10:06.000Z",
-    "reason": "Diplomatic exchange of rebuttals at the UN; no sector impact.",
-    "checkedAt": "2026-10-10T08:54:21.863Z"
-  },
-  {
-    "source": "mint",
-    "headline": "CJP Protest at Jantar Mantar: Why is Delhi under ‘shut down’? How police explained strict curbs amid criticism",
-    "url": "https://www.livemint.com/news/india/cjp-protest-at-jantar-mantar-why-has-delhi-been-shut-down-how-police-explained-strict-curbs-amid-criticism-11791615192228.html",
-    "date": "2026-10-10T07:08:13.000Z",
-    "reason": "Delhi police curbs explained for one protest; city-level and politically contested.",
-    "checkedAt": "2026-10-10T08:54:21.863Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Anti-CEC protest: Contempt plea filed in Supreme Court on continued transit shutdown in Delhi",
-    "url": "https://www.thehindu.com/news/cities/Delhi/anti-cec-protest-contempt-plea-filed-in-supreme-court-on-continued-transit-shutdown-in-delhi/article71567164.ece",
-    "date": "2026-10-10T07:05:34.000Z",
-    "reason": "Contempt plea over Delhi transit shutdown; court case with city-level effect.",
-    "checkedAt": "2026-10-10T08:54:21.863Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "At 100, P.B. Menon has no retirement plans; he has court",
-    "url": "https://www.thehindu.com/news/national/kerala/at-100-pb-menon-has-no-retirement-plans-he-has-court/article71567010.ece",
-    "date": "2026-10-10T07:03:02.000Z",
-    "reason": "Human-interest profile of an individual lawyer.",
-    "checkedAt": "2026-10-10T08:54:21.863Z"
-  },
-  {
-    "source": "thehindu",
-    "headline": "Caste discrimination during SC man’s burial: Commission seeks report from Erode Collector, SP",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/caste-discrimination-during-sc-mans-burial-commission-seeks-report-from-erode-collector-sp/article71567189.ece",
-    "date": "2026-10-10T07:02:32.000Z",
-    "reason": "Local caste discrimination incident in Tamil Nadu; state-level matter.",
-    "checkedAt": "2026-10-10T08:54:21.863Z"
   }
 ]

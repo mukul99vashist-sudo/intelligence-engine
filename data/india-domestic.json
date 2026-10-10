@@ -2,7 +2,7 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-10T19:20:46.402Z",
+  "updatedAt": "2026-10-10T22:39:29.632Z",
   "sectors": [
     {
       "id": "energy",
@@ -798,6 +798,15 @@
               "summary": "There was no immediate statement from the Houthis claiming responsibility for Saturday’s incident.",
               "summaryV": 3,
               "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/Mideast-Wars-0_1791650215250_d1UO_1791650246461_3a6F_5cbb3bb5-e3c8-4bfb-995f-a46a9b036f54_sjuc.jpg"
+            },
+            {
+              "source": "mint",
+              "headline": "Riyadh airport attacked again: Trump weighs joining Saudi strikes on Houthis",
+              "url": "https://www.livemint.com/news/us-news/riyadh-airport-attacked-again-trump-weighs-joining-saudi-strikes-on-houthis-11791663546926.html",
+              "date": "2026-10-10T20:43:03.000Z",
+              "summary": "The latest attack came amid an escalation in hostilities between Saudi Arabia and the Houthis.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/Trump-28_1791664850193_Qu5m_1791664864136_aI6c_4a287c0d-b8d9-42d8-97cc-41b32d9bcb19_rHCg.jpg"
             }
           ],
           "thread": "tlbdei3"
@@ -5073,6 +5082,33 @@
               "summary": "Delhi Police detained over 7,000 protesters opposing alleged electoral roll malpractices by CEC Gyanesh Kumar, with CJP leaders and Opposition figures among those held. The crackdown triggered criticism from Congress and other parties, while the BJP accused protesters of trying to destabilise India.",
               "summaryV": 3,
               "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/cjpday11_1791657225292_XVsz_1791657230917_DxKm_b4014838-2158-49af-a497-757ef92fec9e_miMG.jpg"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Net shutdown adds to massive disruption in capital",
+              "url": "https://www.thehindu.com/news/cities/Delhi/net-shutdown-adds-to-massive-disruption-in-capital/article71569427.ece",
+              "date": "2026-10-10T19:26:13.000Z",
+              "summary": "The mobile internet shutdown was among the largest web blackouts in the national capital’s history",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/ycc5rj/article71569513.ece/alternates/LANDSCAPE_1200/CJP%20PROTEST%2013.JPG"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Multiple ‘Jantar Mantars’ spring up as Delhi shuts",
+              "url": "https://www.thehindu.com/news/cities/Delhi/multiple-jantar-mantars-spring-up-as-delhi-shuts/article71569272.ece",
+              "date": "2026-10-10T20:15:20.000Z",
+              "summary": "Crackdown by police and paramilitary forces prompts flash protests near Safdarjung flyover, Dilli Haat, Raj Ghat; demonstrators sing protest songs, hold public lectures at makeshift detention centres",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/daffpz/article71569533.ece/alternates/LANDSCAPE_1200/CJP%20PROTEST%2091.JPG"
+            },
+            {
+              "source": "thehindu",
+              "headline": "Ladakh activist Sonam Wangchuk warns of fresh protest if detained people not released in Delhi",
+              "url": "https://www.thehindu.com/news/national/ladakh-activist-sonam-wangchuk-warns-of-fresh-protest-if-detained-people-not-released-in-delhi/article71569193.ece",
+              "date": "2026-10-10T20:56:27.000Z",
+              "summary": "In a video post on social media, Mr. Wangchuk said he expected the biggest democracy to allow peaceful protests",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/4pirqb/article71569539.ece/alternates/LANDSCAPE_1200/PTI09_27_2026_000269A.jpg"
             }
           ],
           "thread": "t1iy3j15"
@@ -6116,16 +6152,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 75,
-    "added": 2,
-    "merged": 23,
-    "rejected": 50,
+    "analysed": 12,
+    "added": 0,
+    "merged": 4,
+    "rejected": 8,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 339
+        "items": 338
       },
       "mint": {
         "feedsOk": 6,
@@ -6134,18 +6170,18 @@
       }
     },
     "shareImages": {
-      "tried": 2,
+      "tried": 0,
       "found": 0,
-      "summaries": 2
+      "summaries": 0
     },
     "threads": {
-      "assigned": 2,
-      "created": 1,
+      "assigned": 0,
+      "created": 0,
       "failedBatches": 0
     },
     "summaries": {
-      "written": 1,
-      "due": 1
+      "written": 0,
+      "due": 0
     }
   },
   "recentDays": 60
