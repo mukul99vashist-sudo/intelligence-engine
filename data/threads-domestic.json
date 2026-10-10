@@ -1,6 +1,6 @@
 {
  "desk": "domestic",
- "updatedAt": "2026-10-09T23:10:19.551Z",
+ "updatedAt": "2026-10-10T02:24:23.147Z",
  "threads": {
   "t1weh1f1": {
    "id": "t1weh1f1",
@@ -1603,11 +1603,11 @@
    "name": "Monsoon rainfall and food prices",
    "sector": "agriculture",
    "created": "2026-10-07T07:43:30.000Z",
-   "updated": "2026-10-09T12:21:49.000Z",
-   "latestHeadline": "Rain to continue across parts of India until 15 October: IMD",
-   "summary": "In June, Agriculture Minister Shivraj Singh Chouhan said that changing crop strategy in rain-fed areas had become \"the need of the hour.\" In early October, reports said South Peninsular India (Andhra Pradesh, Karnataka, Kerala, Tamil Nadu and Telangana) had a significant rainfall deficit during the southwest monsoon and was looking to the northeast monsoon to make up the shortfall. Around the same time, The Hindu reported on rising rice prices across the country and on a central government advisory asking States to encourage farmers to shift to short-duration or less-water-intensive crops such as pulses and millets. On 8 October, a Crisil report put the cost of a home-cooked vegetarian thali at ₹30.8 in September 2026, up from ₹28.1 a year earlier, and the non-vegetarian thali at ₹59.5, up from ₹56.",
-   "summaryCount": 5,
-   "summaryAt": "2026-10-09T13:43:14.953Z",
+   "updated": "2026-10-09T23:04:51.000Z",
+   "latestHeadline": "Dry spell pushes rice and toor dal price to new highs",
+   "summary": "In June, Agriculture Minister Shivraj Singh Chouhan said changing crop strategy in rain-fed areas had become the need of the hour, and the central government has advised States to ask farmers to shift to short-duration or less-water-intensive crops such as pulses and millets. By early October, reports said Andhra Pradesh, Karnataka, Kerala, Tamil Nadu and Telangana had seen a significant rainfall deficit during the southwest monsoon, and the region was looking to the northeast monsoon to make up the shortfall. On 8 October, Crisil reported that a home-cooked vegetarian thali cost ₹30.8 in September 2026, up from ₹28.1 a year earlier, while the non-vegetarian thali rose to ₹59.5 from ₹56. On 9 October, The Hindu reported that a dry spell had pushed rice and toor dal prices to new highs, affecting household budgets.",
+   "summaryCount": 6,
+   "summaryAt": "2026-10-10T02:24:23.143Z",
    "events": [
     {
      "id": "s12jq6qy",
@@ -1653,9 +1653,18 @@
      "url": "https://www.livemint.com/news/india/rain-to-continue-across-parts-of-india-until-15-october-imd-11791542963210.html",
      "sector": "environment",
      "month": "2026-10"
+    },
+    {
+     "id": "s1hemy7d",
+     "date": "2026-10-09T23:04:51.000Z",
+     "headline": "Dry spell pushes rice and toor dal price to new highs",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/national/karnataka/dry-spell-pushes-rice-and-toor-dal-price-to-new-highs/article71564398.ece",
+     "sector": "agriculture",
+     "month": "2026-10"
     }
    ],
-   "count": 5,
+   "count": 6,
    "first": "2026-10-07T07:43:30.000Z"
   },
   "t13vnby": {

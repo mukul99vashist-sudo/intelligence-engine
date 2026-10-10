@@ -2,12 +2,47 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-09T23:10:19.551Z",
+  "updatedAt": "2026-10-10T02:24:23.149Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "s19lzth",
+          "headline": "Petrol, diesel prices today, October 9: Check rates in Delhi, Mumbai, Bengaluru, Chennai and more",
+          "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-october-9-check-rates-in-delhi-mumbai-bengaluru-chennai-and-more-11791515883756.html",
+          "source": "mint",
+          "date": "2026-10-09T03:30:46.000Z",
+          "relevance": "medium",
+          "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/petrol_1791516033039_V9t2_1791516033167_LuVg_b86fa16d-015b-44d3-9457-1a368b677043_x9tc.JPG",
+          "why": "Retail fuel prices are holding steady even though Brent crude is above $100 per barrel, which may strain oil marketing finances and the fiscal outlook.",
+          "implications": [
+            "Households and transporters may avoid an immediate pump price rise for now.",
+            "Prolonged high crude could still lead to price increases or cuts in fuel taxes later."
+          ],
+          "reports": [
+            {
+              "source": "mint",
+              "headline": "Petrol, diesel prices today, October 9: Check rates in Delhi, Mumbai, Bengaluru, Chennai and more",
+              "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-october-9-check-rates-in-delhi-mumbai-bengaluru-chennai-and-more-11791515883756.html",
+              "date": "2026-10-09T03:30:46.000Z",
+              "summary": "Petrol and diesel prices remained unchanged across major Indian cities on October 9, even as Brent crude traded above $100 per barrel amid Middle East tensions. Check the latest fuel rates in Delhi, Mumbai, Bengaluru, Chennai and other cities.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/petrol_1791516033039_V9t2_1791516033167_LuVg_b86fa16d-015b-44d3-9457-1a368b677043_x9tc.JPG"
+            },
+            {
+              "source": "mint",
+              "headline": "Petrol and diesel prices today, October 10: How much does fuel cost in Delhi, Mumbai, Bengaluru",
+              "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-10-how-much-does-fuel-cost-in-delhi-mumbai-bengaluru-11791594403477.html",
+              "date": "2026-10-10T01:36:27.000Z",
+              "summary": "In Mumbai, the retail price of petrol stood at ₹111.31 per litre, reflecting a slight increase from yesterday's ₹111.21.",
+              "summaryV": 3,
+              "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/ANI-20260523128-0_1779589143364_1779589273427_142be4b3-363a-4a6b-8f4e-10a81dbb6723_1791595704423_5iHa_139377e3-ac52-402d-b092-3f2a40413219_tuEk.jpg"
+            }
+          ],
+          "thread": "t8nzveu"
+        },
         {
           "id": "s1ymsnoo",
           "headline": "U.S. lifts sanctions on sale of Russian diesel in global markets",
@@ -88,32 +123,6 @@
             }
           ],
           "thread": "t1gzifna"
-        },
-        {
-          "id": "s19lzth",
-          "headline": "Petrol, diesel prices today, October 9: Check rates in Delhi, Mumbai, Bengaluru, Chennai and more",
-          "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-october-9-check-rates-in-delhi-mumbai-bengaluru-chennai-and-more-11791515883756.html",
-          "source": "mint",
-          "date": "2026-10-09T03:30:46.000Z",
-          "relevance": "medium",
-          "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/petrol_1791516033039_V9t2_1791516033167_LuVg_b86fa16d-015b-44d3-9457-1a368b677043_x9tc.JPG",
-          "why": "Retail fuel prices are holding steady even though Brent crude is above $100 per barrel, which may strain oil marketing finances and the fiscal outlook.",
-          "implications": [
-            "Households and transporters may avoid an immediate pump price rise for now.",
-            "Prolonged high crude could still lead to price increases or cuts in fuel taxes later."
-          ],
-          "reports": [
-            {
-              "source": "mint",
-              "headline": "Petrol, diesel prices today, October 9: Check rates in Delhi, Mumbai, Bengaluru, Chennai and more",
-              "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-october-9-check-rates-in-delhi-mumbai-bengaluru-chennai-and-more-11791515883756.html",
-              "date": "2026-10-09T03:30:46.000Z",
-              "summary": "Petrol and diesel prices remained unchanged across major Indian cities on October 9, even as Brent crude traded above $100 per barrel amid Middle East tensions. Check the latest fuel rates in Delhi, Mumbai, Bengaluru, Chennai and other cities.",
-              "summaryV": 3,
-              "image": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/petrol_1791516033039_V9t2_1791516033167_LuVg_b86fa16d-015b-44d3-9457-1a368b677043_x9tc.JPG"
-            }
-          ],
-          "thread": "t8nzveu"
         },
         {
           "id": "sq3zh2o",
@@ -4366,6 +4375,33 @@
       "name": "Agriculture & Food",
       "items": [
         {
+          "id": "s1hemy7d",
+          "headline": "Dry spell pushes rice and toor dal price to new highs",
+          "url": "https://www.thehindu.com/news/national/karnataka/dry-spell-pushes-rice-and-toor-dal-price-to-new-highs/article71564398.ece",
+          "source": "thehindu",
+          "date": "2026-10-09T23:04:51.000Z",
+          "relevance": "medium",
+          "image": "https://th-i.thgim.com/public/incoming/9yr3y5/article68921876.ece/alternates/LANDSCAPE_1200/MYSRI_31-10-2015_16-6-9_TOORDAL.JPG",
+          "why": "Record rice and toor dal prices from a dry spell point to pressure on staple food supply and household budgets.",
+          "implications": [
+            "Household grocery bills for rice and pulses may rise further in the coming weeks.",
+            "Hotels and eateries could raise menu prices if staple costs stay high.",
+            "Food inflation could stay elevated if the dry spell hurts crop output."
+          ],
+          "reports": [
+            {
+              "source": "thehindu",
+              "headline": "Dry spell pushes rice and toor dal price to new highs",
+              "url": "https://www.thehindu.com/news/national/karnataka/dry-spell-pushes-rice-and-toor-dal-price-to-new-highs/article71564398.ece",
+              "date": "2026-10-09T23:04:51.000Z",
+              "summary": "Graphics emailedThis has impacted household budgets, while hotels are now weighing their options of increasing their rates",
+              "summaryV": 3,
+              "image": "https://th-i.thgim.com/public/incoming/9yr3y5/article68921876.ece/alternates/LANDSCAPE_1200/MYSRI_31-10-2015_16-6-9_TOORDAL.JPG"
+            }
+          ],
+          "thread": "t25dibr"
+        },
+        {
           "id": "sz2qhnw",
           "headline": "Southwest monsoon withdrawal advances, rainfall to continue in several states",
           "url": "https://www.livemint.com/news/southwest-monsoon-withdrawal-advances-rainfall-to-continue-in-several-states-11791379826460.html",
@@ -5449,10 +5485,10 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 39,
+    "analysed": 26,
     "added": 1,
     "merged": 1,
-    "rejected": 37,
+    "rejected": 24,
     "failedBatches": 0,
     "feeds": {
       "thehindu": {
@@ -5473,12 +5509,12 @@
     },
     "threads": {
       "assigned": 1,
-      "created": 1,
+      "created": 0,
       "failedBatches": 0
     },
     "summaries": {
-      "written": 0,
-      "due": 0
+      "written": 1,
+      "due": 1
     }
   },
   "recentDays": 60

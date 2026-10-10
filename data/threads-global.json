@@ -1,6 +1,6 @@
 {
  "desk": "global",
- "updatedAt": "2026-10-09T23:09:53.179Z",
+ "updatedAt": "2026-10-10T02:23:48.333Z",
  "threads": {
   "t2ogxay": {
    "id": "t2ogxay",
@@ -571,8 +571,8 @@
    "name": "Russia-Ukraine ceasefire proposals",
    "sector": "governance",
    "created": "2026-10-08T11:45:17.000Z",
-   "updated": "2026-10-08T11:45:17.000Z",
-   "latestHeadline": "India to Turkiye, can new proposals to broker Russia-Ukraine truce succeed?",
+   "updated": "2026-10-10T01:40:51.000Z",
+   "latestHeadline": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
    "events": [
     {
      "id": "srpxtbp",
@@ -582,10 +582,22 @@
      "url": "https://www.aljazeera.com/news/2026/10/8/india-to-turkiye-can-new-proposals-to-broker-russia-ukraine-truce-succeed",
      "sector": "governance",
      "month": "2026-10"
+    },
+    {
+     "id": "s1x50pyc",
+     "date": "2026-10-10T01:40:51.000Z",
+     "headline": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
+     "source": "aljazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks",
+     "sector": "energy",
+     "month": "2026-10"
     }
    ],
-   "count": 1,
-   "first": "2026-10-08T11:45:17.000Z"
+   "count": 2,
+   "first": "2026-10-08T11:45:17.000Z",
+   "summary": "On 8 October, Al Jazeera reported that India, Turkiye, Egypt and the US had put forward proposals for ceasefires in a bid to protect global energy and shipping. On 10 October, the Kremlin said drone attacks on Moscow during last month's election had undermined trilateral peace negotiations. Al Jazeera also reported that Putin told Trump peace talks are unlikely, citing Ukraine drone attacks.",
+   "summaryCount": 2,
+   "summaryAt": "2026-10-10T02:23:48.330Z"
   },
   "tmb1jzw": {
    "id": "tmb1jzw",

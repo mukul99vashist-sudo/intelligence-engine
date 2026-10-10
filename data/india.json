@@ -2,12 +2,40 @@
   "schema": 4,
   "region": "India",
   "since": "2026-10-02",
-  "updatedAt": "2026-10-09T23:09:53.180Z",
+  "updatedAt": "2026-10-10T02:23:48.334Z",
   "sectors": [
     {
       "id": "energy",
       "name": "Energy",
       "items": [
+        {
+          "id": "s1x50pyc",
+          "headline": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
+          "url": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks",
+          "source": "aljazeera",
+          "date": "2026-10-10T01:40:51.000Z",
+          "relevance": "medium",
+          "why": "Russia says Ukraine peace talks are unlikely, so the war and related sanctions and energy uncertainty may continue.",
+          "implications": [
+            "Continued Russia-Ukraine fighting could keep uncertainty over sanctions and Russian crude and fuel supply chains that India depends on.",
+            "Prolonged conflict may keep global oil and commodity prices volatile, adding to India's import costs and inflation pressure."
+          ],
+          "reports": [
+            {
+              "source": "aljazeera",
+              "headline": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
+              "url": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks",
+              "date": "2026-10-10T01:40:51.000Z",
+              "summary": "Drone attacks on Moscow during last month's election undermined trilateral peace negotiations, the Kremlin says.",
+              "summaryV": 3,
+              "ogTried": true,
+              "descTried": true,
+              "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac9882d-1791592493.jpg?resize=1920%2C1440"
+            }
+          ],
+          "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac9882d-1791592493.jpg?resize=1920%2C1440",
+          "thread": "tq9ru94"
+        },
         {
           "id": "szbant9",
           "headline": "Trump announces Russian diesel deal amid soaring US fuel prices",
@@ -79,6 +107,16 @@
               "summary": "US President Donald Trump announced on Friday a deal with Russian President Vladimir Putin for Russia to supply some 4.8 million tonnes of diesel to US and global markets, aiming to curb rising fuel prices. To make it possible, the Treasury Department temporarily suspended sanctions on Russian diesel until April 2027.",
               "summaryV": 3,
               "image": "https://en.mercopress.com/data/cache/noticias/111721/100x80/dt1.jpeg"
+            },
+            {
+              "source": "guardian",
+              "headline": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
+              "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine",
+              "date": "2026-10-09T23:39:31.000Z",
+              "summary": "President says deal essential to lower US fuel prices but move set to create fresh crisis with Ukraine and Nato allies",
+              "summaryV": 3,
+              "lede": "US politics – live updates",
+              "image": "https://i.guim.co.uk/img/media/e29aa72f0ab1f4d0fff1cdad48794d44d329f308/1376_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=ed1ec2b9b3572bd4b1a688a7e3c17106"
             }
           ],
           "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac93e42-1791573570.jpg?resize=1920%2C1440",
@@ -1620,7 +1658,7 @@
           "url": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o",
           "source": "bbc",
           "date": "2026-10-09T07:19:24.000Z",
-          "relevance": "medium",
+          "relevance": "high",
           "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16b3/live/d4f32e10-c2fc-11f1-b8c6-6d610e41a5d9.jpg",
           "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/16b3/live/d4f32e10-c2fc-11f1-b8c6-6d610e41a5d9.jpg",
           "why": "Gen Z-led protests in India, with Neha Bora a prominent face, are challenging the Modi government politically.",
@@ -1646,6 +1684,16 @@
               "date": "2026-10-09T12:37:49.000Z",
               "summary": "New Delhi accused of silencing dissent as satirical content and online critiques are removed under new rules.",
               "summaryV": 3
+            },
+            {
+              "source": "bbc",
+              "headline": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+              "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o",
+              "date": "2026-10-09T23:02:07.000Z",
+              "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
+              "summaryV": 3,
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d433/live/d30d8e00-c3d4-11f1-9a39-31b474234113.jpg",
+              "imageLarge": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d433/live/d30d8e00-c3d4-11f1-9a39-31b474234113.jpg"
             }
           ],
           "thread": "t1ya4ss"
@@ -2001,16 +2049,16 @@
   ],
   "source": "BBC News & The Guardian & NPR & Al Jazeera & MercoPress & ABC News & The Hindu & Mint",
   "lastRun": {
-    "analysed": 50,
+    "analysed": 20,
     "added": 1,
-    "merged": 6,
-    "rejected": 43,
+    "merged": 2,
+    "rejected": 17,
     "failedBatches": 0,
     "feeds": {
       "bbc": {
         "feedsOk": 6,
         "feedsFailed": 0,
-        "items": 158
+        "items": 162
       },
       "guardian": {
         "feedsOk": 7,
