@@ -1,6 +1,6 @@
 {
  "desk": "domestic",
- "updatedAt": "2026-10-10T02:24:23.147Z",
+ "updatedAt": "2026-10-10T08:55:00.128Z",
  "threads": {
   "t1weh1f1": {
    "id": "t1weh1f1",
@@ -28,11 +28,11 @@
    "name": "Iran conflict and oil supply",
    "sector": "energy",
    "created": "2026-10-02T05:36:53.000Z",
-   "updated": "2026-10-09T03:30:46.000Z",
-   "latestHeadline": "Petrol, diesel prices today, October 9: Check rates in Delhi, Mumbai, Bengaluru, Chennai and more",
-   "summary": "On 2 October, Mint reported that crude shipments through the Strait of Hormuz were back to pre-war levels, with a seven-day average of 13.5 million barrels per day, though refined-fuel supplies remained low. It also reported that India could face higher LNG costs this winter because Qatar supply disruptions were tightening global gas markets. On 3 October, Nayara Energy raised petrol prices by ₹5 per litre and diesel by ₹3 per litre, while by 5 October other oil marketing companies had kept fuel rates steady. On 6 October, 11 Indian crew were injured when the Panama-flagged MT On Peace was hit in the Strait of Hormuz and India condemned the attack, and Shell's chief executive said Middle East oil flows were at about 80% of pre-conflict volumes, while India was reported to be buying more crude from South American countries to diversify beyond West Asia. By 9 October, petrol and diesel pri",
-   "summaryCount": 8,
-   "summaryAt": "2026-10-09T06:36:13.857Z",
+   "updated": "2026-10-10T05:28:49.000Z",
+   "latestHeadline": "As oil prices rise, RBI opens special window for PSU oil firms to meet their daily dollar need",
+   "summary": "In early October, Mint reported that crude shipments through the Strait of Hormuz had returned to pre-war levels, averaging 13.5 million barrels per day over seven days, though refined-fuel supplies remained low. It also reported that India could face higher LNG costs this winter because of Qatar supply disruptions. On October 3, Nayara Energy raised petrol prices by ₹5 per litre and diesel by ₹3 per litre, while by October 5 other oil marketing companies had kept fuel rates steady. On October 6, 11 Indian crew were injured when the Panama-flagged MT On Peace was hit in the Strait of Hormuz and India condemned the attack, and Shell's chief executive said Middle East oil flows were at about 80% of pre-conflict volumes. Petrol and diesel prices remained unchanged in major Indian cities on October 9 even as Brent crude traded above $100 per barrel, and on October 10 the RBI said it would op",
+   "summaryCount": 9,
+   "summaryAt": "2026-10-10T08:55:00.124Z",
    "events": [
     {
      "id": "s1mfr46p",
@@ -105,9 +105,18 @@
      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-october-9-check-rates-in-delhi-mumbai-bengaluru-chennai-and-more-11791515883756.html",
      "sector": "energy",
      "month": "2026-10"
+    },
+    {
+     "id": "s1h7j7wb",
+     "date": "2026-10-10T05:28:49.000Z",
+     "headline": "As oil prices rise, RBI opens special window for PSU oil firms to meet their daily dollar need",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/business/as-oil-prices-rise-rbi-opens-special-window-for-psu-oil-firms-tomeet-their-daily-dollar-need/article71567121.ece",
+     "sector": "economy",
+     "month": "2026-10"
     }
    ],
-   "count": 8,
+   "count": 9,
    "first": "2026-10-02T05:36:53.000Z"
   },
   "t1ka6u13": {
@@ -1903,8 +1912,8 @@
    "name": "SIR electoral roll revision protests",
    "sector": "governance",
    "created": "2026-10-08T07:41:04.000Z",
-   "updated": "2026-10-09T17:33:39.000Z",
-   "latestHeadline": "CJP protest: Trains cut, Internet down, Delhi turns a fortress",
+   "updated": "2026-10-10T08:03:39.000Z",
+   "latestHeadline": "Delhi protest: CJP’s Abhijeet Dipke, Saurav Das, Ashutosh Ranka, Ratna Singh detained",
    "events": [
     {
      "id": "sgrid93",
@@ -1932,13 +1941,31 @@
      "url": "https://www.thehindu.com/news/national/centre-seeks-states-help-as-cjp-prepares-to-go-ahead-with-protest-major-curbs-in-delhi/article71565420.ece",
      "sector": "governance",
      "month": "2026-10"
+    },
+    {
+     "id": "sypjw9z",
+     "date": "2026-10-10T07:26:52.000Z",
+     "headline": "After controversy, ECI caps number of Form 7 applications by individuals - what happened and what it means",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/after-controversy-eci-caps-number-of-form-7-applications-by-individuals-what-happened-and-what-it-means-11791616453984.html",
+     "sector": "governance",
+     "month": "2026-10"
+    },
+    {
+     "id": "s1ihtm63",
+     "date": "2026-10-10T08:03:39.000Z",
+     "headline": "Delhi protest: CJP’s Abhijeet Dipke, Saurav Das, Ashutosh Ranka, Ratna Singh detained",
+     "source": "thehindu",
+     "url": "https://www.thehindu.com/news/cities/Delhi/cec-gyanesh-kumar-protest-delhi-abhijeet-dipke-saurav-das-cjp-leaders-detained-updates/article71567192.ece",
+     "sector": "governance",
+     "month": "2026-10"
     }
    ],
-   "count": 3,
+   "count": 5,
    "first": "2026-10-08T07:41:04.000Z",
-   "summary": "On October 8, a CJP protest against electoral roll revisions was held at Bengaluru's Freedom Park, with activists and public figures taking part, ahead of a demonstration planned for October 10. On October 9, the ECI capped the number of Form 7 applications an individual elector can file at 10 during claims and objections, and at five per month during continuous updation of rolls. The same day, ahead of the October 10 protest demanding the CEC's resignation, authorities denied permission for a gathering at Jantar Mantar, curbed the internet, shut markets and Metro stations, and cancelled dozens of trains bound for Delhi.",
-   "summaryCount": 3,
-   "summaryAt": "2026-10-09T19:03:52.367Z"
+   "summary": "On October 8, a CJP protest against electoral roll revisions was held at Bengaluru's Freedom Park, with activists and public figures taking part, ahead of a demonstration planned for October 10. On October 9, the Election Commission of India capped the number of Form 7 applications an individual can file at 10 during claims and objections and at five per month during continuous updation of rolls, a move reported to follow concerns over misuse and bulk objections. Also on October 9, ahead of the October 10 protest demanding the CEC's resignation, authorities in Delhi denied permission for a Jantar Mantar gathering, curbed the internet, shut markets and Metro stations, and cancelled dozens of trains bound for the capital. On October 10, Delhi Police detained CJP's Abhijeet Dipke, Saurav Das, Ashutosh Ranka and Ratna Singh, which the CJP described in a statement as a pre-planned interceptio",
+   "summaryCount": 5,
+   "summaryAt": "2026-10-10T08:54:57.059Z"
   },
   "t1i86hgy": {
    "id": "t1i86hgy",
@@ -2710,6 +2737,27 @@
    ],
    "count": 1,
    "first": "2026-10-09T20:07:53.000Z"
+  },
+  "t3xowag": {
+   "id": "t3xowag",
+   "name": "Household finances and consumer sentiment",
+   "sector": "economy",
+   "created": "2026-10-10T04:41:18.000Z",
+   "updated": "2026-10-10T04:41:18.000Z",
+   "latestHeadline": "Festive spending 2026: 53% of Indians say family finances have worsened, CVoter survey finds – ‘Bloom but no boom’",
+   "events": [
+    {
+     "id": "s1w6f44v",
+     "date": "2026-10-10T04:41:18.000Z",
+     "headline": "Festive spending 2026: 53% of Indians say family finances have worsened, CVoter survey finds – ‘Bloom but no boom’",
+     "source": "mint",
+     "url": "https://www.livemint.com/news/india/festive-spending-2026-bloom-but-no-boom-as-53-of-indians-say-family-finances-have-worsened-cvoter-survey-diwali-11791604603604.html",
+     "sector": "economy",
+     "month": "2026-10"
+    }
+   ],
+   "count": 1,
+   "first": "2026-10-10T04:41:18.000Z"
   }
  }
 }
